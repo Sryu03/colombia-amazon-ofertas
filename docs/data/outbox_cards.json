@@ -1,5 +1,1590 @@
 [
   {
+    "asin": "B07YFDF3YK",
+    "title": "Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streaming Stick, Fire TV Stick, Xbox One X S, cable de alimentación de sincronización de datos de",
+    "timestamp": "2026-11-14T16:00:51.981722+00:00",
+    "timestamp_colombia": "2026-11-14T11:00:51.981722-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B07YFDF3YK",
+      "title": "Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streaming Stick, Fire TV Stick, Xbox One X S, cable de alimentación de sincronización de datos de",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 5.8,
+      "list_price_usd": 7.99,
+      "avg_90d_usd": 7.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61CLWFn-4BL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 7.99,
+      "discount_pct": 27.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 27.4,
+      "price_vs_90d_badge": "📉 27.4% más barato que su promedio de 90 días ($7.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 5.8,
+      "price_cop": 19237.0,
+      "price_cop_formatted": "$19.237 COP",
+      "total_landed_cop": 19237.0,
+      "total_landed_cop_formatted": "$19.237 COP",
+      "savings_usd": 2.19,
+      "savings_cop": 7264,
+      "savings_cop_formatted": "$7.264 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B07YFDF3YK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07YFDF3YK",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streamin...</b>\n\n💵 <b>Precio Hoy:</b> <b>$5.80 USD</b> (<i>~$19.237 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$7.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $2.19 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.096359+00:00",
+      "reference_price": 7.99,
+      "is_historic_low": false,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61CLWFn-4BL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streamin...</b>\n\n💵 <b>Precio Hoy:</b> <b>$5.80 USD</b> (<i>~$19.237 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$7.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $2.19 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($5.80 USD)",
+                "url": "https://www.amazon.com/dp/B07YFDF3YK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07YFDF3YK"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 37,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794672056,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJWr4hbj4nJz7CLNX0Td-Wt6gWOyKAAKGDGsbXhPIRwaDFht_ts9AAQADAgADcwADPQQ",
+              "file_unique_id": "AQADhgxrG14TyEd4",
+              "file_size": 1972,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJWr4hbj4nJz7CLNX0Td-Wt6gWOyKAAKGDGsbXhPIRwaDFht_ts9AAQADAgADbQADPQQ",
+              "file_unique_id": "AQADhgxrG14TyEdy",
+              "file_size": 25215,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJWr4hbj4nJz7CLNX0Td-Wt6gWOyKAAKGDGsbXhPIRwaDFht_ts9AAQADAgADeAADPQQ",
+              "file_unique_id": "AQADhgxrG14TyEd9",
+              "file_size": 92384,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJWr4hbj4nJz7CLNX0Td-Wt6gWOyKAAKGDGsbXhPIRwaDFht_ts9AAQADAgADeQADPQQ",
+              "file_unique_id": "AQADhgxrG14TyEd-",
+              "file_size": 136661,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-27% OFF)\n📦 Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streamin...\n\n💵 Precio Hoy: $5.80 USD (~$19.237 COP · TRM $3.317)\n📉 Más barato que antes: Antes $7.99 USD → Hoy -27% OFF · Ahorras $2.19 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 186,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 216,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 244,
+              "length": 9,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 260,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 271,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 293,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 495,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 510,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 704,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 719,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 732,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($5.80 USD)",
+                  "url": "https://www.amazon.com/dp/B07YFDF3YK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07YFDF3YK"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B07YFDF3YK",
+        "title": "Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streaming Stick, Fire TV Stick, Xbox One X S, cable de alimentación de sincronización de datos de",
+        "photo_url": "https://m.media-amazon.com/images/I/61CLWFn-4BL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streamin...</b>\n\n💵 <b>Precio Hoy:</b> <b>$5.80 USD</b> (<i>~$19.237 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$7.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $2.19 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($5.80 USD)",
+                "url": "https://www.amazon.com/dp/B07YFDF3YK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07YFDF3YK"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B07YFDF3YK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07YFDF3YK",
+        "deal_snapshot": {
+          "asin": "B07YFDF3YK",
+          "title": "Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streaming Stick, Fire TV Stick, Xbox One X S, cable de alimentación de sincronización de datos de",
+          "price_usd": 5.8,
+          "reference_price_usd": 7.99,
+          "discount_pct": 27,
+          "price_cop": 19237.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B07YFDF3YK",
+      "title": "Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streaming Stick, Fire TV Stick, Xbox One X S, cable de alimentación de sincronización de datos de",
+      "photo_url": "https://m.media-amazon.com/images/I/61CLWFn-4BL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streamin...</b>\n\n💵 <b>Precio Hoy:</b> <b>$5.80 USD</b> (<i>~$19.237 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$7.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $2.19 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($5.80 USD)",
+              "url": "https://www.amazon.com/dp/B07YFDF3YK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07YFDF3YK"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B07YFDF3YK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07YFDF3YK",
+      "deal_snapshot": {
+        "asin": "B07YFDF3YK",
+        "title": "Superer Cable de carga micro USB para controlador de PS4, Kindle Paperwhite, Amazon Fire Tablet, Roku Streaming Stick, Fire TV Stick, Xbox One X S, cable de alimentación de sincronización de datos de",
+        "price_usd": 5.8,
+        "reference_price_usd": 7.99,
+        "discount_pct": 27,
+        "price_cop": 19237.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0DPKKMPBD",
+    "title": "Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), extensor de salida de 3 lados para el hogar, oficina, viajes, dormitorios, esenciales para la habitación, color blanco",
+    "timestamp": "2026-11-14T16:00:47.520683+00:00",
+    "timestamp_colombia": "2026-11-14T11:00:47.520683-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0DPKKMPBD",
+      "title": "Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), extensor de salida de 3 lados para el hogar, oficina, viajes, dormitorios, esenciales para la habitación, color blanco",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 9.99,
+      "list_price_usd": 13.99,
+      "avg_90d_usd": 13.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/611GtBfvlGL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 13.99,
+      "discount_pct": 28.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 28.6,
+      "price_vs_90d_badge": "📉 28.6% más barato que su promedio de 90 días ($13.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 9.99,
+      "price_cop": 33134.0,
+      "price_cop_formatted": "$33.134 COP",
+      "total_landed_cop": 33134.0,
+      "total_landed_cop_formatted": "$33.134 COP",
+      "savings_usd": 4.0,
+      "savings_cop": 13267,
+      "savings_cop_formatted": "$13.267 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0DPKKMPBD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DPKKMPBD",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.095669+00:00",
+      "reference_price": 13.99,
+      "is_historic_low": false,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/611GtBfvlGL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DPKKMPBD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DPKKMPBD"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 36,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794672051,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJGr4hbNPPiSH421gLhiAtshHlbw7AAKFDGsbXhPIR-pnOHwkO4DcAQADAgADcwADPQQ",
+              "file_unique_id": "AQADhQxrG14TyEd4",
+              "file_size": 1609,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJGr4hbNPPiSH421gLhiAtshHlbw7AAKFDGsbXhPIR-pnOHwkO4DcAQADAgADbQADPQQ",
+              "file_unique_id": "AQADhQxrG14TyEdy",
+              "file_size": 21713,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJGr4hbNPPiSH421gLhiAtshHlbw7AAKFDGsbXhPIR-pnOHwkO4DcAQADAgADeAADPQQ",
+              "file_unique_id": "AQADhQxrG14TyEd9",
+              "file_size": 80106,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADJGr4hbNPPiSH421gLhiAtshHlbw7AAKFDGsbXhPIR-pnOHwkO4DcAQADAgADeQADPQQ",
+              "file_unique_id": "AQADhQxrG14TyEd-",
+              "file_size": 116774,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-29% OFF)\n📦 Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), ...\n\n💵 Precio Hoy: $9.99 USD (~$33.134 COP · TRM $3.317)\n📉 Más barato que antes: Antes $13.99 USD → Hoy -29% OFF · Ahorras $4.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 186,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 216,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 244,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 261,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 272,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 294,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 496,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 511,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 705,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 733,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0DPKKMPBD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DPKKMPBD"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0DPKKMPBD",
+        "title": "Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), extensor de salida de 3 lados para el hogar, oficina, viajes, dormitorios, esenciales para la habitación, color blanco",
+        "photo_url": "https://m.media-amazon.com/images/I/611GtBfvlGL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DPKKMPBD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DPKKMPBD"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0DPKKMPBD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DPKKMPBD",
+        "deal_snapshot": {
+          "asin": "B0DPKKMPBD",
+          "title": "Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), extensor de salida de 3 lados para el hogar, oficina, viajes, dormitorios, esenciales para la habitación, color blanco",
+          "price_usd": 9.99,
+          "reference_price_usd": 13.99,
+          "discount_pct": 29,
+          "price_cop": 33134.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0DPKKMPBD",
+      "title": "Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), extensor de salida de 3 lados para el hogar, oficina, viajes, dormitorios, esenciales para la habitación, color blanco",
+      "photo_url": "https://m.media-amazon.com/images/I/611GtBfvlGL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+              "url": "https://www.amazon.com/dp/B0DPKKMPBD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DPKKMPBD"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0DPKKMPBD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DPKKMPBD",
+      "deal_snapshot": {
+        "asin": "B0DPKKMPBD",
+        "title": "Regleta de alimentación de enchufe plano con cable de extensión de 10 pies, 8 tomas, 4 puertos USB (1 USB C), extensor de salida de 3 lados para el hogar, oficina, viajes, dormitorios, esenciales para la habitación, color blanco",
+        "price_usd": 9.99,
+        "reference_price_usd": 13.99,
+        "discount_pct": 29,
+        "price_cop": 33134.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B01JPOLKDW",
+    "title": "Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro",
+    "timestamp": "2026-11-14T16:00:43.298228+00:00",
+    "timestamp_colombia": "2026-11-14T11:00:43.298228-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B01JPOLKDW",
+      "title": "Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 16.14,
+      "list_price_usd": 22.99,
+      "avg_90d_usd": 22.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 22.99,
+      "discount_pct": 29.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 29.8,
+      "price_vs_90d_badge": "📉 29.8% más barato que su promedio de 90 días ($22.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 16.14,
+      "price_cop": 53532.0,
+      "price_cop_formatted": "$53.532 COP",
+      "total_landed_cop": 53532.0,
+      "total_landed_cop_formatted": "$53.532 COP",
+      "savings_usd": 6.85,
+      "savings_cop": 22719,
+      "savings_cop_formatted": "$22.719 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B01JPOLKDW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01JPOLKDW",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$53.532 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $6.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.094956+00:00",
+      "reference_price": 22.99,
+      "is_historic_low": false,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$53.532 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $6.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+                "url": "https://www.amazon.com/dp/B01JPOLKDW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01JPOLKDW"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 35,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794672047,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADI2r4ha8fT3jWkQkCiTlOn8bwk5QQAAKEDGsbXhPIR0LFicYi5lGQAQADAgADcwADPQQ",
+              "file_unique_id": "AQADhAxrG14TyEd4",
+              "file_size": 1705,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADI2r4ha8fT3jWkQkCiTlOn8bwk5QQAAKEDGsbXhPIR0LFicYi5lGQAQADAgADbQADPQQ",
+              "file_unique_id": "AQADhAxrG14TyEdy",
+              "file_size": 20871,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADI2r4ha8fT3jWkQkCiTlOn8bwk5QQAAKEDGsbXhPIR0LFicYi5lGQAQADAgADeAADPQQ",
+              "file_unique_id": "AQADhAxrG14TyEd9",
+              "file_size": 77416,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADI2r4ha8fT3jWkQkCiTlOn8bwk5QQAAKEDGsbXhPIR0LFicYi5lGQAQADAgADeQADPQQ",
+              "file_unique_id": "AQADhAxrG14TyEd-",
+              "file_size": 112835,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro\n\n💵 Precio Hoy: $16.14 USD (~$53.532 COP · TRM $3.317)\n📉 Más barato que antes: Antes $22.99 USD → Hoy -30% OFF · Ahorras $6.85 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 71,
+              "type": "bold"
+            },
+            {
+              "offset": 121,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 133,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 145,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 175,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 203,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 220,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 231,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 253,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 455,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 526,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 735,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 748,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+                  "url": "https://www.amazon.com/dp/B01JPOLKDW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01JPOLKDW"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B01JPOLKDW",
+        "title": "Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro",
+        "photo_url": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$53.532 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $6.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+                "url": "https://www.amazon.com/dp/B01JPOLKDW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01JPOLKDW"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B01JPOLKDW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01JPOLKDW",
+        "deal_snapshot": {
+          "asin": "B01JPOLKDW",
+          "title": "Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro",
+          "price_usd": 16.14,
+          "reference_price_usd": 22.99,
+          "discount_pct": 30,
+          "price_cop": 53532.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B01JPOLKDW",
+      "title": "Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro",
+      "photo_url": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$53.532 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $6.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+              "url": "https://www.amazon.com/dp/B01JPOLKDW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01JPOLKDW"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B01JPOLKDW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01JPOLKDW",
+      "deal_snapshot": {
+        "asin": "B01JPOLKDW",
+        "title": "Logitech M330 Silent Plus, mouse inalámbrico grande, color negro, Negro",
+        "price_usd": 16.14,
+        "reference_price_usd": 22.99,
+        "discount_pct": 30,
+        "price_cop": 53532.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B004N627KS",
+    "title": "Teclado inalámbrico K270, receptor unificador USB, color negro, Negro",
+    "timestamp": "2026-11-14T16:00:38.723646+00:00",
+    "timestamp_colombia": "2026-11-14T11:00:38.723646-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B004N627KS",
+      "title": "Teclado inalámbrico K270, receptor unificador USB, color negro, Negro",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 19.99,
+      "list_price_usd": 29.99,
+      "avg_90d_usd": 29.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61FxW-B6tgL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 29.99,
+      "discount_pct": 33.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.3,
+      "price_vs_90d_badge": "📉 33.3% más barato que su promedio de 90 días ($29.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 19.99,
+      "price_cop": 66301.0,
+      "price_cop_formatted": "$66.301 COP",
+      "total_landed_cop": 66301.0,
+      "total_landed_cop_formatted": "$66.301 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 33167,
+      "savings_cop_formatted": "$33.167 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B004N627KS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B004N627KS",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Teclado inalámbrico K270, receptor unificador USB, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.094209+00:00",
+      "reference_price": 29.99,
+      "is_historic_low": false,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61FxW-B6tgL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Teclado inalámbrico K270, receptor unificador USB, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B004N627KS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B004N627KS"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 34,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794672043,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADImr4hasskmART1uwgBeiwuwCOnDQAAKDDGsbXhPIR7VlEpc0Ov_DAQADAgADcwADPQQ",
+              "file_unique_id": "AQADgwxrG14TyEd4",
+              "file_size": 1936,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADImr4hasskmART1uwgBeiwuwCOnDQAAKDDGsbXhPIR7VlEpc0Ov_DAQADAgADbQADPQQ",
+              "file_unique_id": "AQADgwxrG14TyEdy",
+              "file_size": 27922,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADImr4hasskmART1uwgBeiwuwCOnDQAAKDDGsbXhPIR7VlEpc0Ov_DAQADAgADeAADPQQ",
+              "file_unique_id": "AQADgwxrG14TyEd9",
+              "file_size": 106475,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADImr4hasskmART1uwgBeiwuwCOnDQAAKDDGsbXhPIR7VlEpc0Ov_DAQADAgADeQADPQQ",
+              "file_unique_id": "AQADgwxrG14TyEd-",
+              "file_size": 161286,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-33% OFF)\n📦 Teclado inalámbrico K270, receptor unificador USB, color negro, Negro\n\n💵 Precio Hoy: $19.99 USD (~$66.301 COP · TRM $3.317)\n📉 Más barato que antes: Antes $29.99 USD → Hoy -33% OFF · Ahorras $10.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 69,
+              "type": "bold"
+            },
+            {
+              "offset": 119,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 173,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 201,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 218,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 229,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 454,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 525,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 719,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 734,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 747,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                  "url": "https://www.amazon.com/dp/B004N627KS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B004N627KS"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B004N627KS",
+        "title": "Teclado inalámbrico K270, receptor unificador USB, color negro, Negro",
+        "photo_url": "https://m.media-amazon.com/images/I/61FxW-B6tgL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Teclado inalámbrico K270, receptor unificador USB, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B004N627KS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B004N627KS"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B004N627KS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B004N627KS",
+        "deal_snapshot": {
+          "asin": "B004N627KS",
+          "title": "Teclado inalámbrico K270, receptor unificador USB, color negro, Negro",
+          "price_usd": 19.99,
+          "reference_price_usd": 29.99,
+          "discount_pct": 33,
+          "price_cop": 66301.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B004N627KS",
+      "title": "Teclado inalámbrico K270, receptor unificador USB, color negro, Negro",
+      "photo_url": "https://m.media-amazon.com/images/I/61FxW-B6tgL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Teclado inalámbrico K270, receptor unificador USB, color negro, Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+              "url": "https://www.amazon.com/dp/B004N627KS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B004N627KS"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B004N627KS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B004N627KS",
+      "deal_snapshot": {
+        "asin": "B004N627KS",
+        "title": "Teclado inalámbrico K270, receptor unificador USB, color negro, Negro",
+        "price_usd": 19.99,
+        "reference_price_usd": 29.99,
+        "discount_pct": 33,
+        "price_cop": 66301.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B07QGHK6Q8",
+    "title": "Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro",
+    "timestamp": "2026-11-14T16:00:36.966733+00:00",
+    "timestamp_colombia": "2026-11-14T11:00:36.966733-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B07QGHK6Q8",
+      "title": "Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 39.99,
+      "list_price_usd": 59.99,
+      "avg_90d_usd": 59.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71y+Sl+qWwL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 59.99,
+      "discount_pct": 33.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.3,
+      "price_vs_90d_badge": "📉 33.3% más barato que su promedio de 90 días ($59.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 39.99,
+      "price_cop": 132635.0,
+      "price_cop_formatted": "$132.635 COP",
+      "total_landed_cop": 132635.0,
+      "total_landed_cop_formatted": "$132.635 COP",
+      "savings_usd": 20.0,
+      "savings_cop": 66334,
+      "savings_cop_formatted": "$66.334 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B07QGHK6Q8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07QGHK6Q8",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.093512+00:00",
+      "reference_price": 59.99,
+      "is_historic_low": false,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71y+Sl+qWwL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B07QGHK6Q8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07QGHK6Q8"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 33,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794672038,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIWr4haYru0D-loxsy4F-kR6DPSodAAKCDGsbXhPIRwJAO54WdWqEAQADAgADcwADPQQ",
+              "file_unique_id": "AQADggxrG14TyEd4",
+              "file_size": 1821,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIWr4haYru0D-loxsy4F-kR6DPSodAAKCDGsbXhPIRwJAO54WdWqEAQADAgADbQADPQQ",
+              "file_unique_id": "AQADggxrG14TyEdy",
+              "file_size": 24472,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIWr4haYru0D-loxsy4F-kR6DPSodAAKCDGsbXhPIRwJAO54WdWqEAQADAgADeAADPQQ",
+              "file_unique_id": "AQADggxrG14TyEd9",
+              "file_size": 94492,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIWr4haYru0D-loxsy4F-kR6DPSodAAKCDGsbXhPIRwJAO54WdWqEAQADAgADeQADPQQ",
+              "file_unique_id": "AQADggxrG14TyEd-",
+              "file_size": 139980,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-33% OFF)\n📦 Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro\n\n💵 Precio Hoy: $39.99 USD (~$132.635 COP · TRM $3.317)\n📉 Más barato que antes: Antes $59.99 USD → Hoy -33% OFF · Ahorras $20.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 68,
+              "type": "bold"
+            },
+            {
+              "offset": 118,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 130,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 142,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 173,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 201,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 218,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 229,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 454,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 525,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 719,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 734,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 747,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                  "url": "https://www.amazon.com/dp/B07QGHK6Q8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07QGHK6Q8"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B07QGHK6Q8",
+        "title": "Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro",
+        "photo_url": "https://m.media-amazon.com/images/I/71y+Sl+qWwL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B07QGHK6Q8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07QGHK6Q8"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B07QGHK6Q8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07QGHK6Q8",
+        "deal_snapshot": {
+          "asin": "B07QGHK6Q8",
+          "title": "Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro",
+          "price_usd": 39.99,
+          "reference_price_usd": 59.99,
+          "discount_pct": 33,
+          "price_cop": 132635.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B07QGHK6Q8",
+      "title": "Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro",
+      "photo_url": "https://m.media-amazon.com/images/I/71y+Sl+qWwL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+              "url": "https://www.amazon.com/dp/B07QGHK6Q8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07QGHK6Q8"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B07QGHK6Q8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B07QGHK6Q8",
+      "deal_snapshot": {
+        "asin": "B07QGHK6Q8",
+        "title": "Logitech G213 Prodigy Teclado para juegos, teclado con cable - Negro",
+        "price_usd": 39.99,
+        "reference_price_usd": 59.99,
+        "discount_pct": 33,
+        "price_cop": 132635.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0FPFF7JN8",
     "title": "SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobretensiones de enchufe plano, cable largo de 10 pies, 6 salidas y 3 puertos USB, estación de",
     "timestamp": "2026-11-14T15:50:33.038491+00:00",
