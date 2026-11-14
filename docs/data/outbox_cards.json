@@ -1,5 +1,1590 @@
 [
   {
+    "asin": "B0F151GFYR",
+    "title": "Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)",
+    "timestamp": "2026-11-14T07:27:33.609441+00:00",
+    "timestamp_colombia": "2026-11-14T02:27:33.609441-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0F151GFYR",
+      "title": "Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 149.99,
+      "list_price_usd": 249.99,
+      "avg_90d_usd": 249.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 249.99,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($249.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 149.99,
+      "price_cop": 497472.0,
+      "price_cop_formatted": "$497.472 COP",
+      "total_landed_cop": 497472.0,
+      "total_landed_cop_formatted": "$497.472 COP",
+      "savings_usd": 100.0,
+      "savings_cop": 331670,
+      "savings_cop_formatted": "$331.670 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0F151GFYR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F151GFYR",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$497.472 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.089154+00:00",
+      "reference_price": 249.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51cJpjaOeEL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$497.472 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F151GFYR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F151GFYR"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 27,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794641257,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADG2r4DWn54p12W9qAIRvZwnMZz_yrAALdDWsbXhPAR9e9rspJInLsAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD3Q1rG14TwEd4",
+              "file_size": 1961,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADG2r4DWn54p12W9qAIRvZwnMZz_yrAALdDWsbXhPAR9e9rspJInLsAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD3Q1rG14TwEdy",
+              "file_size": 25435,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADG2r4DWn54p12W9qAIRvZwnMZz_yrAALdDWsbXhPAR9e9rspJInLsAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD3Q1rG14TwEd9",
+              "file_size": 91878,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADG2r4DWn54p12W9qAIRvZwnMZz_yrAALdDWsbXhPAR9e9rspJInLsAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD3Q1rG14TwEd-",
+              "file_size": 135972,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)\n\n💵 Precio Hoy: $149.99 USD (~$497.472 COP · TRM $3.317)\n📉 Más barato que antes: Antes $249.99 USD → Hoy -40% OFF · Ahorras $100.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 141,
+              "type": "bold"
+            },
+            {
+              "offset": 197,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 222,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 253,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 281,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 299,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 310,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 334,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 536,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 607,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 801,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 816,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 829,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0F151GFYR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F151GFYR"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F151GFYR",
+        "title": "Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)",
+        "photo_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$497.472 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F151GFYR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F151GFYR"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F151GFYR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F151GFYR",
+        "deal_snapshot": {
+          "asin": "B0F151GFYR",
+          "title": "Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)",
+          "price_usd": 149.99,
+          "reference_price_usd": 249.99,
+          "discount_pct": 40,
+          "price_cop": 497472.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F151GFYR",
+      "title": "Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)",
+      "photo_url": "https://m.media-amazon.com/images/I/51cJpjaOeEL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$497.472 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+              "url": "https://www.amazon.com/dp/B0F151GFYR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F151GFYR"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F151GFYR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F151GFYR",
+      "deal_snapshot": {
+        "asin": "B0F151GFYR",
+        "title": "Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)",
+        "price_usd": 149.99,
+        "reference_price_usd": 249.99,
+        "discount_pct": 40,
+        "price_cop": 497472.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HPL7XTW4",
+    "title": "Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5",
+    "timestamp": "2026-11-14T07:27:29.257075+00:00",
+    "timestamp_colombia": "2026-11-14T02:27:29.257075-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HPL7XTW4",
+      "title": "Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 44.99,
+      "list_price_usd": 79.99,
+      "avg_90d_usd": 79.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61Zp8QkOYIL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 79.99,
+      "discount_pct": 43.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 43.8,
+      "price_vs_90d_badge": "📉 43.8% más barato que su promedio de 90 días ($79.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 44.99,
+      "price_cop": 149218.0,
+      "price_cop_formatted": "$149.218 COP",
+      "total_landed_cop": 149218.0,
+      "total_landed_cop_formatted": "$149.218 COP",
+      "savings_usd": 35.0,
+      "savings_cop": 116084,
+      "savings_cop_formatted": "$116.084 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HPL7XTW4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HPL7XTW4",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-44% OFF)</b>\n📦 <b>Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5</b>\n\n💵 <b>Precio Hoy:</b> <b>$44.99 USD</b> (<i>~$149.218 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-44% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.088415+00:00",
+      "reference_price": 79.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61Zp8QkOYIL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-44% OFF)</b>\n📦 <b>Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5</b>\n\n💵 <b>Precio Hoy:</b> <b>$44.99 USD</b> (<i>~$149.218 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-44% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($44.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HPL7XTW4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HPL7XTW4"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 26,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794641253,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGmr4DWVMLFqBcw3CVz8sR_5cmLlXAALcDWsbXhPARy_z0RzBNBZMAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD3A1rG14TwEd4",
+              "file_size": 1919,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGmr4DWVMLFqBcw3CVz8sR_5cmLlXAALcDWsbXhPARy_z0RzBNBZMAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD3A1rG14TwEdy",
+              "file_size": 23725,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGmr4DWVMLFqBcw3CVz8sR_5cmLlXAALcDWsbXhPARy_z0RzBNBZMAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD3A1rG14TwEd9",
+              "file_size": 87211,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGmr4DWVMLFqBcw3CVz8sR_5cmLlXAALcDWsbXhPARy_z0RzBNBZMAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD3A1rG14TwEd-",
+              "file_size": 129484,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-44% OFF)\n📦 Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5\n\n💵 Precio Hoy: $44.99 USD (~$149.218 COP · TRM $3.317)\n📉 Más barato que antes: Antes $79.99 USD → Hoy -44% OFF · Ahorras $35.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 152,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 183,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 211,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 228,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 262,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 464,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 535,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 729,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 744,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 757,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($44.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HPL7XTW4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HPL7XTW4"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HPL7XTW4",
+        "title": "Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5",
+        "photo_url": "https://m.media-amazon.com/images/I/61Zp8QkOYIL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-44% OFF)</b>\n📦 <b>Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5</b>\n\n💵 <b>Precio Hoy:</b> <b>$44.99 USD</b> (<i>~$149.218 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-44% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($44.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HPL7XTW4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HPL7XTW4"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HPL7XTW4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HPL7XTW4",
+        "deal_snapshot": {
+          "asin": "B0HPL7XTW4",
+          "title": "Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5",
+          "price_usd": 44.99,
+          "reference_price_usd": 79.99,
+          "discount_pct": 44,
+          "price_cop": 149218.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HPL7XTW4",
+      "title": "Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5",
+      "photo_url": "https://m.media-amazon.com/images/I/61Zp8QkOYIL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-44% OFF)</b>\n📦 <b>Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5</b>\n\n💵 <b>Precio Hoy:</b> <b>$44.99 USD</b> (<i>~$149.218 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-44% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($44.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HPL7XTW4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HPL7XTW4"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HPL7XTW4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HPL7XTW4",
+      "deal_snapshot": {
+        "asin": "B0HPL7XTW4",
+        "title": "Auriculares inalámbricos para juegos para Xbox Series X|S, Xbox One, PS5",
+        "price_usd": 44.99,
+        "reference_price_usd": 79.99,
+        "discount_pct": 44,
+        "price_cop": 149218.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HNRSRX9V",
+    "title": "AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch",
+    "timestamp": "2026-11-14T07:27:24.905277+00:00",
+    "timestamp_colombia": "2026-11-14T02:27:24.905277-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HNRSRX9V",
+      "title": "AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 39.99,
+      "list_price_usd": 79.99,
+      "avg_90d_usd": 79.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71jCe3Tp9LL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 79.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($79.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 39.99,
+      "price_cop": 132635.0,
+      "price_cop_formatted": "$132.635 COP",
+      "total_landed_cop": 132635.0,
+      "total_landed_cop_formatted": "$132.635 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 132668,
+      "savings_cop_formatted": "$132.668 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HNRSRX9V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HNRSRX9V",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.087689+00:00",
+      "reference_price": 79.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71jCe3Tp9LL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HNRSRX9V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HNRSRX9V"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 25,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794641249,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGWr4DWFHSOfhodBtAAFOc_1LivAk8gAC2w1rG14TwEfZpasGXyf-0AEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD2w1rG14TwEd4",
+              "file_size": 1939,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGWr4DWFHSOfhodBtAAFOc_1LivAk8gAC2w1rG14TwEfZpasGXyf-0AEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD2w1rG14TwEdy",
+              "file_size": 24576,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGWr4DWFHSOfhodBtAAFOc_1LivAk8gAC2w1rG14TwEfZpasGXyf-0AEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD2w1rG14TwEd9",
+              "file_size": 91376,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGWr4DWFHSOfhodBtAAFOc_1LivAk8gAC2w1rG14TwEfZpasGXyf-0AEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD2w1rG14TwEd-",
+              "file_size": 135917,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch\n\n💵 Precio Hoy: $39.99 USD (~$132.635 COP · TRM $3.317)\n📉 Más barato que antes: Antes $79.99 USD → Hoy -50% OFF · Ahorras $40.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 71,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 182,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 210,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 227,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 463,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 534,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 743,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 756,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HNRSRX9V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HNRSRX9V"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HNRSRX9V",
+        "title": "AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch",
+        "photo_url": "https://m.media-amazon.com/images/I/71jCe3Tp9LL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HNRSRX9V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HNRSRX9V"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HNRSRX9V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HNRSRX9V",
+        "deal_snapshot": {
+          "asin": "B0HNRSRX9V",
+          "title": "AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch",
+          "price_usd": 39.99,
+          "reference_price_usd": 79.99,
+          "discount_pct": 50,
+          "price_cop": 132635.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HNRSRX9V",
+      "title": "AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch",
+      "photo_url": "https://m.media-amazon.com/images/I/71jCe3Tp9LL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HNRSRX9V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HNRSRX9V"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HNRSRX9V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HNRSRX9V",
+      "deal_snapshot": {
+        "asin": "B0HNRSRX9V",
+        "title": "AOC Auriculares inalámbricos para juegos para PS5, PS4, Nintendo Switch",
+        "price_usd": 39.99,
+        "reference_price_usd": 79.99,
+        "discount_pct": 50,
+        "price_cop": 132635.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FJJ66YZ1",
+    "title": "Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)",
+    "timestamp": "2026-11-14T07:27:20.537704+00:00",
+    "timestamp_colombia": "2026-11-14T02:27:20.537704-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FJJ66YZ1",
+      "title": "Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 39.99,
+      "list_price_usd": 79.99,
+      "avg_90d_usd": 79.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61n7iGuzf9L._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 79.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($79.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 39.99,
+      "price_cop": 132635.0,
+      "price_cop_formatted": "$132.635 COP",
+      "total_landed_cop": 132635.0,
+      "total_landed_cop_formatted": "$132.635 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 132668,
+      "savings_cop_formatted": "$132.668 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FJJ66YZ1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FJJ66YZ1",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.086933+00:00",
+      "reference_price": 79.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61n7iGuzf9L._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FJJ66YZ1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FJJ66YZ1"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 24,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794641244,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGGr4DVyYLWOYAu3gPwQGLZqnR9zuAALaDWsbXhPAR3qlKiZdrztzAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD2g1rG14TwEd4",
+              "file_size": 1849,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGGr4DVyYLWOYAu3gPwQGLZqnR9zuAALaDWsbXhPAR3qlKiZdrztzAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD2g1rG14TwEdy",
+              "file_size": 25382,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGGr4DVyYLWOYAu3gPwQGLZqnR9zuAALaDWsbXhPAR3qlKiZdrztzAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD2g1rG14TwEd9",
+              "file_size": 94598,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADGGr4DVyYLWOYAu3gPwQGLZqnR9zuAALaDWsbXhPAR3qlKiZdrztzAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD2g1rG14TwEd-",
+              "file_size": 141497,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)\n\n💵 Precio Hoy: $39.99 USD (~$132.635 COP · TRM $3.317)\n📉 Más barato que antes: Antes $79.99 USD → Hoy -50% OFF · Ahorras $40.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 153,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 221,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 233,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 264,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 292,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 309,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 320,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 343,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 545,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 616,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 810,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 825,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 838,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FJJ66YZ1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FJJ66YZ1"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FJJ66YZ1",
+        "title": "Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)",
+        "photo_url": "https://m.media-amazon.com/images/I/61n7iGuzf9L._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FJJ66YZ1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FJJ66YZ1"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FJJ66YZ1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FJJ66YZ1",
+        "deal_snapshot": {
+          "asin": "B0FJJ66YZ1",
+          "title": "Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)",
+          "price_usd": 39.99,
+          "reference_price_usd": 79.99,
+          "discount_pct": 50,
+          "price_cop": 132635.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FJJ66YZ1",
+      "title": "Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)",
+      "photo_url": "https://m.media-amazon.com/images/I/61n7iGuzf9L._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FJJ66YZ1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FJJ66YZ1"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FJJ66YZ1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FJJ66YZ1",
+      "deal_snapshot": {
+        "asin": "B0FJJ66YZ1",
+        "title": "Videotimbre cableado 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x y comunicación bidireccional (gris moteado)",
+        "price_usd": 39.99,
+        "reference_price_usd": 79.99,
+        "discount_pct": 50,
+        "price_cop": 132635.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FWFJ5Q2Z",
+    "title": "Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de gran angular, zoom 6x mejorado, reflectores ultrabrillantes (blanco)",
+    "timestamp": "2026-11-14T07:27:18.906200+00:00",
+    "timestamp_colombia": "2026-11-14T02:27:18.906200-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FWFJ5Q2Z",
+      "title": "Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de gran angular, zoom 6x mejorado, reflectores ultrabrillantes (blanco)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 99.99,
+      "list_price_usd": 199.99,
+      "avg_90d_usd": 199.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 199.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($199.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 99.99,
+      "price_cop": 331637.0,
+      "price_cop_formatted": "$331.637 COP",
+      "total_landed_cop": 331637.0,
+      "total_landed_cop_formatted": "$331.637 COP",
+      "savings_usd": 100.0,
+      "savings_cop": 331670,
+      "savings_cop_formatted": "$331.670 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FWFJ5Q2Z",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de g...</b>\n\n💵 <b>Precio Hoy:</b> <b>$99.99 USD</b> (<i>~$331.637 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.085497+00:00",
+      "reference_price": 199.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51PUKKDMcZL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de g...</b>\n\n💵 <b>Precio Hoy:</b> <b>$99.99 USD</b> (<i>~$331.637 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($99.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FWFJ5Q2Z"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 23,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794641240,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADF2r4DVi-hQ4u5weimUYAAeciyGn5mwAC2Q1rG14TwEdLeE49ovhtpwEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD2Q1rG14TwEd4",
+              "file_size": 1723,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADF2r4DVi-hQ4u5weimUYAAeciyGn5mwAC2Q1rG14TwEdLeE49ovhtpwEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD2Q1rG14TwEdy",
+              "file_size": 23203,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADF2r4DVi-hQ4u5weimUYAAeciyGn5mwAC2Q1rG14TwEdLeE49ovhtpwEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD2Q1rG14TwEd9",
+              "file_size": 84900,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADF2r4DVi-hQ4u5weimUYAAeciyGn5mwAC2Q1rG14TwEdLeE49ovhtpwEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD2Q1rG14TwEd-",
+              "file_size": 124242,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de g...\n\n💵 Precio Hoy: $99.99 USD (~$331.637 COP · TRM $3.317)\n📉 Más barato que antes: Antes $199.99 USD → Hoy -50% OFF · Ahorras $100.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 224,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 270,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 281,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 305,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 507,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 522,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 716,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 731,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 744,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($99.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FWFJ5Q2Z"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FWFJ5Q2Z",
+        "title": "Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de gran angular, zoom 6x mejorado, reflectores ultrabrillantes (blanco)",
+        "photo_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de g...</b>\n\n💵 <b>Precio Hoy:</b> <b>$99.99 USD</b> (<i>~$331.637 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($99.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FWFJ5Q2Z"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FWFJ5Q2Z",
+        "deal_snapshot": {
+          "asin": "B0FWFJ5Q2Z",
+          "title": "Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de gran angular, zoom 6x mejorado, reflectores ultrabrillantes (blanco)",
+          "price_usd": 99.99,
+          "reference_price_usd": 199.99,
+          "discount_pct": 50,
+          "price_cop": 331637.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FWFJ5Q2Z",
+      "title": "Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de gran angular, zoom 6x mejorado, reflectores ultrabrillantes (blanco)",
+      "photo_url": "https://m.media-amazon.com/images/I/51PUKKDMcZL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de g...</b>\n\n💵 <b>Precio Hoy:</b> <b>$99.99 USD</b> (<i>~$331.637 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($99.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FWFJ5Q2Z"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FWFJ5Q2Z",
+      "deal_snapshot": {
+        "asin": "B0FWFJ5Q2Z",
+        "title": "Cámara con reflector 2K Ring cableada (último modelo): seguridad para tu casa o negocio, video Retinal 4K de gran angular, zoom 6x mejorado, reflectores ultrabrillantes (blanco)",
+        "price_usd": 99.99,
+        "reference_price_usd": 199.99,
+        "discount_pct": 50,
+        "price_cop": 331637.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0DXM9Y8J1",
     "title": "Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)",
     "timestamp": "2026-11-14T06:40:28.553391+00:00",
