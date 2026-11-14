@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B08J8GZXKZ",
+    "title": "KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón",
+    "timestamp": "2026-11-14T21:33:16.199635+00:00",
+    "timestamp_colombia": "2026-11-14T16:33:16.199635-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B08J8GZXKZ",
+      "title": "KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 11.49,
+      "list_price_usd": 34.99,
+      "avg_90d_usd": 34.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61inGJMJlzL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 34.99,
+      "discount_pct": 67.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 67.2,
+      "price_vs_90d_badge": "📉 67.2% más barato que su promedio de 90 días ($34.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 23.44,
+      "price_cop": 38109,
+      "price_cop_formatted": "$38.109 COP",
+      "total_landed_cop": 77743,
+      "total_landed_cop_formatted": "$77.743 COP",
+      "savings_usd": 23.5,
+      "savings_cop": 77942,
+      "savings_cop_formatted": "$77.942 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $23.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B08J8GZXKZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08J8GZXKZ",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T21:30:27.724704+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-67% OFF)</b>\n📦 <b>KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.49 USD</b> (<i>~$38.109 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-67% OFF</b> · <b>Ahorras $23.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61inGJMJlzL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-67% OFF)</b>\n📦 <b>KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.49 USD</b> (<i>~$38.109 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-67% OFF</b> · <b>Ahorras $23.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($11.49 USD)",
+                "url": "https://www.amazon.com/dp/B08J8GZXKZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08J8GZXKZ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 75,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794691997,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADS2r4050OX6mg2qC8hTi-g7rmpEc7AAIHDWsbXhPIR5VzoQ9zl2ZXAQADAgADcwADPQQ",
+              "file_unique_id": "AQADBw1rG14TyEd4",
+              "file_size": 1647,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADS2r4050OX6mg2qC8hTi-g7rmpEc7AAIHDWsbXhPIR5VzoQ9zl2ZXAQADAgADbQADPQQ",
+              "file_unique_id": "AQADBw1rG14TyEdy",
+              "file_size": 22529,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADS2r4050OX6mg2qC8hTi-g7rmpEc7AAIHDWsbXhPIR5VzoQ9zl2ZXAQADAgADeAADPQQ",
+              "file_unique_id": "AQADBw1rG14TyEd9",
+              "file_size": 88077,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADS2r4050OX6mg2qC8hTi-g7rmpEc7AAIHDWsbXhPIR5VzoQ9zl2ZXAQADAgADeQADPQQ",
+              "file_unique_id": "AQADBw1rG14TyEd-",
+              "file_size": 131293,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-67% OFF)\n📦 KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón\n\n💵 Precio Hoy: $11.49 USD (~$38.109 COP · TRM $3.317)\n📉 Más barato que antes: Antes $34.99 USD → Hoy -67% OFF · Ahorras $23.50 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $23.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 103,
+              "type": "bold"
+            },
+            {
+              "offset": 159,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 171,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 183,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 213,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 241,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 258,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 269,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 292,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 492,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 578,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 726,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 741,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 754,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($11.49 USD)",
+                  "url": "https://www.amazon.com/dp/B08J8GZXKZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08J8GZXKZ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B08J8GZXKZ",
+        "title": "KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón",
+        "photo_url": "https://m.media-amazon.com/images/I/61inGJMJlzL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-67% OFF)</b>\n📦 <b>KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.49 USD</b> (<i>~$38.109 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-67% OFF</b> · <b>Ahorras $23.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($11.49 USD)",
+                "url": "https://www.amazon.com/dp/B08J8GZXKZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08J8GZXKZ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B08J8GZXKZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08J8GZXKZ",
+        "deal_snapshot": {
+          "asin": "B08J8GZXKZ",
+          "title": "KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón",
+          "price_usd": 11.49,
+          "reference_price_usd": 34.99,
+          "discount_pct": 67,
+          "price_cop": 38109,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B08J8GZXKZ",
+      "title": "KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón",
+      "photo_url": "https://m.media-amazon.com/images/I/61inGJMJlzL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-67% OFF)</b>\n📦 <b>KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.49 USD</b> (<i>~$38.109 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-67% OFF</b> · <b>Ahorras $23.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($11.49 USD)",
+              "url": "https://www.amazon.com/dp/B08J8GZXKZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08J8GZXKZ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B08J8GZXKZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08J8GZXKZ",
+      "deal_snapshot": {
+        "asin": "B08J8GZXKZ",
+        "title": "KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón",
+        "price_usd": 11.49,
+        "reference_price_usd": 34.99,
+        "discount_pct": 67,
+        "price_cop": 38109,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B097BL622M",
     "title": "Paquete de 3 cargadores de iPhone USB C a Lightning de 6 pies [certificado MFi de Apple]",
     "timestamp": "2026-11-14T21:23:06.112247+00:00",
