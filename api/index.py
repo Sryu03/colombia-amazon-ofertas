@@ -229,6 +229,18 @@ def run_zero_token_pipeline(
         max_live_asins=MAX_LIVE_ASINS,
     )
     scraper_telemetry = dict(getattr(scraper, "last_telemetry", {}) or {})
+    if LIVE_SCRAPE and watchlist_items:
+        attempted_set = {
+            str(a).upper() for a in (scraper_telemetry.get("attempted_asins") or []) if a
+        }
+        attempted_set.update(
+            str(item.get("asin", "")).upper() for item in catalog if item.get("asin")
+        )
+        if attempted_set:
+            unchecked = [w for w in watchlist_items if str(w.get("asin", "")).upper() not in attempted_set]
+            checked = [w for w in watchlist_items if str(w.get("asin", "")).upper() in attempted_set]
+            save_watchlist_asins(WATCHLIST_PATH, (unchecked + checked)[:150])
+
     scraper_telemetry["discovery_new_asins"] = newly_discovered_count
     scraper_telemetry["discovery_parsed_leads"] = len(parsed_live_deals)
 
@@ -244,7 +256,15 @@ def run_zero_token_pipeline(
             continue
 
         list_price_usd = round(float(raw_item.get("list_price_usd", price_usd) or price_usd), 2)
-        baseline_avg = price_history.get_baseline_avg(asin) if LIVE_SCRAPE else None
+        baseline_avg = (
+            price_history.get_baseline_avg(
+                asin,
+                current_price_usd=price_usd,
+                live_list_price_usd=list_price_usd,
+            )
+            if LIVE_SCRAPE
+            else None
+        )
         avg_90d_usd = round(
             float(
                 baseline_avg

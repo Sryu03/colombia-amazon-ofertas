@@ -135,3 +135,16 @@ Registro histórico de incidentes reales encontrados durante el desarrollo, desp
   - Se implementó [`resolve_live_public_web_url`](src/publisher/vercel_deployer.py) (`probe_public_web_url`) para comprobar en vivo en la nube que la URL responda `HTTP 200` (sin `DEPLOYMENT_NOT_FOUND`) antes de construir los botones de Telegram y registrar el resultado en `metadata.web_health_check`.
   - Se reforzó [`DealAuditor`](src/auditor/deal_auditor.py) para rechazar automáticamente (`telegram_invalid_web_button_url`) cualquier oferta o botón de Telegram cuyo enlace web apunte al dominio muerto `vitrina-colombia-ofertas.vercel.app` o no coincida con `deal["web_url"]`.
 
+---
+
+## 13. Más de 1 hora sin nuevas ofertas en Telegram aunque el cron corría cada 10 minutos
+- **Síntoma:** El workflow `zero-token-monitor.yml` se ejecutaba puntualmente cada 10 minutos en `success`, pero `@pillepues` dejó de recibir nuevas ofertas por más de 1 hora (`new_price_drops_count: 0`, `approved_count: 3`, `rejected_count: 32`).
+- **Causa raíz:**
+  1. **Colapso rápido de `avg_90d_usd` en [`PriceHistoryStore`](src/monitor/price_history.py):** La fórmula usaba un promedio exponencial fijo de `0.15` por ejecución (cada 10 minutos), lo que daba una vida media de apenas ~40 minutos en vez de 90 días; así, ofertas legítimas (`B0HNRSRX9V`, `B0FPFF7JN8`) perdían su `avg_90d_usd` en <1 hora y quedaban rechazadas por `< 20%`.
+  2. **Watchlist atascado en los primeros 60 ASINs:** `data/watchlist.json` tenía 160 ASINs pero `fetch_catalog` siempre tomaba `target_asins[:60]` en el mismo orden estático sin rotar, dejando 100 ASINs sin consultar nunca y repitiendo los mismos 60 (donde 25 eran `BLOCKED_CO`).
+  3. **Descubrimiento sin sesión `CO` compartida:** [`discover_deals_and_asins`](src/monitor/discovery.py) abría sesiones nuevas sin cookie `sp-cdn="L5Z9:CO"`, devolviendo `0` leads en varias corridas.
+- **Solución:**
+  - En [`PriceHistoryStore`](src/monitor/price_history.py), se reemplazó el `0.15` fijo por un factor proporcional al tiempo real transcurrido sobre 90 días (`elapsed_hours / 2160`), además de restaurar la referencia viva de Amazon cuando solo existían capturas al precio de oferta.
+  - En [`api/index.py`](api/index.py) y [`amazon_scraper.py`](src/monitor/amazon_scraper.py), todos los ASINs consultados en cada ciclo (`attempted_asins`, incluidos `BLOCKED_CO`) rotan al final de `data/watchlist.json` para barrer los 160+ productos cada ~30 minutos.
+  - En [`discovery.py`](src/monitor/discovery.py), se reutiliza una sesión `curl_cffi` persistente con cookies `CO` (`i18n-prefs=USD; lc-main=es_US; sp-cdn="L5Z9:CO"`).
+
