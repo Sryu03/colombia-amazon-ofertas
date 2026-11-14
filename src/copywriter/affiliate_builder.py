@@ -196,10 +196,11 @@ def build_telegram_card(
         )
 
         lines: list[str] = [
-            f"<b>[{safe_tier}] {safe_title} (-{discount_pct}% OFF)</b>",
+            f"🔥 <b>PillePues · [{safe_tier}] (-{discount_pct}% OFF)</b>",
+            f"📦 <b>{safe_title}</b>",
             "",
-            f"💵 <b>Precio Hoy:</b> ${price_usd:.2f} USD (<i>~{safe_cop}</i> · TRM ${int(round(trm_cop)):,})".replace(",", "."),
-            f"{hist_line} (Ahorras ${savings_usd:.2f} USD)",
+            f"💵 <b>Precio Hoy:</b> <b>${price_usd:.2f} USD</b> (<i>~{safe_cop}</i> · TRM ${int(round(trm_cop)):,})".replace(",", "."),
+            f"{hist_line} · <b>Ahorras ${savings_usd:.2f} USD</b>",
             "",
             f"🚚 <b>Envío:</b> {safe_ship}",
             f"📬 {safe_locker}",
@@ -215,8 +216,8 @@ def build_telegram_card(
         lines.extend(
             [
                 "",
-                f"💡 <b>Tip:</b> {safe_tip}",
-                f"<i>ℹ️ {safe_disclaimer}</i>",
+                f"💡 <b>Tip PillePues:</b> {safe_tip}",
+                f"📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ {safe_disclaimer}</i>",
             ]
         )
         return "\n".join(lines)
@@ -239,20 +240,38 @@ def build_telegram_card(
             ],
             [
                 {
-                    "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                    "text": "🇨🇴 Ver Análisis y TRM en PillePues",
                     "url": vercel_deal_url,
                 }
             ],
         ]
     }
 
+    from src.broadcaster.card_image import upgrade_amazon_image_url
+
+    hd_photo_url = upgrade_amazon_image_url(str(deal.get("image_url") or ""), size=1200)
+    deal_snapshot = {
+        "asin": asin,
+        "title": title_raw,
+        "price_usd": price_usd,
+        "reference_price_usd": reference_usd,
+        "discount_pct": discount_pct,
+        "price_cop": deal.get("price_cop"),
+        "trm_cop": trm_cop,
+        "ships_to_colombia": bool(deal.get("ships_to_colombia", False)),
+        "free_shipping_co": bool(deal.get("free_shipping_co", False)),
+        "requires_locker": bool(deal.get("requires_locker", False)),
+        "tax_free_colombia": bool(deal.get("tax_free_colombia", price_usd <= 200.0)),
+    }
+
     return {
         "asin": asin,
         "title": title_raw,
-        "photo_url": str(deal.get("image_url") or ""),
+        "photo_url": hd_photo_url,
         "caption_html": caption_html,
         "parse_mode": "HTML",
         "reply_markup": reply_markup,
         "affiliate_url": affiliate_url,
         "web_url": vercel_deal_url,
+        "deal_snapshot": deal_snapshot,
     }

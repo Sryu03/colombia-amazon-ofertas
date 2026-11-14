@@ -762,6 +762,10 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
     shipping_cost_usd = 0.0 if (ships_to_colombia and free_shipping_co) else (8.50 if requires_locker else 11.95)
     live_verified = bool(price_usd > 0.0 and title_valid)
 
+    from src.broadcaster.card_image import upgrade_amazon_image_url
+
+    image_url = upgrade_amazon_image_url(image_url, size=1200)
+
     return {
         "asin": asin,
         "title": title_clean,

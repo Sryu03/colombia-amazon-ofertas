@@ -400,6 +400,74 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
             self.assertEqual(history["B07J2Z5DBM"]["last_published_price_usd"], 18.99)
             self.assertEqual(history["B09X1H88VP"]["last_published_price_usd"], 29.99)
 
+    def test_hd_image_upgrade_and_pillepues_card_renderer(self):
+        import io
+        from unittest.mock import patch
+        from PIL import Image, ImageDraw
+        from src.broadcaster.card_image import (
+            build_image_url_candidates,
+            render_offer_card_from_image_bytes,
+            upgrade_amazon_image_url,
+        )
+
+        low_res = "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_UL320_.jpg"
+        self.assertEqual(
+            upgrade_amazon_image_url(low_res, size=1200),
+            "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_SL1200_.jpg",
+        )
+        candidates = build_image_url_candidates(low_res)
+        self.assertEqual(
+            candidates[0],
+            "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_SL1500_.jpg",
+        )
+        self.assertIn("https://m.media-amazon.com/images/I/71xuVr0CPbL.jpg", candidates)
+
+        # Render portrait image into 1080x1080 uncropped PillePues branded card
+        prod = Image.new("RGB", (500, 900), (255, 255, 255))
+        draw = ImageDraw.Draw(prod)
+        draw.rectangle([(100, 50), (400, 850)], fill=(30, 41, 59))
+        buf = io.BytesIO()
+        prod.save(buf, format="PNG")
+
+        deal = {
+            "asin": "B09715G57M",
+            "title": "Keurig K-Express Cafetera K-Cup",
+            "price_usd": 59.99,
+            "reference_price_usd": 109.99,
+            "discount_pct": 45.5,
+            "price_cop": 198969,
+            "trm_cop": 3316.7,
+            "ships_to_colombia": True,
+            "free_shipping_co": True,
+            "requires_locker": False,
+            "tax_free_colombia": True,
+            "image_url": low_res,
+        }
+        rendered = render_offer_card_from_image_bytes(buf.getvalue(), deal)
+        with Image.open(io.BytesIO(rendered)) as out_img:
+            self.assertEqual(out_img.size, (1080, 1080))
+
+        card = build_telegram_card(deal, associate_tag="pillepues-20")
+        self.assertEqual(
+            card["photo_url"],
+            "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_SL1200_.jpg",
+        )
+        self.assertIn("PillePues", card["caption_html"])
+
+        broadcaster = ChannelBroadcaster(telegram_bot_token="fake-token", telegram_chat_id="@pillepues")
+        with (
+            patch("src.broadcaster.card_image.render_telegram_offer_card_bytes", return_value=rendered),
+            patch.object(
+                ChannelBroadcaster,
+                "_post_photo_bytes_multipart",
+                return_value=(200, {"ok": True, "result": {"message_id": 777}}),
+            ) as mock_upload,
+        ):
+            res = broadcaster.send_telegram(card, deal=deal)
+            self.assertEqual(res["status"], "sent")
+            self.assertEqual(res["upload_mode"], "rendered_pillepues_card")
+            mock_upload.assert_called_once()
+
 
 if __name__ == "__main__":
     unittest.main()

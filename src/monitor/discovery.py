@@ -186,6 +186,8 @@ def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> li
         )
 
         seen.add(asin)
+        from src.broadcaster.card_image import upgrade_amazon_image_url
+
         deals.append(
             {
                 "asin": asin,
@@ -201,7 +203,7 @@ def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> li
                 "requires_locker": False,
                 "rating": 4.7,
                 "reviews_count": 100,
-                "image_url": image_url,
+                "image_url": upgrade_amazon_image_url(image_url, size=1200),
                 "live_verified": True,
                 "source": "amazon_deals_tab",
                 "highlights": [
@@ -358,6 +360,8 @@ def parse_bestsellers_deals_html(
 
         free_shipping_co = "free" in card_text or "gratis" in card_text or price_usd >= 35.0
         seen.add(asin)
+        from src.broadcaster.card_image import upgrade_amazon_image_url
+
         deals.append(
             {
                 "asin": asin,
@@ -373,7 +377,7 @@ def parse_bestsellers_deals_html(
                 "requires_locker": False,
                 "rating": 4.7,
                 "reviews_count": 100,
-                "image_url": image_url,
+                "image_url": upgrade_amazon_image_url(image_url, size=1200),
                 "live_verified": True,
                 "source": "amazon_bestsellers_deals",
                 "highlights": [

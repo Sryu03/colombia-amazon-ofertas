@@ -99,7 +99,41 @@ class ChannelBroadcaster:
                 return resp.status, raw
 
     @staticmethod
+    def _post_photo_bytes_multipart(
+        endpoint: str,
+        payload: dict[str, Any],
+        img_bytes: bytes,
+        content_type: str = "image/jpeg",
+        timeout: float = 15.0,
+    ) -> tuple[int, Any]:
+        """Sube bytes de una imagen renderizada o descargada como multipart/form-data a Telegram."""
+        if httpx is None:
+            raise RuntimeError("httpx no está disponible para subida multipart de imagen")
+
+        form_data: dict[str, str] = {
+            "chat_id": str(payload.get("chat_id", "")),
+            "caption": str(payload.get("caption", "")),
+            "parse_mode": str(payload.get("parse_mode", "HTML")),
+        }
+        if payload.get("reply_markup") is not None:
+            form_data["reply_markup"] = json.dumps(payload["reply_markup"], ensure_ascii=False)
+
+        ext = "png" if "png" in content_type.lower() else "webp" if "webp" in content_type.lower() else "jpg"
+        with httpx.Client(timeout=timeout, follow_redirects=True) as client:
+            response = client.post(
+                endpoint,
+                data=form_data,
+                files={"photo": (f"pillepues_deal.{ext}", img_bytes, content_type)},
+            )
+            response.raise_for_status()
+            try:
+                return response.status_code, response.json()
+            except Exception:
+                return response.status_code, response.text
+
+    @classmethod
     def _post_photo_multipart(
+        cls,
         endpoint: str,
         payload: dict[str, Any],
         photo_url: str,
@@ -109,6 +143,8 @@ class ChannelBroadcaster:
         if httpx is None:
             raise RuntimeError("httpx no está disponible para descarga/subida multipart de imagen")
 
+        from src.broadcaster.card_image import build_image_url_candidates
+
         img_headers = {
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -116,43 +152,45 @@ class ChannelBroadcaster:
             ),
             "Accept": "image/*,*/*;q=0.8",
         }
+        img_bytes = b""
+        content_type = "image/jpeg"
+        last_exc: Exception | None = None
         with httpx.Client(timeout=timeout, follow_redirects=True) as client:
-            img_resp = client.get(photo_url, headers=img_headers)
-            img_resp.raise_for_status()
-            img_bytes = img_resp.content
-            if not img_bytes:
-                raise RuntimeError("Imagen descargada vacía")
-            content_type = img_resp.headers.get("content-type", "image/jpeg").split(";")[0].strip()
+            for candidate_url in build_image_url_candidates(photo_url):
+                try:
+                    img_resp = client.get(candidate_url, headers=img_headers)
+                    img_resp.raise_for_status()
+                    if img_resp.content:
+                        img_bytes = img_resp.content
+                        content_type = img_resp.headers.get("content-type", "image/jpeg").split(";")[0].strip()
+                        break
+                except Exception as exc:
+                    last_exc = exc
+        if not img_bytes:
+            if last_exc is not None:
+                raise last_exc
+            raise RuntimeError("Imagen descargada vacía")
 
-            form_data: dict[str, str] = {
-                "chat_id": str(payload.get("chat_id", "")),
-                "caption": str(payload.get("caption", "")),
-                "parse_mode": str(payload.get("parse_mode", "HTML")),
-            }
-            if payload.get("reply_markup") is not None:
-                form_data["reply_markup"] = json.dumps(payload["reply_markup"], ensure_ascii=False)
-
-            ext = "png" if "png" in content_type.lower() else "webp" if "webp" in content_type.lower() else "jpg"
-            response = client.post(
-                endpoint,
-                data=form_data,
-                files={"photo": (f"deal.{ext}", img_bytes, content_type)},
-            )
-            response.raise_for_status()
-            try:
-                return response.status_code, response.json()
-            except Exception:
-                return response.status_code, response.text
+        return cls._post_photo_bytes_multipart(
+            endpoint=endpoint,
+            payload=payload,
+            img_bytes=img_bytes,
+            content_type=content_type,
+            timeout=timeout,
+        )
 
     def _build_telegram_request(self, telegram_card: dict[str, Any]) -> tuple[str, dict[str, Any]]:
         """Construye el método de Telegram Bot API (`sendPhoto` o `sendMessage`) y su payload."""
+        from src.broadcaster.card_image import upgrade_amazon_image_url
+
         chat_id = telegram_card.get("chat_id") or self.telegram_chat_id
-        photo_url = (
+        raw_photo_url = (
             telegram_card.get("photo_url")
             or telegram_card.get("photo")
             or telegram_card.get("image_url")
             or ""
         )
+        photo_url = upgrade_amazon_image_url(str(raw_photo_url), size=1200) if isinstance(raw_photo_url, str) else ""
         caption = (
             telegram_card.get("caption_html")
             or telegram_card.get("caption")
@@ -174,8 +212,8 @@ class ChannelBroadcaster:
                 "text": str(caption)[:4096],
                 "parse_mode": parse_mode,
             }
-            if isinstance(photo_url, str) and photo_url.strip().startswith("data:"):
-                payload["photo_url"] = photo_url
+            if isinstance(raw_photo_url, str) and raw_photo_url.strip().startswith("data:"):
+                payload["photo_url"] = raw_photo_url
         else:
             api_method = "sendPhoto"
             payload = {
@@ -190,7 +228,11 @@ class ChannelBroadcaster:
 
         return api_method, payload
 
-    def send_telegram(self, telegram_card: dict[str, Any]) -> dict[str, Any]:
+    def send_telegram(
+        self,
+        telegram_card: dict[str, Any],
+        deal: dict[str, Any] | None = None,
+    ) -> dict[str, Any]:
         """Envía una tarjeta de oferta al canal de Telegram o retorna el payload en modo `simulated_outbox`."""
         api_method, payload = self._build_telegram_request(telegram_card)
         token = (self.telegram_bot_token or "").strip()
@@ -215,6 +257,45 @@ class ChannelBroadcaster:
 
         endpoint = f"https://api.telegram.org/bot{token}/{api_method}"
         http_payload = {k: v for k, v in payload.items() if k != "photo_url"}
+        deal_context = deal or telegram_card.get("deal_snapshot") or {
+            "asin": telegram_card.get("asin", ""),
+            "title": telegram_card.get("title", ""),
+        }
+
+        # 1. Intentar renderizar tarjeta HD 1080x1080 con marca de agua PillePues y producto sin recortes
+        if api_method == "sendPhoto" and isinstance(payload.get("photo"), str):
+            try:
+                from src.broadcaster.card_image import render_telegram_offer_card_bytes
+
+                rendered_bytes = render_telegram_offer_card_bytes(
+                    photo_url=payload["photo"],
+                    deal=deal_context,
+                    timeout=10.0,
+                )
+                if rendered_bytes:
+                    status_code, data = self._post_photo_bytes_multipart(
+                        endpoint=endpoint,
+                        payload=http_payload,
+                        img_bytes=rendered_bytes,
+                        content_type="image/jpeg",
+                        timeout=15.0,
+                    )
+                    self._last_telegram_sent_at = time.monotonic()
+                    return {
+                        "channel": "telegram",
+                        "mode": "live",
+                        "status": "sent",
+                        "token_configured": True,
+                        "upload_mode": "rendered_pillepues_card",
+                        "http_status": status_code,
+                        "api_method": api_method,
+                        "payload": payload,
+                        "response": data,
+                        "card": telegram_card,
+                    }
+            except Exception:
+                # Si falla la composición o subida de la tarjeta renderizada, continuar al flujo estándar
+                pass
 
         try:
             status_code, data = self._post_json(endpoint, http_payload, timeout=10.0)
@@ -285,7 +366,7 @@ class ChannelBroadcaster:
         now_utc = datetime.now(timezone.utc)
         now_co = now_utc.astimezone(COLOMBIA_TZ)
 
-        telegram_result = self.send_telegram(telegram_card)
+        telegram_result = self.send_telegram(telegram_card, deal=deal)
 
         entry: dict[str, Any] = {
             "asin": deal.get("asin") or telegram_card.get("asin") or "",

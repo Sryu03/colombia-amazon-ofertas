@@ -257,6 +257,10 @@
       `${window.location.origin}${window.location.pathname}?asin=${encodeURIComponent(asin)}`;
 
     const category = normalizeCategory(raw.category, raw.title);
+    const upgradedImageUrl = (raw.image_url || '').replace(
+      /(\/images\/I\/[^/.]+)\._[^/]+_\.(jpg|jpeg|png|webp)$/i,
+      '$1._AC_SL1200_.$2'
+    );
 
     return {
       asin,
@@ -275,7 +279,7 @@
       free_shipping_co: freeShippingCo,
       shipping_usd: shippingUsd,
       estimated_tax_usd: estimatedTaxUsd,
-      image_url: raw.image_url || buildFallbackSvg(asin, raw.title, category),
+      image_url: upgradedImageUrl || buildFallbackSvg(asin, raw.title, category),
       fallback_image_url: buildFallbackSvg(asin, raw.title, category),
       affiliate_url: affiliateUrl,
       web_deal_url: webDealUrl,
