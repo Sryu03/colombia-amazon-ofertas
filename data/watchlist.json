@@ -1,13 +1,5 @@
 [
   {
-    "asin": "B0D8PSDMYH",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0F9LS9X17",
-    "category": "Hogar"
-  },
-  {
     "asin": "B0HDJQQMYP",
     "category": "Hogar"
   },
@@ -361,6 +353,14 @@
   },
   {
     "asin": "B007TUQF9O",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0D8PSDMYH",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0F9LS9X17",
     "category": "Hogar"
   },
   {
