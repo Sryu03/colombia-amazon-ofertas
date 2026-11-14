@@ -1,9 +1,5 @@
 [
   {
-    "asin": "B007TUQF9O",
-    "category": "Hogar"
-  },
-  {
     "asin": "B0D8PSDMYH",
     "category": "Hogar"
   },
@@ -356,6 +352,18 @@
     "category": "Hogar"
   },
   {
+    "asin": "B0CZPLV566",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0GVTPKJVT",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B007TUQF9O",
+    "category": "Hogar"
+  },
+  {
     "asin": "B08J8GZXKZ",
     "category": "Hogar"
   },
@@ -466,10 +474,6 @@
   {
     "asin": "B0DD41G2NZ",
     "category": "Audio"
-  },
-  {
-    "asin": "B0CZPLV566",
-    "category": "Tecnología"
   },
   {
     "asin": "B0F7RCSSTN",
