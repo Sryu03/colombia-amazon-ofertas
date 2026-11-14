@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0FX3WFRN7",
+    "title": "Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1",
+    "timestamp": "2026-11-14T20:03:40.299705+00:00",
+    "timestamp_colombia": "2026-11-14T15:03:40.299705-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FX3WFRN7",
+      "title": "Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 69.98,
+      "list_price_usd": 87.99,
+      "avg_90d_usd": 87.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81NDSR5ZLuL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 87.99,
+      "discount_pct": 20.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.5,
+      "price_vs_90d_badge": "📉 20.5% más barato que su promedio de 90 días ($87.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 69.98,
+      "price_cop": 232103,
+      "price_cop_formatted": "$232.103 COP",
+      "total_landed_cop": 232103,
+      "total_landed_cop_formatted": "$232.103 COP",
+      "savings_usd": 18.01,
+      "savings_cop": 59734,
+      "savings_cop_formatted": "$59.734 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FX3WFRN7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX3WFRN7",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T20:00:23.656512+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.98 USD</b> (<i>~$232.103 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$87.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $18.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81NDSR5ZLuL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.98 USD</b> (<i>~$232.103 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$87.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $18.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($69.98 USD)",
+                "url": "https://www.amazon.com/dp/B0FX3WFRN7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX3WFRN7"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 71,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794686625,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADR2r4vqBCgQmP0x1dux4ilhj1S3ZzAAL-DGsbXhPIR-LO3f0WjkMBAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD_gxrG14TyEd4",
+              "file_size": 1970,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADR2r4vqBCgQmP0x1dux4ilhj1S3ZzAAL-DGsbXhPIR-LO3f0WjkMBAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD_gxrG14TyEdy",
+              "file_size": 27361,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADR2r4vqBCgQmP0x1dux4ilhj1S3ZzAAL-DGsbXhPIR-LO3f0WjkMBAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD_gxrG14TyEd9",
+              "file_size": 109552,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADR2r4vqBCgQmP0x1dux4ilhj1S3ZzAAL-DGsbXhPIR-LO3f0WjkMBAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD_gxrG14TyEd-",
+              "file_size": 167965,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1\n\n💵 Precio Hoy: $69.98 USD (~$232.103 COP · TRM $3.317)\n📉 Más barato que antes: Antes $87.99 USD → Hoy -20% OFF · Ahorras $18.01 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 71,
+              "type": "bold"
+            },
+            {
+              "offset": 121,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 133,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 145,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 176,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 204,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 221,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 232,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 255,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 437,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 523,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 717,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 732,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 745,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($69.98 USD)",
+                  "url": "https://www.amazon.com/dp/B0FX3WFRN7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX3WFRN7"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FX3WFRN7",
+        "title": "Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1",
+        "photo_url": "https://m.media-amazon.com/images/I/81NDSR5ZLuL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.98 USD</b> (<i>~$232.103 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$87.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $18.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($69.98 USD)",
+                "url": "https://www.amazon.com/dp/B0FX3WFRN7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX3WFRN7"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FX3WFRN7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX3WFRN7",
+        "deal_snapshot": {
+          "asin": "B0FX3WFRN7",
+          "title": "Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1",
+          "price_usd": 69.98,
+          "reference_price_usd": 87.99,
+          "discount_pct": 20,
+          "price_cop": 232103,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FX3WFRN7",
+      "title": "Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1",
+      "photo_url": "https://m.media-amazon.com/images/I/81NDSR5ZLuL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.98 USD</b> (<i>~$232.103 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$87.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $18.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($69.98 USD)",
+              "url": "https://www.amazon.com/dp/B0FX3WFRN7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX3WFRN7"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FX3WFRN7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX3WFRN7",
+      "deal_snapshot": {
+        "asin": "B0FX3WFRN7",
+        "title": "Marco de fotos digital, marco de fotos digital WiFi inteligente de 10,1",
+        "price_usd": 69.98,
+        "reference_price_usd": 87.99,
+        "discount_pct": 20,
+        "price_cop": 232103,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H3NLRGQG",
+    "title": "Frameo Digital Picture Frame, 10.1'' WiFi Electronic Photo Frame, Gift Idea",
+    "timestamp": "2026-11-14T20:03:38.150661+00:00",
+    "timestamp_colombia": "2026-11-14T15:03:38.150661-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H3NLRGQG",
+      "title": "Frameo Digital Picture Frame, 10.1'' WiFi Electronic Photo Frame, Gift Idea",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 59.96,
+      "list_price_usd": 89.99,
+      "avg_90d_usd": 89.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71+ho0SCGHL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 89.99,
+      "discount_pct": 33.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.4,
+      "price_vs_90d_badge": "📉 33.4% más barato que su promedio de 90 días ($89.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 59.96,
+      "price_cop": 198869,
+      "price_cop_formatted": "$198.869 COP",
+      "total_landed_cop": 198869,
+      "total_landed_cop_formatted": "$198.869 COP",
+      "savings_usd": 30.03,
+      "savings_cop": 99601,
+      "savings_cop_formatted": "$99.601 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H3NLRGQG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3NLRGQG",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T20:00:23.656512+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Frameo Digital Picture Frame, 10.1&#x27;&#x27; WiFi Electronic Photo Frame, Gift Idea</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.869 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $30.03 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71+ho0SCGHL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Frameo Digital Picture Frame, 10.1&#x27;&#x27; WiFi Electronic Photo Frame, Gift Idea</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.869 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $30.03 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+                "url": "https://www.amazon.com/dp/B0H3NLRGQG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3NLRGQG"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 70,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794686620,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADRmr4vpxe5IjaXuqQzgP-OuxRvlcgAAL9DGsbXhPIR1vvOCyxzZM5AQADAgADcwADPQQ",
+              "file_unique_id": "AQAD_QxrG14TyEd4",
+              "file_size": 2003,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADRmr4vpxe5IjaXuqQzgP-OuxRvlcgAAL9DGsbXhPIR1vvOCyxzZM5AQADAgADbQADPQQ",
+              "file_unique_id": "AQAD_QxrG14TyEdy",
+              "file_size": 27670,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADRmr4vpxe5IjaXuqQzgP-OuxRvlcgAAL9DGsbXhPIR1vvOCyxzZM5AQADAgADeAADPQQ",
+              "file_unique_id": "AQAD_QxrG14TyEd9",
+              "file_size": 112645,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADRmr4vpxe5IjaXuqQzgP-OuxRvlcgAAL9DGsbXhPIR1vvOCyxzZM5AQADAgADeQADPQQ",
+              "file_unique_id": "AQAD_QxrG14TyEd-",
+              "file_size": 172534,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-33% OFF)\n📦 Frameo Digital Picture Frame, 10.1'' WiFi Electronic Photo Frame, Gift Idea\n\n💵 Precio Hoy: $59.96 USD (~$198.869 COP · TRM $3.317)\n📉 Más barato que antes: Antes $89.99 USD → Hoy -33% OFF · Ahorras $30.03 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 149,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 180,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 208,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 225,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 236,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 259,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 441,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 527,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 721,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 736,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 749,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+                  "url": "https://www.amazon.com/dp/B0H3NLRGQG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3NLRGQG"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H3NLRGQG",
+        "title": "Frameo Digital Picture Frame, 10.1'' WiFi Electronic Photo Frame, Gift Idea",
+        "photo_url": "https://m.media-amazon.com/images/I/71+ho0SCGHL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Frameo Digital Picture Frame, 10.1&#x27;&#x27; WiFi Electronic Photo Frame, Gift Idea</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.869 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $30.03 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+                "url": "https://www.amazon.com/dp/B0H3NLRGQG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3NLRGQG"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H3NLRGQG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3NLRGQG",
+        "deal_snapshot": {
+          "asin": "B0H3NLRGQG",
+          "title": "Frameo Digital Picture Frame, 10.1'' WiFi Electronic Photo Frame, Gift Idea",
+          "price_usd": 59.96,
+          "reference_price_usd": 89.99,
+          "discount_pct": 33,
+          "price_cop": 198869,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H3NLRGQG",
+      "title": "Frameo Digital Picture Frame, 10.1'' WiFi Electronic Photo Frame, Gift Idea",
+      "photo_url": "https://m.media-amazon.com/images/I/71+ho0SCGHL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Frameo Digital Picture Frame, 10.1&#x27;&#x27; WiFi Electronic Photo Frame, Gift Idea</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.869 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $30.03 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+              "url": "https://www.amazon.com/dp/B0H3NLRGQG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3NLRGQG"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H3NLRGQG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3NLRGQG",
+      "deal_snapshot": {
+        "asin": "B0H3NLRGQG",
+        "title": "Frameo Digital Picture Frame, 10.1'' WiFi Electronic Photo Frame, Gift Idea",
+        "price_usd": 59.96,
+        "reference_price_usd": 89.99,
+        "discount_pct": 33,
+        "price_cop": 198869,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B08RHD97QY",
     "title": "TP-Link Extensor WiFi AC1200 Banda Dual 5GHz/2.4GHz (RE315)",
     "timestamp": "2026-11-14T19:53:40.436583+00:00",
