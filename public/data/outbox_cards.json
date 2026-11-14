@@ -1,5 +1,1257 @@
 [
   {
+    "asin": "B0HJSW1G3J",
+    "title": "BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W",
+    "timestamp": "2026-11-14T22:43:27.235731+00:00",
+    "timestamp_colombia": "2026-11-14T17:43:27.235731-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HJSW1G3J",
+      "title": "BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 17.99,
+      "list_price_usd": 29.99,
+      "avg_90d_usd": 29.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71SjRnpTuUL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 29.99,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($29.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 29.94,
+      "price_cop": 59667,
+      "price_cop_formatted": "$59.667 COP",
+      "total_landed_cop": 99302,
+      "total_landed_cop_formatted": "$99.302 COP",
+      "savings_usd": 12.0,
+      "savings_cop": 39800,
+      "savings_cop_formatted": "$39.800 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $17.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HJSW1G3J?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJSW1G3J",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T22:40:17.026112+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.99 USD</b> (<i>~$59.667 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $12.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71SjRnpTuUL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.99 USD</b> (<i>~$59.667 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $12.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($17.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HJSW1G3J?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJSW1G3J"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 81,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794696211,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUWr45BMRMyR-Fz1Zx3Mc01HaCf0xAAInDWsbXhPIRyP-vFs_Dp4GAQADAgADcwADPQQ",
+              "file_unique_id": "AQADJw1rG14TyEd4",
+              "file_size": 1718,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUWr45BMRMyR-Fz1Zx3Mc01HaCf0xAAInDWsbXhPIRyP-vFs_Dp4GAQADAgADbQADPQQ",
+              "file_unique_id": "AQADJw1rG14TyEdy",
+              "file_size": 24543,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUWr45BMRMyR-Fz1Zx3Mc01HaCf0xAAInDWsbXhPIRyP-vFs_Dp4GAQADAgADeAADPQQ",
+              "file_unique_id": "AQADJw1rG14TyEd9",
+              "file_size": 104461,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUWr45BMRMyR-Fz1Zx3Mc01HaCf0xAAInDWsbXhPIRyP-vFs_Dp4GAQADAgADeQADPQQ",
+              "file_unique_id": "AQADJw1rG14TyEd-",
+              "file_size": 158759,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W\n\n💵 Precio Hoy: $17.99 USD (~$59.667 COP · TRM $3.317)\n📉 Más barato que antes: Antes $29.99 USD → Hoy -40% OFF · Ahorras $12.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $17.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 64,
+              "type": "bold"
+            },
+            {
+              "offset": 120,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 132,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 144,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 174,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 219,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 253,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 453,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 539,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 687,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 702,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 715,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($17.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HJSW1G3J?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJSW1G3J"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HJSW1G3J",
+        "title": "BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W",
+        "photo_url": "https://m.media-amazon.com/images/I/71SjRnpTuUL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.99 USD</b> (<i>~$59.667 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $12.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($17.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HJSW1G3J?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJSW1G3J"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HJSW1G3J?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJSW1G3J",
+        "deal_snapshot": {
+          "asin": "B0HJSW1G3J",
+          "title": "BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W",
+          "price_usd": 17.99,
+          "reference_price_usd": 29.99,
+          "discount_pct": 40,
+          "price_cop": 59667,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HJSW1G3J",
+      "title": "BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W",
+      "photo_url": "https://m.media-amazon.com/images/I/71SjRnpTuUL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.99 USD</b> (<i>~$59.667 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $12.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($17.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HJSW1G3J?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJSW1G3J"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HJSW1G3J?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJSW1G3J",
+      "deal_snapshot": {
+        "asin": "B0HJSW1G3J",
+        "title": "BassBloom Altavoz Bluetooth portátil Roar 3,IPX6 Impermeable,20W",
+        "price_usd": 17.99,
+        "reference_price_usd": 29.99,
+        "discount_pct": 40,
+        "price_cop": 59667,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FNWCYLZN",
+    "title": "soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en",
+    "timestamp": "2026-11-14T22:43:21.649829+00:00",
+    "timestamp_colombia": "2026-11-14T17:43:21.649829-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FNWCYLZN",
+      "title": "soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 29.99,
+      "list_price_usd": 59.99,
+      "avg_90d_usd": 59.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71fEWG6n4aL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 59.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($59.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 41.94,
+      "price_cop": 99468,
+      "price_cop_formatted": "$99.468 COP",
+      "total_landed_cop": 139102,
+      "total_landed_cop_formatted": "$139.102 COP",
+      "savings_usd": 30.0,
+      "savings_cop": 99501,
+      "savings_cop_formatted": "$99.501 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0FNWCYLZN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FNWCYLZN",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T22:40:17.026112+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.468 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71fEWG6n4aL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.468 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FNWCYLZN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FNWCYLZN"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 80,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794696207,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUGr45A6oJcxBBDGFWLTrTIarlqgxAAImDWsbXhPIRzHRDU_zC2wqAQADAgADcwADPQQ",
+              "file_unique_id": "AQADJg1rG14TyEd4",
+              "file_size": 1739,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUGr45A6oJcxBBDGFWLTrTIarlqgxAAImDWsbXhPIRzHRDU_zC2wqAQADAgADbQADPQQ",
+              "file_unique_id": "AQADJg1rG14TyEdy",
+              "file_size": 21982,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUGr45A6oJcxBBDGFWLTrTIarlqgxAAImDWsbXhPIRzHRDU_zC2wqAQADAgADeAADPQQ",
+              "file_unique_id": "AQADJg1rG14TyEd9",
+              "file_size": 86306,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADUGr45A6oJcxBBDGFWLTrTIarlqgxAAImDWsbXhPIRzHRDU_zC2wqAQADAgADeQADPQQ",
+              "file_unique_id": "AQADJg1rG14TyEd-",
+              "file_size": 126451,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en\n\n💵 Precio Hoy: $29.99 USD (~$99.468 COP · TRM $3.317)\n📉 Más barato que antes: Antes $59.99 USD → Hoy -50% OFF · Ahorras $30.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 71,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 181,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 226,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 237,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 260,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 460,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 546,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 693,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 708,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 721,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FNWCYLZN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FNWCYLZN"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FNWCYLZN",
+        "title": "soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en",
+        "photo_url": "https://m.media-amazon.com/images/I/71fEWG6n4aL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.468 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FNWCYLZN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FNWCYLZN"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FNWCYLZN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FNWCYLZN",
+        "deal_snapshot": {
+          "asin": "B0FNWCYLZN",
+          "title": "soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en",
+          "price_usd": 29.99,
+          "reference_price_usd": 59.99,
+          "discount_pct": 50,
+          "price_cop": 99468,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FNWCYLZN",
+      "title": "soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en",
+      "photo_url": "https://m.media-amazon.com/images/I/71fEWG6n4aL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.468 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FNWCYLZN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FNWCYLZN"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FNWCYLZN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FNWCYLZN",
+      "deal_snapshot": {
+        "asin": "B0FNWCYLZN",
+        "title": "soundcore Auriculares de traducción P31i by Anker con ANC adaptativo en",
+        "price_usd": 29.99,
+        "reference_price_usd": 59.99,
+        "discount_pct": 50,
+        "price_cop": 99468,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B07N1WW638",
+    "title": "TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz",
+    "timestamp": "2026-11-14T22:43:17.073222+00:00",
+    "timestamp_colombia": "2026-11-14T17:43:17.073222-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B07N1WW638",
+      "title": "TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 12.79,
+      "list_price_usd": 29.99,
+      "avg_90d_usd": 29.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.04,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/4170I9VYmiL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 29.99,
+      "discount_pct": 57.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 57.4,
+      "price_vs_90d_badge": "📉 57.4% más barato que su promedio de 90 días ($29.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 24.74,
+      "price_cop": 42421,
+      "price_cop_formatted": "$42.421 COP",
+      "total_landed_cop": 82055,
+      "total_landed_cop_formatted": "$82.055 COP",
+      "savings_usd": 17.2,
+      "savings_cop": 57047,
+      "savings_cop_formatted": "$57.047 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $22.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B07N1WW638?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07N1WW638",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T22:40:17.026112+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.79 USD</b> (<i>~$42.421 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $17.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/4170I9VYmiL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.79 USD</b> (<i>~$42.421 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $17.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($12.79 USD)",
+                "url": "https://www.amazon.com/dp/B07N1WW638?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07N1WW638"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 79,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794696201,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADT2r45Ak7sCdozXW8HB88Ff1Ml6s-AAIlDWsbXhPIRzuDNoKdTLh2AQADAgADcwADPQQ",
+              "file_unique_id": "AQADJQ1rG14TyEd4",
+              "file_size": 1515,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADT2r45Ak7sCdozXW8HB88Ff1Ml6s-AAIlDWsbXhPIRzuDNoKdTLh2AQADAgADbQADPQQ",
+              "file_unique_id": "AQADJQ1rG14TyEdy",
+              "file_size": 20704,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADT2r45Ak7sCdozXW8HB88Ff1Ml6s-AAIlDWsbXhPIRzuDNoKdTLh2AQADAgADeAADPQQ",
+              "file_unique_id": "AQADJQ1rG14TyEd9",
+              "file_size": 81965,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADT2r45Ak7sCdozXW8HB88Ff1Ml6s-AAIlDWsbXhPIRzuDNoKdTLh2AQADAgADeQADPQQ",
+              "file_unique_id": "AQADJQ1rG14TyEd-",
+              "file_size": 118948,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)\n📦 TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz\n\n💵 Precio Hoy: $12.79 USD (~$42.421 COP · TRM $3.317)\n📉 Más barato que antes: Antes $29.99 USD → Hoy -57% OFF · Ahorras $17.20 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $22.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 73,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 153,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 183,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 211,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 228,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 262,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 462,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 548,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 696,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 711,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 724,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($12.79 USD)",
+                  "url": "https://www.amazon.com/dp/B07N1WW638?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07N1WW638"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B07N1WW638",
+        "title": "TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz",
+        "photo_url": "https://m.media-amazon.com/images/I/4170I9VYmiL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.79 USD</b> (<i>~$42.421 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $17.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($12.79 USD)",
+                "url": "https://www.amazon.com/dp/B07N1WW638?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07N1WW638"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B07N1WW638?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07N1WW638",
+        "deal_snapshot": {
+          "asin": "B07N1WW638",
+          "title": "TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz",
+          "price_usd": 12.79,
+          "reference_price_usd": 29.99,
+          "discount_pct": 57,
+          "price_cop": 42421,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B07N1WW638",
+      "title": "TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz",
+      "photo_url": "https://m.media-amazon.com/images/I/4170I9VYmiL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.79 USD</b> (<i>~$42.421 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $17.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($12.79 USD)",
+              "url": "https://www.amazon.com/dp/B07N1WW638?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07N1WW638"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B07N1WW638?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07N1WW638",
+      "deal_snapshot": {
+        "asin": "B07N1WW638",
+        "title": "TP-Link Extensor WiFi (RE220) con puerto Ethernet, banda dual 5GHz/2.4GHz",
+        "price_usd": 12.79,
+        "reference_price_usd": 29.99,
+        "discount_pct": 57,
+        "price_cop": 42421,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H4L4J1VC",
+    "title": "Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y",
+    "timestamp": "2026-11-14T22:43:14.873421+00:00",
+    "timestamp_colombia": "2026-11-14T17:43:14.873421-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H4L4J1VC",
+      "title": "Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 28.98,
+      "list_price_usd": 83.99,
+      "avg_90d_usd": 83.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/714I5j-06QL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 83.99,
+      "discount_pct": 65.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 65.5,
+      "price_vs_90d_badge": "📉 65.5% más barato que su promedio de 90 días ($83.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.93,
+      "price_cop": 96118,
+      "price_cop_formatted": "$96.118 COP",
+      "total_landed_cop": 135753,
+      "total_landed_cop_formatted": "$135.753 COP",
+      "savings_usd": 55.01,
+      "savings_cop": 182452,
+      "savings_cop_formatted": "$182.452 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H4L4J1VC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4L4J1VC",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T22:40:17.026112+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-66% OFF)</b>\n📦 <b>Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.98 USD</b> (<i>~$96.118 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$83.99 USD</s> → Hoy <b>-66% OFF</b> · <b>Ahorras $55.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/714I5j-06QL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-66% OFF)</b>\n📦 <b>Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.98 USD</b> (<i>~$96.118 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$83.99 USD</s> → Hoy <b>-66% OFF</b> · <b>Ahorras $55.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.98 USD)",
+                "url": "https://www.amazon.com/dp/B0H4L4J1VC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4L4J1VC"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 78,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794696196,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTmr45AT35IYl8taIHucZ4h8p6oneAAIkDWsbXhPIR9mJp_5JeRhtAQADAgADcwADPQQ",
+              "file_unique_id": "AQADJA1rG14TyEd4",
+              "file_size": 1950,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTmr45AT35IYl8taIHucZ4h8p6oneAAIkDWsbXhPIR9mJp_5JeRhtAQADAgADbQADPQQ",
+              "file_unique_id": "AQADJA1rG14TyEdy",
+              "file_size": 26663,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTmr45AT35IYl8taIHucZ4h8p6oneAAIkDWsbXhPIR9mJp_5JeRhtAQADAgADeAADPQQ",
+              "file_unique_id": "AQADJA1rG14TyEd9",
+              "file_size": 105607,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTmr45AT35IYl8taIHucZ4h8p6oneAAIkDWsbXhPIR9mJp_5JeRhtAQADAgADeQADPQQ",
+              "file_unique_id": "AQADJA1rG14TyEd-",
+              "file_size": 158387,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-66% OFF)\n📦 Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y\n\n💵 Precio Hoy: $28.98 USD (~$96.118 COP · TRM $3.317)\n📉 Más barato que antes: Antes $83.99 USD → Hoy -66% OFF · Ahorras $55.01 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 69,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 149,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 179,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 207,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 224,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 235,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 258,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 458,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 544,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 691,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 706,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 719,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($28.98 USD)",
+                  "url": "https://www.amazon.com/dp/B0H4L4J1VC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4L4J1VC"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H4L4J1VC",
+        "title": "Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y",
+        "photo_url": "https://m.media-amazon.com/images/I/714I5j-06QL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-66% OFF)</b>\n📦 <b>Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.98 USD</b> (<i>~$96.118 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$83.99 USD</s> → Hoy <b>-66% OFF</b> · <b>Ahorras $55.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.98 USD)",
+                "url": "https://www.amazon.com/dp/B0H4L4J1VC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4L4J1VC"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H4L4J1VC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4L4J1VC",
+        "deal_snapshot": {
+          "asin": "B0H4L4J1VC",
+          "title": "Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y",
+          "price_usd": 28.98,
+          "reference_price_usd": 83.99,
+          "discount_pct": 66,
+          "price_cop": 96118,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H4L4J1VC",
+      "title": "Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y",
+      "photo_url": "https://m.media-amazon.com/images/I/714I5j-06QL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-66% OFF)</b>\n📦 <b>Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.98 USD</b> (<i>~$96.118 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$83.99 USD</s> → Hoy <b>-66% OFF</b> · <b>Ahorras $55.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($28.98 USD)",
+              "url": "https://www.amazon.com/dp/B0H4L4J1VC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4L4J1VC"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H4L4J1VC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4L4J1VC",
+      "deal_snapshot": {
+        "asin": "B0H4L4J1VC",
+        "title": "Plumero de aire comprimido 280,000 RPM - Soplador de aire eléctrico y",
+        "price_usd": 28.98,
+        "reference_price_usd": 83.99,
+        "discount_pct": 66,
+        "price_cop": 96118,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H1CYP2LK",
     "title": "GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe",
     "timestamp": "2026-11-14T22:33:29.487716+00:00",
