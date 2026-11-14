@@ -1,13 +1,5 @@
 [
   {
-    "asin": "B097BL622M",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0B6PLG6G2",
-    "category": "Hogar"
-  },
-  {
     "asin": "B08J8GZXKZ",
     "category": "Hogar"
   },
@@ -360,20 +352,28 @@
     "category": "Tecnología"
   },
   {
-    "asin": "B0BGSDTZVF",
+    "asin": "B0CFQ5T5F6",
     "category": "Computadores"
   },
   {
-    "asin": "B0CFQ5T5F6",
+    "asin": "B0DFLNL3XM",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B097BL622M",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0B6PLG6G2",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0BGSDTZVF",
     "category": "Computadores"
   },
   {
     "asin": "B0F9KJRBT1",
     "category": "Gaming"
-  },
-  {
-    "asin": "B0DFLNL3XM",
-    "category": "Tecnología"
   },
   {
     "asin": "B0FT21HKZ6",
