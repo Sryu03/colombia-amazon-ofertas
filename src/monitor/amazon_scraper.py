@@ -983,6 +983,7 @@ class AmazonMonitorScraper:
         self.has_scrapling = HAS_SCRAPLING
         self._curl_session: Any = None
         self._colombia_location_ready = False
+        self._glow_debug: dict[str, Any] = {}
         self._last_fetch_meta: dict[str, Any] = {}
         self.last_telemetry: dict[str, Any] = {}
 
@@ -1005,7 +1006,6 @@ class AmazonMonitorScraper:
         try:
             session.cookies.set("i18n-prefs", "USD", domain=".amazon.com")
             session.cookies.set("lc-main", "es_US", domain=".amazon.com")
-            session.cookies.set("sp-cdn", '"L5Z9:CO"', domain=".amazon.com")
         except Exception:
             pass
 
@@ -1014,11 +1014,12 @@ class AmazonMonitorScraper:
         patterns = (
             r'name=["\']anti-csrftoken-a2z["\'][^>]*content=["\']([^"\']+)["\']',
             r'anti-csrftoken-a2z["\']?\s*[:=]\s*["\']([^"\']+)["\']',
+            r'CSRF_TOKEN\s*[:=]\s*["\']([^"\']+)["\']',
             r'"csrfToken"\s*:\s*"([^"]+)"',
         )
         for pat in patterns:
             m = re.search(pat, html_text or "", re.I)
-            if m:
+            if m and m.group(1).strip():
                 return m.group(1).strip()
         return ""
 
@@ -1039,24 +1040,44 @@ class AmazonMonitorScraper:
             return
         self._seed_session_cookies(session)
         headers = self._default_headers(include_cookie=False)
+        debug: dict[str, Any] = {}
         try:
             home_resp = session.get(
                 "https://www.amazon.com/?language=es_US",
                 headers=headers,
                 timeout=self.timeout,
             )
+            debug["home_status"] = int(getattr(home_resp, "status_code", 0) or 0)
             home_text = getattr(home_resp, "text", "") or ""
             if _is_captcha_or_blocked(home_text):
+                debug["home_captcha"] = True
+                self._glow_debug = debug
                 self._colombia_location_ready = False
                 return
+
             csrf = self._extract_csrf_token(home_text)
-            glow_headers = {
+            modal_headers = {
                 **headers,
-                "Accept": "text/html,*/*",
-                "Content-Type": "application/json",
+                "Accept": "text/html,*/*;q=0.8",
                 "Origin": "https://www.amazon.com",
                 "Referer": "https://www.amazon.com/?language=es_US",
                 "X-Requested-With": "XMLHttpRequest",
+            }
+            if not csrf:
+                modal_resp = session.get(
+                    "https://www.amazon.com/portal-migration/hz/glow/get-rendered-address-selections?deviceType=desktop&pageType=Gateway&storeContext=NoStoreName&actionSource=desktop-modal",
+                    headers=modal_headers,
+                    timeout=self.timeout,
+                )
+                debug["modal_status"] = int(getattr(modal_resp, "status_code", 0) or 0)
+                modal_text = getattr(modal_resp, "text", "") or ""
+                csrf = self._extract_csrf_token(modal_text)
+            debug["csrf_found"] = bool(csrf)
+
+            glow_headers = {
+                **modal_headers,
+                "Accept": "application/json, text/javascript, */*; q=0.01",
+                "Content-Type": "application/json",
             }
             if csrf:
                 glow_headers["anti-csrftoken-a2z"] = csrf
@@ -1065,24 +1086,32 @@ class AmazonMonitorScraper:
                 "district": "CO",
                 "countryCode": "CO",
                 "deviceType": "web",
-                "pageType": "Detail",
-                "storeContext": "generic",
+                "pageType": "Gateway",
+                "storeContext": "NoStoreName",
                 "almBrandId": "undefined",
             }
-            session.post(
+            post_resp = session.post(
                 "https://www.amazon.com/portal-migration/hz/glow/address-change?actionSource=glow",
                 json=payload,
                 headers=glow_headers,
                 timeout=self.timeout,
             )
-            session.get(
-                "https://www.amazon.com/gp/delivery/ajax/address-change.html?locationType=COUNTRY&district=CO&countryCode=CO&deviceType=web&pageType=Detail&storeContext=generic",
-                headers=glow_headers,
-                timeout=self.timeout,
-            )
+            debug["post_status"] = int(getattr(post_resp, "status_code", 0) or 0)
+            debug["post_body"] = (getattr(post_resp, "text", "") or "").strip()[:120]
+
+            if debug["post_status"] != 200:
+                ajax_resp = session.get(
+                    "https://www.amazon.com/gp/delivery/ajax/address-change.html?locationType=COUNTRY&district=CO&countryCode=CO&deviceType=web&pageType=Gateway&storeContext=generic",
+                    headers=glow_headers,
+                    timeout=self.timeout,
+                )
+                debug["ajax_status"] = int(getattr(ajax_resp, "status_code", 0) or 0)
+
+            self._glow_debug = debug
             self._colombia_location_ready = True
-        except Exception:
-            pass
+        except Exception as exc:
+            debug["exc"] = type(exc).__name__
+            self._glow_debug = debug
 
     def _parse_if_valid_page(self, html_text: str, asin: str) -> dict[str, Any] | None:
         if not html_text or _is_captcha_or_blocked(html_text):
@@ -1396,5 +1425,6 @@ class AmazonMonitorScraper:
                 if len(telemetry["sample_outcomes"]) < 10:
                     telemetry["sample_outcomes"].append(meta)
 
+        telemetry["glow_bootstrap"] = dict(self._glow_debug)
         self.last_telemetry = telemetry
         return live_results
