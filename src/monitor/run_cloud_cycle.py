@@ -28,6 +28,7 @@ def main() -> None:
         "trm_cop": result["trm_cop"],
         "monitored_count": result["monitored_count"],
         "approved_deals_count": result["approved_deals_count"],
+        "telegram_delivery_status": result.get("telegram_delivery_status", {}),
         "vercel_status": deploy_res["status"],
         "public_web_url": deploy_res.get("url"),
     }
