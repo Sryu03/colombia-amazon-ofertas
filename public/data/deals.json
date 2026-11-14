@@ -13,20 +13,14 @@
     "active_deals_count": 0,
     "new_price_drops_count": 5,
     "telegram_delivery_status": {
-      "checked_at": "2026-11-14T16:30:55.953576+00:00",
+      "checked_at": "2026-11-14T16:40:30.634213+00:00",
       "token_configured": true,
       "chat_id": "@pillepues",
-      "source": "live_scrape",
-      "attempted": 5,
-      "sent": 5,
+      "source": "none",
+      "attempted": 0,
+      "sent": 0,
       "simulated": 0,
-      "sent_asins": [
-        "B0BRKGYMV1",
-        "B0DL72PK1P",
-        "B0F21WN48Z",
-        "B0F6TM5LJR",
-        "B0BBQ3ZYNY"
-      ],
+      "sent_asins": [],
       "errors": []
     },
     "audit_report": {
