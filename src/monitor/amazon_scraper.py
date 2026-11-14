@@ -619,39 +619,95 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         )
         title = title_node.get_text(" ", strip=True) if title_node else ""
 
-        price_node = (
-            soup.select_one("#corePriceDisplay_desktop_feature_div .priceToPay .a-offscreen")
-            or soup.select_one("#corePriceDisplay_desktop_feature_div .a-price:not(.a-text-price) .a-offscreen")
-            or soup.select_one("#corePrice_feature_div .priceToPay .a-offscreen")
-            or soup.select_one("#corePrice_feature_div .a-price:not(.a-text-price) .a-offscreen")
-            or soup.select_one("#apex_desktop .priceToPay .a-offscreen")
-            or soup.select_one("#apex_desktop .a-price:not(.a-text-price) .a-offscreen")
-            or soup.select_one("#desktop_buybox .a-price:not(.a-text-price) .a-offscreen")
-            or soup.select_one("#buybox .a-price:not(.a-text-price) .a-offscreen")
-            or soup.select_one("#price_inside_buybox")
-            or soup.select_one("#priceblock_dealprice")
-            or soup.select_one("#priceblock_ourprice")
+        price_selectors = (
+            "#corePriceDisplay_desktop_feature_div .priceToPay .a-offscreen",
+            "#corePriceDisplay_desktop_feature_div .a-price:not(.a-text-price) .a-offscreen",
+            "#corePrice_feature_div .priceToPay .a-offscreen",
+            "#corePrice_feature_div .a-price:not(.a-text-price) .a-offscreen",
+            "#apex_desktop .priceToPay .a-offscreen",
+            "#apex_desktop .a-price:not(.a-text-price) .a-offscreen",
+            "#desktop_buybox .a-price:not(.a-text-price) .a-offscreen",
+            "#buybox .a-price:not(.a-text-price) .a-offscreen",
+            "#price_inside_buybox",
+            "#priceblock_dealprice",
+            "#priceblock_ourprice",
         )
-        price_usd = _extract_float_price(price_node.get_text(strip=True) if price_node else "")
+        for sel in price_selectors:
+            for node in soup.select(sel):
+                val = _extract_float_price(node.get_text(" ", strip=True))
+                if val > 0.0:
+                    price_usd = val
+                    break
+            if price_usd > 0.0:
+                break
 
-        list_node = (
-            soup.select_one("#corePriceDisplay_desktop_feature_div .basisPrice .a-offscreen")
-            or soup.select_one("#corePrice_feature_div .basisPrice .a-offscreen")
-            or soup.select_one("#apex_desktop .basisPrice .a-offscreen")
-            or soup.select_one("#corePriceDisplay_desktop_feature_div .a-price.a-text-price .a-offscreen")
-            or soup.select_one("#corePrice_feature_div .a-price.a-text-price .a-offscreen")
-            or soup.select_one(".basisPrice .a-offscreen")
-            or soup.select_one("#corePriceDisplay_desktop_feature_div span[data-a-strike='true'] .a-offscreen")
-            or soup.select_one("#listPrice")
-            or soup.select_one("#priceblock_strikeprice")
+        if price_usd <= 0.0:
+            part_containers = (
+                "#corePriceDisplay_desktop_feature_div .priceToPay",
+                "#corePriceDisplay_desktop_feature_div .a-price:not(.a-text-price)",
+                "#corePrice_feature_div .priceToPay",
+                "#corePrice_feature_div .a-price:not(.a-text-price)",
+                "#apex_desktop .priceToPay",
+                "#apex_desktop .a-price:not(.a-text-price)",
+                "#desktop_buybox .a-price:not(.a-text-price)",
+                "#buybox .a-price:not(.a-text-price)",
+            )
+            for sel in part_containers:
+                for pnode in soup.select(sel):
+                    whole_el = pnode.select_one(".a-price-whole")
+                    if whole_el:
+                        whole_digits = re.sub(r"[^\d]", "", whole_el.get_text(strip=True))
+                        frac_el = pnode.select_one(".a-price-fraction")
+                        frac_digits = re.sub(r"[^\d]", "", frac_el.get_text(strip=True)) if frac_el else "00"
+                        if whole_digits:
+                            try:
+                                val = float(f"{whole_digits}.{frac_digits or '00'}")
+                                if val > 0.0:
+                                    price_usd = val
+                                    break
+                            except ValueError:
+                                pass
+                if price_usd > 0.0:
+                    break
+
+        if price_usd <= 0.0:
+            for hidden_sel in (
+                "#twister-plus-price-data-price",
+                "input[name='items[0.base][customerVisiblePrice][amount]']",
+            ):
+                hnode = soup.select_one(hidden_sel)
+                if hnode:
+                    val = _extract_float_price(str(hnode.get("value") or ""))
+                    if val > 0.0:
+                        price_usd = val
+                        break
+
+        list_selectors = (
+            "#corePriceDisplay_desktop_feature_div .basisPrice .a-offscreen",
+            "#corePrice_feature_div .basisPrice .a-offscreen",
+            "#apex_desktop .basisPrice .a-offscreen",
+            "#corePriceDisplay_desktop_feature_div .a-price.a-text-price .a-offscreen",
+            "#corePrice_feature_div .a-price.a-text-price .a-offscreen",
+            ".basisPrice .a-offscreen",
+            "#corePriceDisplay_desktop_feature_div span[data-a-strike='true'] .a-offscreen",
+            "#listPrice",
+            "#priceblock_strikeprice",
         )
-        list_price_usd = _extract_float_price(list_node.get_text(strip=True) if list_node else "")
+        for sel in list_selectors:
+            for lnode in soup.select(sel):
+                val = _extract_float_price(lnode.get_text(" ", strip=True))
+                if val > 0.0:
+                    list_price_usd = val
+                    break
+            if list_price_usd > 0.0:
+                break
 
         delivery_selectors = (
             "#mir-layout-DELIVERY_BLOCK",
             "#deliveryBlockMessage",
             "#amazonGlobal_feature_div",
             "#exports_desktop_qualifiedBuybox_tlc_feature_div",
+            "#exports_desktop_qualifiedBuybox_deliveryBlock_feature_div",
             "#availability",
             "#outOfStock",
             "#unqualifiedBuyBox",
@@ -665,7 +721,10 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         ]
         delivery_text = (" ".join(delivery_chunks) if delivery_chunks else raw_html).lower()
 
-        ingress_nodes = soup.select("#glow-ingress-block, #glow-ingress-line2, #contextualIngressPtLabel")
+        ingress_nodes = soup.select(
+            "#glow-ingress-block, #glow-ingress-line1, #glow-ingress-line2, "
+            "#contextualIngressPtLabel, #contextualIngressPtLabel_deliveryShortLine"
+        )
         ingress_text = " ".join(n.get_text(" ", strip=True) for n in ingress_nodes).lower()
 
         is_full_dp_page = bool(
@@ -709,34 +768,71 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
 
         # Current price: prefer corePrice / priceToPay / non-strike a-price
         price_block_match = re.search(
-            r'id=["\']corePrice(?:Display_desktop)?_feature_div["\'](.*?)(?:id=["\']|\Z)',
+            r'id=["\'](?:corePriceDisplay_desktop_feature_div|corePrice_feature_div|apex_desktop)["\']',
             raw_html,
-            re.S | re.I,
+            re.I,
         )
-        price_scope = price_block_match.group(1) if price_block_match else raw_html
-        current_price_match = re.search(
-            r'class=["\'][^"\']*a-price(?!\s*a-text-price)[^"\']*["\'][^>]*>.*?class=["\'][^"\']*a-offscreen[^"\']*["\'][^>]*>\s*([^<]+)<',
-            price_scope,
-            re.S | re.I,
-        )
-        if not current_price_match:
-            current_price_match = re.search(
+        price_scope = raw_html[price_block_match.start() : price_block_match.start() + 14000] if price_block_match else raw_html
+        price_usd = 0.0
+        for ap_m in re.finditer(r'class=["\']([^"\']*\ba-price\b[^"\']*)["\'][^>]*>', price_scope, re.I):
+            cls_str = ap_m.group(1).lower()
+            if "a-text-price" in cls_str:
+                continue
+            window = price_scope[ap_m.end() : ap_m.end() + 350]
+            off_m = re.search(r'class=["\'][^"\']*a-offscreen[^"\']*["\'][^>]*>\s*([^<]*)<', window, re.I)
+            if off_m:
+                val = _extract_float_price(off_m.group(1))
+                if val > 0.0:
+                    price_usd = val
+                    break
+            wf_m = re.search(
+                r'class=["\'][^"\']*a-price-whole[^"\']*["\'][^>]*>\s*([0-9,]+)',
+                window,
+                re.I,
+            )
+            if wf_m:
+                frac_m = re.search(
+                    r'class=["\'][^"\']*a-price-fraction[^"\']*["\'][^>]*>\s*([0-9]{1,2})',
+                    window[wf_m.end() :],
+                    re.I,
+                )
+                whole_d = re.sub(r"[^\d]", "", wf_m.group(1) or "")
+                frac_d = re.sub(r"[^\d]", "", frac_m.group(1) if frac_m else "00")
+                if whole_d:
+                    try:
+                        val = float(f"{whole_d}.{frac_d or '00'}")
+                        if val > 0.0:
+                            price_usd = val
+                            break
+                    except ValueError:
+                        pass
+        if price_usd <= 0.0:
+            hidden_m = re.search(
+                r'id=["\']twister-plus-price-data-price["\'][^>]*value=["\']([^"\']+)["\']',
+                price_scope,
+                re.I,
+            ) or re.search(
                 r'id=["\']priceblock_(?:deal|our)price["\'][^>]*>\s*([^<]+)<',
                 raw_html,
                 re.I,
             )
-        price_usd = _extract_float_price(current_price_match.group(1) if current_price_match else "")
+            if hidden_m:
+                price_usd = _extract_float_price(hidden_m.group(1))
 
         # Strike-through list price: strictly inside basisPrice or a-text-price or data-a-strike
-        strike_match = re.search(
+        list_price_usd = 0.0
+        for strike_m in re.finditer(
             r'(?:basisPrice|a-text-price|data-a-strike=["\']true["\'])[^>]*>.*?class=["\'][^"\']*a-offscreen[^"\']*["\'][^>]*>\s*([^<]+)<',
             price_scope,
             re.S | re.I,
-        )
-        list_price_usd = _extract_float_price(strike_match.group(1) if strike_match else "")
+        ):
+            val = _extract_float_price(strike_m.group(1))
+            if val > 0.0:
+                list_price_usd = val
+                break
         delivery_text = re.sub(r"<[^>]+>", " ", raw_html).lower()
         ingress_m = re.search(
-            r'id=["\'](?:glow-ingress-block|contextualIngressPtLabel)["\'][^>]*>(.*?)</div>',
+            r'id=["\'](?:glow-ingress-block|glow-ingress-line2|contextualIngressPtLabel)["\'][^>]*>(.*?)</div>',
             raw_html,
             re.S | re.I,
         )
@@ -891,16 +987,27 @@ class AmazonMonitorScraper:
         self.last_telemetry: dict[str, Any] = {}
 
     @staticmethod
-    def _default_headers() -> dict[str, str]:
-        return {
+    def _default_headers(include_cookie: bool = True) -> dict[str, str]:
+        headers = {
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/125.0.0.0 Safari/537.36"
             ),
             "Accept-Language": "es-US,es;q=0.9,en;q=0.8",
-            "Cookie": 'i18n-prefs=USD; lc-main=es_US; sp-cdn="L5Z9:CO"',
         }
+        if include_cookie:
+            headers["Cookie"] = 'i18n-prefs=USD; lc-main=es_US; sp-cdn="L5Z9:CO"'
+        return headers
+
+    @staticmethod
+    def _seed_session_cookies(session: Any) -> None:
+        try:
+            session.cookies.set("i18n-prefs", "USD", domain=".amazon.com")
+            session.cookies.set("lc-main", "es_US", domain=".amazon.com")
+            session.cookies.set("sp-cdn", '"L5Z9:CO"', domain=".amazon.com")
+        except Exception:
+            pass
 
     @staticmethod
     def _extract_csrf_token(html_text: str) -> str:
@@ -915,10 +1022,23 @@ class AmazonMonitorScraper:
                 return m.group(1).strip()
         return ""
 
+    @staticmethod
+    def _extract_ingress_snippet(html_text: str) -> str:
+        if HAS_BS4 and BeautifulSoup is not None and html_text:
+            try:
+                soup = BeautifulSoup(html_text, "html.parser")
+                nodes = soup.select("#glow-ingress-line2, #contextualIngressPtLabel_deliveryShortLine")
+                txt = " ".join(n.get_text(" ", strip=True) for n in nodes).strip()
+                return txt[:60]
+            except Exception:
+                pass
+        return ""
+
     def _bootstrap_colombia_location_curl(self, session: Any) -> None:
         if self._colombia_location_ready:
             return
-        headers = self._default_headers()
+        self._seed_session_cookies(session)
+        headers = self._default_headers(include_cookie=False)
         try:
             home_resp = session.get(
                 "https://www.amazon.com/?language=es_US",
@@ -976,18 +1096,19 @@ class AmazonMonitorScraper:
     def fetch_asin_live(self, asin: str) -> dict[str, Any] | None:
         """Fetch live product page from Amazon.com with Colombia (`CO`) destination context."""
         url = f"https://www.amazon.com/dp/{asin}?language=es_US"
-        headers = self._default_headers()
+        headers = self._default_headers(include_cookie=True)
+        session_headers = self._default_headers(include_cookie=False)
         self._last_fetch_meta = {"asin": asin, "client": "none", "status": "none", "outcome": "init"}
         got_http_captcha = False
 
         if HAS_CURL_CFFI and curl_requests is not None:
-            # 1a. Sesión persistente Chrome con ubicación Colombia
+            # 1a. Sesión persistente Chrome con cookie jar real y ubicación Colombia
             try:
                 if self._curl_session is None:
                     self._curl_session = curl_requests.Session(impersonate="chrome")
                     self._colombia_location_ready = False
                 self._bootstrap_colombia_location_curl(self._curl_session)
-                resp = self._curl_session.get(url, headers=headers, timeout=self.timeout)
+                resp = self._curl_session.get(url, headers=session_headers, timeout=self.timeout)
                 status_code = int(getattr(resp, "status_code", 0) or 0)
                 resp_text = getattr(resp, "text", "") or ""
                 if status_code == 200:
@@ -1005,6 +1126,7 @@ class AmazonMonitorScraper:
                                 "status": 200,
                                 "outcome": "parsed_ok",
                                 "dest": parsed.get("delivery_country_confirmed"),
+                                "ingress": self._extract_ingress_snippet(resp_text),
                                 "has_buybox": parsed.get("has_buybox"),
                                 "price_usd": parsed.get("price_usd"),
                                 "list_price_usd": parsed.get("list_price_usd"),
@@ -1250,6 +1372,7 @@ class AmazonMonitorScraper:
                             "price_usd": live_price,
                             "list_price_usd": live_item.get("list_price_usd"),
                             "dest": dest,
+                            "ingress": self._last_fetch_meta.get("ingress", ""),
                             "has_buybox": live_item.get("has_buybox"),
                             "live_verified": live_item.get("live_verified"),
                         }
