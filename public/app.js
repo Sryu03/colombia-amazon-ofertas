@@ -501,6 +501,10 @@
                 loading="lazy"
                 onerror="this.onerror=null;this.src='${deal.fallback_image_url}';"
               />
+              <span class="deal-brand-watermark">
+                <img src="./assets/pillepues-favicon.png" alt="" aria-hidden="true" />
+                <span>PillePues · @pillepues</span>
+              </span>
               <span class="badge-asin-overlay">ASIN: ${deal.asin}</span>
             </div>
 

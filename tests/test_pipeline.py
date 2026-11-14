@@ -568,10 +568,16 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         from unittest.mock import patch
         from PIL import Image, ImageDraw
         from src.broadcaster.card_image import (
+            _load_brand_logo,
             build_image_url_candidates,
             render_offer_card_from_image_bytes,
             upgrade_amazon_image_url,
         )
+
+        brand_logo = _load_brand_logo(98)
+        self.assertIsNotNone(brand_logo)
+        self.assertEqual(brand_logo.mode, "RGBA")
+        self.assertLessEqual(max(brand_logo.size), 98)
 
         low_res = "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_UL320_.jpg"
         self.assertEqual(

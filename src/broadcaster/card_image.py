@@ -43,6 +43,22 @@ _FONT_REGULAR_CANDIDATES = (
     "/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf",
 )
 
+_BRAND_LOGO_PATH = Path(__file__).resolve().parent.parent.parent / "public" / "assets" / "pillepues-logo.png"
+
+
+def _load_brand_logo(max_size: int) -> Any | None:
+    """Carga y escala el logo oficial de PillePues (RGBA transparente) si existe en disco."""
+    if not HAS_PIL or Image is None or not _BRAND_LOGO_PATH.exists():
+        return None
+    try:
+        resample = getattr(Image, "Resampling", Image).LANCZOS
+        with Image.open(_BRAND_LOGO_PATH) as raw_logo:
+            logo = raw_logo.convert("RGBA")
+            logo.thumbnail((max_size, max_size), resample)
+            return logo
+    except Exception:
+        return None
+
 
 def upgrade_amazon_image_url(image_url: str, size: int = 1500) -> str:
     """Convierte miniaturas de Amazon (`_AC_UL320_`, `_SX300_`, etc.) a alta resolución (`_AC_SL1500_`) sin degradar imágenes HD."""
@@ -200,7 +216,7 @@ def render_offer_card_from_image_bytes(
     draw = ImageDraw.Draw(canvas)
 
     # 1. Header oscuro editorial + barra tricolor Colombia
-    header_h = 116
+    header_h = 126
     draw.rectangle([(0, 0), (W, header_h)], fill=(15, 23, 42, 255))  # #0F172A
     draw.rectangle([(0, 0), (int(W * 0.50), 8)], fill=(250, 204, 21, 255))   # Amarillo CO
     draw.rectangle([(int(W * 0.50), 0), (int(W * 0.75), 8)], fill=(37, 99, 235, 255))   # Azul CO
@@ -217,19 +233,30 @@ def render_offer_card_from_image_bytes(
     font_watermark = _load_font(28, bold=True)
     font_stamp = _load_font(20, bold=True)
 
-    # Marca izquierda: PillePues (ancho dinámico con padding cómodo)
-    brand_bbox = draw.textbbox((0, 0), brand_name, font=font_brand)
-    brand_w = (brand_bbox[2] - brand_bbox[0]) + 40
-    brand_x0, brand_y0 = 36, 28
-    brand_x1, brand_y1 = brand_x0 + brand_w, 96
-    draw.rounded_rectangle([(brand_x0, brand_y0), (brand_x1, brand_y1)], radius=14, fill=(245, 158, 11, 255))
-    brand_tx = brand_x0 + 20 - brand_bbox[0]
-    brand_ty = brand_y0 + ((brand_y1 - brand_y0) - (brand_bbox[3] - brand_bbox[1])) // 2 - brand_bbox[1]
-    draw.text((brand_tx, brand_ty), brand_name, font=font_brand, fill=(15, 23, 42, 255))
+    logo_header = _load_brand_logo(98)
+    if logo_header is not None:
+        lx = 32
+        ly = 12 + (header_h - 12 - logo_header.height) // 2
+        canvas.alpha_composite(logo_header, (lx, ly))
+        draw = ImageDraw.Draw(canvas)
+        sub_x = lx + logo_header.width + 18
+        draw.text((sub_x, 24), f"{brand_name} · OFERTAS BIEN BACANAS", font=_load_font(28, bold=True), fill=(250, 204, 21, 255))
+        draw.text((sub_x, 60), "OFERTAS VERIFICADAS AMAZON -> COLOMBIA", font=_load_font(19, bold=True), fill=(248, 250, 252, 255))
+        draw.text((sub_x, 88), f"{channel_handle} · Envío directo sin casillero", font=_load_font(19, bold=False), fill=(148, 163, 184, 255))
+    else:
+        # Fallback textual si no está el asset del logo
+        brand_bbox = draw.textbbox((0, 0), brand_name, font=font_brand)
+        brand_w = (brand_bbox[2] - brand_bbox[0]) + 40
+        brand_x0, brand_y0 = 36, 30
+        brand_x1, brand_y1 = brand_x0 + brand_w, 98
+        draw.rounded_rectangle([(brand_x0, brand_y0), (brand_x1, brand_y1)], radius=14, fill=(245, 158, 11, 255))
+        brand_tx = brand_x0 + 20 - brand_bbox[0]
+        brand_ty = brand_y0 + ((brand_y1 - brand_y0) - (brand_bbox[3] - brand_bbox[1])) // 2 - brand_bbox[1]
+        draw.text((brand_tx, brand_ty), brand_name, font=font_brand, fill=(15, 23, 42, 255))
 
-    sub_x = brand_x1 + 22
-    draw.text((sub_x, 34), "OFERTAS AMAZON · COLOMBIA", font=font_subbrand, fill=(248, 250, 252, 255))
-    draw.text((sub_x, 66), f"{channel_handle} · Envío directo sin casillero", font=_load_font(20, bold=False), fill=(148, 163, 184, 255))
+        sub_x = brand_x1 + 22
+        draw.text((sub_x, 36), "OFERTAS AMAZON · COLOMBIA", font=font_subbrand, fill=(248, 250, 252, 255))
+        draw.text((sub_x, 68), f"{channel_handle} · Envío directo sin casillero", font=_load_font(20, bold=False), fill=(148, 163, 184, 255))
 
     # Badge derecha: -XX% OFF
     discount_pct = int(round(float(deal.get("discount_pct") or 0)))
@@ -238,13 +265,13 @@ def render_offer_card_from_image_bytes(
     disc_w = (disc_bbox[2] - disc_bbox[0]) + 44
     disc_x1 = W - 36
     disc_x0 = disc_x1 - disc_w
-    draw.rounded_rectangle([(disc_x0, 28), (disc_x1, 96)], radius=16, fill=(220, 38, 38, 255))
+    draw.rounded_rectangle([(disc_x0, 32), (disc_x1, 100)], radius=16, fill=(220, 38, 38, 255))
     disc_tx = disc_x0 + 22 - disc_bbox[0]
-    disc_ty = 28 + (68 - (disc_bbox[3] - disc_bbox[1])) // 2 - disc_bbox[1]
+    disc_ty = 32 + (68 - (disc_bbox[3] - disc_bbox[1])) // 2 - disc_bbox[1]
     draw.text((disc_tx, disc_ty), disc_text, font=font_discount, fill=(255, 255, 255, 255))
 
     # 2. Vitrina blanca centrada para el producto (NUNCA recortado)
-    stage_x0, stage_y0 = 36, 136
+    stage_x0, stage_y0 = 36, 142
     stage_x1, stage_y1 = W - 36, 786
     draw.rounded_rectangle(
         [(stage_x0, stage_y0), (stage_x1, stage_y1)],
@@ -255,7 +282,7 @@ def render_offer_card_from_image_bytes(
     )
 
     inner_pad_x = 68
-    inner_pad_top = 48
+    inner_pad_top = 44
     inner_pad_bottom = 78
     max_prod_w = (stage_x1 - stage_x0) - (inner_pad_x * 2)
     max_prod_h = (stage_y1 - stage_y0) - inner_pad_top - inner_pad_bottom
@@ -272,7 +299,7 @@ def render_offer_card_from_image_bytes(
     wm_draw.text((16, 40), f"{brand_name} · {channel_handle}", font=font_watermark, fill=(15, 23, 42, 20))
     resample_bicubic = getattr(Image, "Resampling", Image).BICUBIC
     wm_rotated = wm_tile.rotate(24, expand=True, resample=resample_bicubic)
-    for wy in (170, 380):
+    for wy in (176, 382):
         for wx in (90, 520):
             wm_layer.alpha_composite(wm_rotated, (wx, wy))
     # Recortar la marca de agua solo dentro de la vitrina (encima de la franja de badges)
@@ -285,22 +312,28 @@ def render_offer_card_from_image_bytes(
     canvas = Image.composite(Image.alpha_composite(canvas, wm_layer), canvas, stage_mask)
     draw = ImageDraw.Draw(canvas)
 
-    # Sello visible de marca en esquina inferior derecha (medido primero para evitar colisiones)
+    # Sello visible de marca en esquina inferior derecha (con mini-mascota + texto)
     stamp_text = f"{brand_name} · {channel_handle}"
+    logo_stamp = _load_brand_logo(26)
+    icon_slot = (logo_stamp.width + 8) if logo_stamp is not None else 0
     st_bbox = draw.textbbox((0, 0), stamp_text, font=font_stamp)
-    st_w = (st_bbox[2] - st_bbox[0]) + 28
+    st_w = (st_bbox[2] - st_bbox[0]) + 28 + icon_slot
     st_x1 = stage_x1 - 22
     st_x0 = st_x1 - st_w
     pill_y0, pill_y1 = stage_y1 - 52, stage_y1 - 14
     draw.rounded_rectangle(
         [(st_x0, pill_y0), (st_x1, pill_y1)],
         radius=12,
-        fill=(15, 23, 42, 235),
+        fill=(15, 23, 42, 238),
         outline=(245, 158, 11, 255),
         width=2,
     )
+    if logo_stamp is not None:
+        logo_sy = pill_y0 + ((pill_y1 - pill_y0) - logo_stamp.height) // 2
+        canvas.alpha_composite(logo_stamp, (st_x0 + 10, logo_sy))
+        draw = ImageDraw.Draw(canvas)
     st_ty = pill_y0 + ((pill_y1 - pill_y0) - (st_bbox[3] - st_bbox[1])) // 2 - st_bbox[1]
-    draw.text((st_x0 + 14 - st_bbox[0], st_ty), stamp_text, font=font_stamp, fill=(254, 243, 199, 255))
+    draw.text((st_x0 + 14 + icon_slot - st_bbox[0], st_ty), stamp_text, font=font_stamp, fill=(254, 243, 199, 255))
 
     # Badges inferiores izquierda dentro de la vitrina (Envío CO + DIAN sin solapamiento)
     ships_direct = bool(deal.get("ships_to_colombia", False)) and not bool(deal.get("requires_locker", False))
