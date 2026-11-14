@@ -59,291 +59,444 @@ def _build_product_svg_data_uri(
 
 SEED_PRODUCTS_COLOMBIA: list[dict[str, Any]] = [
     {
-        "asin": "B09V3KXJPB",
+        "asin": "B0B9C4DKKG",
         "title": "Samsung 990 PRO SSD NVMe M.2 PCIe Gen4 de 2TB con Lectura de 7450 MB/s",
         "category": "Tecnología",
         "brand": "Samsung",
-        "price_usd": 119.99,
-        "list_price_usd": 189.99,
-        "avg_90d_usd": 169.99,
+        "price_usd": 149.99,
+        "list_price_usd": 249.99,
+        "avg_90d_usd": 189.99,
         "ships_to_colombia": True,
         "free_shipping_co": True,
-        "rating": 4.9,
-        "reviews_count": 8420,
-        "image_url": _build_product_svg_data_uri(
-            "SAMSUNG 990 PRO 2TB",
-            "NVMe M.2 PCIe 4.0 • 7450 MB/s • Compatible PS5",
-            "Tecnología",
-            "#3B82F6",
-        ),
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.8,
+        "reviews_count": 9840,
+        "image_url": "https://m.media-amazon.com/images/I/71K6m2A+WJL._AC_SL1500_.jpg",
         "highlights": [
             "Velocidades secuenciales de hasta 7,450 MB/s en lectura y 6,900 MB/s en escritura",
-            "Compatible con PlayStation 5 y laptops/PC de alto rendimiento con control térmico inteligente",
-            "Exento de arancel e IVA en Colombia (< $200 USD) con envío gratis directo desde Amazon.com",
+            "Compatible con PlayStation 5 y laptops/PC de alto rendimiento PCIe 4.0",
+            "Exento de arancel e IVA en Colombia (≤ $200 USD) con envío gratis directo sin casillero",
         ],
     },
     {
-        "asin": "B0863TXGM3",
+        "asin": "B0863FR3S9",
         "title": "Sony WH-1000XM4 Audífonos Inalámbricos Noise Cancelling con 30h de Batería",
         "category": "Audio",
         "brand": "Sony",
-        "price_usd": 148.00,
-        "list_price_usd": 248.00,
-        "avg_90d_usd": 228.00,
+        "price_usd": 198.00,
+        "list_price_usd": 348.00,
+        "avg_90d_usd": 248.00,
         "ships_to_colombia": True,
         "free_shipping_co": True,
-        "rating": 4.8,
-        "reviews_count": 56310,
-        "image_url": _build_product_svg_data_uri(
-            "SONY WH-1000XM4",
-            "Cancelación Activa Líder • LDAC Hi-Res • 30h Batería",
-            "Audio",
-            "#8B5CF6",
-        ),
-        "highlights": [
-            "Cancelación de ruido líder en la industria con procesador HD QN1 y doble sensor de ruido",
-            "Audio de alta resolución LDAC, conexión multipunto Bluetooth para 2 dispositivos simultáneos",
-            "Pasa directo por aduana en Colombia con $0 de impuestos (debajo del tope de $200 USD)",
-        ],
-    },
-    {
-        "asin": "B09VCJ171S",
-        "title": "AMD Ryzen 5 5600X Procesador Desbloqueado de 6 Núcleos y 12 Hilos + Cooler Wraith Stealth",
-        "category": "Tecnología",
-        "brand": "AMD",
-        "price_usd": 109.99,
-        "list_price_usd": 179.99,
-        "avg_90d_usd": 154.99,
-        "ships_to_colombia": True,
-        "free_shipping_co": True,
-        "rating": 4.8,
-        "reviews_count": 32140,
-        "image_url": _build_product_svg_data_uri(
-            "AMD RYZEN 5 5600X",
-            "6 Núcleos / 12 Hilos • 4.6 GHz Boost • Socket AM4",
-            "Tecnología",
-            "#EF4444",
-        ),
-        "highlights": [
-            "6 núcleos y 12 hilos desbloqueados con reloj turbo de hasta 4.6 GHz y 35 MB de caché",
-            "Incluye disipador térmico silencioso AMD Wraith Stealth listo para instalar en placas AM4",
-            "Cero aranceles de importación en Colombia y envío gratis puerta a puerta incluido",
-        ],
-    },
-    {
-        "asin": "B0B4629BNR",
-        "title": "ASUS TUF Gaming VG249Q1R Monitor Gamer 24\" Full HD 165Hz IPS 1ms FreeSync Premium",
-        "category": "Gaming",
-        "brand": "ASUS",
-        "price_usd": 109.00,
-        "list_price_usd": 169.99,
-        "avg_90d_usd": 159.99,
-        "ships_to_colombia": True,
-        "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
         "rating": 4.7,
-        "reviews_count": 6890,
-        "image_url": _build_product_svg_data_uri(
-            "ASUS TUF 24\" 165HZ",
-            "Panel IPS 1ms MPRT • FreeSync Premium • Shadow Boost",
-            "Gaming",
-            "#10B981",
-        ),
+        "reviews_count": 58420,
+        "image_url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
         "highlights": [
-            "Panel IPS de 23.8 pulgadas Full HD (1920x1080) con tasa de refresco overclockeable a 165Hz",
-            "Tiempo de respuesta extremo de 1ms MPRT con tecnología ASUS Extreme Low Motion Blur",
-            "Envío gratuito a Colombia sin cobro de IVA ni aranceles por estar bajo los $200 USD",
+            "Cancelación de ruido líder en la industria con procesador HD QN1 y doble sensor",
+            "Audio de alta resolución LDAC y conexión multipunto Bluetooth para 2 dispositivos",
+            "Pasa directo por aduana en Colombia con $0 de impuestos (≤ $200 USD) y envío gratis",
         ],
     },
     {
-        "asin": "B08R6S1M1K",
-        "title": "Anker 735 Cargador GaNPrime 65W USB-C de 3 Puertos Plegable Carga Rápida",
-        "category": "Tecnología",
-        "brand": "Anker",
-        "price_usd": 24.99,
-        "list_price_usd": 45.99,
-        "avg_90d_usd": 39.99,
-        "ships_to_colombia": True,
-        "free_shipping_co": True,
-        "rating": 4.8,
-        "reviews_count": 14820,
-        "image_url": _build_product_svg_data_uri(
-            "ANKER 735 GAN 65W",
-            "2x USB-C + 1x USB-A • MacBook / iPhone / Galaxy",
-            "Tecnología",
-            "#06B6D4",
-        ),
-        "highlights": [
-            "Carga simultáneamente laptop MacBook Air/Pro, celular y audífonos con 65W de potencia GaNPrime",
-            "Diseño ultra compacto 53% más pequeño que cargadores originales de 67W con clavijas plegables",
-            "Elegible para envío gratis a Colombia completando $35 USD en el carrito y 0% impuestos",
-        ],
-    },
-    {
-        "asin": "B07W5JKHFZ",
-        "title": "Logitech G502 HERO Mouse Gamer de Alto Rendimiento con Sensor HERO 25K y Pesas Ajustables",
-        "category": "Gaming",
-        "brand": "Logitech G",
-        "price_usd": 29.99,
-        "list_price_usd": 59.99,
-        "avg_90d_usd": 46.99,
-        "ships_to_colombia": True,
-        "free_shipping_co": True,
-        "rating": 4.8,
-        "reviews_count": 64200,
-        "image_url": _build_product_svg_data_uri(
-            "LOGITECH G502 HERO",
-            "Sensor 25,600 DPI • 11 Botones Programables • RGB",
-            "Gaming",
-            "#3B82F6",
-        ),
-        "highlights": [
-            "Sensor óptico HERO 25K con seguimiento submicrónico de hasta 25,600 DPI sin aceleración",
-            "11 botones programables, rueda hiperrápida de doble modo y sistema de 5 pesas de 3.6g",
-            "Ideal para combinar en carrito de $35+ USD y obtener envío gratis a Colombia sin impuestos",
-        ],
-    },
-    {
-        "asin": "B0B2SH4CN6",
-        "title": "Apple AirPods Pro (2.ª Generación) con Estuche de Carga MagSafe USB-C y Audio Adaptativo",
+        "asin": "B0CHWRXH8B",
+        "title": "Apple AirPods Pro (2.ª Generación) con Estuche de Carga MagSafe USB-C",
         "category": "Audio",
         "brand": "Apple",
         "price_usd": 169.99,
         "list_price_usd": 249.00,
-        "avg_90d_usd": 234.00,
+        "avg_90d_usd": 199.99,
         "ships_to_colombia": True,
         "free_shipping_co": True,
-        "rating": 4.8,
-        "reviews_count": 41250,
-        "image_url": _build_product_svg_data_uri(
-            "AIRPODS PRO 2 USB-C",
-            "Chip Apple H2 • Cancelación Activa 2x • Audio Espacial",
-            "Audio",
-            "#F59E0B",
-        ),
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.7,
+        "reviews_count": 67430,
+        "image_url": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg",
         "highlights": [
-            "Chip H2 diseñado por Apple con hasta el doble de cancelación activa de ruido y modo Ambiente",
-            "Estuche de carga MagSafe con puerto USB-C, altavoz integrado para Encontrar y resistencia IP54",
-            "Ahorro masivo frente a tiendas en Colombia: entra sin IVA (bajo $200 USD) y envío gratis",
+            "Chip H2 de Apple con hasta el doble de cancelación activa de ruido y Audio Adaptativo",
+            "Estuche de carga MagSafe USB-C con altavoz integrado y resistencia IP54",
+            "Entra a Colombia sin IVA ni arancel (≤ $200 USD) con envío gratis directo",
+        ],
+    },
+    {
+        "asin": "B07GBZ4Q68",
+        "title": "Logitech G502 HERO Mouse Gamer de Alto Rendimiento Sensor HERO 25K (25,600 DPI)",
+        "category": "Gaming",
+        "brand": "Logitech G",
+        "price_usd": 34.99,
+        "list_price_usd": 79.99,
+        "avg_90d_usd": 49.99,
+        "ships_to_colombia": True,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 11.95,
+        "requires_locker": False,
+        "rating": 4.6,
+        "reviews_count": 55283,
+        "image_url": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg",
+        "highlights": [
+            "Sensor óptico HERO 25K con seguimiento preciso de hasta 25,600 DPI sin aceleración",
+            "11 botones programables, rueda hiperrápida y 5 pesas ajustables de 3.6g",
+            "Envío directo a Colombia (+$11.95 USD o gratis si completas $35 USD en el carrito)",
+        ],
+    },
+    {
+        "asin": "B08166SLDF",
+        "title": "AMD Ryzen 5 5600X Procesador Desbloqueado de 6 Núcleos y 12 Hilos + Cooler Wraith Stealth",
+        "category": "Tecnología",
+        "brand": "AMD",
+        "price_usd": 119.00,
+        "list_price_usd": 199.00,
+        "avg_90d_usd": 159.00,
+        "ships_to_colombia": True,
+        "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.8,
+        "reviews_count": 34120,
+        "image_url": "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_SL1500_.jpg",
+        "highlights": [
+            "6 núcleos y 12 hilos desbloqueados con reloj turbo de hasta 4.6 GHz y 35 MB de caché",
+            "Incluye disipador térmico AMD Wraith Stealth listo para placas AM4",
+            "Cero aranceles de importación en Colombia (≤ $200 USD) y envío gratis puerta a puerta",
+        ],
+    },
+    {
+        "asin": "B071YZJ1G1",
+        "title": "Logitech MX Master 2S Mouse Inalámbrico Ergonómico Bluetooth / USB Unifying (4000 DPI)",
+        "category": "Tecnología",
+        "brand": "Logitech",
+        "price_usd": 59.99,
+        "list_price_usd": 99.99,
+        "avg_90d_usd": 79.99,
+        "ships_to_colombia": True,
+        "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.7,
+        "reviews_count": 18900,
+        "image_url": "https://m.media-amazon.com/images/I/61v1eEAWXYL._AC_SL1500_.jpg",
+        "highlights": [
+            "Funciona hasta en vidrio gracias al sensor Darkfield de 4,000 DPI y hasta 70 días de batería",
+            "Controla hasta 3 computadores simultáneamente con Logitech Flow",
+            "Envío GRATIS directo a Colombia sin casillero y 0% impuestos DIAN (≤ $200 USD)",
+        ],
+    },
+    {
+        "asin": "B09JQMJHXY",
+        "title": "Apple AirPods Pro (1.ª Generación) con Estuche de Carga MagSafe",
+        "category": "Audio",
+        "brand": "Apple",
+        "price_usd": 159.00,
+        "list_price_usd": 249.00,
+        "avg_90d_usd": 199.00,
+        "ships_to_colombia": True,
+        "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.7,
+        "reviews_count": 45200,
+        "image_url": "https://m.media-amazon.com/images/I/71bhWgQK-cL._AC_SL1500_.jpg",
+        "highlights": [
+            "Cancelación activa de ruido y modo Ambiente con ecualización adaptativa",
+            "Estuche de carga MagSafe compatible con cargadores Qi y Lightning",
+            "Exento de IVA/arancel DIAN en Colombia (≤ $200 USD) con envío gratis directo",
         ],
     },
     {
         "asin": "B09B8V1LZ3",
-        "title": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3600MHz C18 Memoria RAM de Alto Rendimiento",
-        "category": "Tecnología",
-        "brand": "Corsair",
-        "price_usd": 52.99,
-        "list_price_usd": 84.99,
-        "avg_90d_usd": 74.99,
-        "ships_to_colombia": True,
-        "free_shipping_co": True,
-        "rating": 4.8,
-        "reviews_count": 29800,
-        "image_url": _build_product_svg_data_uri(
-            "CORSAIR 32GB DDR4",
-            "2x16GB 3600MHz CL18 • Disipador Aluminio • XMP 2.0",
-            "Tecnología",
-            "#F97316",
-        ),
-        "highlights": [
-            "Kit de 32GB (2 módulos de 16GB) DDR4 a 3600MHz optimizado para plataformas Intel y AMD Ryzen",
-            "Disipador de calor de aluminio puro de perfil bajo para disipación rápida y compatibilidad total",
-            "Supera los $35 USD y queda bajo $200 USD: envío gratis a Colombia + $0 en aduana",
-        ],
-    },
-    {
-        "asin": "B08H93ZRK9",
-        "title": "HyperX Cloud II Wireless Audífonos Gamer Inalámbricos 7.1 Surround con Micrófono Desmontable",
-        "category": "Gaming",
-        "brand": "HyperX",
-        "price_usd": 84.99,
-        "list_price_usd": 149.99,
-        "avg_90d_usd": 129.99,
-        "ships_to_colombia": True,
-        "free_shipping_co": True,
+        "title": "Amazon Echo Dot (5.ª Gen) Parlante Inteligente con Alexa Color Carbón",
+        "category": "Hogar",
+        "brand": "Amazon",
+        "price_usd": 29.99,
+        "list_price_usd": 49.99,
+        "avg_90d_usd": 44.99,
+        "ships_to_colombia": False,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 8.50,
+        "requires_locker": True,
         "rating": 4.7,
-        "reviews_count": 19340,
-        "image_url": _build_product_svg_data_uri(
-            "HYPERX CLOUD II",
-            "Wireless 2.4GHz • Sonido 7.1 • 30h Batería • PC/PS5",
-            "Gaming",
-            "#EC4899",
-        ),
+        "reviews_count": 82400,
+        "image_url": "https://img.pacifiko.com/PROD/resize/1/500x500/MmRhZjFjZj.jpg",
         "highlights": [
-            "Conexión inalámbrica de grado gaming 2.4GHz sin latencia y hasta 30 horas de autonomía",
-            "Espuma viscoelástica original HyperX con sonido envolvente 7.1 y drivers dinámicos de 53 mm",
-            "Envío gratuito a Colombia y exento de arancel e IVA (menor a $200 USD)",
+            "Audio mejorado con graves más profundos y sensor de temperatura integrado",
+            "Controla luces, rutinas y música por voz con Alexa en español",
+            "Requiere casillero en Miami (~$8.50 USD flete) y entra sin IVA DIAN (≤ $200 USD)",
         ],
     },
     {
-        "asin": "B07SM5HBK1",
+        "asin": "B09B2SBHQK",
+        "title": "Amazon Echo Show 5 (3.ª Gen) Pantalla Inteligente de 5.5\" con Alexa Color Carbón",
+        "category": "Hogar",
+        "brand": "Amazon",
+        "price_usd": 49.99,
+        "list_price_usd": 89.99,
+        "avg_90d_usd": 79.99,
+        "ships_to_colombia": False,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 9.50,
+        "requires_locker": True,
+        "rating": 4.6,
+        "reviews_count": 19500,
+        "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f0304c9b-f02e-4cbe-b6d9-1a630d62f87c.jpg",
+        "highlights": [
+            "Pantalla táctil de 5.5\", cámara de 2 MP con cubierta y sonido mejorado",
+            "Ideal para mesa de noche, videollamadas y control de hogar inteligente",
+            "Requiere casillero en Miami y entra exento de impuestos DIAN (≤ $200 USD)",
+        ],
+    },
+    {
+        "asin": "B0B1VQ1ZQY",
+        "title": "Amazon Fire Max 11 Tablet Pantalla 11\" 2K, Octa-Core, 4GB RAM, 64GB Wi-Fi",
+        "category": "Tecnología",
+        "brand": "Amazon",
+        "price_usd": 139.99,
+        "list_price_usd": 229.99,
+        "avg_90d_usd": 189.99,
+        "ships_to_colombia": False,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 12.00,
+        "requires_locker": True,
+        "rating": 4.5,
+        "reviews_count": 8900,
+        "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/85889fbf-78ec-477d-92f0-c7f6b2695156.jpg",
+        "highlights": [
+            "Pantalla vívida de 11\" (2000 x 1200) en cuerpo de aluminio delgado y hasta 14h de batería",
+            "Procesador Octa-Core de 2.2 GHz con Wi-Fi 6 y lector de huellas integrado",
+            "Requiere casillero en Miami y entra sin arancel ni IVA DIAN (≤ $200 USD)",
+        ],
+    },
+    {
+        "asin": "B09XS7JWHH",
+        "title": "Sony WH-1000XM5 Audífonos Inalámbricos con Cancelación de Ruido Líder (30h Batería)",
+        "category": "Audio",
+        "brand": "Sony",
+        "price_usd": 298.00,
+        "list_price_usd": 399.99,
+        "avg_90d_usd": 379.00,
+        "ships_to_colombia": True,
+        "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.6,
+        "reviews_count": 19300,
+        "image_url": "https://i.ebayimg.com/images/g/zLYAAOSwCaJoKo0w/s-l500.jpg",
+        "highlights": [
+            "8 micrófonos y procesador dual para cancelación de ruido líder en viajes",
+            "Conexión multipunto Bluetooth y carga rápida USB-C (3h en 3 min)",
+            "Envío GRATIS directo a Colombia (sujeto a IVA DIAN por superar $200 USD)",
+        ],
+    },
+    {
+        "asin": "B09X1H88VP",
+        "title": "UGREEN Nexode 65W Cargador GaN USB-C de 3 Puertos (2x USB-C + 1x USB-A) Carga Rápida",
+        "category": "Tecnología",
+        "brand": "UGREEN",
+        "price_usd": 29.99,
+        "list_price_usd": 49.99,
+        "avg_90d_usd": 42.99,
+        "ships_to_colombia": True,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 9.99,
+        "requires_locker": False,
+        "rating": 4.7,
+        "reviews_count": 12450,
+        "image_url": "https://i.ebayimg.com/images/g/0yIAAOSwcJVeQbqB/s-l500.jpg",
+        "highlights": [
+            "Carga laptop MacBook Air/Pro, celular y tablet al mismo tiempo con 65W GaN",
+            "Tamaño compacto para viajar sin adaptadores adicionales",
+            "Envío directo a Colombia (+$9.99 USD o gratis agregando $5.01 USD al carrito)",
+        ],
+    },
+    {
+        "asin": "B0BP9MDCQZ",
+        "title": "Amazon Fire TV Stick 4K (2.ª Gen) Streaming Wi-Fi 6, Dolby Vision/Atmos y Alexa",
+        "category": "Tecnología",
+        "brand": "Amazon",
+        "price_usd": 29.99,
+        "list_price_usd": 49.99,
+        "avg_90d_usd": 44.99,
+        "ships_to_colombia": False,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 8.50,
+        "requires_locker": True,
+        "rating": 4.7,
+        "reviews_count": 48200,
+        "image_url": "https://i.ebayimg.com/images/g/BFEAAeSwh0NqYRz0/s-l300.jpg",
+        "highlights": [
+            "Streaming 4K Ultra HD fluido con soporte Wi-Fi 6, Dolby Vision, HDR10+ y Dolby Atmos",
+            "Control remoto por voz Alexa con botones dedicados para Netflix, Prime Video y Disney+",
+            "Requiere casillero en Miami (Amazon no envía dispositivos Fire TV directo a Colombia)",
+        ],
+    },
+    {
+        "asin": "B0BP9SNVH9",
+        "title": "Amazon Fire TV Stick 4K Max (2.ª Gen) con Wi-Fi 6E, 16GB y Fondo Ambiental",
+        "category": "Gaming",
+        "brand": "Amazon",
+        "price_usd": 39.99,
+        "list_price_usd": 59.99,
+        "avg_90d_usd": 54.99,
+        "ships_to_colombia": False,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 8.50,
+        "requires_locker": True,
+        "rating": 4.7,
+        "reviews_count": 21500,
+        "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/ed56ad72-a9cc-487e-9ce5-c6cd5e7c1009.jpg",
+        "highlights": [
+            "El Fire TV Stick más potente: 16GB de almacenamiento, Wi-Fi 6E y soporte Xbox Cloud Gaming",
+            "Convierte tu TV en galería de arte con el modo Fondo Ambiental de Fire TV",
+            "Requiere casillero en Miami (~$8.50 USD por libra) y entra sin IVA DIAN (≤ $200 USD)",
+        ],
+    },
+    {
+        "asin": "B0CFPJYX9Q",
+        "title": "Amazon Kindle Paperwhite Signature Edition 32GB (2024, 7\") Carga Inalámbrica USB-C",
+        "category": "Tecnología",
+        "brand": "Amazon",
+        "price_usd": 154.99,
+        "list_price_usd": 199.99,
+        "avg_90d_usd": 194.99,
+        "ships_to_colombia": False,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 12.00,
+        "requires_locker": True,
+        "rating": 4.8,
+        "reviews_count": 7850,
+        "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e65cdbb7-7c1b-46fa-9397-6e24fbc3e37a.jpg",
+        "highlights": [
+            "32GB de almacenamiento sin anuncios, pantalla de 7\" antirreflejo y luz cálida autoajustable",
+            "Resistente al agua IPX8 con carga rápida USB-C y carga inalámbrica Qi",
+            "Requiere casillero en Miami (~$12 USD envío) y está exento de arancel DIAN (≤ $200 USD)",
+        ],
+    },
+    {
+        "asin": "B0B7CPSN2K",
+        "title": "WD_BLACK SN850X 1TB NVMe SSD Interno con Disipador (Heatsink) PCIe Gen4 (7,300 MB/s)",
+        "category": "Tecnología",
+        "brand": "Western Digital",
+        "price_usd": 84.99,
+        "list_price_usd": 159.99,
+        "avg_90d_usd": 119.99,
+        "ships_to_colombia": True,
+        "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.8,
+        "reviews_count": 14200,
+        "image_url": "https://img.pacifiko.com/PROD/resize/1/500x500/B0B7CPSN2K.jpg",
+        "highlights": [
+            "Incluye disipador térmico oficial compatible directamente con la ranura M.2 de PlayStation 5",
+            "Velocidades de lectura de hasta 7,300 MB/s PCIe Gen4",
+            "Envío GRATIS directo a Colombia sin impuestos DIAN (≤ $200 USD)",
+        ],
+    },
+    {
+        "asin": "B07FDJMC9Q",
         "title": "Ninja AF101 Freidora de Aire de 4 Cuartos (3.8L) 4-en-1 con Recubrimiento Cerámico",
         "category": "Hogar",
         "brand": "Ninja",
-        "price_usd": 78.99,
+        "price_usd": 79.99,
         "list_price_usd": 129.99,
-        "avg_90d_usd": 114.99,
+        "avg_90d_usd": 109.99,
         "ships_to_colombia": True,
         "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
         "rating": 4.8,
         "reviews_count": 51900,
-        "image_url": _build_product_svg_data_uri(
-            "NINJA AIR FRYER 4QT",
-            "Freidora de Aire 4-en-1 • Canasta Cerámica Antiadherente",
-            "Hogar",
-            "#14B8A6",
-        ),
+        "image_url": "https://img.pacifiko.com/PROD/resize/1/500x500/B07FDJMC9Q.jpg",
         "highlights": [
-            "4 programas inteligentes: Freír con aire, Asar, Recalentar y Deshidratar con hasta 75% menos grasa",
-            "Canasta antiadherente recubierta de cerámica libre de PTFE/PFOA apta para lavavajillas (110V Colombia)",
-            "Envío gratis directo a Colombia sin impuestos de importación por costar menos de $200 USD",
+            "4 programas: Freír con aire, Asar, Recalentar y Deshidratar (110V compatible Colombia)",
+            "Canasta antiadherente recubierta de cerámica libre de PTFE/PFOA apta para lavavajillas",
+            "Envío gratis directo a Colombia sin impuestos DIAN por costar menos de $200 USD",
         ],
     },
     {
-        "asin": "B08C1W5N87",
-        "title": "Philips Hue Kit Inicial 3 Bombillos Inteligentes LED Color A19 + Hue Bridge (Compatible Alexa)",
-        "category": "Hogar",
-        "brand": "Philips Hue",
-        "price_usd": 99.99,
-        "list_price_usd": 169.99,
-        "avg_90d_usd": 149.99,
+        "asin": "B07VGRJDFY",
+        "title": "Nintendo Switch con Joy-Con Neón Azul y Rojo (Modelo V2 Batería Extendida)",
+        "category": "Gaming",
+        "brand": "Nintendo",
+        "price_usd": 239.99,
+        "list_price_usd": 299.99,
+        "avg_90d_usd": 299.00,
         "ships_to_colombia": True,
         "free_shipping_co": True,
-        "rating": 4.7,
-        "reviews_count": 11400,
-        "image_url": _build_product_svg_data_uri(
-            "PHILIPS HUE KIT 3X",
-            "16M Colores + Hue Bridge • Alexa / HomeKit / Google",
-            "Hogar",
-            "#A855F7",
-        ),
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.9,
+        "reviews_count": 88400,
+        "image_url": "https://img.pacifiko.com/PROD/resize/1/500x500/B07VGRJDFY.jpg",
         "highlights": [
-            "Incluye 3 bombillos inteligentes White & Color Ambiance (800 lúmenes, rosca E26 estándar en Colombia)",
-            "Puente Hue Bridge incluido para automatización completa, sincronización con música/TV y control por voz",
-            "Libre de impuestos de importación en Colombia (< $200 USD) y envío gratis incluido",
+            "Juega en TV o en modo portátil con hasta 9 horas de batería",
+            "Envío GRATIS directo a Colombia (sujeto a impuestos DIAN por superar $200 USD)",
+            "Compatible con voltaje 110V–220V en Colombia",
         ],
     },
     {
-        "asin": "B0C2P486S4",
-        "title": "Beelink SER6 Mini PC AMD Ryzen 9 6900HX (8C/16T) 32GB DDR5 RAM + 1TB SSD PCIe 4.0 WiFi 6",
+        "asin": "B09DFCB66S",
+        "title": "Sony PlayStation 5 Consola Edición Estándar con Lector de Discos Blu-Ray 4K",
+        "category": "Gaming",
+        "brand": "Sony",
+        "price_usd": 399.00,
+        "list_price_usd": 499.99,
+        "avg_90d_usd": 499.00,
+        "ships_to_colombia": True,
+        "free_shipping_co": True,
+        "shipping_cost_usd": 0.0,
+        "requires_locker": False,
+        "rating": 4.8,
+        "reviews_count": 26500,
+        "image_url": "https://img.pacifiko.com/PROD/resize/1/500x500/N2Y0NmJiMT.jpg",
+        "highlights": [
+            "SSD ultrarrápido, audio 3D Tempest y control DualSense con retroalimentación háptica",
+            "Compatible con voltaje 110V–240V en Colombia",
+            "Envío GRATIS directo a Colombia (aplica IVA/arancel DIAN por superar $200 USD)",
+        ],
+    },
+    {
+        "asin": "B08BX7FV5L",
+        "title": "Amazon Fire HD 10 Tablet (11.ª Gen) Pantalla 10.1\" Full HD 1080p, 32GB Negro",
         "category": "Tecnología",
-        "brand": "Beelink",
-        "price_usd": 249.00,
-        "list_price_usd": 399.00,
-        "avg_90d_usd": 369.00,
-        "ships_to_colombia": True,
-        "free_shipping_co": True,
+        "brand": "Amazon",
+        "price_usd": 89.99,
+        "list_price_usd": 149.99,
+        "avg_90d_usd": 129.99,
+        "ships_to_colombia": False,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 11.00,
+        "requires_locker": True,
         "rating": 4.6,
-        "reviews_count": 2410,
-        "image_url": _build_product_svg_data_uri(
-            "BEELINK SER6 RYZEN 9",
-            "Ryzen 9 6900HX • 32GB DDR5 • 1TB NVMe • Radeon 680M",
-            "Tecnología",
-            "#F43F5E",
-        ),
+        "reviews_count": 41200,
+        "image_url": "https://i.ebayimg.com/images/g/HU4AAOSwl4Zj90~l/s-l1600.jpg",
         "highlights": [
-            "Potente procesador AMD Ryzen 9 6900HX con gráficos integrados Radeon 680M RDNA2 de 12 núcleos",
-            "Incluye 32GB de RAM DDR5 a 4800MHz, SSD NVMe PCIe 4.0 de 1TB y salida triple pantalla 4K + USB4",
-            "Supera los $200 USD (aplica IVA de importación en Amazon), pero ahorra más de $1.2M COP vs mercado local",
+            "Pantalla Full HD 1080p de 10.1\" con 3GB RAM, puerto USB-C y hasta 12 horas de batería",
+            "Ideal para lectura, streaming, clases virtuales y navegación diaria",
+            "Requiere casillero en Miami y entra exenta de IVA/arancel DIAN (≤ $200 USD)",
+        ],
+    },
+    {
+        "asin": "B07J2Z5DBM",
+        "title": "TOZO T10 Audífonos Bluetooth 5.3 Inalámbricos Impermeables IPX8 con Estuche Carga Inalámbrica",
+        "category": "Audio",
+        "brand": "TOZO",
+        "price_usd": 18.99,
+        "list_price_usd": 39.99,
+        "avg_90d_usd": 29.99,
+        "ships_to_colombia": True,
+        "free_shipping_co": False,
+        "shipping_cost_usd": 8.99,
+        "requires_locker": False,
+        "rating": 4.4,
+        "reviews_count": 215000,
+        "image_url": "https://i.ebayimg.com/images/g/~yEAAOSwaVtnWwf6/s-l500.jpg",
+        "highlights": [
+            "Resistencia al agua IPX8 y drivers de 8 mm con graves potentes",
+            "Hasta 45 horas de reproducción total con estuche compatible con carga inalámbrica",
+            "Envío directo a Colombia (agrega productos hasta $35 USD para envío gratis)",
         ],
     },
 ]
@@ -358,13 +511,96 @@ def _extract_float_price(text: str | None) -> float:
     return float(match.group(1)) if match else 0.0
 
 
+def _is_valid_https_image(url: str | None) -> bool:
+    if not url or not isinstance(url, str):
+        return False
+    u = url.strip()
+    if not u.startswith("https://"):
+        return False
+    lowered = u.lower()
+    if any(bad in lowered for bad in ("grey-pixel", "transparent-pixel", "sprite", "1x1")):
+        return False
+    return True
+
+
+def _extract_dynamic_image_url(raw_json_str: str | None) -> str:
+    if not raw_json_str:
+        return ""
+    try:
+        import html as _html
+        import json as _json
+
+        decoded = _html.unescape(raw_json_str)
+        data = _json.loads(decoded)
+        if isinstance(data, dict):
+            best_url = ""
+            best_area = -1
+            for img_url, dims in data.items():
+                if not _is_valid_https_image(str(img_url)):
+                    continue
+                area = 0
+                if isinstance(dims, (list, tuple)) and len(dims) >= 2:
+                    try:
+                        area = int(dims[0]) * int(dims[1])
+                    except Exception:
+                        area = 0
+                if area > best_area:
+                    best_area = area
+                    best_url = str(img_url)
+            return best_url
+    except Exception:
+        pass
+    return ""
+
+
+def _is_captcha_or_blocked(html: str) -> bool:
+    lowered = html.lower()
+    return any(
+        marker in lowered
+        for marker in (
+            "enter the characters you see below",
+            "sorry, we just need to make sure you're not a robot",
+            "type the characters you see in this image",
+            "validatecaptcha",
+            "api-services-support@amazon.com",
+        )
+    )
+
+
 def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
     """
     Parse an Amazon product HTML fragment or page deterministically with BeautifulSoup4
     (with stdlib regex fallback if BeautifulSoup4 is not installed in the current environment).
-    Extracts title, current price, list price, rating, and Colombia shipping eligibility.
+    Extracts title, current price, real strike-through list price, https image URL, and Colombia shipping eligibility.
     """
+    import html as _html
+
     raw_html = html or ""
+    if not raw_html or _is_captcha_or_blocked(raw_html):
+        return {
+            "asin": asin,
+            "title": "",
+            "category": "Tecnología",
+            "brand": "",
+            "price_usd": 0.0,
+            "list_price_usd": 0.0,
+            "avg_90d_usd": 0.0,
+            "ships_to_colombia": False,
+            "free_shipping_co": False,
+            "shipping_cost_usd": 0.0,
+            "requires_locker": False,
+            "rating": 0.0,
+            "reviews_count": 0,
+            "image_url": "",
+            "highlights": [],
+            "live_verified": False,
+        }
+
+    title = ""
+    price_usd = 0.0
+    list_price_usd = 0.0
+    image_url = ""
+
     if HAS_BS4 and BeautifulSoup is not None:
         soup = BeautifulSoup(raw_html, "html.parser")
 
@@ -373,21 +609,27 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
             or soup.select_one("#title")
             or soup.select_one("h1")
         )
-        title = title_node.get_text(strip=True) if title_node else f"Amazon Product {asin}"
+        title = title_node.get_text(" ", strip=True) if title_node else ""
 
         price_node = (
-            soup.select_one("#corePriceDisplay_desktop_feature_div .a-price .a-offscreen")
-            or soup.select_one(".a-price.aok-align-center .a-offscreen")
-            or soup.select_one("#priceblock_ourprice")
+            soup.select_one("#corePriceDisplay_desktop_feature_div .priceToPay .a-offscreen")
+            or soup.select_one("#corePriceDisplay_desktop_feature_div .a-price:not(.a-text-price) .a-offscreen")
+            or soup.select_one("#corePrice_feature_div .priceToPay .a-offscreen")
+            or soup.select_one("#corePrice_feature_div .a-price:not(.a-text-price) .a-offscreen")
+            or soup.select_one(".a-price.aok-align-center:not(.a-text-price) .a-offscreen")
             or soup.select_one("#priceblock_dealprice")
-            or soup.select_one(".a-price .a-offscreen")
+            or soup.select_one("#priceblock_ourprice")
+            or soup.select_one(".a-price:not(.a-text-price) .a-offscreen")
         )
         price_usd = _extract_float_price(price_node.get_text(strip=True) if price_node else "")
 
         list_node = (
-            soup.select_one(".basisPrice .a-offscreen")
-            or soup.select_one(".a-text-price .a-offscreen")
+            soup.select_one("#corePriceDisplay_desktop_feature_div .basisPrice .a-offscreen")
+            or soup.select_one(".basisPrice .a-offscreen")
+            or soup.select_one(".a-price.a-text-price .a-offscreen")
+            or soup.select_one("span[data-a-strike='true'] .a-offscreen")
             or soup.select_one("#listPrice")
+            or soup.select_one("#priceblock_strikeprice")
         )
         list_price_usd = _extract_float_price(list_node.get_text(strip=True) if list_node else "")
 
@@ -402,25 +644,86 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         rating_val = _extract_float_price(rating_node.get_text(strip=True) if rating_node else "")
         rating = rating_val if 0.0 < rating_val <= 5.0 else 4.7
 
-        img_node = soup.select_one("#landingImage") or soup.select_one("#imgBlkFront")
-        image_url = (
-            str(img_node.get("src"))
-            if (img_node and img_node.get("src"))
-            else _build_product_svg_data_uri(asin, title[:38], "Tecnología")
-        )
+        for selector in ("#landingImage", "#imgBlkFront", "#main-image"):
+            img_node = soup.select_one(selector)
+            if not img_node:
+                continue
+            for attr in ("data-old-hires", "src", "data-src"):
+                candidate = str(img_node.get(attr) or "").strip()
+                if _is_valid_https_image(candidate):
+                    image_url = candidate
+                    break
+            if not image_url and img_node.get("data-a-dynamic-image"):
+                image_url = _extract_dynamic_image_url(str(img_node.get("data-a-dynamic-image")))
+            if image_url:
+                break
+
+        if not image_url:
+            og_img = soup.select_one("meta[property='og:image']")
+            if og_img and _is_valid_https_image(str(og_img.get("content") or "")):
+                image_url = str(og_img.get("content")).strip()
     else:
         title_match = re.search(r'id=["\']productTitle["\'][^>]*>(.*?)</', raw_html, re.S | re.I)
-        title = re.sub(r"<[^>]+>", "", title_match.group(1)).strip() if title_match else f"Amazon Product {asin}"
+        if not title_match:
+            title_match = re.search(r'<h1[^>]*>(.*?)</h1>', raw_html, re.S | re.I)
+        title = _html.unescape(re.sub(r"<[^>]+>", "", title_match.group(1)).strip()) if title_match else ""
 
-        offscreen_prices = re.findall(r'class=["\'][^"\']*a-offscreen[^"\']*["\'][^>]*>\s*([^<]+)<', raw_html, re.I)
-        price_usd = _extract_float_price(offscreen_prices[0]) if offscreen_prices else 0.0
-        list_price_usd = _extract_float_price(offscreen_prices[1]) if len(offscreen_prices) > 1 else price_usd
+        # Current price: prefer corePrice / priceToPay / non-strike a-price
+        price_block_match = re.search(
+            r'id=["\']corePrice(?:Display_desktop)?_feature_div["\'](.*?)(?:id=["\']|\Z)',
+            raw_html,
+            re.S | re.I,
+        )
+        price_scope = price_block_match.group(1) if price_block_match else raw_html
+        current_price_match = re.search(
+            r'class=["\'][^"\']*a-price(?!\s*a-text-price)[^"\']*["\'][^>]*>.*?class=["\'][^"\']*a-offscreen[^"\']*["\'][^>]*>\s*([^<]+)<',
+            price_scope,
+            re.S | re.I,
+        )
+        if not current_price_match:
+            current_price_match = re.search(
+                r'id=["\']priceblock_(?:deal|our)price["\'][^>]*>\s*([^<]+)<',
+                raw_html,
+                re.I,
+            )
+        price_usd = _extract_float_price(current_price_match.group(1) if current_price_match else "")
+
+        # Strike-through list price: strictly inside basisPrice or a-text-price or data-a-strike
+        strike_match = re.search(
+            r'(?:basisPrice|a-text-price|data-a-strike=["\']true["\'])[^>]*>.*?class=["\'][^"\']*a-offscreen[^"\']*["\'][^>]*>\s*([^<]+)<',
+            raw_html,
+            re.S | re.I,
+        )
+        list_price_usd = _extract_float_price(strike_match.group(1) if strike_match else "")
         delivery_text = raw_html.lower()
         rating = 4.7
-        image_url = _build_product_svg_data_uri(asin, title[:38], "Tecnología")
 
-    if list_price_usd <= 0.0:
+        for img_pattern in (
+            r'data-old-hires=["\'](https://[^"\']+)["\']',
+            r'id=["\']landingImage["\'][^>]*\bsrc=["\'](https://[^"\']+)["\']',
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](https://[^"\']+)["\']',
+        ):
+            m = re.search(img_pattern, raw_html, re.I)
+            if m and _is_valid_https_image(m.group(1)):
+                image_url = m.group(1).strip()
+                break
+        if not image_url:
+            dyn_match = re.search(r'data-a-dynamic-image=["\']([^"\']+)["\']', raw_html, re.I)
+            if dyn_match:
+                image_url = _extract_dynamic_image_url(dyn_match.group(1))
+
+    if list_price_usd <= price_usd:
         list_price_usd = price_usd
+
+    title_clean = re.sub(r"\s+", " ", title).strip()
+    title_valid = bool(
+        title_clean
+        and len(title_clean) >= 5
+        and not title_clean.lower().startswith("amazon product")
+        and title_clean.lower() not in ("amazon.com", "amazon")
+    )
+    if not title_clean:
+        title_clean = f"Amazon Product {asin}"
 
     no_ship_phrases = (
         "cannot be shipped to your selected delivery location",
@@ -435,9 +738,13 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         or price_usd >= 35.0
     )
 
+    requires_locker = not ships_to_colombia
+    shipping_cost_usd = 0.0 if (ships_to_colombia and free_shipping_co) else (8.50 if requires_locker else 11.95)
+    live_verified = bool(price_usd > 0.0 and title_valid)
+
     return {
         "asin": asin,
-        "title": title,
+        "title": title_clean,
         "category": "Tecnología",
         "brand": "",
         "price_usd": price_usd,
@@ -445,12 +752,17 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         "avg_90d_usd": list_price_usd,
         "ships_to_colombia": ships_to_colombia,
         "free_shipping_co": free_shipping_co,
+        "shipping_cost_usd": shipping_cost_usd,
+        "requires_locker": requires_locker,
         "rating": rating,
         "reviews_count": 100,
         "image_url": image_url,
+        "live_verified": live_verified,
         "highlights": [
             "Precio verificado en tiempo real mediante motor Zero-Token",
-            "Elegible para envío internacional AmazonGlobal hacia Colombia",
+            "Elegible para envío internacional AmazonGlobal hacia Colombia"
+            if not requires_locker
+            else "Requiere casillero en Miami para reenvío a Colombia",
             "Garantía de compra directa en Amazon.com",
         ],
     }
@@ -459,8 +771,8 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
 class AmazonMonitorScraper:
     """
     Hybrid Zero-Token Amazon.com monitor for Colombia:
-    - Uses deterministic seed catalog by default for fast offline/CI reproducibility
-    - Supports live stealth scraping via Scrapling FetcherSession when enabled
+    - Uses deterministic seed catalog when `use_seed=True` for offline/CI reproducibility
+    - Uses strictly live-verified pages via Scrapling FetcherSession or urllib when `use_seed=False`
     """
 
     def __init__(self, timeout: int = 15) -> None:
@@ -468,33 +780,73 @@ class AmazonMonitorScraper:
         self.has_scrapling = HAS_SCRAPLING
 
     def fetch_asin_live(self, asin: str) -> dict[str, Any] | None:
-        """Fetch live product page from Amazon.com using Scrapling FetcherSession if available."""
+        """Fetch live product page from Amazon.com using Scrapling or urllib fallback."""
         url = f"https://www.amazon.com/dp/{asin}?language=es_US"
         if HAS_SCRAPLING and FetcherSession is not None:
             try:
                 with FetcherSession(impersonate="chrome", timeout=self.timeout) as session:
                     response = session.get(url)
                     html = getattr(response, "text", "") or str(getattr(response, "body", ""))
-                    if html:
+                    if html and not _is_captcha_or_blocked(html):
                         parsed = parse_amazon_html(html, asin)
-                        if parsed.get("price_usd", 0.0) > 0:
+                        if parsed.get("live_verified") and parsed.get("price_usd", 0.0) > 0:
                             return parsed
             except Exception:
                 pass
+
+        try:
+            import urllib.request
+
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/124.0.0.0 Safari/537.36"
+                    ),
+                    "Accept-Language": "es-US,es;q=0.9,en;q=0.8",
+                },
+            )
+            with urllib.request.urlopen(req, timeout=self.timeout) as resp:
+                if resp.status == 200:
+                    html = resp.read().decode("utf-8", errors="ignore")
+                    if html and not _is_captcha_or_blocked(html):
+                        parsed = parse_amazon_html(html, asin)
+                        if parsed.get("live_verified") and parsed.get("price_usd", 0.0) > 0:
+                            return parsed
+        except Exception:
+            pass
         return None
 
     def fetch_catalog(
         self,
         use_seed: bool = True,
         asins: list[str] | None = None,
+        extra_items: list[dict[str, Any]] | None = None,
+        max_live_asins: int = 60,
     ) -> list[dict[str, Any]]:
         """
         Return the list of monitored Amazon products for Colombia.
         If `use_seed=True`, returns the curated SEED_PRODUCTS_COLOMBIA (filtered by `asins` if provided).
-        If `use_seed=False`, attempts live Scrapling fetch with automatic fallback to seed records.
+        If `use_seed=False`, fetches ONLY genuinely live-verified products (never falls back to hardcoded seed prices).
         """
+        import time as _time
+
         seed_map = {item["asin"]: dict(item) for item in SEED_PRODUCTS_COLOMBIA}
-        target_asins = asins if asins else [item["asin"] for item in SEED_PRODUCTS_COLOMBIA]
+        extra_map = {
+            str(item["asin"]).upper(): dict(item)
+            for item in (extra_items or [])
+            if item.get("asin")
+        }
+
+        if asins:
+            target_asins = [a.upper() for a in asins]
+        else:
+            target_asins = [item["asin"] for item in SEED_PRODUCTS_COLOMBIA]
+            for asin_key in extra_map:
+                if asin_key not in seed_map:
+                    target_asins.append(asin_key)
 
         if use_seed:
             results: list[dict[str, Any]] = []
@@ -504,15 +856,18 @@ class AmazonMonitorScraper:
             return results
 
         live_results: list[dict[str, Any]] = []
-        for asin in target_asins:
+        for idx, asin in enumerate(target_asins[:max_live_asins]):
+            if idx > 0:
+                _time.sleep(0.4)
             live_item = self.fetch_asin_live(asin)
-            if live_item and live_item.get("price_usd", 0.0) > 0:
-                if asin in seed_map:
-                    merged = {**seed_map[asin], **live_item}
-                    live_results.append(merged)
-                else:
-                    live_results.append(live_item)
-            elif asin in seed_map:
-                live_results.append(dict(seed_map[asin]))
+            if live_item and live_item.get("live_verified") and live_item.get("price_usd", 0.0) > 0:
+                if asin in extra_map and extra_map[asin].get("category"):
+                    live_item["category"] = extra_map[asin]["category"]
+                elif asin in seed_map:
+                    # Only borrow verified category/brand/image fallback if live page omitted them;
+                    # NEVER overwrite live title, price_usd, list_price_usd, avg_90d_usd, or shipping.
+                    live_item["category"] = seed_map[asin].get("category", live_item["category"])
+                    live_item["brand"] = seed_map[asin].get("brand", live_item.get("brand", ""))
+                live_results.append(live_item)
 
         return live_results

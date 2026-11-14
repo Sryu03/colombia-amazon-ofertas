@@ -14,28 +14,38 @@ from fastapi.staticfiles import StaticFiles
 from src.broadcaster.channels import ChannelBroadcaster
 from src.copywriter.affiliate_builder import (
     build_affiliate_url,
-    build_teams_adaptive_card,
     build_telegram_card,
     build_vercel_deal_url,
 )
 from src.db.database import Database
 from src.evaluator.colombia_rules import evaluate_colombia_deal, fetch_live_trm_cop
 from src.monitor.amazon_scraper import AmazonMonitorScraper
+from src.monitor.discovery import (
+    discover_trending_asins,
+    load_watchlist_asins,
+    save_watchlist_asins,
+)
+from src.monitor.price_history import PriceHistoryStore
 from src.monitor.price_watcher import detect_price_drop
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PUBLIC_DIR = PROJECT_ROOT / "public"
 DATA_DIR = PUBLIC_DIR / "data"
 DB_PATH = str(PROJECT_ROOT / "data" / "deals.db")
+WATCHLIST_PATH = PROJECT_ROOT / "data" / "watchlist.json"
+PRICE_HISTORY_PATH = DATA_DIR / "price_history.json"
 
 ASSOCIATE_TAG = os.getenv("AMAZON_ASSOCIATE_TAG", "pillepues-20")
 PUBLIC_WEB_URL = os.getenv("PUBLIC_WEB_URL", "https://vitrina-colombia-ofertas.vercel.app")
 DEFAULT_TRM_COP = float(os.getenv("DEFAULT_TRM_COP", "4150.0"))
 MIN_DISCOUNT_PCT = float(os.getenv("MIN_DISCOUNT_PERCENT", "20.0"))
+LIVE_SCRAPE = os.getenv("LIVE_SCRAPE", "false").lower() in ("1", "true", "yes")
+DISCOVERY_ENABLED = os.getenv("DISCOVERY_ENABLED", "true").lower() in ("1", "true", "yes")
+MAX_LIVE_ASINS = int(os.getenv("MAX_LIVE_ASINS", "60"))
 
 app = FastAPI(
     title="Amazon Colombia Deals & Zero-Token Agentic Tracker",
-    description="API Serverless para monitoreo Zero-Token de Amazon.com hacia Colombia (Telegram, Microsoft Teams y Web en Vercel)",
+    description="API Serverless para monitoreo Zero-Token de Amazon.com hacia Colombia (Telegram y Web en Vercel)",
     version="1.0.0",
 )
 
@@ -54,29 +64,72 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
 
     active_trm = trm_cop or fetch_live_trm_cop(default_trm=DEFAULT_TRM_COP)
     scraper = AmazonMonitorScraper()
+    price_history = PriceHistoryStore(path=PRICE_HISTORY_PATH)
     broadcaster = ChannelBroadcaster(
         outbox_path=str(DATA_DIR / "outbox_cards.json"),
     )
 
-    catalog = scraper.fetch_catalog(use_seed=True)
+    watchlist_items = load_watchlist_asins(WATCHLIST_PATH)
+    if LIVE_SCRAPE and DISCOVERY_ENABLED:
+        existing_asins = {str(item.get("asin", "")).upper() for item in watchlist_items}
+        newly_discovered = discover_trending_asins(
+            existing_asins=existing_asins,
+            max_new_asins=30,
+        )
+        if newly_discovered:
+            watchlist_items = (newly_discovered + watchlist_items)[:150]
+            save_watchlist_asins(WATCHLIST_PATH, watchlist_items)
+
+    catalog = scraper.fetch_catalog(
+        use_seed=not LIVE_SCRAPE,
+        extra_items=watchlist_items,
+        max_live_asins=MAX_LIVE_ASINS,
+    )
     approved_deals: list[dict] = []
     broadcast_results: list[dict] = []
+    new_price_drops_count = 0
 
     for raw_item in catalog:
+        asin = str(raw_item["asin"]).upper()
+        raw_item["asin"] = asin
+        price_usd = round(float(raw_item.get("price_usd") or 0.0), 2)
+        if price_usd <= 0.0:
+            continue
+
+        list_price_usd = round(float(raw_item.get("list_price_usd", price_usd) or price_usd), 2)
+        baseline_avg = price_history.get_baseline_avg(asin) if LIVE_SCRAPE else None
+        avg_90d_usd = round(
+            float(
+                baseline_avg
+                if baseline_avg is not None
+                else raw_item.get("avg_90d_usd", list_price_usd)
+            ),
+            2,
+        )
+        raw_item["avg_90d_usd"] = avg_90d_usd
+
         db.upsert_product(raw_item)
         db.record_price(
-            asin=raw_item["asin"],
-            price_usd=float(raw_item["price_usd"]),
-            list_price_usd=float(raw_item.get("list_price_usd", raw_item["price_usd"])),
-            avg_90d_usd=float(raw_item.get("avg_90d_usd", raw_item["price_usd"])),
+            asin=asin,
+            price_usd=price_usd,
+            list_price_usd=list_price_usd,
+            avg_90d_usd=avg_90d_usd,
+        )
+
+        # Persist price history & check if this is a newly detected price drop
+        history_event = price_history.evaluate_and_record(
+            asin=asin,
+            current_price_usd=price_usd,
+            avg_90d_usd=avg_90d_usd,
         )
 
         # Layer 0: Deterministic Zero-Token Price Drop Check
         drop_info = detect_price_drop(
-            current_price=float(raw_item["price_usd"]),
-            avg_90d=float(raw_item.get("avg_90d_usd", 0.0)),
-            list_price=float(raw_item.get("list_price_usd", 0.0)),
+            current_price=price_usd,
+            avg_90d=avg_90d_usd,
+            list_price=list_price_usd,
             min_discount_pct=MIN_DISCOUNT_PCT,
+            min_savings_usd=1.0,
         )
         if not drop_info["is_deal"]:
             continue
@@ -90,45 +143,70 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         if not evaluated.get("approved_for_colombia", False):
             continue
 
+        # Strict coherence & image gate: never publish incoherent prices or missing photos
+        has_https_image = str(evaluated.get("image_url") or "").strip().lower().startswith("https://")
+        has_valid_title = not str(evaluated.get("title") or "").strip().lower().startswith("amazon product")
+        has_coherent_price = (
+            evaluated.get("price_usd", 0.0) > 0.0
+            and evaluated.get("reference_price_usd", 0.0) > evaluated.get("price_usd", 0.0)
+            and evaluated.get("savings_usd", 0.0) >= 1.0
+        )
+        if not (has_coherent_price and has_valid_title and has_https_image):
+            continue
+
         # Layer 2: Affiliate Links & Copy Generation (midas-copy-afiliados)
-        asin = evaluated["asin"]
         evaluated["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
         evaluated["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
+        evaluated["is_new_price_drop"] = history_event["is_new_drop"]
+        evaluated["previous_price_usd"] = history_event["previous_price_usd"]
 
         tg_card = build_telegram_card(
             deal=evaluated,
             associate_tag=ASSOCIATE_TAG,
             public_web_url=PUBLIC_WEB_URL,
         )
-        teams_card = build_teams_adaptive_card(
-            deal=evaluated,
-            associate_tag=ASSOCIATE_TAG,
-            public_web_url=PUBLIC_WEB_URL,
-        )
+        evaluated["telegram_copy"] = tg_card["caption_html"]
 
-        # Save in SQLite & broadcast to Telegram + Teams (heraldo-difusor-canales)
+        # Save in SQLite
         db.save_published_deal(evaluated)
-        b_res = broadcaster.broadcast_deal(
-            deal=evaluated,
-            telegram_card=tg_card,
-            teams_card=teams_card,
-        )
         approved_deals.append(evaluated)
-        broadcast_results.append(b_res)
 
-    # Layer 3: Export static JSON catalog for Vercel CDN (vitrina-web-publisher)
+        # Publish immediately to Telegram ONLY on new drops/deals when LIVE_SCRAPE is active
+        # (or always write to simulated outbox when running without a live token)
+        should_send_live = history_event["is_new_drop"] or not LIVE_SCRAPE
+        if should_send_live:
+            b_res = broadcaster.broadcast_deal(
+                deal=evaluated,
+                telegram_card=tg_card,
+            )
+            broadcast_results.append(b_res)
+            if history_event["is_new_drop"]:
+                new_price_drops_count += 1
+                if broadcaster.telegram_bot_token:
+                    price_history.mark_published(asin, price_usd)
+
+    # Layer 3: Export static JSON catalog & price history for Vercel CDN
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    exported_path = db.export_deals_json(
-        output_path=str(DATA_DIR / "deals.json"),
-        metadata={
-            "trm_cop": active_trm,
-            "associate_tag": ASSOCIATE_TAG,
-            "public_web_url": PUBLIC_WEB_URL,
-            "zero_token_mode": True,
-            "monitored_products_count": len(catalog),
-            "active_deals_count": len(approved_deals),
-        },
-    )
+    price_history.save()
+
+    deals_json_path = DATA_DIR / "deals.json"
+    if LIVE_SCRAPE and len(catalog) == 0 and deals_json_path.exists():
+        # Preserve existing public catalog if a single live scrape cycle got temporarily blocked
+        exported_path = str(deals_json_path)
+    else:
+        db.clear_stale_published_deals([d["asin"] for d in approved_deals])
+        exported_path = db.export_deals_json(
+            output_path=str(deals_json_path),
+            metadata={
+                "trm_cop": active_trm,
+                "associate_tag": ASSOCIATE_TAG,
+                "public_web_url": PUBLIC_WEB_URL,
+                "zero_token_mode": True,
+                "monitored_products_count": len(catalog),
+                "active_deals_count": len(approved_deals),
+                "new_price_drops_count": new_price_drops_count,
+            },
+        )
 
     return {
         "status": "ok",
@@ -136,6 +214,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         "trm_cop": active_trm,
         "monitored_count": len(catalog),
         "approved_deals_count": len(approved_deals),
+        "new_price_drops_count": new_price_drops_count,
         "exported_json": exported_path,
         "deals": approved_deals,
         "broadcasts": broadcast_results,

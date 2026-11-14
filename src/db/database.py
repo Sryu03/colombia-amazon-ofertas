@@ -371,6 +371,19 @@ class Database:
 
         return results
 
+    def clear_stale_published_deals(self, active_asins: list[str]) -> None:
+        """Remove published deals that are no longer active in the current cycle."""
+        with self._connect() as conn:
+            if not active_asins:
+                conn.execute("DELETE FROM published_deals")
+            else:
+                placeholders = ",".join("?" for _ in active_asins)
+                conn.execute(
+                    f"DELETE FROM published_deals WHERE asin NOT IN ({placeholders})",
+                    tuple(active_asins),
+                )
+            conn.commit()
+
     def export_deals_json(
         self,
         output_path: str = "/home/antigravity/amazon-colombia-affiliates/public/data/deals.json",

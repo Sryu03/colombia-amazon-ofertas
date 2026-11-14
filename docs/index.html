@@ -4,10 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Vitrina Colombia | Ofertas Verificadas de Amazon.com Sin Impuestos DIAN (≤$200 USD)</title>
-  <meta name="description" content="Catálogo curado en tiempo real de ofertas en Amazon.com para Colombia. Filtrado automático de exención de IVA/Arancel DIAN (≤$200 USD), Envío Gratis desde $35 USD y alertas en Telegram y Microsoft Teams." />
+  <meta name="description" content="Catálogo curado en tiempo real de ofertas en Amazon.com para Colombia. Filtrado automático de exención de IVA/Arancel DIAN (≤$200 USD), Envío Gratis desde $35 USD, casillero Miami y alertas en Telegram." />
   <meta name="robots" content="index, follow" />
   <meta property="og:title" content="Vitrina Colombia — Ofertas Amazon.com Sin Aduana (≤$200 USD)" />
-  <meta property="og:description" content="Monitoreo determinista Zero-Token de mínimos históricos en Amazon.com con cálculo aduanero DIAN en pesos colombianos (COP) y envío gratis a Colombia." />
+  <meta property="og:description" content="Monitoreo determinista Zero-Token de mínimos históricos en Amazon.com con cálculo aduanero DIAN en pesos colombianos (COP) y envío directo o casillero a Colombia." />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="es_CO" />
 
@@ -72,7 +72,7 @@
           <h1 class="site-title">Ofertas Verificadas de Amazon.com para Colombia</h1>
           <p class="site-subtitle">
             Cazador determinista de descuentos reales con validación automática del umbral aduanero DIAN
-            (<strong>≤ $200 USD exento de IVA 19% y arancel</strong>), elegibilidad de envío gratuito a Colombia y
+            (<strong>≤ $200 USD exento de IVA 19% y arancel</strong>), costo de envío, si requiere casillero en Miami y
             comparativa contra precios históricos de 90 días.
           </p>
         </div>
@@ -89,17 +89,9 @@
             >
               <span>✈️ Únete a @pillepues en Telegram</span>
             </a>
-            <a
-              href="#channels-preview"
-              id="btn-jump-teams"
-              class="btn-channel btn-channel-teams"
-              title="Ver Adaptive Cards de Microsoft Teams"
-            >
-              <span>🟦 Canal Microsoft Teams</span>
-            </a>
           </div>
           <a href="#channels-preview" class="btn-channel btn-channel-preview-jump" id="btn-open-live-channels">
-            <span>👁️ Vista en Vivo de Tarjetas Publicadas</span>
+            <span>👁️ Vista en Vivo de Tarjeta Telegram</span>
           </a>
         </div>
       </div>
@@ -199,28 +191,28 @@
       </div>
     </section>
 
-    <!-- Sección Interactiva: Vista en Vivo de Canales (Telegram & Microsoft Teams) -->
+    <!-- Sección Interactiva: Vista en Vivo de Canal Telegram (@pillepues) -->
     <section id="channels-preview" class="channels-preview-section" aria-labelledby="channels-preview-title">
       <div class="container">
         <div class="section-header-bar">
           <div>
-            <div class="section-eyebrow">DIFUSIÓN MULTICANAL AUTOMÁTICA (TELEGRAM BOT API &amp; TEAMS WEBHOOK)</div>
-            <h2 id="channels-preview-title" class="section-title">Vista en Vivo de Canales: Telegram &amp; Microsoft Teams</h2>
+            <div class="section-eyebrow">DIFUSIÓN AUTOMÁTICA EN TELEGRAM (@PILLEPUES)</div>
+            <h2 id="channels-preview-title" class="section-title">Vista en Vivo de Tarjeta Telegram</h2>
             <p class="section-desc">
-              Inspecciona en tiempo real cómo el pipeline publica cada oferta simultáneamente en el canal de Telegram
-              (con botonera inline) y en Microsoft Teams (mediante Adaptive Cards v1.4), incluyendo enlaces de afiliado y URL profunda.
+              Inspecciona en tiempo real cómo el pipeline publica cada oferta en el canal de Telegram
+              <strong>@pillepues</strong> con imagen del producto, precio en USD y COP (TRM de hoy), costo de envío, si necesita casillero y botonera inline.
             </p>
           </div>
 
           <div class="preview-selector-wrap">
             <label for="preview-deal-select">Producto en vista previa:</label>
-            <select id="preview-deal-select" class="preview-deal-select" aria-label="Seleccionar oferta para previsualizar en Telegram y Teams">
+            <select id="preview-deal-select" class="preview-deal-select" aria-label="Seleccionar oferta para previsualizar en Telegram">
               <!-- Opciones cargadas dinámicamente -->
             </select>
           </div>
         </div>
 
-        <div class="channels-dual-grid">
+        <div class="channels-single-grid">
           <!-- Panel Simulador Telegram -->
           <article class="channel-Simulator-panel" aria-label="Previsualización de tarjeta en Telegram">
             <div class="channel-panel-header channel-panel-header-telegram">
@@ -246,42 +238,6 @@
                 </div>
                 <div class="tg-inline-keyboard" id="tg-preview-buttons">
                   <!-- Botones inline de Telegram -->
-                </div>
-              </div>
-            </div>
-          </article>
-
-          <!-- Panel Simulador Microsoft Teams Adaptive Card -->
-          <article class="channel-Simulator-panel" aria-label="Previsualización de Adaptive Card en Microsoft Teams">
-            <div class="channel-panel-header channel-panel-header-teams">
-              <div class="channel-identity">
-                <span class="channel-badge-dot dot-teams" aria-hidden="true"></span>
-                <div>
-                  <h3>Microsoft Teams (Adaptive Card v1.4 Webhook)</h3>
-                  <span>Incoming Webhook · FactSet Aduanero DIAN</span>
-                </div>
-              </div>
-              <button type="button" id="btn-copy-teams" class="btn-copy-payload">
-                📋 Copiar JSON Adaptive Card
-              </button>
-            </div>
-
-            <div class="channel-panel-body">
-              <div class="teams-adaptive-card" id="teams-preview-card">
-                <div class="teams-card-header">
-                  <div class="teams-card-header-info">
-                    <div class="teams-card-eyebrow" id="teams-preview-badge">🔥 OFERTA VERIFICADA COLOMBIA</div>
-                    <h4 id="teams-preview-title">Cargando Adaptive Card...</h4>
-                  </div>
-                  <img id="teams-preview-img" class="teams-card-thumb" src="" alt="Miniatura en Microsoft Teams" />
-                </div>
-
-                <div class="teams-fact-set" id="teams-preview-facts">
-                  <!-- FactSet renderizado dinámicamente -->
-                </div>
-
-                <div class="teams-actions-bar" id="teams-preview-actions">
-                  <!-- Action.OpenUrl buttons -->
                 </div>
               </div>
             </div>
@@ -328,11 +284,15 @@
                 <td id="modal-price-fob">$0.00 USD</td>
               </tr>
               <tr>
-                <th>Precio Histórico / Lista (90 días)</th>
+                <th>Comparación vs Promedio 90 días</th>
                 <td id="modal-price-list">$0.00 USD</td>
               </tr>
               <tr>
-                <th>Envío Internacional Estimado a Colombia</th>
+                <th>¿Necesita Casillero en Miami?</th>
+                <td id="modal-locker-co">No — Envío directo a Colombia</td>
+              </tr>
+              <tr>
+                <th>Costo de Envío a Colombia</th>
                 <td id="modal-shipping-co">GRATIS ($0.00 USD)</td>
               </tr>
               <tr>
@@ -379,7 +339,7 @@
           <h2>Vitrina Colombia · Portal Automatizado de Ofertas Amazon.com</h2>
           <p>
             Arquitectura híbrida Zero-Token impulsada por reglas deterministas en SQLite, validación aduanera DIAN
-            para Colombia y distribución simultánea en Telegram, Microsoft Teams y Vercel CDN.
+            para Colombia y distribución automática en Telegram (@pillepues) y Vercel CDN.
           </p>
         </div>
 

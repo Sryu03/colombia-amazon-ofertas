@@ -977,6 +977,11 @@ a {
   align-items: start;
 }
 
+.channels-single-grid {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
 .channel-Simulator-panel {
   background-color: var(--bg-surface);
   border: 1px solid var(--border-subtle);

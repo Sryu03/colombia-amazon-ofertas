@@ -1,6 +1,6 @@
-"""Broadcaster para Telegram (Bot API) y Microsoft Teams (Incoming Webhook / Adaptive Cards).
+"""Broadcaster para Telegram (Bot API) y generación de outbox JSON para la web.
 
-Implementa la skill `telegram-teams-broadcaster` con soporte para envío en vivo vía `httpx`
+Implementa la difusión hacia el canal de Telegram (`@pillepues`) con soporte para envío en vivo
 y modo `simulated_outbox` (`status="simulated_ready"`) que persiste las tarjetas generadas
 en disco para previsualización en la aplicación web.
 """
@@ -32,7 +32,7 @@ COLOMBIA_PEAK_WINDOWS: tuple[tuple[int, int], ...] = (
 
 
 class ChannelBroadcaster:
-    """Publicador de ofertas para canales de Telegram y Microsoft Teams."""
+    """Publicador de ofertas para canal de Telegram."""
 
     MIN_TELEGRAM_INTERVAL_SECONDS: float = 3.0
 
@@ -40,7 +40,6 @@ class ChannelBroadcaster:
         self,
         telegram_bot_token: str | None = None,
         telegram_chat_id: str = "@pillepues",
-        teams_webhook_url: str | None = None,
         outbox_path: str = "/home/antigravity/amazon-colombia-affiliates/public/data/outbox_cards.json",
     ) -> None:
         self.telegram_bot_token: str | None = (
@@ -51,11 +50,6 @@ class ChannelBroadcaster:
         self.telegram_chat_id: str = (
             telegram_chat_id
             or os.getenv("TELEGRAM_CHAT_ID", "@pillepues")
-        )
-        self.teams_webhook_url: str | None = (
-            teams_webhook_url
-            if teams_webhook_url is not None
-            else os.getenv("TEAMS_WEBHOOK_URL")
         )
         self.outbox_path: str = outbox_path
         self._last_telegram_sent_at: float = 0.0
@@ -114,22 +108,22 @@ class ChannelBroadcaster:
         if reply_markup is None and "inline_keyboard" in telegram_card:
             reply_markup = {"inline_keyboard": telegram_card["inline_keyboard"]}
 
-        is_data_uri = isinstance(photo_url, str) and photo_url.strip().startswith("data:")
+        is_http_photo = isinstance(photo_url, str) and photo_url.strip().lower().startswith(("https://", "http://"))
 
-        if not photo_url or is_data_uri:
+        if not is_http_photo:
             api_method = "sendMessage"
             payload: dict[str, Any] = {
                 "chat_id": chat_id,
                 "text": str(caption)[:4096],
                 "parse_mode": parse_mode,
             }
-            if is_data_uri:
+            if isinstance(photo_url, str) and photo_url.strip().startswith("data:"):
                 payload["photo_url"] = photo_url
         else:
             api_method = "sendPhoto"
             payload = {
                 "chat_id": chat_id,
-                "photo": photo_url,
+                "photo": photo_url.strip(),
                 "caption": str(caption)[:1024],
                 "parse_mode": parse_mode,
             }
@@ -177,6 +171,15 @@ class ChannelBroadcaster:
                 "card": telegram_card,
             }
         except Exception as exc:
+            err_detail = str(exc)
+            resp = getattr(exc, "response", None)
+            if resp is not None and getattr(resp, "text", None):
+                err_detail = f"{err_detail} | body={resp.text[:300]}"
+            elif hasattr(exc, "read"):
+                try:
+                    err_detail = f"{err_detail} | body={exc.read().decode('utf-8', errors='replace')[:300]}"
+                except Exception:
+                    pass
             return {
                 "channel": "telegram",
                 "mode": "simulated_outbox",
@@ -184,55 +187,19 @@ class ChannelBroadcaster:
                 "api_method": api_method,
                 "payload": payload,
                 "card": telegram_card,
-                "fallback_reason": str(exc),
-            }
-
-    def send_teams(self, teams_card_payload: dict[str, Any]) -> dict[str, Any]:
-        """Envía una Adaptive Card al canal de Microsoft Teams o retorna en modo `simulated_outbox`."""
-        webhook_url = (self.teams_webhook_url or "").strip()
-
-        if not webhook_url:
-            return {
-                "channel": "teams",
-                "mode": "simulated_outbox",
-                "status": "simulated_ready",
-                "payload": teams_card_payload,
-                "card": teams_card_payload,
-            }
-
-        try:
-            status_code, response_data = self._post_json(webhook_url, teams_card_payload, timeout=10.0)
-            return {
-                "channel": "teams",
-                "mode": "live",
-                "status": "sent",
-                "http_status": status_code,
-                "payload": teams_card_payload,
-                "response": response_data,
-                "card": teams_card_payload,
-            }
-        except Exception as exc:
-            return {
-                "channel": "teams",
-                "mode": "simulated_outbox",
-                "status": "simulated_ready",
-                "payload": teams_card_payload,
-                "card": teams_card_payload,
-                "fallback_reason": str(exc),
+                "fallback_reason": err_detail,
             }
 
     def broadcast_deal(
         self,
         deal: dict[str, Any],
         telegram_card: dict[str, Any],
-        teams_card: dict[str, Any],
     ) -> dict[str, Any]:
-        """Publica la oferta en Telegram y Microsoft Teams y guarda el historial en `self.outbox_path`."""
+        """Publica la oferta en Telegram y guarda el historial en `self.outbox_path`."""
         now_utc = datetime.now(timezone.utc)
         now_co = now_utc.astimezone(COLOMBIA_TZ)
 
         telegram_result = self.send_telegram(telegram_card)
-        teams_result = self.send_teams(teams_card)
 
         entry: dict[str, Any] = {
             "asin": deal.get("asin") or telegram_card.get("asin") or "",
@@ -242,9 +209,7 @@ class ChannelBroadcaster:
             "is_colombia_peak_hour": self.is_colombia_peak_hour(now_co),
             "deal": deal,
             "telegram": telegram_result,
-            "teams": teams_result,
             "telegram_card": telegram_card,
-            "teams_card": teams_card,
         }
 
         cards = self.get_outbox_cards()

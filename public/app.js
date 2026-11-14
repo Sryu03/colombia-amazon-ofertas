@@ -13,78 +13,82 @@
   // Respaldo inicial por si aún no se ha corrido el pipeline local
   const FALLBACK_DEALS = [
     {
-      asin: 'B09V3KXJPB',
+      asin: 'B0CHWRXH8B',
       title: 'Apple AirPods Pro (2.ª Generación) con Estuche MagSafe USB-C',
       category: 'Audio',
       price_usd: 169.99,
       original_price_usd: 249.00,
-      avg_90d_usd: 199.50,
+      avg_90d_usd: 199.99,
       lowest_90d_usd: 169.99,
       discount_pct: 32,
       tax_free_colombia: true,
       free_shipping_co: true,
-      shipping_usd: 0.0,
+      shipping_cost_usd: 0.0,
+      requires_locker: false,
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B09V3KXJPB?tag=pillepues-20&linkCode=ll1&language=es_US',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B09V3KXJPB',
+      affiliate_url: 'https://www.amazon.com/dp/B0CHWRXH8B?tag=pillepues-20&language=es_US',
+      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0CHWRXH8B',
       is_historic_low: true,
       status: 'ACTIVE'
     },
     {
-      asin: 'B0BSHF7WHW',
-      title: 'Crucial X9 Pro 2TB SSD Portátil USB 3.2 (Hasta 1050 MB/s) Resistente IP55',
+      asin: 'B0B9C4DKKG',
+      title: 'Samsung 990 PRO SSD NVMe M.2 PCIe Gen4 de 2TB (7450 MB/s)',
       category: 'Tecnología',
-      price_usd: 119.99,
-      original_price_usd: 189.99,
-      avg_90d_usd: 154.00,
-      lowest_90d_usd: 119.99,
-      discount_pct: 37,
-      tax_free_colombia: true,
-      free_shipping_co: true,
-      shipping_usd: 0.0,
-      estimated_tax_usd: 0.0,
-      image_url: 'https://m.media-amazon.com/images/I/71K6m2A+WJL._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B0BSHF7WHW?tag=pillepues-20&linkCode=ll1&language=es_US',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0BSHF7WHW',
-      is_historic_low: true,
-      status: 'ACTIVE'
-    },
-    {
-      asin: 'B0863TXGM3',
-      title: 'Sony WH-1000XM4 Audífonos Inalámbricos Noise Cancelling con Batería 30h',
-      category: 'Audio',
-      price_usd: 188.00,
-      original_price_usd: 348.00,
-      avg_90d_usd: 248.00,
-      lowest_90d_usd: 188.00,
-      discount_pct: 46,
-      tax_free_colombia: true,
-      free_shipping_co: true,
-      shipping_usd: 0.0,
-      estimated_tax_usd: 0.0,
-      image_url: 'https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B0863TXGM3?tag=pillepues-20&linkCode=ll1&language=es_US',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0863TXGM3',
-      is_historic_low: true,
-      status: 'ACTIVE'
-    },
-    {
-      asin: 'B0C8PSMPTH',
-      title: 'AMD Ryzen 7 7800X3D Procesador Gaming 8-Core 16-Thread 3D V-Cache AM5',
-      category: 'Gaming',
-      price_usd: 198.50,
-      original_price_usd: 329.00,
-      avg_90d_usd: 289.00,
-      lowest_90d_usd: 198.50,
+      price_usd: 149.99,
+      original_price_usd: 249.99,
+      avg_90d_usd: 189.99,
+      lowest_90d_usd: 149.99,
       discount_pct: 40,
       tax_free_colombia: true,
       free_shipping_co: true,
-      shipping_usd: 0.0,
+      shipping_cost_usd: 0.0,
+      requires_locker: false,
       estimated_tax_usd: 0.0,
-      image_url: 'https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B0C8PSMPTH?tag=pillepues-20&linkCode=ll1&language=es_US',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0C8PSMPTH',
+      image_url: 'https://m.media-amazon.com/images/I/71K6m2A+WJL._AC_SL1500_.jpg',
+      affiliate_url: 'https://www.amazon.com/dp/B0B9C4DKKG?tag=pillepues-20&language=es_US',
+      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0B9C4DKKG',
+      is_historic_low: true,
+      status: 'ACTIVE'
+    },
+    {
+      asin: 'B0863FR3S9',
+      title: 'Sony WH-1000XM4 Audífonos Inalámbricos Noise Cancelling con Batería 30h',
+      category: 'Audio',
+      price_usd: 198.00,
+      original_price_usd: 348.00,
+      avg_90d_usd: 248.00,
+      lowest_90d_usd: 198.00,
+      discount_pct: 43,
+      tax_free_colombia: true,
+      free_shipping_co: true,
+      shipping_cost_usd: 0.0,
+      requires_locker: false,
+      estimated_tax_usd: 0.0,
+      image_url: 'https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg',
+      affiliate_url: 'https://www.amazon.com/dp/B0863FR3S9?tag=pillepues-20&language=es_US',
+      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0863FR3S9',
+      is_historic_low: true,
+      status: 'ACTIVE'
+    },
+    {
+      asin: 'B07GBZ4Q68',
+      title: 'Logitech G502 HERO Mouse Gamer Sensor HERO 25K (25,600 DPI)',
+      category: 'Gaming',
+      price_usd: 34.99,
+      original_price_usd: 79.99,
+      avg_90d_usd: 49.99,
+      lowest_90d_usd: 34.99,
+      discount_pct: 56,
+      tax_free_colombia: true,
+      free_shipping_co: false,
+      shipping_cost_usd: 11.95,
+      requires_locker: false,
+      estimated_tax_usd: 0.0,
+      image_url: 'https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg',
+      affiliate_url: 'https://www.amazon.com/dp/B07GBZ4Q68?tag=pillepues-20&language=es_US',
+      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B07GBZ4Q68',
       is_historic_low: true,
       status: 'ACTIVE'
     }
@@ -123,12 +127,6 @@
     tgPreviewCaption: document.getElementById('tg-preview-caption'),
     tgPreviewButtons: document.getElementById('tg-preview-buttons'),
     btnCopyTelegram: document.getElementById('btn-copy-telegram'),
-    teamsPreviewBadge: document.getElementById('teams-preview-badge'),
-    teamsPreviewTitle: document.getElementById('teams-preview-title'),
-    teamsPreviewImg: document.getElementById('teams-preview-img'),
-    teamsPreviewFacts: document.getElementById('teams-preview-facts'),
-    teamsPreviewActions: document.getElementById('teams-preview-actions'),
-    btnCopyTeams: document.getElementById('btn-copy-teams'),
     dealModal: document.getElementById('deal-modal'),
     btnCloseModal: document.getElementById('btn-close-modal'),
     modalDealAsin: document.getElementById('modal-deal-asin'),
@@ -139,6 +137,7 @@
     modalDealTitle: document.getElementById('modal-deal-title'),
     modalPriceFob: document.getElementById('modal-price-fob'),
     modalPriceList: document.getElementById('modal-price-list'),
+    modalLockerCo: document.getElementById('modal-locker-co'),
     modalShippingCo: document.getElementById('modal-shipping-co'),
     modalTaxDian: document.getElementById('modal-tax-dian'),
     modalTrmLabel: document.getElementById('modal-trm-label'),
@@ -180,13 +179,23 @@
     return 'Tecnología';
   }
 
+  function buildFallbackSvg(asin, title, category) {
+    const safeTitle = String(title || asin).replace(/[<>&"]/g, '').slice(0, 32);
+    const safeCat = String(category || 'Amazon').replace(/[<>&"]/g, '').toUpperCase();
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420"><rect width="600" height="420" rx="20" fill="#0F172A"/><text x="300" y="175" font-family="sans-serif" font-size="22" font-weight="700" fill="#FF9900" text-anchor="middle">${safeCat}</text><text x="300" y="220" font-family="sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">${safeTitle}</text><text x="300" y="260" font-family="monospace" font-size="16" fill="#94A3B8" text-anchor="middle">ASIN: ${asin}</text></svg>`;
+    return `data:image/svg+xml;utf8,${encodeURIComponent(svg)}`;
+  }
+
   function normalizeDeal(raw) {
     const asin = String(raw.asin || raw.id || 'B000000000').trim();
     const priceUsd = Number(
       raw.price_usd ?? raw.current_price ?? raw.deal_price_usd ?? raw.price ?? 0
     );
+    const avg90dUsd = Number(
+      raw.avg_90d_usd ?? raw.avg_90d_price ?? raw.reference_price_usd ?? raw.list_price_usd ?? priceUsd
+    );
     const originalPriceUsd = Number(
-      raw.original_price_usd ?? raw.list_price_usd ?? raw.list_price ?? raw.avg_90d_usd ?? raw.avg_90d_price ?? (priceUsd * 1.35)
+      raw.reference_price_usd ?? raw.original_price_usd ?? raw.list_price_usd ?? raw.list_price ?? avg90dUsd
     );
     const discountPct = Math.round(
       Number(
@@ -201,29 +210,49 @@
     const taxFreeColombia =
       typeof raw.tax_free_colombia === 'boolean'
         ? raw.tax_free_colombia
-        : typeof raw.dian_tax_free === 'boolean'
-        ? raw.dian_tax_free
+        : typeof raw.tax_free_co === 'boolean'
+        ? raw.tax_free_co
         : priceUsd <= 200.0;
 
-    const freeShippingCo =
-      typeof raw.free_shipping_co === 'boolean'
-        ? raw.free_shipping_co
-        : typeof raw.free_shipping_colombia === 'boolean'
-        ? raw.free_shipping_colombia
-        : priceUsd >= 35.0;
+    const shipsToColombia =
+      typeof raw.ships_to_colombia === 'boolean' ? raw.ships_to_colombia : true;
 
-    const shippingUsd = Number(raw.shipping_usd ?? (freeShippingCo ? 0 : 12.99));
-    const estimatedTaxUsd = Number(
-      raw.estimated_tax_usd ?? (taxFreeColombia ? 0 : +(priceUsd * 0.29).toFixed(2))
+    const requiresLocker =
+      typeof raw.requires_locker === 'boolean' ? raw.requires_locker : !shipsToColombia;
+
+    const freeShippingCo =
+      !requiresLocker &&
+      (typeof raw.free_shipping_co === 'boolean'
+        ? raw.free_shipping_co
+        : priceUsd >= 35.0);
+
+    const shippingUsd = Number(
+      raw.shipping_cost_usd ?? raw.shipping_usd ?? (freeShippingCo ? 0 : requiresLocker ? 8.5 : 11.95)
     );
+    const estimatedTaxUsd = Number(
+      raw.estimated_import_tax_usd ?? raw.estimated_tax_usd ?? (taxFreeColombia ? 0 : +(priceUsd * 0.19).toFixed(2))
+    );
+
+    const cheaperThanBefore =
+      typeof raw.cheaper_than_before === 'boolean'
+        ? raw.cheaper_than_before
+        : avg90dUsd > priceUsd;
+
+    const vsAvg90dPct =
+      raw.vs_avg_90d_pct !== undefined
+        ? Number(raw.vs_avg_90d_pct)
+        : avg90dUsd > priceUsd
+        ? Math.round(((avg90dUsd - priceUsd) / avg90dUsd) * 100)
+        : 0;
 
     const affiliateUrl =
       raw.affiliate_url ||
       raw.amazon_url ||
-      `https://www.amazon.com/dp/${asin}?tag=${DEFAULT_TAG}&linkCode=ll1&language=es_US`;
+      `https://www.amazon.com/dp/${asin}?tag=${DEFAULT_TAG}&language=es_US`;
 
     const webDealUrl =
       raw.web_deal_url ||
+      raw.web_url ||
       `${window.location.origin}${window.location.pathname}?asin=${encodeURIComponent(asin)}`;
 
     const category = normalizeCategory(raw.category, raw.title);
@@ -234,16 +263,19 @@
       category,
       price_usd: priceUsd,
       original_price_usd: originalPriceUsd,
-      avg_90d_usd: Number(raw.avg_90d_usd ?? raw.avg_90d_price ?? originalPriceUsd),
+      avg_90d_usd: avg90dUsd,
       lowest_90d_usd: Number(raw.lowest_90d_usd ?? raw.lowest_90d_price ?? priceUsd),
       discount_pct: discountPct,
+      cheaper_than_before: cheaperThanBefore,
+      vs_avg_90d_pct: vsAvg90dPct,
       tax_free_colombia: taxFreeColombia,
+      ships_to_colombia: shipsToColombia,
+      requires_locker: requiresLocker,
       free_shipping_co: freeShippingCo,
       shipping_usd: shippingUsd,
       estimated_tax_usd: estimatedTaxUsd,
-      image_url:
-        raw.image_url ||
-        'https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg',
+      image_url: raw.image_url || buildFallbackSvg(asin, raw.title, category),
+      fallback_image_url: buildFallbackSvg(asin, raw.title, category),
       affiliate_url: affiliateUrl,
       web_deal_url: webDealUrl,
       is_historic_low: Boolean(raw.is_historic_low ?? discountPct >= 35),
@@ -430,7 +462,8 @@
     dom.dealsGrid.innerHTML = filtered
       .map((deal) => {
         const totalUsd = deal.price_usd + deal.shipping_usd + deal.estimated_tax_usd;
-        const copFormatted = formatCOP(totalUsd, state.trmCop);
+        const priceCopFormatted = formatCOP(deal.price_usd, state.trmCop);
+        const totalCopFormatted = formatCOP(totalUsd, state.trmCop);
         const savingsUsd = Math.max(0, deal.original_price_usd - deal.price_usd).toFixed(2);
 
         const dianBadge = deal.tax_free_colombia
@@ -438,14 +471,17 @@
           : `<span class="co-pill co-pill-taxed" title="Supera $200 USD: incluye estimado de importación">⚠️ +$200 USD (Imp. +$${deal.estimated_tax_usd.toFixed(2)})</span>`;
 
         const shippingBadge =
-          deal.free_shipping_co && deal.price_usd >= 35
-            ? `<span class="co-pill co-pill-shipping">🇨🇴 Envío Gratis a CO</span>`
-            : `<span class="co-pill">📦 Envío $${deal.shipping_usd.toFixed(2)} USD</span>`;
+          !deal.requires_locker && deal.shipping_usd === 0
+            ? `<span class="co-pill co-pill-shipping">🇨🇴 Envío Gratis ($0)</span>`
+            : `<span class="co-pill">✈️ Envío +$${deal.shipping_usd.toFixed(2)} USD</span>`;
 
-        const historicBadge =
-          deal.discount_pct >= 35
-            ? `<span class="co-pill co-pill-historic">🔥 Mínimo 90d</span>`
-            : '';
+        const lockerBadge = deal.requires_locker
+          ? `<span class="co-pill co-pill-taxed">📦 Necesita casillero: Sí (Miami)</span>`
+          : `<span class="co-pill co-pill-tax-free">✅ Casillero: No (Directo)</span>`;
+
+        const cheaperBadge = deal.cheaper_than_before
+          ? `<span class="co-pill co-pill-historic">📉 ${deal.vs_avg_90d_pct || deal.discount_pct}% más barato que antes</span>`
+          : '';
 
         return `
           <article class="deal-card" role="listitem" data-asin="${deal.asin}">
@@ -458,6 +494,7 @@
                 src="${deal.image_url}"
                 alt="${deal.title.replace(/"/g, '&quot;')}"
                 loading="lazy"
+                onerror="this.onerror=null;this.src='${deal.fallback_image_url}';"
               />
               <span class="badge-asin-overlay">ASIN: ${deal.asin}</span>
             </div>
@@ -466,7 +503,8 @@
               <div class="colombia-badges-row">
                 ${dianBadge}
                 ${shippingBadge}
-                ${historicBadge}
+                ${lockerBadge}
+                ${cheaperBadge}
               </div>
 
               <h3 class="deal-title" data-open-modal="${deal.asin}" title="Ver desglose aduanero DIAN completo">
@@ -479,11 +517,15 @@
                     <span class="price-usd">${formatUSD(deal.price_usd)}</span>
                     <span class="price-original-usd">$${deal.original_price_usd.toFixed(2)}</span>
                   </div>
-                  <span class="price-cop-badge">~${copFormatted}</span>
+                  <span class="price-cop-badge">~${priceCopFormatted}</span>
                 </div>
                 <div class="price-meta-row">
                   <span>Ahorras: <strong>$${savingsUsd} USD</strong></span>
                   <span class="mono">Prom. 90d: $${deal.avg_90d_usd.toFixed(2)}</span>
+                </div>
+                <div class="price-meta-row">
+                  <span>Total puesto en CO:</span>
+                  <strong class="mono">~${totalCopFormatted}</strong>
                 </div>
               </div>
 
@@ -509,7 +551,7 @@
                     class="btn-card-secondary"
                     data-preview-channel="${deal.asin}"
                   >
-                    📡 Ver en Telegram/Teams
+                    ✈️ Ver en Telegram
                   </button>
                 </div>
               </div>
@@ -568,91 +610,41 @@
       : `⚠️ Impuesto DIAN estimado: $${deal.estimated_tax_usd.toFixed(2)} USD`;
     const shipLine =
       deal.free_shipping_co && deal.price_usd >= 35
-        ? '🇨🇴 <b>Envío GRATIS a Colombia</b>'
-        : `📦 Envío a Colombia: $${deal.shipping_usd.toFixed(2)} USD`;
+        ? '🚚 <b>Envío a Colombia:</b> GRATIS ($0.00 USD)'
+        : `🚚 <b>Envío a Colombia:</b> +$${deal.shipping_usd.toFixed(2)} USD (~${formatCOP(deal.shipping_usd, state.trmCop)})`;
+    const lockerLine = deal.requires_locker
+      ? '📬 <b>Casillero:</b> Sí — Requiere casillero en Miami'
+      : '📬 <b>Casillero:</b> No — Envío directo a Colombia';
+    const avg90 = deal.avg_90d_usd || deal.original_price_usd;
+    const cheaperLine = deal.cheaper_than_before
+      ? `📉 <b>Más barato que antes:</b> Prom. 90d $${avg90.toFixed(2)} → Hoy <b>-${deal.discount_pct}% OFF</b>`
+      : `📊 Precio Lista: $${deal.original_price_usd.toFixed(2)} USD (-${deal.discount_pct}% OFF)`;
 
     const telegramCaptionHtml =
-      (matchedCard && (matchedCard.telegram_caption || matchedCard.telegram_html)) ||
+      (matchedCard &&
+        ((matchedCard.telegram_card && matchedCard.telegram_card.caption_html) ||
+          (matchedCard.telegram &&
+            matchedCard.telegram.payload &&
+            matchedCard.telegram.payload.caption) ||
+          matchedCard.telegram_caption ||
+          matchedCard.telegram_html)) ||
       [
-        `🔥 <b>MÍNIMO VERIFICADO (-${deal.discount_pct}% OFF)</b>`,
+        `🔥 <b>OFERTA VERIFICADA AMAZON (-${deal.discount_pct}% OFF)</b>`,
         ``,
         `📦 <b>${deal.title}</b>`,
         ``,
-        `💵 Precio Oferta: <b>$${deal.price_usd.toFixed(2)} USD</b> (Antes: $${deal.original_price_usd.toFixed(2)})`,
-        `🇨🇴 Total en Pesos: <b>~${totalCop}</b> (TRM $${state.trmCop.toLocaleString('es-CO')})`,
+        `💵 <b>Precio Hoy:</b> $${deal.price_usd.toFixed(2)} USD (~${formatCOP(deal.price_usd, state.trmCop)})`,
+        `${cheaperLine}`,
+        `🇨🇴 <b>Total estimado CO:</b> ~${totalCop} (TRM $${state.trmCop.toLocaleString('es-CO')})`,
         `${dianLine}`,
         `${shipLine}`,
+        `${lockerLine}`,
         ``,
-        `🔗 Link Afiliado: ${deal.affiliate_url}`
+        `🔗 Comprar aquí: ${deal.affiliate_url}`
       ].join('\n');
 
-    const teamsAdaptiveCard =
-      (matchedCard && matchedCard.teams_adaptive_card) || {
-        type: 'AdaptiveCard',
-        $schema: 'http://adaptivecards.io/schemas/adaptive-card.json',
-        version: '1.4',
-        body: [
-          {
-            type: 'TextBlock',
-            text: `🔥 OFERTA AMAZON COLOMBIA (-${deal.discount_pct}% OFF)`,
-            weight: 'Bolder',
-            color: 'Attention'
-          },
-          {
-            type: 'TextBlock',
-            text: deal.title,
-            weight: 'Bolder',
-            size: 'Medium',
-            wrap: true
-          },
-          {
-            type: 'FactSet',
-            facts: [
-              {
-                title: 'Precio Oferta:',
-                value: `$${deal.price_usd.toFixed(2)} USD (~${totalCop})`
-              },
-              {
-                title: 'Precio Lista / 90d:',
-                value: `$${deal.original_price_usd.toFixed(2)} USD (-${deal.discount_pct}%)`
-              },
-              {
-                title: 'Aduana DIAN CO:',
-                value: deal.tax_free_colombia
-                  ? '✅ Exento 0% IVA/Arancel (≤$200 USD)'
-                  : `⚠️ +$${deal.estimated_tax_usd.toFixed(2)} USD Impuestos`
-              },
-              {
-                title: 'Envío a Colombia:',
-                value:
-                  deal.free_shipping_co && deal.price_usd >= 35
-                    ? '🇨🇴 GRATIS (Elegible AmazonGlobal)'
-                    : `$${deal.shipping_usd.toFixed(2)} USD`
-              },
-              {
-                title: 'Código ASIN:',
-                value: deal.asin
-              }
-            ]
-          }
-        ],
-        actions: [
-          {
-            type: 'Action.OpenUrl',
-            title: '🛒 Comprar en Amazon.com',
-            url: deal.affiliate_url
-          },
-          {
-            type: 'Action.OpenUrl',
-            title: '🌐 Análisis Aduanero en Web',
-            url: deal.web_deal_url
-          }
-        ]
-      };
-
     return {
-      telegramCaptionHtml,
-      teamsAdaptiveCard
+      telegramCaptionHtml
     };
   }
 
@@ -662,15 +654,20 @@
       state.deals[0];
     if (!deal) return;
 
-    const { telegramCaptionHtml, teamsAdaptiveCard } = buildChannelPayloadsForDeal(deal);
+    const { telegramCaptionHtml } = buildChannelPayloadsForDeal(deal);
     const totalCop = formatCOP(
       deal.price_usd + deal.shipping_usd + deal.estimated_tax_usd,
       state.trmCop
     );
+    const fallbackImg = buildFallbackSvg(deal.asin, deal.category);
 
     // Actualizar Vista Telegram
     if (dom.tgPreviewImg) {
-      dom.tgPreviewImg.src = deal.image_url;
+      dom.tgPreviewImg.onerror = () => {
+        dom.tgPreviewImg.onerror = null;
+        dom.tgPreviewImg.src = fallbackImg;
+      };
+      dom.tgPreviewImg.src = deal.image_url || fallbackImg;
       dom.tgPreviewImg.alt = deal.title;
     }
     if (dom.tgPreviewCaption) {
@@ -696,69 +693,8 @@
       `;
     }
 
-    // Actualizar Vista Microsoft Teams Adaptive Card
-    if (dom.teamsPreviewBadge) {
-      dom.teamsPreviewBadge.textContent = deal.tax_free_colombia
-        ? `🟢 EXENTO DIAN ≤$200 USD · -${deal.discount_pct}% OFF`
-        : `🔥 OFERTA VERIFICADA · -${deal.discount_pct}% OFF`;
-    }
-    if (dom.teamsPreviewTitle) {
-      dom.teamsPreviewTitle.textContent = deal.title;
-    }
-    if (dom.teamsPreviewImg) {
-      dom.teamsPreviewImg.src = deal.image_url;
-      dom.teamsPreviewImg.alt = deal.title;
-    }
-    if (dom.teamsPreviewFacts) {
-      const facts = [
-        ['Precio Amazon:', `$${deal.price_usd.toFixed(2)} USD (Antes $${deal.original_price_usd.toFixed(2)})`],
-        ['Total en Pesos:', `~${totalCop} (TRM $${state.trmCop.toLocaleString('es-CO')})`],
-        [
-          'Aduana DIAN:',
-          deal.tax_free_colombia
-            ? '🟢 0% IVA y 0% Arancel (≤$200 USD)'
-            : `⚠️ Estimado +$${deal.estimated_tax_usd.toFixed(2)} USD`
-        ],
-        [
-          'Envío a Colombia:',
-          deal.free_shipping_co && deal.price_usd >= 35
-            ? '🇨🇴 Envío Gratis a Colombia'
-            : `$${deal.shipping_usd.toFixed(2)} USD`
-        ],
-        ['ASIN / Estado:', `${deal.asin} · Verificado Zero-Token`]
-      ];
-      dom.teamsPreviewFacts.innerHTML = facts
-        .map(
-          ([title, value]) => `
-            <div class="teams-fact-title">${title}</div>
-            <div class="teams-fact-value">${value}</div>
-          `
-        )
-        .join('');
-    }
-    if (dom.teamsPreviewActions) {
-      dom.teamsPreviewActions.innerHTML = `
-        <a
-          href="${deal.affiliate_url}"
-          target="_blank"
-          rel="nofollow sponsored noopener"
-          class="teams-action-btn teams-action-btn-primary"
-        >
-          🛒 Comprar en Amazon
-        </a>
-        <a
-          href="?asin=${encodeURIComponent(deal.asin)}"
-          data-open-modal="${deal.asin}"
-          class="teams-action-btn teams-action-btn-secondary"
-        >
-          🌐 Abrir Ficha (?asin=${deal.asin})
-        </a>
-      `;
-    }
-
-    // Guardar payloads actuales para copiado en un clic
+    // Guardar payload actual para copiado en un clic
     state.currentTelegramText = telegramCaptionHtml.replace(/<[^>]+>/g, '');
-    state.currentTeamsJson = JSON.stringify(teamsAdaptiveCard, null, 2);
   }
 
   /* ========================================================================
@@ -775,11 +711,19 @@
 
     const totalUsd = deal.price_usd + deal.shipping_usd + deal.estimated_tax_usd;
     const totalCop = formatCOP(totalUsd, state.trmCop);
+    const fallbackImg = buildFallbackSvg(deal.asin, deal.category);
+    const avg90 = deal.avg_90d_usd || deal.original_price_usd;
 
     dom.modalDealAsin.textContent = `ASIN: ${deal.asin}`;
     dom.modalDealCategory.textContent = deal.category;
-    dom.modalDealStatus.textContent = `Descuento real -${deal.discount_pct}% OFF`;
-    dom.modalDealImage.src = deal.image_url;
+    dom.modalDealStatus.textContent = deal.cheaper_than_before
+      ? `📉 Más barato que antes (-${deal.discount_pct}% OFF)`
+      : `Descuento real -${deal.discount_pct}% OFF`;
+    dom.modalDealImage.onerror = () => {
+      dom.modalDealImage.onerror = null;
+      dom.modalDealImage.src = fallbackImg;
+    };
+    dom.modalDealImage.src = deal.image_url || fallbackImg;
     dom.modalDealImage.alt = deal.title;
     dom.modalDealTitle.textContent = deal.title;
 
@@ -791,17 +735,25 @@
       }
       ${
         deal.free_shipping_co && deal.price_usd >= 35
-          ? `<span class="co-pill co-pill-shipping">🇨🇴 Envío Gratis a Colombia</span>`
-          : ''
+          ? `<span class="co-pill co-pill-shipping">🚚 Envío Gratis a Colombia</span>`
+          : `<span class="co-pill co-pill-shipping">🚚 Envío +$${deal.shipping_usd.toFixed(2)} USD</span>`
       }
+      <span class="co-pill ${deal.requires_locker ? 'co-pill-taxed' : 'co-pill-tax-free'}">
+        ${deal.requires_locker ? '📬 Casillero: Sí (Miami)' : '📬 Casillero: No (Directo)'}
+      </span>
     `;
 
     dom.modalPriceFob.textContent = `${formatUSD(deal.price_usd)} (~${formatCOP(deal.price_usd, state.trmCop)})`;
-    dom.modalPriceList.textContent = `${formatUSD(deal.original_price_usd)} (-${deal.discount_pct}% OFF)`;
+    dom.modalPriceList.textContent = `${formatUSD(avg90)} (-${deal.discount_pct}% OFF${deal.cheaper_than_before ? ' · Más barato que antes' : ''})`;
     dom.modalShippingCo.textContent =
       deal.free_shipping_co && deal.price_usd >= 35
         ? 'GRATIS a Colombia ($0.00 USD)'
-        : `${formatUSD(deal.shipping_usd)}`;
+        : `+${formatUSD(deal.shipping_usd)} (~${formatCOP(deal.shipping_usd, state.trmCop)})`;
+    if (dom.modalLockerCo) {
+      dom.modalLockerCo.textContent = deal.requires_locker
+        ? 'Sí — Requiere casillero en Miami'
+        : 'No — Envío directo a Colombia';
+    }
     dom.modalTaxDian.textContent = deal.tax_free_colombia
       ? '$0.00 USD (0% Exento por ley DIAN ≤ $200 USD)'
       : `${formatUSD(deal.estimated_tax_usd)} (IVA 19% + Arancel)`;
@@ -993,21 +945,12 @@
       });
     }
 
-    // Copiar payloads de Telegram y Teams
+    // Copiar payload de Telegram
     if (dom.btnCopyTelegram) {
       dom.btnCopyTelegram.addEventListener('click', () => {
         copyToClipboard(
           state.currentTelegramText || '',
           'Copy de Telegram copiado con link de afiliado'
-        );
-      });
-    }
-
-    if (dom.btnCopyTeams) {
-      dom.btnCopyTeams.addEventListener('click', () => {
-        copyToClipboard(
-          state.currentTeamsJson || '{}',
-          'JSON Adaptive Card de Microsoft Teams copiado'
         );
       });
     }
