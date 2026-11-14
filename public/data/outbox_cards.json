@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0BGSDTZVF",
+    "title": "Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10",
+    "timestamp": "2026-11-14T21:13:09.128655+00:00",
+    "timestamp_colombia": "2026-11-14T16:13:09.128655-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0BGSDTZVF",
+      "title": "Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 6.99,
+      "list_price_usd": 9.99,
+      "avg_90d_usd": 9.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71PxgcoTvYL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 9.99,
+      "discount_pct": 30.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.0,
+      "price_vs_90d_badge": "📉 30.0% más barato que su promedio de 90 días ($9.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 18.94,
+      "price_cop": 23184,
+      "price_cop_formatted": "$23.184 COP",
+      "total_landed_cop": 62818,
+      "total_landed_cop_formatted": "$62.818 COP",
+      "savings_usd": 3.0,
+      "savings_cop": 9950,
+      "savings_cop_formatted": "$9.950 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0BGSDTZVF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BGSDTZVF",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T21:10:18.295456+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$23.184 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71PxgcoTvYL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$23.184 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+                "url": "https://www.amazon.com/dp/B0BGSDTZVF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BGSDTZVF"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 73,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794690790,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADSWr4zubUjQuAH6Uoy8cdENTr2TsiAAIDDWsbXhPIR13pwWICsbTPAQADAgADcwADPQQ",
+              "file_unique_id": "AQADAw1rG14TyEd4",
+              "file_size": 1760,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADSWr4zubUjQuAH6Uoy8cdENTr2TsiAAIDDWsbXhPIR13pwWICsbTPAQADAgADbQADPQQ",
+              "file_unique_id": "AQADAw1rG14TyEdy",
+              "file_size": 26182,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADSWr4zubUjQuAH6Uoy8cdENTr2TsiAAIDDWsbXhPIR13pwWICsbTPAQADAgADeAADPQQ",
+              "file_unique_id": "AQADAw1rG14TyEd9",
+              "file_size": 105668,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADSWr4zubUjQuAH6Uoy8cdENTr2TsiAAIDDWsbXhPIR13pwWICsbTPAQADAgADeQADPQQ",
+              "file_unique_id": "AQADAw1rG14TyEd-",
+              "file_size": 159313,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10\n\n💵 Precio Hoy: $6.99 USD (~$23.184 COP · TRM $3.317)\n📉 Más barato que antes: Antes $9.99 USD → Hoy -30% OFF · Ahorras $3.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 74,
+              "type": "bold"
+            },
+            {
+              "offset": 124,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 136,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 147,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 177,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 9,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 221,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 232,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 254,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 454,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 540,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 688,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 703,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 716,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0BGSDTZVF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BGSDTZVF"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0BGSDTZVF",
+        "title": "Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10",
+        "photo_url": "https://m.media-amazon.com/images/I/71PxgcoTvYL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$23.184 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+                "url": "https://www.amazon.com/dp/B0BGSDTZVF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BGSDTZVF"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0BGSDTZVF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BGSDTZVF",
+        "deal_snapshot": {
+          "asin": "B0BGSDTZVF",
+          "title": "Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10",
+          "price_usd": 6.99,
+          "reference_price_usd": 9.99,
+          "discount_pct": 30,
+          "price_cop": 23184,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0BGSDTZVF",
+      "title": "Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10",
+      "photo_url": "https://m.media-amazon.com/images/I/71PxgcoTvYL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$23.184 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+              "url": "https://www.amazon.com/dp/B0BGSDTZVF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BGSDTZVF"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0BGSDTZVF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BGSDTZVF",
+      "deal_snapshot": {
+        "asin": "B0BGSDTZVF",
+        "title": "Paquete de 3 cargadores para iPhone, cable Lightning certificado MFi de 10",
+        "price_usd": 6.99,
+        "reference_price_usd": 9.99,
+        "discount_pct": 30,
+        "price_cop": 23184,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0F9KJRBT1",
     "title": "Cargador Switch 2 – 60 W OEM Spec (20 V/3 A) Adaptador de corriente CA para Nintendo 2, carga rápida con cable de 5 pies/4.9 ft para cubierta OLED/Lite/Steam – Soporte 4K TV Dock",
     "timestamp": "2026-11-14T20:13:20.539217+00:00",

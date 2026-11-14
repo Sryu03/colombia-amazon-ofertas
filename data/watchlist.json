@@ -1,17 +1,5 @@
 [
   {
-    "asin": "B0FVYBBF3G",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0BGSDTZVF",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0CFQ5T5F6",
-    "category": "Computadores"
-  },
-  {
     "asin": "B097BL622M",
     "category": "Computadores"
   },
@@ -366,6 +354,18 @@
   {
     "asin": "B0D6SJWPHL",
     "category": "Hogar"
+  },
+  {
+    "asin": "B0FVYBBF3G",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0BGSDTZVF",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0CFQ5T5F6",
+    "category": "Computadores"
   },
   {
     "asin": "B0F9KJRBT1",
