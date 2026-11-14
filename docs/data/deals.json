@@ -9,11 +9,11 @@
     "associate_tag": "pillepues-20",
     "public_web_url": "https://vitrina-colombia-ofertas.vercel.app",
     "zero_token_mode": true,
-    "monitored_products_count": 0,
+    "monitored_products_count": 60,
     "active_deals_count": 0,
     "new_price_drops_count": 0,
     "telegram_delivery_status": {
-      "checked_at": "2026-11-14T17:03:01.254036+00:00",
+      "checked_at": "2026-11-14T17:10:00.104412+00:00",
       "token_configured": true,
       "chat_id": "@pillepues",
       "source": "none",
@@ -28,21 +28,105 @@
       "require_live_detail": true,
       "require_colombia_confirmation": true,
       "allow_locker_deals": false,
-      "audited_count": 0,
+      "audited_count": 60,
       "approved_count": 0,
-      "rejected_count": 0,
-      "rejected_reasons": {},
-      "rejected_samples": []
+      "rejected_count": 60,
+      "rejected_reasons": {
+        "colombia_shipping_unconfirmed:US_OR_UNKNOWN": 29,
+        "incoherent_price_or_discount": 31
+      },
+      "rejected_samples": [
+        {
+          "asin": "B0DXXYS4BJ",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0GGPBR4YP",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0DZ254SSR",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0CNTH3F7P",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0DSFJY5VD",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0CSK16X7B",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0DFLNL3XM",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0FT21HKZ6",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0GH6XYLQK",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0DD41G2NZ",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0H1CVWC43",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0HMKPPM6V",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0DL72PK1P",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0DC6GXZSV",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0FPFF7JN8",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0CZPLV566",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0BXNR9DB6",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0BWK8QVZ2",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0F6TM5LJR",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B088D8JG3L",
+          "reason": "incoherent_price_or_discount"
+        }
+      ]
     },
-    "last_live_check_at": "2026-11-14T16:59:55.907314+00:00",
+    "last_live_check_at": "2026-11-14T17:06:52.760663+00:00",
     "scraper_telemetry": {
       "mode": "live",
-      "target_asins_count": 161,
+      "target_asins_count": 159,
       "max_live_asins": 60,
       "pre_verified_count": 0,
       "attempted_count": 60,
       "parsed_ok_count": 60,
-      "live_verified_count": 0,
+      "live_verified_count": 60,
       "fetch_failures_count": 0,
       "outcome_counts": {},
       "colombia_co_count": 0,
@@ -54,95 +138,105 @@
         {
           "asin": "B0DXXYS4BJ",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 24.0,
           "list_price_usd": 39.99,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         },
         {
           "asin": "B0GGPBR4YP",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 13.92,
           "list_price_usd": 16.46,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         },
         {
           "asin": "B0DZ254SSR",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 11.99,
           "list_price_usd": 15.99,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         },
         {
           "asin": "B0CNTH3F7P",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 17.93,
           "list_price_usd": 21.99,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         },
         {
           "asin": "B0DSFJY5VD",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 9.97,
           "list_price_usd": 12.99,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         },
         {
           "asin": "B0CSK16X7B",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 29.74,
           "list_price_usd": 34.99,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
+        },
+        {
+          "asin": "B0DFLNL3XM",
+          "outcome": "parsed_ok",
+          "price_usd": 22.48,
+          "list_price_usd": 24.99,
+          "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
+          "has_buybox": true,
+          "live_verified": true
         },
         {
           "asin": "B0FT21HKZ6",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 62.97,
           "list_price_usd": 72.97,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         },
         {
           "asin": "B0GH6XYLQK",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
+          "price_usd": 9.98,
           "list_price_usd": 11.99,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         },
         {
-          "asin": "B0H1CVWC43",
+          "asin": "B0DD41G2NZ",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 16.99,
+          "price_usd": 26.55,
+          "list_price_usd": 39.99,
           "dest": "US_OR_UNKNOWN",
+          "ingress": "Actualizar ubicación Entrega en Boardman 97818 - Actualizar ",
           "has_buybox": true,
-          "live_verified": false
-        },
-        {
-          "asin": "B0HMKPPM6V",
-          "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 35.47,
-          "dest": "US_OR_UNKNOWN",
-          "has_buybox": true,
-          "live_verified": false
+          "live_verified": true
         }
       ],
-      "discovery_new_asins": 2,
+      "discovery_new_asins": 0,
       "discovery_parsed_leads": 56
     }
   },
