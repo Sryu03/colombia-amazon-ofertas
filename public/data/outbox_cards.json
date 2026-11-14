@@ -1,5 +1,317 @@
 [
   {
+    "asin": "B0018QS5HU",
+    "title": "Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)",
+    "timestamp": "2026-11-14T17:53:31.118389+00:00",
+    "timestamp_colombia": "2026-11-14T12:53:31.118389-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0018QS5HU",
+      "title": "Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 52.46,
+      "list_price_usd": 74.95,
+      "avg_90d_usd": 74.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51XquqDhOgL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 74.95,
+      "discount_pct": 30.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.0,
+      "price_vs_90d_badge": "📉 30.0% más barato que su promedio de 90 días ($74.95 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 52.46,
+      "price_cop": 173994,
+      "price_cop_formatted": "$173.994 COP",
+      "total_landed_cop": 173994,
+      "total_landed_cop_formatted": "$173.994 COP",
+      "savings_usd": 22.49,
+      "savings_cop": 74593,
+      "savings_cop_formatted": "$74.593 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0018QS5HU?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0018QS5HU",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T17:50:21.819126+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Levi&#x27;s Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$52.46 USD</b> (<i>~$173.994 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $22.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51XquqDhOgL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Levi&#x27;s Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$52.46 USD</b> (<i>~$173.994 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $22.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($52.46 USD)",
+                "url": "https://www.amazon.com/dp/B0018QS5HU?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0018QS5HU"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 60,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794678827,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADPGr4oCsKw55X70ti5V33ecnQy8uMAAKuEGsb4cTFU8wWZGTVrjrsAQADAgADcwADPQQ",
+              "file_unique_id": "AQADrhBrG-HExVN4",
+              "file_size": 1113,
+              "width": 44,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADPGr4oCsKw55X70ti5V33ecnQy8uMAAKuEGsb4cTFU8wWZGTVrjrsAQADAgADbQADPQQ",
+              "file_unique_id": "AQADrhBrG-HExVNy",
+              "file_size": 10323,
+              "width": 156,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADPGr4oCsKw55X70ti5V33ecnQy8uMAAKuEGsb4cTFU8wWZGTVrjrsAQADAgADeQADPQQ",
+              "file_unique_id": "AQADrhBrG-HExVN-",
+              "file_size": 39447,
+              "width": 470,
+              "height": 962
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADPGr4oCsKw55X70ti5V33ecnQy8uMAAKuEGsb4cTFU8wWZGTVrjrsAQADAgADeAADPQQ",
+              "file_unique_id": "AQADrhBrG-HExVN9",
+              "file_size": 46481,
+              "width": 391,
+              "height": 800
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)\n\n💵 Precio Hoy: $52.46 USD (~$173.994 COP · TRM $3.317)\n📉 Más barato que antes: Antes $74.95 USD → Hoy -30% OFF · Ahorras $22.49 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 94,
+              "type": "bold"
+            },
+            {
+              "offset": 144,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 156,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 168,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 199,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 227,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 244,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 255,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 278,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 460,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 546,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 740,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 755,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 768,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($52.46 USD)",
+                  "url": "https://www.amazon.com/dp/B0018QS5HU?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0018QS5HU"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0018QS5HU",
+        "title": "Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)",
+        "photo_url": "https://m.media-amazon.com/images/I/51XquqDhOgL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Levi&#x27;s Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$52.46 USD</b> (<i>~$173.994 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $22.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($52.46 USD)",
+                "url": "https://www.amazon.com/dp/B0018QS5HU?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0018QS5HU"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0018QS5HU?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0018QS5HU",
+        "deal_snapshot": {
+          "asin": "B0018QS5HU",
+          "title": "Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)",
+          "price_usd": 52.46,
+          "reference_price_usd": 74.95,
+          "discount_pct": 30,
+          "price_cop": 173994,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0018QS5HU",
+      "title": "Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)",
+      "photo_url": "https://m.media-amazon.com/images/I/51XquqDhOgL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Levi&#x27;s Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$52.46 USD</b> (<i>~$173.994 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $22.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($52.46 USD)",
+              "url": "https://www.amazon.com/dp/B0018QS5HU?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0018QS5HU"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0018QS5HU?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0018QS5HU",
+      "deal_snapshot": {
+        "asin": "B0018QS5HU",
+        "title": "Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)",
+        "price_usd": 52.46,
+        "reference_price_usd": 74.95,
+        "discount_pct": 30,
+        "price_cop": 173994,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B076FPGWNZ",
     "title": "JSAUX - Cable de carga para iPhone 18 y 17 Pro, 6.6 pies/paquete de 2 USB a",
     "timestamp": "2026-11-14T17:36:14.944317+00:00",
