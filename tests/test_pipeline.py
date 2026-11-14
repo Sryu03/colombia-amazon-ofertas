@@ -82,7 +82,10 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(asin, "B0B9C4DKKG")
 
         aff_url = build_affiliate_url(dirty_url, associate_tag="pillepues-20")
-        self.assertEqual(aff_url, "https://www.amazon.com/dp/B0B9C4DKKG?tag=pillepues-20&language=es_US")
+        self.assertEqual(
+            aff_url,
+            "https://www.amazon.com/dp/B0B9C4DKKG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        )
 
         vercel_url = build_vercel_deal_url(asin, public_web_url="https://vitrina-colombia-ofertas.vercel.app")
         self.assertEqual(vercel_url, "https://vitrina-colombia-ofertas.vercel.app/?asin=B0B9C4DKKG")
@@ -105,6 +108,8 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         tg_card = build_telegram_card(deal, associate_tag="pillepues-20")
         self.assertLessEqual(len(tg_card["caption_html"]), 1024)
         self.assertEqual(len(tg_card["reply_markup"]["inline_keyboard"]), 2)
+        self.assertIn("linkCode=ll1", tg_card["reply_markup"]["inline_keyboard"][0][0]["url"])
+        self.assertIn("ref_=as_li_ss_tl", tg_card["reply_markup"]["inline_keyboard"][0][0]["url"])
         self.assertIn("Más barato que antes", tg_card["caption_html"])
         self.assertIn("Necesita casillero:", tg_card["caption_html"])
 
