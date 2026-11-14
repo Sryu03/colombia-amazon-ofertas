@@ -9,11 +9,11 @@
     "associate_tag": "pillepues-20",
     "public_web_url": "https://vitrina-colombia-ofertas.vercel.app",
     "zero_token_mode": true,
-    "monitored_products_count": 16,
+    "monitored_products_count": 0,
     "active_deals_count": 0,
-    "new_price_drops_count": 5,
+    "new_price_drops_count": 0,
     "telegram_delivery_status": {
-      "checked_at": "2026-11-14T16:54:33.733213+00:00",
+      "checked_at": "2026-11-14T17:03:01.254036+00:00",
       "token_configured": true,
       "chat_id": "@pillepues",
       "source": "none",
@@ -34,7 +34,117 @@
       "rejected_reasons": {},
       "rejected_samples": []
     },
-    "last_live_check_at": "2026-11-14T16:51:36.557149+00:00"
+    "last_live_check_at": "2026-11-14T16:59:55.907314+00:00",
+    "scraper_telemetry": {
+      "mode": "live",
+      "target_asins_count": 161,
+      "max_live_asins": 60,
+      "pre_verified_count": 0,
+      "attempted_count": 60,
+      "parsed_ok_count": 60,
+      "live_verified_count": 0,
+      "fetch_failures_count": 0,
+      "outcome_counts": {},
+      "colombia_co_count": 0,
+      "blocked_co_count": 0,
+      "us_or_unknown_count": 60,
+      "missing_buybox_count": 0,
+      "aborted_early_reason": null,
+      "sample_outcomes": [
+        {
+          "asin": "B0DXXYS4BJ",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 39.99,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0GGPBR4YP",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 16.46,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0DZ254SSR",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 15.99,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0CNTH3F7P",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 21.99,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0DSFJY5VD",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 12.99,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0CSK16X7B",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 34.99,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0FT21HKZ6",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 72.97,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0GH6XYLQK",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 11.99,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0H1CVWC43",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 16.99,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        },
+        {
+          "asin": "B0HMKPPM6V",
+          "outcome": "parsed_ok",
+          "price_usd": 0.0,
+          "list_price_usd": 35.47,
+          "dest": "US_OR_UNKNOWN",
+          "has_buybox": true,
+          "live_verified": false
+        }
+      ],
+      "discovery_new_asins": 2,
+      "discovery_parsed_leads": 56
+    }
   },
   "deals": []
 }
