@@ -1015,10 +1015,11 @@ class AmazonMonitorScraper:
 
         decoded = _html.unescape(html_text or "")
         patterns = (
-            r'name=["\']anti-csrftoken-a2z["\'][^>]*content=["\']([^"\']+)["\']',
-            r'["\']anti-csrftoken-a2z["\']\s*:\s*["\']([^"\']+)["\']',
-            r'anti-csrftoken-a2z["\']?\s*[:=]\s*["\']([^"\']+)["\']',
             r'CSRF_TOKEN\s*[:=]\s*["\']([^"\']+)["\']',
+            r'["\']anti-csrftoken-a2z["\']\s*:\s*["\']([^"\']+)["\']',
+            r'name=["\']anti-csrftoken-a2z["\'][^>]*content=["\']([^"\']+)["\']',
+            r'anti-csrftoken-a2z["\']?\s*[:=]\s*["\']([^"\']+)["\']',
+            r'name=["\']glowValidationToken["\'][^>]*value=["\']([^"\']+)["\']',
             r'"csrfToken"\s*:\s*"([^"]+)"',
         )
         for pat in patterns:
@@ -1026,6 +1027,41 @@ class AmazonMonitorScraper:
             if m and m.group(1).strip():
                 return m.group(1).strip()
         return ""
+
+    @staticmethod
+    def _extract_glow_modal_info(html_text: str) -> tuple[str, str]:
+        """Extract exact (modal_url, ajax_csrf_token) from #nav-global-location-data-modal-action."""
+        import html as _html
+        import json as _json
+
+        raw_json = ""
+        if HAS_BS4 and BeautifulSoup is not None and html_text:
+            try:
+                soup = BeautifulSoup(html_text, "html.parser")
+                node = soup.select_one("#nav-global-location-data-modal-action")
+                if node:
+                    raw_json = str(node.get("data-a-modal") or "")
+            except Exception:
+                pass
+        if not raw_json and html_text:
+            m = re.search(
+                r'id=["\']nav-global-location-data-modal-action["\'][^>]*data-a-modal=["\']([^"\']+)["\']',
+                html_text,
+                re.I,
+            )
+            if m:
+                raw_json = m.group(1)
+        if raw_json:
+            try:
+                data = _json.loads(_html.unescape(raw_json))
+                if isinstance(data, dict):
+                    url = str(data.get("url") or "").strip()
+                    ajax_headers = data.get("ajaxHeaders") or {}
+                    csrf = str(ajax_headers.get("anti-csrftoken-a2z") or "").strip()
+                    return url, csrf
+            except Exception:
+                pass
+        return "", ""
 
     @staticmethod
     def _extract_ingress_snippet(html_text: str) -> str:
@@ -1056,8 +1092,18 @@ class AmazonMonitorScraper:
                 self._colombia_location_ready = False
                 return
 
-            csrf = self._extract_csrf_token(boot_text)
-            debug["csrf_from_dp"] = bool(csrf)
+            modal_path, modal_ajax_csrf = self._extract_glow_modal_info(boot_text)
+            debug["modal_action_found"] = bool(modal_path)
+            debug["modal_ajax_csrf_found"] = bool(modal_ajax_csrf)
+
+            modal_url = (
+                f"https://www.amazon.com{modal_path}"
+                if modal_path.startswith("/")
+                else (
+                    modal_path
+                    or "https://www.amazon.com/portal-migration/hz/glow/get-rendered-address-selections?deviceType=desktop&pageType=Detail&storeContext=pc&actionSource=desktop-modal"
+                )
+            )
             modal_headers = {
                 **headers,
                 "Accept": "text/html,*/*;q=0.8",
@@ -1065,25 +1111,23 @@ class AmazonMonitorScraper:
                 "Referer": boot_url,
                 "X-Requested-With": "XMLHttpRequest",
             }
-            if not csrf:
-                modal_resp = session.get(
-                    "https://www.amazon.com/portal-migration/hz/glow/get-rendered-address-selections?deviceType=desktop&pageType=Detail&storeContext=pc&actionSource=desktop-modal",
-                    headers=modal_headers,
-                    timeout=self.timeout,
-                )
-                debug["modal_status"] = int(getattr(modal_resp, "status_code", 0) or 0)
-                modal_text = getattr(modal_resp, "text", "") or ""
-                csrf = self._extract_csrf_token(modal_text)
-                debug["csrf_from_modal"] = bool(csrf)
-            debug["csrf_found"] = bool(csrf)
+            if modal_ajax_csrf:
+                modal_headers["anti-csrftoken-a2z"] = modal_ajax_csrf
+
+            modal_resp = session.get(modal_url, headers=modal_headers, timeout=self.timeout)
+            debug["modal_status"] = int(getattr(modal_resp, "status_code", 0) or 0)
+            modal_text = getattr(modal_resp, "text", "") or ""
+            post_csrf = self._extract_csrf_token(modal_text) or modal_ajax_csrf or self._extract_csrf_token(boot_text)
+            debug["post_csrf_found"] = bool(post_csrf)
 
             glow_headers = {
                 **modal_headers,
                 "Accept": "application/json, text/javascript, */*; q=0.01",
                 "Content-Type": "application/json",
             }
-            if csrf:
-                glow_headers["anti-csrftoken-a2z"] = csrf
+            if post_csrf:
+                glow_headers["anti-csrftoken-a2z"] = post_csrf
+
             payload = {
                 "locationType": "COUNTRY",
                 "district": "CO",
@@ -1103,13 +1147,21 @@ class AmazonMonitorScraper:
             debug["post_body"] = (getattr(post_resp, "text", "") or "").strip()[:140]
 
             if debug["post_status"] != 200 or not debug["post_body"]:
-                ajax_resp = session.get(
-                    "https://www.amazon.com/gp/delivery/ajax/address-change.html?locationType=COUNTRY&district=CO&countryCode=CO&deviceType=web&pageType=Detail&storeContext=generic",
-                    headers=glow_headers,
+                form_headers = {
+                    **modal_headers,
+                    "Accept": "application/json, text/javascript, */*; q=0.01",
+                    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+                }
+                if post_csrf:
+                    form_headers["anti-csrftoken-a2z"] = post_csrf
+                ajax_post = session.post(
+                    "https://www.amazon.com/gp/delivery/ajax/address-change.html",
+                    data=payload,
+                    headers=form_headers,
                     timeout=self.timeout,
                 )
-                debug["ajax_status"] = int(getattr(ajax_resp, "status_code", 0) or 0)
-                debug["ajax_body"] = (getattr(ajax_resp, "text", "") or "").strip()[:120]
+                debug["ajax_post_status"] = int(getattr(ajax_post, "status_code", 0) or 0)
+                debug["ajax_post_body"] = (getattr(ajax_post, "text", "") or "").strip()[:120]
 
             self._glow_debug = debug
             self._colombia_location_ready = True
