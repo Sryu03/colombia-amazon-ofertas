@@ -1,13 +1,5 @@
 [
   {
-    "asin": "B0HDJQQMYP",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B07YCWBRS8",
-    "category": "Hogar"
-  },
-  {
     "asin": "B0FQFB8FMG",
     "category": "Audio"
   },
@@ -361,6 +353,14 @@
   },
   {
     "asin": "B0F9LS9X17",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0HDJQQMYP",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B07YCWBRS8",
     "category": "Hogar"
   },
   {
