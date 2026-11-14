@@ -25,7 +25,7 @@ from src.evaluator.colombia_rules import (
 )
 from src.monitor.amazon_scraper import AmazonMonitorScraper
 from src.monitor.discovery import (
-    discover_trending_asins,
+    discover_deals_and_asins,
     load_watchlist_asins,
     save_watchlist_asins,
 )
@@ -75,9 +75,10 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
     )
 
     watchlist_items = load_watchlist_asins(WATCHLIST_PATH)
+    parsed_live_deals: list[dict] = []
     if LIVE_SCRAPE and DISCOVERY_ENABLED:
         existing_asins = {str(item.get("asin", "")).upper() for item in watchlist_items}
-        newly_discovered = discover_trending_asins(
+        newly_discovered, parsed_live_deals = discover_deals_and_asins(
             existing_asins=existing_asins,
             max_new_asins=30,
         )
@@ -87,7 +88,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
 
     catalog = scraper.fetch_catalog(
         use_seed=not LIVE_SCRAPE,
-        extra_items=watchlist_items,
+        extra_items=parsed_live_deals + watchlist_items,
         max_live_asins=MAX_LIVE_ASINS,
     )
     approved_candidates: list[tuple[dict, dict, dict]] = []
@@ -209,8 +210,8 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
     price_history.save()
 
     deals_json_path = DATA_DIR / "deals.json"
-    if LIVE_SCRAPE and len(catalog) == 0 and deals_json_path.exists():
-        # Preserve existing public catalog if a single live scrape cycle got temporarily blocked
+    if LIVE_SCRAPE and len(approved_deals) == 0 and deals_json_path.exists():
+        # Preserve existing public catalog if a single live scrape cycle yielded 0 approved deals
         exported_path = str(deals_json_path)
     else:
         db.clear_stale_published_deals([d["asin"] for d in approved_deals])
