@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0H1CYP2LK",
+    "title": "GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe",
+    "timestamp": "2026-11-14T22:33:29.487716+00:00",
+    "timestamp_colombia": "2026-11-14T17:33:29.487716-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H1CYP2LK",
+      "title": "GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 13.59,
+      "list_price_usd": 16.99,
+      "avg_90d_usd": 16.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71NWXdToPkL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 16.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($16.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 25.54,
+      "price_cop": 45074,
+      "price_cop_formatted": "$45.074 COP",
+      "total_landed_cop": 84709,
+      "total_landed_cop_formatted": "$84.709 COP",
+      "savings_usd": 3.4,
+      "savings_cop": 11277,
+      "savings_cop_formatted": "$11.277 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $21.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H1CYP2LK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H1CYP2LK",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T22:30:22.999679+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe</b>\n\n💵 <b>Precio Hoy:</b> <b>$13.59 USD</b> (<i>~$45.074 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$16.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $3.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $21.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71NWXdToPkL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe</b>\n\n💵 <b>Precio Hoy:</b> <b>$13.59 USD</b> (<i>~$45.074 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$16.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $3.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $21.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($13.59 USD)",
+                "url": "https://www.amazon.com/dp/B0H1CYP2LK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H1CYP2LK"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 77,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794695614,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTWr44b7GB-oogBounXrdRQWqSekcAAIZDWsbXhPIR2vqGH4FLx_EAQADAgADcwADPQQ",
+              "file_unique_id": "AQADGQ1rG14TyEd4",
+              "file_size": 1713,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTWr44b7GB-oogBounXrdRQWqSekcAAIZDWsbXhPIR2vqGH4FLx_EAQADAgADbQADPQQ",
+              "file_unique_id": "AQADGQ1rG14TyEdy",
+              "file_size": 23041,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTWr44b7GB-oogBounXrdRQWqSekcAAIZDWsbXhPIR2vqGH4FLx_EAQADAgADeAADPQQ",
+              "file_unique_id": "AQADGQ1rG14TyEd9",
+              "file_size": 90044,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTWr44b7GB-oogBounXrdRQWqSekcAAIZDWsbXhPIR2vqGH4FLx_EAQADAgADeQADPQQ",
+              "file_unique_id": "AQADGQ1rG14TyEd-",
+              "file_size": 134994,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe\n\n💵 Precio Hoy: $13.59 USD (~$45.074 COP · TRM $3.317)\n📉 Más barato que antes: Antes $16.99 USD → Hoy -20% OFF · Ahorras $3.40 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $21.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 113,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 167,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 195,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 212,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 223,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 245,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 445,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 531,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 679,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 694,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 707,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($13.59 USD)",
+                  "url": "https://www.amazon.com/dp/B0H1CYP2LK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H1CYP2LK"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H1CYP2LK",
+        "title": "GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe",
+        "photo_url": "https://m.media-amazon.com/images/I/71NWXdToPkL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe</b>\n\n💵 <b>Precio Hoy:</b> <b>$13.59 USD</b> (<i>~$45.074 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$16.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $3.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $21.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($13.59 USD)",
+                "url": "https://www.amazon.com/dp/B0H1CYP2LK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H1CYP2LK"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H1CYP2LK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H1CYP2LK",
+        "deal_snapshot": {
+          "asin": "B0H1CYP2LK",
+          "title": "GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe",
+          "price_usd": 13.59,
+          "reference_price_usd": 16.99,
+          "discount_pct": 20,
+          "price_cop": 45074,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H1CYP2LK",
+      "title": "GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe",
+      "photo_url": "https://m.media-amazon.com/images/I/71NWXdToPkL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe</b>\n\n💵 <b>Precio Hoy:</b> <b>$13.59 USD</b> (<i>~$45.074 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$16.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $3.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $21.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($13.59 USD)",
+              "url": "https://www.amazon.com/dp/B0H1CYP2LK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H1CYP2LK"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H1CYP2LK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H1CYP2LK",
+      "deal_snapshot": {
+        "asin": "B0H1CYP2LK",
+        "title": "GONEZ Funda para iPhone 18 Pro / 17 Pro, compatible con MagSafe",
+        "price_usd": 13.59,
+        "reference_price_usd": 16.99,
+        "discount_pct": 20,
+        "price_cop": 45074,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0F1R2437T",
+    "title": "Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2",
+    "timestamp": "2026-11-14T22:33:27.537811+00:00",
+    "timestamp_colombia": "2026-11-14T17:33:27.537811-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0F1R2437T",
+      "title": "Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 14.99,
+      "list_price_usd": 27.99,
+      "avg_90d_usd": 27.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71S15RUV9aL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 27.99,
+      "discount_pct": 46.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 46.4,
+      "price_vs_90d_badge": "📉 46.4% más barato que su promedio de 90 días ($27.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 26.94,
+      "price_cop": 49717,
+      "price_cop_formatted": "$49.717 COP",
+      "total_landed_cop": 89352,
+      "total_landed_cop_formatted": "$89.352 COP",
+      "savings_usd": 13.0,
+      "savings_cop": 43117,
+      "savings_cop_formatted": "$43.117 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $20.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0F1R2437T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1R2437T",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-14T22:30:22.999679+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.99 USD</b> (<i>~$49.717 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $13.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71S15RUV9aL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.99 USD</b> (<i>~$49.717 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $13.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F1R2437T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1R2437T"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 76,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794695609,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTGr44bnhetqfBJA-0LZxYaR8sxJQAAIYDWsbXhPIRx_neQrUhMTsAQADAgADcwADPQQ",
+              "file_unique_id": "AQADGA1rG14TyEd4",
+              "file_size": 1751,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTGr44bnhetqfBJA-0LZxYaR8sxJQAAIYDWsbXhPIRx_neQrUhMTsAQADAgADbQADPQQ",
+              "file_unique_id": "AQADGA1rG14TyEdy",
+              "file_size": 22940,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTGr44bnhetqfBJA-0LZxYaR8sxJQAAIYDWsbXhPIRx_neQrUhMTsAQADAgADeAADPQQ",
+              "file_unique_id": "AQADGA1rG14TyEd9",
+              "file_size": 87327,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADTGr44bnhetqfBJA-0LZxYaR8sxJQAAIYDWsbXhPIRx_neQrUhMTsAQADAgADeQADPQQ",
+              "file_unique_id": "AQADGA1rG14TyEd-",
+              "file_size": 126801,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)\n📦 Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2\n\n💵 Precio Hoy: $14.99 USD (~$49.717 COP · TRM $3.317)\n📉 Más barato que antes: Antes $27.99 USD → Hoy -46% OFF · Ahorras $13.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $20.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 71,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 181,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 226,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 237,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 260,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 460,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 546,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 694,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 709,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 722,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($14.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0F1R2437T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1R2437T"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F1R2437T",
+        "title": "Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2",
+        "photo_url": "https://m.media-amazon.com/images/I/71S15RUV9aL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.99 USD</b> (<i>~$49.717 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $13.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F1R2437T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1R2437T"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F1R2437T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1R2437T",
+        "deal_snapshot": {
+          "asin": "B0F1R2437T",
+          "title": "Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2",
+          "price_usd": 14.99,
+          "reference_price_usd": 27.99,
+          "discount_pct": 46,
+          "price_cop": 49717,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F1R2437T",
+      "title": "Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2",
+      "photo_url": "https://m.media-amazon.com/images/I/71S15RUV9aL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.99 USD</b> (<i>~$49.717 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $13.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($14.99 USD)",
+              "url": "https://www.amazon.com/dp/B0F1R2437T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1R2437T"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F1R2437T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1R2437T",
+      "deal_snapshot": {
+        "asin": "B0F1R2437T",
+        "title": "Turtle Beach Airlite Fit - Auriculares con cable para Nintendo Switch 2",
+        "price_usd": 14.99,
+        "reference_price_usd": 27.99,
+        "discount_pct": 46,
+        "price_cop": 49717,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B08J8GZXKZ",
     "title": "KITCHENAID - Juego de 2 guantes de horno de silicona suave acanalados, 7.5 x 13 pulgadas, batido marrón",
     "timestamp": "2026-11-14T21:33:16.199635+00:00",
