@@ -1,5 +1,1220 @@
 [
   {
+    "asin": "B0000645YM",
+    "title": "Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas",
+    "timestamp": "2026-11-14T06:16:35.331856+00:00",
+    "timestamp_colombia": "2026-11-14T01:16:35.331856-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0000645YM",
+      "title": "Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 29.29,
+      "list_price_usd": 39.95,
+      "avg_90d_usd": 39.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61LrOAD6N6L._AC_UL320_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 39.95,
+      "discount_pct": 26.7,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 26.7,
+      "price_vs_90d_badge": "📉 26.7% más barato que su promedio de 90 días ($39.95 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 29.29,
+      "price_cop": 97146,
+      "price_cop_formatted": "$97.146 COP",
+      "total_landed_cop": 97146,
+      "total_landed_cop_formatted": "$97.146 COP",
+      "savings_usd": 10.66,
+      "savings_cop": 35356,
+      "savings_cop_formatted": "$35.356 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0000645YM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0000645YM",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "<b>[⚡ GRAN OFERTA] Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $29.29 USD (<i>~$97.146 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.95 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $10.66 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61LrOAD6N6L._AC_UL320_.jpg",
+        "caption": "<b>[⚡ GRAN OFERTA] Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $29.29 USD (<i>~$97.146 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.95 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $10.66 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.29 USD)",
+                "url": "https://www.amazon.com/dp/B0000645YM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0000645YM"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 18,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794636998,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADEmr3_MaEOAzPCCzKYaScVrcdWtbCAAL6EGsbSKzFU9bmKrA26tCvAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD-hBrG0isxVN4",
+              "file_size": 1485,
+              "width": 53,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADEmr3_MaEOAzPCCzKYaScVrcdWtbCAAL6EGsbSKzFU9bmKrA26tCvAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD-hBrG0isxVNy",
+              "file_size": 10585,
+              "width": 189,
+              "height": 320
+            }
+          ],
+          "caption": "[⚡ GRAN OFERTA] Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas (-27% OFF)\n\n💵 Precio Hoy: $29.29 USD (~$97.146 COP · TRM $3.317)\n📉 Más barato que antes: Antes $39.95 USD → Hoy -27% OFF (Ahorras $10.66 USD)\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\nℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 0,
+              "length": 106,
+              "type": "bold"
+            },
+            {
+              "offset": 111,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 135,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 165,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 210,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 244,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 446,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 517,
+              "length": 4,
+              "type": "bold"
+            },
+            {
+              "offset": 698,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.29 USD)",
+                  "url": "https://www.amazon.com/dp/B0000645YM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0000645YM"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0000645YM",
+        "title": "Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas",
+        "photo_url": "https://m.media-amazon.com/images/I/61LrOAD6N6L._AC_UL320_.jpg",
+        "caption_html": "<b>[⚡ GRAN OFERTA] Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $29.29 USD (<i>~$97.146 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.95 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $10.66 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.29 USD)",
+                "url": "https://www.amazon.com/dp/B0000645YM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0000645YM"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0000645YM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0000645YM"
+      }
+    },
+    "telegram_card": {
+      "asin": "B0000645YM",
+      "title": "Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas",
+      "photo_url": "https://m.media-amazon.com/images/I/61LrOAD6N6L._AC_UL320_.jpg",
+      "caption_html": "<b>[⚡ GRAN OFERTA] Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $29.29 USD (<i>~$97.146 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.95 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $10.66 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.29 USD)",
+              "url": "https://www.amazon.com/dp/B0000645YM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en la Web",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0000645YM"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0000645YM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0000645YM"
+    }
+  },
+  {
+    "asin": "B01LNFYCHM",
+    "title": "SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma",
+    "timestamp": "2026-11-14T06:16:31.628391+00:00",
+    "timestamp_colombia": "2026-11-14T01:16:31.628391-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B01LNFYCHM",
+      "title": "SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 6.56,
+      "list_price_usd": 8.99,
+      "avg_90d_usd": 8.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61mgiABFYnL._AC_UL320_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 8.99,
+      "discount_pct": 27.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 27.0,
+      "price_vs_90d_badge": "📉 27.0% más barato que su promedio de 90 días ($8.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 6.56,
+      "price_cop": 21758,
+      "price_cop_formatted": "$21.758 COP",
+      "total_landed_cop": 21758,
+      "total_landed_cop_formatted": "$21.758 COP",
+      "savings_usd": 2.43,
+      "savings_cop": 8060,
+      "savings_cop_formatted": "$8.060 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B01LNFYCHM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01LNFYCHM",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "<b>[⚡ GRAN OFERTA] SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $6.56 USD (<i>~$21.758 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$8.99 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $2.43 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61mgiABFYnL._AC_UL320_.jpg",
+        "caption": "<b>[⚡ GRAN OFERTA] SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $6.56 USD (<i>~$21.758 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$8.99 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $2.43 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($6.56 USD)",
+                "url": "https://www.amazon.com/dp/B01LNFYCHM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01LNFYCHM"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 17,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794636995,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADEWr3_MPJyCKlBglJxwuTMSvlQKJGAALBEGsbL67FU-5Dl0QKWoAHAQADAgADcwADPQQ",
+              "file_unique_id": "AQADwRBrGy-uxVN4",
+              "file_size": 1517,
+              "width": 72,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADEWr3_MPJyCKlBglJxwuTMSvlQKJGAALBEGsbL67FU-5Dl0QKWoAHAQADAgADbQADPQQ",
+              "file_unique_id": "AQADwRBrGy-uxVNy",
+              "file_size": 12912,
+              "width": 257,
+              "height": 320
+            }
+          ],
+          "caption": "[⚡ GRAN OFERTA] SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma (-27% OFF)\n\n💵 Precio Hoy: $6.56 USD (~$21.758 COP · TRM $3.317)\n📉 Más barato que antes: Antes $8.99 USD → Hoy -27% OFF (Ahorras $2.43 USD)\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\nℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 0,
+              "length": 96,
+              "type": "bold"
+            },
+            {
+              "offset": 101,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 124,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 154,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 182,
+              "length": 9,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 198,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 231,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 433,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 504,
+              "length": 4,
+              "type": "bold"
+            },
+            {
+              "offset": 685,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($6.56 USD)",
+                  "url": "https://www.amazon.com/dp/B01LNFYCHM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01LNFYCHM"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B01LNFYCHM",
+        "title": "SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma",
+        "photo_url": "https://m.media-amazon.com/images/I/61mgiABFYnL._AC_UL320_.jpg",
+        "caption_html": "<b>[⚡ GRAN OFERTA] SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $6.56 USD (<i>~$21.758 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$8.99 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $2.43 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($6.56 USD)",
+                "url": "https://www.amazon.com/dp/B01LNFYCHM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01LNFYCHM"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B01LNFYCHM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01LNFYCHM"
+      }
+    },
+    "telegram_card": {
+      "asin": "B01LNFYCHM",
+      "title": "SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma",
+      "photo_url": "https://m.media-amazon.com/images/I/61mgiABFYnL._AC_UL320_.jpg",
+      "caption_html": "<b>[⚡ GRAN OFERTA] SIMPLETASTE Espumador de leche de mano eléctrico fabricante de espuma (-27% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $6.56 USD (<i>~$21.758 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$8.99 USD</s> → Hoy <b>-27% OFF</b> (Ahorras $2.43 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($6.56 USD)",
+              "url": "https://www.amazon.com/dp/B01LNFYCHM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en la Web",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01LNFYCHM"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B01LNFYCHM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B01LNFYCHM"
+    }
+  },
+  {
+    "asin": "B0855B5Z6F",
+    "title": "Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701",
+    "timestamp": "2026-11-14T06:16:28.205071+00:00",
+    "timestamp_colombia": "2026-11-14T01:16:28.205071-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0855B5Z6F",
+      "title": "Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 79.99,
+      "list_price_usd": 119.99,
+      "avg_90d_usd": 119.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71RbmccXCUL._AC_UL320_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 119.99,
+      "discount_pct": 33.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.3,
+      "price_vs_90d_badge": "📉 33.3% más barato que su promedio de 90 días ($119.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 79.99,
+      "price_cop": 265303,
+      "price_cop_formatted": "$265.303 COP",
+      "total_landed_cop": 265303,
+      "total_landed_cop_formatted": "$265.303 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 132668,
+      "savings_cop_formatted": "$132.668 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0855B5Z6F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0855B5Z6F",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "<b>[⚡ GRAN OFERTA] Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701 (-33% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $79.99 USD (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$119.99 USD</s> → Hoy <b>-33% OFF</b> (Ahorras $40.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71RbmccXCUL._AC_UL320_.jpg",
+        "caption": "<b>[⚡ GRAN OFERTA] Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701 (-33% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $79.99 USD (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$119.99 USD</s> → Hoy <b>-33% OFF</b> (Ahorras $40.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+                "url": "https://www.amazon.com/dp/B0855B5Z6F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0855B5Z6F"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 16,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794636991,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADEGr3_L-LPtdfeA3dnqQ4x2lds1yLAAJeDmsb1XpVURnQwRnXiUGOAQADAgADcwADPQQ",
+              "file_unique_id": "AQADXg5rG9V6VVF4",
+              "file_size": 1278,
+              "width": 38,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADEGr3_L-LPtdfeA3dnqQ4x2lds1yLAAJeDmsb1XpVURnQwRnXiUGOAQADAgADbQADPQQ",
+              "file_unique_id": "AQADXg5rG9V6VVFy",
+              "file_size": 12200,
+              "width": 134,
+              "height": 320
+            }
+          ],
+          "caption": "[⚡ GRAN OFERTA] Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701 (-33% OFF)\n\n💵 Precio Hoy: $79.99 USD (~$265.303 COP · TRM $3.317)\n📉 Más barato que antes: Antes $119.99 USD → Hoy -33% OFF (Ahorras $40.00 USD)\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\nℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 0,
+              "length": 102,
+              "type": "bold"
+            },
+            {
+              "offset": 107,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 162,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 190,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 208,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 242,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 444,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 515,
+              "length": 4,
+              "type": "bold"
+            },
+            {
+              "offset": 696,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0855B5Z6F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0855B5Z6F"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0855B5Z6F",
+        "title": "Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701",
+        "photo_url": "https://m.media-amazon.com/images/I/71RbmccXCUL._AC_UL320_.jpg",
+        "caption_html": "<b>[⚡ GRAN OFERTA] Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701 (-33% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $79.99 USD (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$119.99 USD</s> → Hoy <b>-33% OFF</b> (Ahorras $40.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+                "url": "https://www.amazon.com/dp/B0855B5Z6F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0855B5Z6F"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0855B5Z6F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0855B5Z6F"
+      }
+    },
+    "telegram_card": {
+      "asin": "B0855B5Z6F",
+      "title": "Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701",
+      "photo_url": "https://m.media-amazon.com/images/I/71RbmccXCUL._AC_UL320_.jpg",
+      "caption_html": "<b>[⚡ GRAN OFERTA] Ninja Professional Plus Licuadora, Auto-iQ, 1400W, jarra de 72 onzas, BN701 (-33% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $79.99 USD (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$119.99 USD</s> → Hoy <b>-33% OFF</b> (Ahorras $40.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+              "url": "https://www.amazon.com/dp/B0855B5Z6F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en la Web",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0855B5Z6F"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0855B5Z6F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0855B5Z6F"
+    }
+  },
+  {
+    "asin": "B0GVM8N2CK",
+    "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+    "timestamp": "2026-11-14T06:16:24.769531+00:00",
+    "timestamp_colombia": "2026-11-14T01:16:24.769531-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GVM8N2CK",
+      "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 9.97,
+      "list_price_usd": 15.98,
+      "avg_90d_usd": 15.98,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71HAYvyw1fL._AC_UL320_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 15.98,
+      "discount_pct": 37.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 37.6,
+      "price_vs_90d_badge": "📉 37.6% más barato que su promedio de 90 días ($15.98 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 9.97,
+      "price_cop": 33067,
+      "price_cop_formatted": "$33.067 COP",
+      "total_landed_cop": 33067,
+      "total_landed_cop_formatted": "$33.067 COP",
+      "savings_usd": 6.01,
+      "savings_cop": 19933,
+      "savings_cop_formatted": "$19.933 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GVM8N2CK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GVM8N2CK",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "<b>[🔥 MÍNIMO HISTÓRICO] Termómetro digital para carne, lectura instantánea de 1-2 segundos (-38% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $9.97 USD (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$15.98 USD</s> → Hoy <b>-38% OFF</b> (Ahorras $6.01 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71HAYvyw1fL._AC_UL320_.jpg",
+        "caption": "<b>[🔥 MÍNIMO HISTÓRICO] Termómetro digital para carne, lectura instantánea de 1-2 segundos (-38% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $9.97 USD (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$15.98 USD</s> → Hoy <b>-38% OFF</b> (Ahorras $6.01 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+                "url": "https://www.amazon.com/dp/B0GVM8N2CK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GVM8N2CK"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 15,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794636988,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADD2r3_LyHzuqOZU6kQ4FtmpWPEBiTAALjD2sbhGGcUeNbNH2YPKboAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD4w9rG4RhnFF4",
+              "file_size": 2080,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADD2r3_LyHzuqOZU6kQ4FtmpWPEBiTAALjD2sbhGGcUeNbNH2YPKboAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD4w9rG4RhnFFy",
+              "file_size": 17935,
+              "width": 320,
+              "height": 319
+            }
+          ],
+          "caption": "[🔥 MÍNIMO HISTÓRICO] Termómetro digital para carne, lectura instantánea de 1-2 segundos (-38% OFF)\n\n💵 Precio Hoy: $9.97 USD (~$33.067 COP · TRM $3.317)\n📉 Más barato que antes: Antes $15.98 USD → Hoy -38% OFF (Ahorras $6.01 USD)\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\nℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 0,
+              "length": 99,
+              "type": "bold"
+            },
+            {
+              "offset": 104,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 157,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 185,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 202,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 235,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 437,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 508,
+              "length": 4,
+              "type": "bold"
+            },
+            {
+              "offset": 689,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0GVM8N2CK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GVM8N2CK"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GVM8N2CK",
+        "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+        "photo_url": "https://m.media-amazon.com/images/I/71HAYvyw1fL._AC_UL320_.jpg",
+        "caption_html": "<b>[🔥 MÍNIMO HISTÓRICO] Termómetro digital para carne, lectura instantánea de 1-2 segundos (-38% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $9.97 USD (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$15.98 USD</s> → Hoy <b>-38% OFF</b> (Ahorras $6.01 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+                "url": "https://www.amazon.com/dp/B0GVM8N2CK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GVM8N2CK"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GVM8N2CK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GVM8N2CK"
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GVM8N2CK",
+      "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+      "photo_url": "https://m.media-amazon.com/images/I/71HAYvyw1fL._AC_UL320_.jpg",
+      "caption_html": "<b>[🔥 MÍNIMO HISTÓRICO] Termómetro digital para carne, lectura instantánea de 1-2 segundos (-38% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $9.97 USD (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$15.98 USD</s> → Hoy <b>-38% OFF</b> (Ahorras $6.01 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+              "url": "https://www.amazon.com/dp/B0GVM8N2CK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en la Web",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GVM8N2CK"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GVM8N2CK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GVM8N2CK"
+    }
+  },
+  {
+    "asin": "B09715G57M",
+    "title": "Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción",
+    "timestamp": "2026-11-14T06:16:24.329929+00:00",
+    "timestamp_colombia": "2026-11-14T01:16:24.329929-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B09715G57M",
+      "title": "Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 59.99,
+      "list_price_usd": 109.99,
+      "avg_90d_usd": 109.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_UL320_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 109.99,
+      "discount_pct": 45.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 45.5,
+      "price_vs_90d_badge": "📉 45.5% más barato que su promedio de 90 días ($109.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 59.99,
+      "price_cop": 198969,
+      "price_cop_formatted": "$198.969 COP",
+      "total_landed_cop": 198969,
+      "total_landed_cop_formatted": "$198.969 COP",
+      "savings_usd": 50.0,
+      "savings_cop": 165835,
+      "savings_cop_formatted": "$165.835 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B09715G57M?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B09715G57M",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "<b>[🔥 MÍNIMO HISTÓRICO] Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción (-46% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $59.99 USD (<i>~$198.969 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-46% OFF</b> (Ahorras $50.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_UL320_.jpg",
+        "caption": "<b>[🔥 MÍNIMO HISTÓRICO] Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción (-46% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $59.99 USD (<i>~$198.969 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-46% OFF</b> (Ahorras $50.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B09715G57M?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B09715G57M"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 14,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794636984,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADDmr3_LiyL9FUBD2wv6SJCeKetbvLAAL1Dmsb7kV0U3nBXeGBh47kAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD9Q5rG-5FdFN4",
+              "file_size": 1312,
+              "width": 56,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADDmr3_LiyL9FUBD2wv6SJCeKetbvLAAL1Dmsb7kV0U3nBXeGBh47kAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD9Q5rG-5FdFNy",
+              "file_size": 8540,
+              "width": 200,
+              "height": 320
+            }
+          ],
+          "caption": "[🔥 MÍNIMO HISTÓRICO] Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción (-46% OFF)\n\n💵 Precio Hoy: $59.99 USD (~$198.969 COP · TRM $3.317)\n📉 Más barato que antes: Antes $109.99 USD → Hoy -46% OFF (Ahorras $50.00 USD)\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\nℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 0,
+              "length": 98,
+              "type": "bold"
+            },
+            {
+              "offset": 103,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 158,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 186,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 204,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 440,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 511,
+              "length": 4,
+              "type": "bold"
+            },
+            {
+              "offset": 692,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                  "url": "https://www.amazon.com/dp/B09715G57M?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B09715G57M"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B09715G57M",
+        "title": "Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción",
+        "photo_url": "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_UL320_.jpg",
+        "caption_html": "<b>[🔥 MÍNIMO HISTÓRICO] Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción (-46% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $59.99 USD (<i>~$198.969 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-46% OFF</b> (Ahorras $50.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B09715G57M?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en la Web",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B09715G57M"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B09715G57M?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B09715G57M"
+      }
+    },
+    "telegram_card": {
+      "asin": "B09715G57M",
+      "title": "Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción",
+      "photo_url": "https://m.media-amazon.com/images/I/71xuVr0CPbL._AC_UL320_.jpg",
+      "caption_html": "<b>[🔥 MÍNIMO HISTÓRICO] Keurig K-Express - Cafetera de cápsulas K-Cup de una sola porción (-46% OFF)</b>\n\n💵 <b>Precio Hoy:</b> $59.99 USD (<i>~$198.969 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-46% OFF</b> (Ahorras $50.00 USD)\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n<i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+              "url": "https://www.amazon.com/dp/B09715G57M?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en la Web",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B09715G57M"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B09715G57M?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B09715G57M"
+    }
+  },
+  {
     "asin": "B09DFCB66S",
     "title": "Sony PlayStation 5 Consola Edición Estándar con Lector de Discos Blu-Ray 4K",
     "timestamp": "2026-11-14T06:07:41.190177+00:00",
