@@ -89,3 +89,24 @@ Registro histórico de incidentes reales encontrados durante el desarrollo, desp
 - **Solución:**
   - Se ajustó el `cron` en [`.github/workflows/zero-token-monitor.yml`](.github/workflows/zero-token-monitor.yml) a minutos desfasados fuera de pico (`7,22,37,52 * * * *`).
   - Para puntualidad exacta cada 10 minutos, se documentó la activación mediante webhook externo gratuito (`cron-job.org`) invocando `workflow_dispatch` vía API de GitHub.
+
+---
+
+## 9. Correos repetidos de fallo en Vercel cada 10 minutos (`colombia-amazon-ofertas-3123`)
+- **Síntoma:** Cada vez que el bot ejecutaba `git push` a `main`, Vercel enviaba un correo de error indicando `The specified Root Directory "vitrina-colombia-ofertas" does not exist`.
+- **Causa raíz:** Existía un segundo proyecto duplicado en Vercel (`colombia-amazon-ofertas-3123`) conectado al mismo repositorio de GitHub y apuntando al antiguo subdirectorio `vitrina-colombia-ofertas/`, mientras el proyecto principal (`colombia-amazon-ofertas` → `vitrina-colombia-ofertas.vercel.app`) ya operaba desde la raíz del repo.
+- **Solución:** Eliminación del proyecto duplicado `colombia-amazon-ofertas-3123` en Vercel para que solo permanezca el proyecto principal activo.
+
+---
+
+## 10. Precios en Telegram no coincidían con Amazon.com por ofertas viejas en cola
+- **Síntoma:** Varias ofertas enviadas a `@pillepues` desde la cola (`verified_catalog`) mostraban un precio de oferta anterior que ya había cambiado o expirado en Amazon.com.
+- **Causa raíz:**
+  1. Cuando el descubrimiento general recibía CAPTCHA, [`api/index.py`](api/index.py) tomaba ofertas guardadas horas atrás en [`public/data/deals.json`](public/data/deals.json) y las enviaba a Telegram **sin re-verificar el precio en vivo** ni validar antigüedad máxima (TTL).
+  2. El parser de búsqueda (`parse_search_deals_html`) aceptaba tarjetas con precio exclusivo Prime (`With Prime`) o dispositivos Amazon (`Echo`, `Ring`, `Blink`), y `parse_amazon_html` tenía un fallback global de precio fuera del contenedor de Buy Box.
+- **Solución:**
+  - Re-verificación en vivo obligatoria (`scraper.fetch_asin_live(asin)`) para cada oferta en cola antes de enviarla a Telegram: si la oferta expiró o perdió el descuento mínimo (`20%`), **se descarta de Telegram y se elimina automáticamente de `deals.json`**; si cambió de precio pero sigue vigente, se actualiza con el precio real en Telegram y en la Web.
+  - Bloqueo estricto de antigüedad (`MAX_UNVERIFIED_DEAL_AGE_MINUTES = 90`): si Amazon bloquea la re-verificación y la oferta en cola supera 90 minutos sin verificarse, no se envía a Telegram (`stale_catalog_blocked_recheck`).
+  - Priorización de los ASINs activos de `deals.json` dentro de `fetch_catalog` para refrescar la vitrina web en cada ciclo.
+  - Filtros en [`src/monitor/discovery.py`](src/monitor/discovery.py) contra precios exclusivos Prime y dispositivos restringidos (`Echo`/`Ring`/`Blink`/`Fire TV`/`Kindle`), y acotamiento estricto al Buy Box en [`src/monitor/amazon_scraper.py`](src/monitor/amazon_scraper.py).
+

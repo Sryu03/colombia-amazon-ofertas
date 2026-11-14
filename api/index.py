@@ -50,6 +50,7 @@ DISCOVERY_ENABLED = os.getenv("DISCOVERY_ENABLED", "true").lower() in ("1", "tru
 MAX_LIVE_ASINS = int(os.getenv("MAX_LIVE_ASINS", "60"))
 MAX_TELEGRAM_PER_CYCLE = int(os.getenv("MAX_TELEGRAM_PER_CYCLE", "5"))
 PUBLISH_VERIFIED_CATALOG = os.getenv("PUBLISH_VERIFIED_CATALOG", "false").lower() in ("1", "true", "yes")
+MAX_UNVERIFIED_DEAL_AGE_MINUTES = int(os.getenv("MAX_UNVERIFIED_DEAL_AGE_MINUTES", "90"))
 
 app = FastAPI(
     title="Amazon Colombia Deals & Zero-Token Agentic Tracker",
@@ -63,6 +64,50 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+def _is_deal_fresh(
+    deal: dict,
+    fallback_iso: str | None = None,
+    max_age_minutes: int = MAX_UNVERIFIED_DEAL_AGE_MINUTES,
+) -> bool:
+    """Verifica si una oferta guardada fue verificada recientemente para evitar enviar precios vencidos."""
+    raw_ts = str(deal.get("verified_at") or fallback_iso or "").strip()
+    if not raw_ts:
+        return False
+    try:
+        parsed = datetime.fromisoformat(raw_ts.replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        age_minutes = (datetime.now(timezone.utc) - parsed).total_seconds() / 60.0
+        return age_minutes <= float(max_age_minutes)
+    except Exception:
+        return False
+
+
+def _load_existing_deal_targets(deals_json_path: Path) -> list[dict]:
+    """Lee los ASINs activos actuales de deals.json (con live_verified=False) para re-verificar su precio en vivo."""
+    if not deals_json_path.exists():
+        return []
+    try:
+        payload = json.loads(deals_json_path.read_text(encoding="utf-8"))
+        deals = payload.get("deals", []) if isinstance(payload, dict) else []
+        targets: list[dict] = []
+        for item in deals:
+            if not isinstance(item, dict):
+                continue
+            asin = str(item.get("asin") or "").strip().upper()
+            if len(asin) == 10 and asin.isalnum():
+                targets.append(
+                    {
+                        "asin": asin,
+                        "category": str(item.get("category") or "Tecnología"),
+                        "live_verified": False,
+                    }
+                )
+        return targets
+    except Exception:
+        return []
 
 
 def _is_valid_verified_deal(deal: dict) -> bool:
@@ -145,6 +190,8 @@ def run_zero_token_pipeline(
         else max(1, int(max_telegram_per_cycle))
     )
 
+    run_now_iso = datetime.now(timezone.utc).isoformat()
+    deals_json_path = DATA_DIR / "deals.json"
     watchlist_items = load_watchlist_asins(WATCHLIST_PATH)
     parsed_live_deals: list[dict] = []
     if LIVE_SCRAPE and DISCOVERY_ENABLED:
@@ -158,9 +205,10 @@ def run_zero_token_pipeline(
             watchlist_items = (newly_discovered + watchlist_items)[:150]
             save_watchlist_asins(WATCHLIST_PATH, watchlist_items)
 
+    existing_deal_targets = _load_existing_deal_targets(deals_json_path) if LIVE_SCRAPE else []
     catalog = scraper.fetch_catalog(
         use_seed=not LIVE_SCRAPE,
-        extra_items=parsed_live_deals + watchlist_items,
+        extra_items=parsed_live_deals + existing_deal_targets + watchlist_items,
         max_live_asins=MAX_LIVE_ASINS,
     )
     approved_candidates: list[tuple[dict, dict, dict]] = []
@@ -240,6 +288,7 @@ def run_zero_token_pipeline(
         evaluated["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
         evaluated["is_new_price_drop"] = history_event["is_new_drop"]
         evaluated["previous_price_usd"] = history_event["previous_price_usd"]
+        evaluated["verified_at"] = run_now_iso
 
         tg_card = build_telegram_card(
             deal=evaluated,
@@ -279,15 +328,27 @@ def run_zero_token_pipeline(
                 if b_res.get("telegram", {}).get("status") == "sent":
                     price_history.mark_published(asin, price_usd)
 
-    deals_json_path = DATA_DIR / "deals.json"
+    expired_asins: set[str] = set()
+    refreshed_deals_by_asin: dict[str, dict] = {}
+    skipped_stale_count = 0
 
     # Si en la nube el scraping en vivo no logró enviar bajadas nuevas y se solicitó publicar el catálogo verificado
-    if should_publish_catalog and live_sent_count == 0 and deals_json_path.exists():
-        try:
-            existing_payload = json.loads(deals_json_path.read_text(encoding="utf-8"))
-            stored_deals = existing_payload.get("deals", []) if isinstance(existing_payload, dict) else []
-        except Exception:
-            stored_deals = []
+    if should_publish_catalog and live_sent_count == 0 and (approved_deals or deals_json_path.exists()):
+        existing_generated_at: str | None = None
+        already_fresh_in_run = bool(approved_deals)
+        if already_fresh_in_run:
+            stored_deals = [dict(d) for d in approved_deals]
+            existing_generated_at = run_now_iso
+        else:
+            try:
+                existing_payload = json.loads(deals_json_path.read_text(encoding="utf-8"))
+                if isinstance(existing_payload, dict):
+                    existing_generated_at = str(existing_payload.get("generated_at") or "") or None
+                    stored_deals = existing_payload.get("deals", [])
+                else:
+                    stored_deals = []
+            except Exception:
+                stored_deals = []
 
         verified_pool = [dict(d) for d in stored_deals if isinstance(d, dict) and _is_valid_verified_deal(d)]
         verified_pool.sort(key=deal_priority_key, reverse=True)
@@ -301,10 +362,83 @@ def run_zero_token_pipeline(
             if last_pub is None or price_usd <= float(last_pub) - 1.0:
                 unpublished_pool.append(deal_item)
 
-        if unpublished_pool:
-            telegram_source = "verified_catalog"
-        for deal_item in unpublished_pool[:telegram_limit]:
+        max_checks = max(telegram_limit * 3, 15)
+        consecutive_live_blocks = 0
+        sent_from_catalog = 0
+
+        for deal_item in unpublished_pool[:max_checks]:
+            if sent_from_catalog >= telegram_limit:
+                break
+
             asin = str(deal_item["asin"]).upper()
+            stored_avg = round(
+                float(deal_item.get("avg_90d_usd") or deal_item.get("reference_price_usd") or deal_item.get("price_usd") or 0.0),
+                2,
+            )
+
+            # Re-verificación obligatoria en vivo antes de enviar ofertas en cola desde deals.json
+            if LIVE_SCRAPE and not already_fresh_in_run:
+                live_item = scraper.fetch_asin_live(asin) if consecutive_live_blocks < 4 else None
+                if live_item and live_item.get("live_verified") and float(live_item.get("price_usd") or 0.0) > 0.0:
+                    consecutive_live_blocks = 0
+                    live_price = round(float(live_item["price_usd"]), 2)
+                    live_list = round(float(live_item.get("list_price_usd") or live_price), 2)
+                    baseline_avg = price_history.get_baseline_avg(asin)
+                    candidate_avgs = [v for v in (baseline_avg, stored_avg, live_list) if v and v > 0.0]
+                    honest_avg = round(min(candidate_avgs), 2) if candidate_avgs else live_list
+                    if live_list > live_price:
+                        honest_avg = min(honest_avg, live_list) if honest_avg > live_price else live_list
+
+                    merged = dict(deal_item)
+                    merged.update(live_item)
+                    merged["asin"] = asin
+                    merged["category"] = str(deal_item.get("category") or live_item.get("category") or "Tecnología")
+                    merged["avg_90d_usd"] = honest_avg
+                    if live_list <= live_price and honest_avg > live_price:
+                        merged["list_price_usd"] = honest_avg
+
+                    price_history.evaluate_and_record(
+                        asin=asin,
+                        current_price_usd=live_price,
+                        avg_90d_usd=honest_avg,
+                    )
+
+                    drop_info = detect_price_drop(
+                        current_price=live_price,
+                        avg_90d=honest_avg,
+                        list_price=float(merged.get("list_price_usd") or live_price),
+                        min_discount_pct=MIN_DISCOUNT_PCT,
+                        min_savings_usd=1.0,
+                    )
+                    re_eval = evaluate_colombia_deal(
+                        product=merged,
+                        trm_cop=active_trm,
+                        min_discount_pct=MIN_DISCOUNT_PCT,
+                    )
+                    if not (
+                        drop_info["is_deal"]
+                        and re_eval.get("approved_for_colombia", False)
+                        and _is_valid_verified_deal(re_eval)
+                    ):
+                        expired_asins.add(asin)
+                        continue
+
+                    re_eval["verified_at"] = run_now_iso
+                    re_eval["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
+                    re_eval["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
+                    re_eval["telegram_copy"] = build_telegram_card(
+                        deal=re_eval,
+                        associate_tag=ASSOCIATE_TAG,
+                        public_web_url=PUBLIC_WEB_URL,
+                    )["caption_html"]
+                    refreshed_deals_by_asin[asin] = re_eval
+                    deal_item = re_eval
+                else:
+                    consecutive_live_blocks += 1
+                    if not _is_deal_fresh(deal_item, fallback_iso=existing_generated_at):
+                        skipped_stale_count += 1
+                        continue
+
             price_usd = round(float(deal_item.get("price_usd") or 0.0), 2)
             avg_90d_usd = round(
                 float(deal_item.get("avg_90d_usd") or deal_item.get("reference_price_usd") or price_usd),
@@ -318,11 +452,13 @@ def run_zero_token_pipeline(
                 associate_tag=ASSOCIATE_TAG,
                 public_web_url=PUBLIC_WEB_URL,
             )
+            telegram_source = "verified_catalog"
             b_res = broadcaster.broadcast_deal(
                 deal=deal_item,
                 telegram_card=tg_card,
             )
             broadcast_results.append(b_res)
+            sent_from_catalog += 1
             if b_res.get("telegram", {}).get("status") == "sent":
                 if asin not in price_history.records:
                     price_history.evaluate_and_record(
@@ -332,25 +468,56 @@ def run_zero_token_pipeline(
                     )
                 price_history.mark_published(asin, price_usd)
 
+        if sent_from_catalog == 0 and skipped_stale_count > 0:
+            telegram_source = "stale_catalog_blocked_recheck"
+
     telegram_delivery_status = _summarize_telegram_delivery(
         broadcast_results=broadcast_results,
         broadcaster=broadcaster,
         source=telegram_source,
     )
+    if skipped_stale_count > 0:
+        telegram_delivery_status["skipped_stale_unverified"] = skipped_stale_count
+    if expired_asins:
+        telegram_delivery_status["pruned_expired_asins"] = sorted(expired_asins)
 
     # Layer 3: Export static JSON catalog & price history for Vercel CDN
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     price_history.save()
 
     if LIVE_SCRAPE and len(approved_deals) == 0 and deals_json_path.exists():
-        # Preserve existing public catalog if a single live scrape cycle yielded 0 approved deals
+        # Preserve existing public catalog if live discovery yielded 0 approved deals,
+        # while pruning expired ASINs and updating any deals re-verified in this cycle.
         try:
             preserved = json.loads(deals_json_path.read_text(encoding="utf-8"))
             if isinstance(preserved, dict):
+                current_list = preserved.get("deals", [])
+                if isinstance(current_list, list) and (expired_asins or refreshed_deals_by_asin):
+                    updated_list: list[dict] = []
+                    for item in current_list:
+                        if not isinstance(item, dict):
+                            continue
+                        item_asin = str(item.get("asin") or "").upper()
+                        if item_asin in expired_asins:
+                            continue
+                        updated_list.append(refreshed_deals_by_asin.get(item_asin, item))
+                    preserved["deals"] = updated_list
+                    preserved["total_deals"] = len(updated_list)
+                    preserved["tax_free_count"] = sum(
+                        1 for d in updated_list if d.get("tax_free_colombia", True)
+                    )
+                    preserved["free_shipping_count"] = sum(
+                        1 for d in updated_list if d.get("free_shipping_co", False)
+                    )
+                    preserved["categories"] = sorted(
+                        {str(d.get("category") or "Tecnología") for d in updated_list}
+                    )
                 meta = preserved.setdefault("metadata", {})
                 if isinstance(meta, dict):
-                    meta["last_live_check_at"] = datetime.now(timezone.utc).isoformat()
+                    meta["last_live_check_at"] = run_now_iso
                     meta["telegram_delivery_status"] = telegram_delivery_status
+                    if isinstance(preserved.get("deals"), list):
+                        meta["active_deals_count"] = len(preserved["deals"])
                 deals_json_path.write_text(
                     json.dumps(preserved, indent=2, ensure_ascii=False),
                     encoding="utf-8",

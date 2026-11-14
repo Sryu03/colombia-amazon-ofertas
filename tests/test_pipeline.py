@@ -310,6 +310,7 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(bs_deals[0]["list_price_usd"], 79.99)
 
     def test_publish_verified_catalog_fallback_when_live_scrape_empty(self):
+        from datetime import datetime, timezone
         from unittest.mock import patch
         import api.index as idx_mod
 
@@ -320,7 +321,7 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
             data_dir.mkdir(parents=True, exist_ok=True)
 
             sample_deals = {
-                "generated_at": "2026-11-14T06:00:00+00:00",
+                "generated_at": datetime.now(timezone.utc).isoformat(),
                 "total_deals": 2,
                 "deals": [
                     {
@@ -374,6 +375,7 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
                 patch.object(idx_mod, "LIVE_SCRAPE", True),
                 patch.object(idx_mod, "DISCOVERY_ENABLED", False),
                 patch.object(AmazonMonitorScraper, "fetch_catalog", return_value=[]),
+                patch.object(AmazonMonitorScraper, "fetch_asin_live", return_value=None),
                 patch.object(
                     ChannelBroadcaster,
                     "_post_json",
@@ -399,6 +401,167 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
             history = json.loads((data_dir / "price_history.json").read_text(encoding="utf-8"))
             self.assertEqual(history["B07J2Z5DBM"]["last_published_price_usd"], 18.99)
             self.assertEqual(history["B09X1H88VP"]["last_published_price_usd"], 29.99)
+
+    def test_stale_deals_blocked_and_live_reverify_prunes_expired(self):
+        from datetime import datetime, timedelta, timezone
+        from unittest.mock import patch
+        import api.index as idx_mod
+        from src.monitor.discovery import parse_search_deals_html
+
+        # 1. Search parser must reject Prime-exclusive prices and Echo/Ring devices
+        noisy_html = """
+        <html><body>
+          <div data-asin="B09B8V1LZ3" data-component-type="s-search-result">
+            <h2><span>Echo Dot 5th Gen Smart Speaker</span></h2>
+            <img class="s-image" src="https://m.media-amazon.com/images/I/echo._AC_UL320_.jpg"/>
+            <span class="a-price"><span class="a-offscreen">$29.99</span></span>
+            <span class="a-price a-text-price"><span class="a-offscreen">$49.99</span></span>
+          </div>
+          <div data-asin="B0B9C4DKKG" data-component-type="s-search-result">
+            <h2><span>Samsung 990 PRO SSD 2TB</span></h2>
+            <img class="s-image" src="https://m.media-amazon.com/images/I/ssd._AC_UL320_.jpg"/>
+            <span class="a-price"><span class="a-offscreen">$139.99</span></span>
+            <span class="a-price a-text-price"><span class="a-offscreen">$249.99</span></span>
+            <span>With Prime</span>
+          </div>
+        </body></html>
+        """
+        self.assertEqual(parse_search_deals_html(noisy_html), [])
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            data_dir = tmp_path / "public" / "data"
+            data_dir.mkdir(parents=True, exist_ok=True)
+            stale_ts = (datetime.now(timezone.utc) - timedelta(hours=5)).isoformat()
+
+            stale_payload = {
+                "generated_at": stale_ts,
+                "total_deals": 2,
+                "deals": [
+                    {
+                        "asin": "B07J2Z5DBM",
+                        "title": "TOZO T10 Audifonos Bluetooth",
+                        "category": "Audio",
+                        "price_usd": 18.99,
+                        "list_price_usd": 39.99,
+                        "avg_90d_usd": 29.99,
+                        "reference_price_usd": 29.99,
+                        "discount_pct": 36.7,
+                        "savings_usd": 11.0,
+                        "ships_to_colombia": True,
+                        "free_shipping_co": False,
+                        "requires_locker": False,
+                        "image_url": "https://m.media-amazon.com/images/I/tozo.jpg",
+                    },
+                    {
+                        "asin": "B09X1H88VP",
+                        "title": "UGREEN Nexode 65W Cargador GaN",
+                        "category": "Tecnología",
+                        "price_usd": 29.99,
+                        "list_price_usd": 49.99,
+                        "avg_90d_usd": 42.99,
+                        "reference_price_usd": 42.99,
+                        "discount_pct": 30.2,
+                        "savings_usd": 13.0,
+                        "ships_to_colombia": True,
+                        "free_shipping_co": False,
+                        "requires_locker": False,
+                        "image_url": "https://m.media-amazon.com/images/I/ugreen.jpg",
+                    },
+                ],
+            }
+            deals_file = data_dir / "deals.json"
+            deals_file.write_text(json.dumps(stale_payload), encoding="utf-8")
+
+            fake_broadcaster = ChannelBroadcaster(
+                telegram_bot_token="fake-token",
+                telegram_chat_id="@pillepues",
+                outbox_path=str(data_dir / "outbox_cards.json"),
+            )
+
+            # 2. If catalog is >90m old and Amazon blocks live re-verification, send 0 stale deals
+            with (
+                patch.object(idx_mod, "DATA_DIR", data_dir),
+                patch.object(idx_mod, "DB_PATH", str(tmp_path / "deals.db")),
+                patch.object(idx_mod, "WATCHLIST_PATH", tmp_path / "watchlist.json"),
+                patch.object(idx_mod, "PRICE_HISTORY_PATH", data_dir / "price_history.json"),
+                patch.object(idx_mod, "LIVE_SCRAPE", True),
+                patch.object(idx_mod, "DISCOVERY_ENABLED", False),
+                patch.object(AmazonMonitorScraper, "fetch_catalog", return_value=[]),
+                patch.object(AmazonMonitorScraper, "fetch_asin_live", return_value=None),
+            ):
+                blocked_res = idx_mod.run_zero_token_pipeline(
+                    trm_cop=4150.0,
+                    publish_verified_catalog=True,
+                    max_telegram_per_cycle=5,
+                    broadcaster=fake_broadcaster,
+                )
+            self.assertEqual(blocked_res["telegram_delivery_status"]["sent"], 0)
+            self.assertEqual(blocked_res["telegram_delivery_status"]["source"], "stale_catalog_blocked_recheck")
+            self.assertEqual(blocked_res["telegram_delivery_status"]["skipped_stale_unverified"], 2)
+
+            # 3. If live re-check succeeds: expired deal (B07J2Z5DBM) is pruned, updated deal (B09X1H88VP) is refreshed & sent
+            def fake_live_recheck(asin: str):
+                if asin == "B07J2Z5DBM":
+                    return {
+                        "asin": "B07J2Z5DBM",
+                        "title": "TOZO T10 Audifonos Bluetooth",
+                        "price_usd": 29.99,
+                        "list_price_usd": 29.99,
+                        "avg_90d_usd": 29.99,
+                        "ships_to_colombia": True,
+                        "free_shipping_co": False,
+                        "requires_locker": False,
+                        "image_url": "https://m.media-amazon.com/images/I/tozo.jpg",
+                        "live_verified": True,
+                    }
+                if asin == "B09X1H88VP":
+                    return {
+                        "asin": "B09X1H88VP",
+                        "title": "UGREEN Nexode 65W Cargador GaN",
+                        "price_usd": 27.99,
+                        "list_price_usd": 49.99,
+                        "avg_90d_usd": 42.99,
+                        "ships_to_colombia": True,
+                        "free_shipping_co": False,
+                        "requires_locker": False,
+                        "image_url": "https://m.media-amazon.com/images/I/ugreen.jpg",
+                        "live_verified": True,
+                    }
+                return None
+
+            with (
+                patch.object(idx_mod, "DATA_DIR", data_dir),
+                patch.object(idx_mod, "DB_PATH", str(tmp_path / "deals.db")),
+                patch.object(idx_mod, "WATCHLIST_PATH", tmp_path / "watchlist.json"),
+                patch.object(idx_mod, "PRICE_HISTORY_PATH", data_dir / "price_history.json"),
+                patch.object(idx_mod, "LIVE_SCRAPE", True),
+                patch.object(idx_mod, "DISCOVERY_ENABLED", False),
+                patch.object(AmazonMonitorScraper, "fetch_catalog", return_value=[]),
+                patch.object(AmazonMonitorScraper, "fetch_asin_live", side_effect=fake_live_recheck),
+                patch.object(
+                    ChannelBroadcaster,
+                    "_post_json",
+                    return_value=(200, {"ok": True, "result": {"message_id": 202}}),
+                ),
+            ):
+                recheck_res = idx_mod.run_zero_token_pipeline(
+                    trm_cop=4150.0,
+                    publish_verified_catalog=True,
+                    max_telegram_per_cycle=5,
+                    broadcaster=fake_broadcaster,
+                )
+
+            self.assertEqual(recheck_res["telegram_delivery_status"]["sent"], 1)
+            self.assertEqual(recheck_res["telegram_delivery_status"]["sent_asins"], ["B09X1H88VP"])
+            self.assertEqual(recheck_res["telegram_delivery_status"]["pruned_expired_asins"], ["B07J2Z5DBM"])
+
+            updated_web = json.loads(deals_file.read_text(encoding="utf-8"))
+            self.assertEqual([d["asin"] for d in updated_web["deals"]], ["B09X1H88VP"])
+            self.assertEqual(updated_web["deals"][0]["price_usd"], 27.99)
+            history = json.loads((data_dir / "price_history.json").read_text(encoding="utf-8"))
+            self.assertEqual(history["B09X1H88VP"]["last_published_price_usd"], 27.99)
+
 
     def test_hd_image_upgrade_and_pillepues_card_renderer(self):
         import io

@@ -624,18 +624,24 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
             or soup.select_one("#corePriceDisplay_desktop_feature_div .a-price:not(.a-text-price) .a-offscreen")
             or soup.select_one("#corePrice_feature_div .priceToPay .a-offscreen")
             or soup.select_one("#corePrice_feature_div .a-price:not(.a-text-price) .a-offscreen")
-            or soup.select_one(".a-price.aok-align-center:not(.a-text-price) .a-offscreen")
+            or soup.select_one("#apex_desktop .priceToPay .a-offscreen")
+            or soup.select_one("#apex_desktop .a-price:not(.a-text-price) .a-offscreen")
+            or soup.select_one("#desktop_buybox .a-price:not(.a-text-price) .a-offscreen")
+            or soup.select_one("#buybox .a-price:not(.a-text-price) .a-offscreen")
+            or soup.select_one("#price_inside_buybox")
             or soup.select_one("#priceblock_dealprice")
             or soup.select_one("#priceblock_ourprice")
-            or soup.select_one(".a-price:not(.a-text-price) .a-offscreen")
         )
         price_usd = _extract_float_price(price_node.get_text(strip=True) if price_node else "")
 
         list_node = (
             soup.select_one("#corePriceDisplay_desktop_feature_div .basisPrice .a-offscreen")
+            or soup.select_one("#corePrice_feature_div .basisPrice .a-offscreen")
+            or soup.select_one("#apex_desktop .basisPrice .a-offscreen")
+            or soup.select_one("#corePriceDisplay_desktop_feature_div .a-price.a-text-price .a-offscreen")
+            or soup.select_one("#corePrice_feature_div .a-price.a-text-price .a-offscreen")
             or soup.select_one(".basisPrice .a-offscreen")
-            or soup.select_one(".a-price.a-text-price .a-offscreen")
-            or soup.select_one("span[data-a-strike='true'] .a-offscreen")
+            or soup.select_one("#corePriceDisplay_desktop_feature_div span[data-a-strike='true'] .a-offscreen")
             or soup.select_one("#listPrice")
             or soup.select_one("#priceblock_strikeprice")
         )
@@ -699,7 +705,7 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         # Strike-through list price: strictly inside basisPrice or a-text-price or data-a-strike
         strike_match = re.search(
             r'(?:basisPrice|a-text-price|data-a-strike=["\']true["\'])[^>]*>.*?class=["\'][^"\']*a-offscreen[^"\']*["\'][^>]*>\s*([^<]+)<',
-            raw_html,
+            price_scope,
             re.S | re.I,
         )
         list_price_usd = _extract_float_price(strike_match.group(1) if strike_match else "")
@@ -751,7 +757,7 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
             availability_scope = f"{delivery_text} {avail_node.get_text(' ', strip=True).lower()}"
 
     ships_to_colombia = not any(phrase in availability_scope for phrase in no_ship_phrases)
-    free_shipping_co = ships_to_colombia and (
+    free_shipping_co = ships_to_colombia and price_usd >= 35.0 and (
         "free" in delivery_text
         or "gratis" in delivery_text
         or "colombia" in delivery_text
