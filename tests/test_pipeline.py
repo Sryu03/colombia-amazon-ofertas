@@ -918,6 +918,32 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(scraper.last_telemetry["colombia_co_count"], 2)
         self.assertGreaterEqual(scraper.last_telemetry["fetch_failures_count"], 1)
 
+        from src.monitor.amazon_scraper import parse_amazon_html
+
+        split_price_html = """
+        <html><body>
+          <div id="ppd">
+            <span id="productTitle">Anker Soundcore Space A40 Audífonos</span>
+            <img id="landingImage" src="https://m.media-amazon.com/images/I/anker._AC_SL1500_.jpg" />
+            <div id="glow-ingress-line2">Colombia</div>
+            <div id="corePriceDisplay_desktop_feature_div">
+              <span class="a-price priceToPay">
+                <span class="a-offscreen"> </span>
+                <span aria-hidden="true"><span class="a-price-whole">44<span class="a-price-decimal">.</span></span><span class="a-price-fraction">99</span></span>
+              </span>
+              <span class="basisPrice"><span class="a-offscreen">$79.99</span></span>
+            </div>
+            <div id="mir-layout-DELIVERY_BLOCK">Envío GRATIS a Colombia</div>
+            <div id="desktop_buybox"><input id="add-to-cart-button" type="submit" value="Agregar al carrito" /></div>
+          </div>
+        </body></html>
+        """
+        parsed_split = parse_amazon_html(split_price_html, "B0B1LVC5VZ")
+        self.assertTrue(parsed_split["live_verified"])
+        self.assertEqual(parsed_split["price_usd"], 44.99)
+        self.assertEqual(parsed_split["list_price_usd"], 79.99)
+        self.assertEqual(parsed_split["delivery_country_confirmed"], "CO")
+
 
 if __name__ == "__main__":
     unittest.main()
