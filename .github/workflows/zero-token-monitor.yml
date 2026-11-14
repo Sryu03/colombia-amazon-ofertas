@@ -2,8 +2,8 @@ name: Zero-Token Amazon Colombia Monitor (24/7 Cloud)
 
 on:
   schedule:
-    # Se ejecuta automáticamente en la nube cada 10 minutos (sin depender de tu PC)
-    - cron: "*/10 * * * *"
+    # Se ejecuta automáticamente en minutos desfasados fuera de hora pico (cada 15 min) para evitar retrasos de GitHub
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       publish_catalog:
