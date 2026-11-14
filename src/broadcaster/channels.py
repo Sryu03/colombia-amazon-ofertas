@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -29,6 +30,16 @@ COLOMBIA_PEAK_WINDOWS: tuple[tuple[int, int], ...] = (
     (12, 14),
     (18, 22),
 )
+
+_BOT_TOKEN_URL_RE = re.compile(r"bot\d+:[A-Za-z0-9_-]+")
+
+
+def _sanitize_error_detail(detail: str, token: str = "") -> str:
+    """Elimina cualquier token de Telegram de mensajes de error antes de guardarlos en JSON."""
+    cleaned = _BOT_TOKEN_URL_RE.sub("bot<REDACTED>", detail or "")
+    if token:
+        cleaned = cleaned.replace(token, "<REDACTED>")
+    return cleaned
 
 
 class ChannelBroadcaster:
@@ -87,6 +98,52 @@ class ChannelBroadcaster:
             except Exception:
                 return resp.status, raw
 
+    @staticmethod
+    def _post_photo_multipart(
+        endpoint: str,
+        payload: dict[str, Any],
+        photo_url: str,
+        timeout: float = 15.0,
+    ) -> tuple[int, Any]:
+        """Descarga la imagen en memoria y la sube como multipart a Telegram si la URL directa falla."""
+        if httpx is None:
+            raise RuntimeError("httpx no está disponible para descarga/subida multipart de imagen")
+
+        img_headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            ),
+            "Accept": "image/*,*/*;q=0.8",
+        }
+        with httpx.Client(timeout=timeout, follow_redirects=True) as client:
+            img_resp = client.get(photo_url, headers=img_headers)
+            img_resp.raise_for_status()
+            img_bytes = img_resp.content
+            if not img_bytes:
+                raise RuntimeError("Imagen descargada vacía")
+            content_type = img_resp.headers.get("content-type", "image/jpeg").split(";")[0].strip()
+
+            form_data: dict[str, str] = {
+                "chat_id": str(payload.get("chat_id", "")),
+                "caption": str(payload.get("caption", "")),
+                "parse_mode": str(payload.get("parse_mode", "HTML")),
+            }
+            if payload.get("reply_markup") is not None:
+                form_data["reply_markup"] = json.dumps(payload["reply_markup"], ensure_ascii=False)
+
+            ext = "png" if "png" in content_type.lower() else "webp" if "webp" in content_type.lower() else "jpg"
+            response = client.post(
+                endpoint,
+                data=form_data,
+                files={"photo": (f"deal.{ext}", img_bytes, content_type)},
+            )
+            response.raise_for_status()
+            try:
+                return response.status_code, response.json()
+            except Exception:
+                return response.status_code, response.text
+
     def _build_telegram_request(self, telegram_card: dict[str, Any]) -> tuple[str, dict[str, Any]]:
         """Construye el método de Telegram Bot API (`sendPhoto` o `sendMessage`) y su payload."""
         chat_id = telegram_card.get("chat_id") or self.telegram_chat_id
@@ -143,10 +200,12 @@ class ChannelBroadcaster:
                 "channel": "telegram",
                 "mode": "simulated_outbox",
                 "status": "simulated_ready",
+                "token_configured": False,
                 "api_method": api_method,
                 "endpoint": f"https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/{api_method}",
                 "payload": payload,
                 "card": telegram_card,
+                "fallback_reason": "TELEGRAM_BOT_TOKEN no configurado",
             }
 
         # Control de rate-limit: máximo 1 mensaje cada 3 segundos en Telegram
@@ -164,6 +223,7 @@ class ChannelBroadcaster:
                 "channel": "telegram",
                 "mode": "live",
                 "status": "sent",
+                "token_configured": True,
                 "http_status": status_code,
                 "api_method": api_method,
                 "payload": payload,
@@ -171,6 +231,31 @@ class ChannelBroadcaster:
                 "card": telegram_card,
             }
         except Exception as exc:
+            # Si sendPhoto por URL externa falla (p.ej. hotlink bloqueado), intentar descarga + subida multipart
+            if api_method == "sendPhoto" and isinstance(payload.get("photo"), str):
+                try:
+                    status_code, data = self._post_photo_multipart(
+                        endpoint=endpoint,
+                        payload=http_payload,
+                        photo_url=payload["photo"],
+                        timeout=15.0,
+                    )
+                    self._last_telegram_sent_at = time.monotonic()
+                    return {
+                        "channel": "telegram",
+                        "mode": "live",
+                        "status": "sent",
+                        "token_configured": True,
+                        "upload_mode": "multipart",
+                        "http_status": status_code,
+                        "api_method": api_method,
+                        "payload": payload,
+                        "response": data,
+                        "card": telegram_card,
+                    }
+                except Exception as mp_exc:
+                    exc = mp_exc
+
             err_detail = str(exc)
             resp = getattr(exc, "response", None)
             if resp is not None and getattr(resp, "text", None):
@@ -184,10 +269,11 @@ class ChannelBroadcaster:
                 "channel": "telegram",
                 "mode": "simulated_outbox",
                 "status": "simulated_ready",
+                "token_configured": True,
                 "api_method": api_method,
                 "payload": payload,
                 "card": telegram_card,
-                "fallback_reason": err_detail,
+                "fallback_reason": _sanitize_error_detail(err_detail, token=token),
             }
 
     def broadcast_deal(

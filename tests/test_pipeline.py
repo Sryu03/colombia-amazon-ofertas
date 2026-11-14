@@ -278,6 +278,128 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(tg_res["api_method"], "sendPhoto")
         self.assertTrue(tg_res["payload"]["photo"].startswith("https://"))
 
+    def test_parse_bestsellers_deals_and_token_sanitization(self):
+        from src.broadcaster.channels import _sanitize_error_detail
+        from src.monitor.discovery import parse_bestsellers_deals_html
+
+        raw_err = "Client error '400 Bad Request' for url 'https://api.telegram.org/bot123456:ABCdef-XYZ_987/sendPhoto'"
+        sanitized = _sanitize_error_detail(raw_err, token="123456:ABCdef-XYZ_987")
+        self.assertNotIn("ABCdef-XYZ_987", sanitized)
+        self.assertIn("bot<REDACTED>", sanitized)
+
+        bs_html = """
+        <html><body>
+          <div id="gridItemRoot" data-asin="B09B8V1LZ3">
+            <img src="https://m.media-amazon.com/images/I/echo._AC_UL320_.jpg" alt="Echo Dot 5th Gen Smart Speaker" />
+            <span class="p13n-sc-price">$29.99</span>
+            <span class="a-price a-text-price"><span class="a-offscreen">$49.99</span></span>
+            <span>Ships to Colombia</span>
+          </div>
+          <div id="gridItemRoot" data-asin="B07GBZ4Q68">
+            <img src="https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg" alt="Logitech G502 HERO High Performance Gaming Mouse" />
+            <span class="p13n-sc-price">$34.99</span>
+            <span class="a-price a-text-price"><span class="a-offscreen">$79.99</span></span>
+            <span>FREE delivery to Colombia</span>
+          </div>
+        </body></html>
+        """
+        bs_deals = parse_bestsellers_deals_html(bs_html, category="Gaming")
+        self.assertEqual(len(bs_deals), 1)
+        self.assertEqual(bs_deals[0]["asin"], "B07GBZ4Q68")
+        self.assertEqual(bs_deals[0]["price_usd"], 34.99)
+        self.assertEqual(bs_deals[0]["list_price_usd"], 79.99)
+
+    def test_publish_verified_catalog_fallback_when_live_scrape_empty(self):
+        from unittest.mock import patch
+        import api.index as idx_mod
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            public_dir = tmp_path / "public"
+            data_dir = public_dir / "data"
+            data_dir.mkdir(parents=True, exist_ok=True)
+
+            sample_deals = {
+                "generated_at": "2026-11-14T06:00:00+00:00",
+                "total_deals": 2,
+                "deals": [
+                    {
+                        "asin": "B07J2Z5DBM",
+                        "title": "TOZO T10 Audifonos Bluetooth",
+                        "category": "Audio",
+                        "price_usd": 18.99,
+                        "list_price_usd": 39.99,
+                        "avg_90d_usd": 29.99,
+                        "reference_price_usd": 29.99,
+                        "discount_pct": 36.7,
+                        "savings_usd": 11.0,
+                        "ships_to_colombia": True,
+                        "free_shipping_co": False,
+                        "requires_locker": False,
+                        "image_url": "https://m.media-amazon.com/images/I/tozo.jpg",
+                        "affiliate_url": "https://www.amazon.com/dp/B07J2Z5DBM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+                    },
+                    {
+                        "asin": "B09X1H88VP",
+                        "title": "UGREEN Nexode 65W Cargador GaN",
+                        "category": "Tecnología",
+                        "price_usd": 29.99,
+                        "list_price_usd": 49.99,
+                        "avg_90d_usd": 42.99,
+                        "reference_price_usd": 42.99,
+                        "discount_pct": 30.2,
+                        "savings_usd": 13.0,
+                        "ships_to_colombia": True,
+                        "free_shipping_co": False,
+                        "requires_locker": False,
+                        "image_url": "https://m.media-amazon.com/images/I/ugreen.jpg",
+                        "affiliate_url": "https://www.amazon.com/dp/B09X1H88VP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+                    },
+                ],
+            }
+            deals_file = data_dir / "deals.json"
+            deals_file.write_text(json.dumps(sample_deals), encoding="utf-8")
+
+            fake_broadcaster = ChannelBroadcaster(
+                telegram_bot_token="fake-token",
+                telegram_chat_id="@pillepues",
+                outbox_path=str(data_dir / "outbox_cards.json"),
+            )
+
+            with (
+                patch.object(idx_mod, "DATA_DIR", data_dir),
+                patch.object(idx_mod, "DB_PATH", str(tmp_path / "deals.db")),
+                patch.object(idx_mod, "WATCHLIST_PATH", tmp_path / "watchlist.json"),
+                patch.object(idx_mod, "PRICE_HISTORY_PATH", data_dir / "price_history.json"),
+                patch.object(idx_mod, "LIVE_SCRAPE", True),
+                patch.object(idx_mod, "DISCOVERY_ENABLED", False),
+                patch.object(AmazonMonitorScraper, "fetch_catalog", return_value=[]),
+                patch.object(
+                    ChannelBroadcaster,
+                    "_post_json",
+                    return_value=(200, {"ok": True, "result": {"message_id": 101}}),
+                ),
+            ):
+                res = idx_mod.run_zero_token_pipeline(
+                    trm_cop=4150.0,
+                    publish_verified_catalog=True,
+                    max_telegram_per_cycle=2,
+                    broadcaster=fake_broadcaster,
+                )
+
+            delivery = res["telegram_delivery_status"]
+            self.assertEqual(delivery["source"], "verified_catalog")
+            self.assertEqual(delivery["sent"], 2)
+            self.assertEqual(delivery["sent_asins"], ["B07J2Z5DBM", "B09X1H88VP"])
+
+            updated_deals = json.loads(deals_file.read_text(encoding="utf-8"))
+            self.assertEqual(len(updated_deals["deals"]), 2)
+            self.assertEqual(updated_deals["metadata"]["telegram_delivery_status"]["sent"], 2)
+
+            history = json.loads((data_dir / "price_history.json").read_text(encoding="utf-8"))
+            self.assertEqual(history["B07J2Z5DBM"]["last_published_price_usd"], 18.99)
+            self.assertEqual(history["B09X1H88VP"]["last_published_price_usd"], 29.99)
+
 
 if __name__ == "__main__":
     unittest.main()

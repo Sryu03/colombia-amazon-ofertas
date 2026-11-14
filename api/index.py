@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import json
 import os
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -47,6 +49,7 @@ LIVE_SCRAPE = os.getenv("LIVE_SCRAPE", "false").lower() in ("1", "true", "yes")
 DISCOVERY_ENABLED = os.getenv("DISCOVERY_ENABLED", "true").lower() in ("1", "true", "yes")
 MAX_LIVE_ASINS = int(os.getenv("MAX_LIVE_ASINS", "60"))
 MAX_TELEGRAM_PER_CYCLE = int(os.getenv("MAX_TELEGRAM_PER_CYCLE", "5"))
+PUBLISH_VERIFIED_CATALOG = os.getenv("PUBLISH_VERIFIED_CATALOG", "false").lower() in ("1", "true", "yes")
 
 app = FastAPI(
     title="Amazon Colombia Deals & Zero-Token Agentic Tracker",
@@ -62,7 +65,65 @@ app.add_middleware(
 )
 
 
-def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
+def _is_valid_verified_deal(deal: dict) -> bool:
+    """Valida que una oferta del catálogo cumpla envío directo a Colombia, imagen HTTPS y precio coherente."""
+    asin = str(deal.get("asin") or "").strip().upper()
+    if len(asin) != 10 or not asin.isalnum():
+        return False
+    ships_to_colombia = bool(deal.get("ships_to_colombia", False)) and not bool(
+        deal.get("requires_locker", False)
+    )
+    image_url = str(deal.get("image_url") or "").strip().lower()
+    has_https_image = image_url.startswith("https://")
+    title = str(deal.get("title") or "").strip().lower()
+    has_valid_title = bool(title) and not title.startswith("amazon product")
+    price_usd = float(deal.get("price_usd") or 0.0)
+    ref_price = float(deal.get("reference_price_usd") or deal.get("avg_90d_usd") or deal.get("list_price_usd") or 0.0)
+    savings_usd = float(deal.get("savings_usd") or max(0.0, ref_price - price_usd))
+    has_coherent_price = price_usd > 0.0 and ref_price > price_usd and savings_usd >= 1.0
+    return ships_to_colombia and has_https_image and has_valid_title and has_coherent_price
+
+
+def _summarize_telegram_delivery(
+    broadcast_results: list[dict],
+    broadcaster: ChannelBroadcaster,
+    source: str,
+) -> dict:
+    sent_asins = [
+        str(r.get("asin"))
+        for r in broadcast_results
+        if r.get("telegram", {}).get("status") == "sent" and r.get("asin")
+    ]
+    errors: list[str] = []
+    for r in broadcast_results:
+        reason = r.get("telegram", {}).get("fallback_reason")
+        if reason:
+            short_reason = str(reason)[:220]
+            if short_reason not in errors:
+                errors.append(short_reason)
+                if len(errors) >= 3:
+                    break
+    return {
+        "checked_at": datetime.now(timezone.utc).isoformat(),
+        "token_configured": bool((broadcaster.telegram_bot_token or "").strip()),
+        "chat_id": broadcaster.telegram_chat_id,
+        "source": source,
+        "attempted": len(broadcast_results),
+        "sent": len(sent_asins),
+        "simulated": sum(
+            1 for r in broadcast_results if r.get("telegram", {}).get("status") != "sent"
+        ),
+        "sent_asins": sent_asins,
+        "errors": errors,
+    }
+
+
+def run_zero_token_pipeline(
+    trm_cop: Optional[float] = None,
+    publish_verified_catalog: Optional[bool] = None,
+    max_telegram_per_cycle: Optional[int] = None,
+    broadcaster: Optional[ChannelBroadcaster] = None,
+) -> dict:
     """Runs the complete deterministic Zero-Token monitoring, evaluation, copywriting, broadcasting, and web export pipeline."""
     db = Database(db_path=DB_PATH)
     db.init_db()
@@ -70,8 +131,18 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
     active_trm = trm_cop or fetch_live_trm_cop(default_trm=DEFAULT_TRM_COP)
     scraper = AmazonMonitorScraper()
     price_history = PriceHistoryStore(path=PRICE_HISTORY_PATH)
-    broadcaster = ChannelBroadcaster(
+    broadcaster = broadcaster or ChannelBroadcaster(
         outbox_path=str(DATA_DIR / "outbox_cards.json"),
+    )
+    should_publish_catalog = (
+        PUBLISH_VERIFIED_CATALOG
+        if publish_verified_catalog is None
+        else bool(publish_verified_catalog)
+    )
+    telegram_limit = (
+        MAX_TELEGRAM_PER_CYCLE
+        if max_telegram_per_cycle is None
+        else max(1, int(max_telegram_per_cycle))
     )
 
     watchlist_items = load_watchlist_asins(WATCHLIST_PATH)
@@ -81,6 +152,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         newly_discovered, parsed_live_deals = discover_deals_and_asins(
             existing_asins=existing_asins,
             max_new_asins=30,
+            price_history_records=price_history.records,
         )
         if newly_discovered:
             watchlist_items = (newly_discovered + watchlist_items)[:150]
@@ -181,6 +253,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
     approved_candidates.sort(key=lambda item: deal_priority_key(item[0]), reverse=True)
     approved_deals: list[dict] = []
     live_sent_count = 0
+    telegram_source = "none"
 
     for evaluated, tg_card, history_event in approved_candidates:
         asin = evaluated["asin"]
@@ -190,10 +263,11 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         approved_deals.append(evaluated)
 
         should_send_live = (
-            (history_event["is_new_drop"] and live_sent_count < MAX_TELEGRAM_PER_CYCLE)
+            (history_event["is_new_drop"] and live_sent_count < telegram_limit)
             or not LIVE_SCRAPE
         )
         if should_send_live:
+            telegram_source = "live_scrape" if LIVE_SCRAPE else "seed_pipeline"
             b_res = broadcaster.broadcast_deal(
                 deal=evaluated,
                 telegram_card=tg_card,
@@ -202,16 +276,87 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
             if history_event["is_new_drop"]:
                 new_price_drops_count += 1
                 live_sent_count += 1
-                if broadcaster.telegram_bot_token:
+                if b_res.get("telegram", {}).get("status") == "sent":
                     price_history.mark_published(asin, price_usd)
+
+    deals_json_path = DATA_DIR / "deals.json"
+
+    # Si en la nube el scraping en vivo no logró enviar bajadas nuevas y se solicitó publicar el catálogo verificado
+    if should_publish_catalog and live_sent_count == 0 and deals_json_path.exists():
+        try:
+            existing_payload = json.loads(deals_json_path.read_text(encoding="utf-8"))
+            stored_deals = existing_payload.get("deals", []) if isinstance(existing_payload, dict) else []
+        except Exception:
+            stored_deals = []
+
+        verified_pool = [dict(d) for d in stored_deals if isinstance(d, dict) and _is_valid_verified_deal(d)]
+        verified_pool.sort(key=deal_priority_key, reverse=True)
+
+        unpublished_pool: list[dict] = []
+        for deal_item in verified_pool:
+            asin = str(deal_item["asin"]).upper()
+            price_usd = round(float(deal_item.get("price_usd") or 0.0), 2)
+            rec = price_history.records.get(asin)
+            last_pub = rec.get("last_published_price_usd") if isinstance(rec, dict) else None
+            if last_pub is None or price_usd <= float(last_pub) - 1.0:
+                unpublished_pool.append(deal_item)
+
+        if unpublished_pool:
+            telegram_source = "verified_catalog"
+        for deal_item in unpublished_pool[:telegram_limit]:
+            asin = str(deal_item["asin"]).upper()
+            price_usd = round(float(deal_item.get("price_usd") or 0.0), 2)
+            avg_90d_usd = round(
+                float(deal_item.get("avg_90d_usd") or deal_item.get("reference_price_usd") or price_usd),
+                2,
+            )
+            deal_item["asin"] = asin
+            deal_item["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
+            deal_item["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
+            tg_card = build_telegram_card(
+                deal=deal_item,
+                associate_tag=ASSOCIATE_TAG,
+                public_web_url=PUBLIC_WEB_URL,
+            )
+            b_res = broadcaster.broadcast_deal(
+                deal=deal_item,
+                telegram_card=tg_card,
+            )
+            broadcast_results.append(b_res)
+            if b_res.get("telegram", {}).get("status") == "sent":
+                if asin not in price_history.records:
+                    price_history.evaluate_and_record(
+                        asin=asin,
+                        current_price_usd=price_usd,
+                        avg_90d_usd=avg_90d_usd,
+                    )
+                price_history.mark_published(asin, price_usd)
+
+    telegram_delivery_status = _summarize_telegram_delivery(
+        broadcast_results=broadcast_results,
+        broadcaster=broadcaster,
+        source=telegram_source,
+    )
 
     # Layer 3: Export static JSON catalog & price history for Vercel CDN
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     price_history.save()
 
-    deals_json_path = DATA_DIR / "deals.json"
     if LIVE_SCRAPE and len(approved_deals) == 0 and deals_json_path.exists():
         # Preserve existing public catalog if a single live scrape cycle yielded 0 approved deals
+        try:
+            preserved = json.loads(deals_json_path.read_text(encoding="utf-8"))
+            if isinstance(preserved, dict):
+                meta = preserved.setdefault("metadata", {})
+                if isinstance(meta, dict):
+                    meta["last_live_check_at"] = datetime.now(timezone.utc).isoformat()
+                    meta["telegram_delivery_status"] = telegram_delivery_status
+                deals_json_path.write_text(
+                    json.dumps(preserved, indent=2, ensure_ascii=False),
+                    encoding="utf-8",
+                )
+        except Exception:
+            pass
         exported_path = str(deals_json_path)
     else:
         db.clear_stale_published_deals([d["asin"] for d in approved_deals])
@@ -225,6 +370,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
                 "monitored_products_count": len(catalog),
                 "active_deals_count": len(approved_deals),
                 "new_price_drops_count": new_price_drops_count,
+                "telegram_delivery_status": telegram_delivery_status,
             },
         )
 
@@ -235,6 +381,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         "monitored_count": len(catalog),
         "approved_deals_count": len(approved_deals),
         "new_price_drops_count": new_price_drops_count,
+        "telegram_delivery_status": telegram_delivery_status,
         "exported_json": exported_path,
         "deals": approved_deals,
         "broadcasts": broadcast_results,

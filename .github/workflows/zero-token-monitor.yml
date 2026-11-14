@@ -5,6 +5,17 @@ on:
     # Se ejecuta automáticamente en la nube cada 10 minutos (sin depender de tu PC)
     - cron: "*/10 * * * *"
   workflow_dispatch:
+    inputs:
+      publish_catalog:
+        description: "Publicar ofertas verificadas del catálogo en Telegram si el scraping en vivo no detecta bajadas nuevas"
+        required: false
+        default: false
+        type: boolean
+      max_telegram:
+        description: "Máximo de mensajes a enviar a Telegram por ejecución"
+        required: false
+        default: "5"
+        type: string
 
 permissions:
   contents: write
@@ -39,6 +50,8 @@ jobs:
           LIVE_SCRAPE: "true"
           DISCOVERY_ENABLED: "true"
           MAX_LIVE_ASINS: "60"
+          PUBLISH_VERIFIED_CATALOG: ${{ inputs.publish_catalog || 'false' }}
+          MAX_TELEGRAM_PER_CYCLE: ${{ inputs.max_telegram || '5' }}
         run: |
           PYTHONPATH=. python -m src.monitor.run_cloud_cycle
 
