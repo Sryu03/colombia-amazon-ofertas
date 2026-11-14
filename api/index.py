@@ -202,6 +202,7 @@ def run_zero_token_pipeline(
     )
     watchlist_items = load_watchlist_asins(WATCHLIST_PATH)
     parsed_live_deals: list[dict] = []
+    newly_discovered_count = 0
     if LIVE_SCRAPE and DISCOVERY_ENABLED:
         existing_asins = {str(item.get("asin", "")).upper() for item in watchlist_items}
         newly_discovered, parsed_live_deals = discover_deals_and_asins(
@@ -209,6 +210,7 @@ def run_zero_token_pipeline(
             max_new_asins=30,
             price_history_records=price_history.records,
         )
+        newly_discovered_count = len(newly_discovered)
         if newly_discovered:
             watchlist_items = (newly_discovered + watchlist_items)[:150]
             save_watchlist_asins(WATCHLIST_PATH, watchlist_items)
@@ -219,6 +221,10 @@ def run_zero_token_pipeline(
         extra_items=parsed_live_deals + existing_deal_targets + watchlist_items,
         max_live_asins=MAX_LIVE_ASINS,
     )
+    scraper_telemetry = dict(getattr(scraper, "last_telemetry", {}) or {})
+    scraper_telemetry["discovery_new_asins"] = newly_discovered_count
+    scraper_telemetry["discovery_parsed_leads"] = len(parsed_live_deals)
+
     approved_candidates: list[tuple[dict, dict, dict]] = []
     broadcast_results: list[dict] = []
     new_price_drops_count = 0
@@ -265,8 +271,6 @@ def run_zero_token_pipeline(
             min_discount_pct=MIN_DISCOUNT_PCT,
             min_savings_usd=1.0,
         )
-        if not drop_info["is_deal"]:
-            continue
 
         # Layer 1: Colombia Customs, Shipping & TRM Evaluation (arancel-guardian-analista)
         evaluated = evaluate_colombia_deal(
@@ -275,7 +279,10 @@ def run_zero_token_pipeline(
             min_discount_pct=MIN_DISCOUNT_PCT,
             allow_locker_deals=ALLOW_LOCKER_DEALS,
         )
-        if not evaluated.get("approved_for_colombia", False):
+
+        if not drop_info["is_deal"] or not evaluated.get("approved_for_colombia", False):
+            # Registrar rechazo trazable en DealAuditor para visibilidad completa en metadata
+            auditor.audit_deal(evaluated)
             continue
 
         # Layer 2: Affiliate Links & Copy Generation (midas-copy-afiliados)
@@ -555,8 +562,11 @@ def run_zero_token_pipeline(
                 meta = preserved.setdefault("metadata", {})
                 if isinstance(meta, dict):
                     meta["last_live_check_at"] = run_now_iso
+                    meta["monitored_products_count"] = len(catalog)
+                    meta["new_price_drops_count"] = new_price_drops_count
                     meta["telegram_delivery_status"] = telegram_delivery_status
                     meta["audit_report"] = audit_report
+                    meta["scraper_telemetry"] = scraper_telemetry
                     if isinstance(preserved.get("deals"), list):
                         meta["active_deals_count"] = len(preserved["deals"])
                 deals_json_path.write_text(
@@ -580,6 +590,7 @@ def run_zero_token_pipeline(
                 "new_price_drops_count": new_price_drops_count,
                 "telegram_delivery_status": telegram_delivery_status,
                 "audit_report": audit_report,
+                "scraper_telemetry": scraper_telemetry,
             },
         )
 
@@ -592,6 +603,7 @@ def run_zero_token_pipeline(
         "new_price_drops_count": new_price_drops_count,
         "telegram_delivery_status": telegram_delivery_status,
         "audit_report": audit_report,
+        "scraper_telemetry": scraper_telemetry,
         "exported_json": exported_path,
         "deals": approved_deals,
         "broadcasts": broadcast_results,

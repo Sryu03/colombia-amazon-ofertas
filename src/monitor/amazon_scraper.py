@@ -672,7 +672,10 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
             soup.select_one("#ppd, #dp-container, #desktop_buybox, #buybox, #availability, #outOfStock")
         )
         has_buybox_cta = bool(
-            soup.select_one("#add-to-cart-button, #buy-now-button, #one-click-button, input[name='submit.add-to-cart']")
+            soup.select_one(
+                "[id^='add-to-cart-button'], #buy-now-button, #one-click-button, "
+                "input[name='submit.add-to-cart'], #exports_desktop_qualifiedBuybox_atc_feature_div"
+            )
         )
         has_unqualified_box = bool(soup.select_one("#outOfStock, #unqualifiedBuyBox"))
 
@@ -879,11 +882,13 @@ class AmazonMonitorScraper:
     - Uses strictly live-verified `/dp/ASIN` pages with Colombia (`CO`) shipping session when `use_seed=False`
     """
 
-    def __init__(self, timeout: int = 15) -> None:
+    def __init__(self, timeout: int = 10) -> None:
         self.timeout = timeout
         self.has_scrapling = HAS_SCRAPLING
         self._curl_session: Any = None
         self._colombia_location_ready = False
+        self._last_fetch_meta: dict[str, Any] = {}
+        self.last_telemetry: dict[str, Any] = {}
 
     @staticmethod
     def _default_headers() -> dict[str, str]:
@@ -915,8 +920,16 @@ class AmazonMonitorScraper:
             return
         headers = self._default_headers()
         try:
-            home_resp = session.get("https://www.amazon.com/?language=es_US", headers=headers, timeout=self.timeout)
-            csrf = self._extract_csrf_token(getattr(home_resp, "text", "") or "")
+            home_resp = session.get(
+                "https://www.amazon.com/?language=es_US",
+                headers=headers,
+                timeout=self.timeout,
+            )
+            home_text = getattr(home_resp, "text", "") or ""
+            if _is_captcha_or_blocked(home_text):
+                self._colombia_location_ready = False
+                return
+            csrf = self._extract_csrf_token(home_text)
             glow_headers = {
                 **headers,
                 "Accept": "text/html,*/*",
@@ -964,23 +977,86 @@ class AmazonMonitorScraper:
         """Fetch live product page from Amazon.com with Colombia (`CO`) destination context."""
         url = f"https://www.amazon.com/dp/{asin}?language=es_US"
         headers = self._default_headers()
+        self._last_fetch_meta = {"asin": asin, "client": "none", "status": "none", "outcome": "init"}
+        got_http_captcha = False
 
         if HAS_CURL_CFFI and curl_requests is not None:
+            # 1a. Sesión persistente Chrome con ubicación Colombia
             try:
                 if self._curl_session is None:
                     self._curl_session = curl_requests.Session(impersonate="chrome")
+                    self._colombia_location_ready = False
                 self._bootstrap_colombia_location_curl(self._curl_session)
                 resp = self._curl_session.get(url, headers=headers, timeout=self.timeout)
-                if resp.status_code == 200:
-                    parsed = self._parse_if_valid_page(resp.text, asin)
-                    if parsed is not None:
-                        return parsed
-            except Exception:
-                pass
+                status_code = int(getattr(resp, "status_code", 0) or 0)
+                resp_text = getattr(resp, "text", "") or ""
+                if status_code == 200:
+                    if _is_captcha_or_blocked(resp_text):
+                        got_http_captcha = True
+                        self._last_fetch_meta = {"asin": asin, "client": "curl_session", "status": 200, "outcome": "captcha"}
+                        self._curl_session = None
+                        self._colombia_location_ready = False
+                    else:
+                        parsed = self._parse_if_valid_page(resp_text, asin)
+                        if parsed is not None:
+                            self._last_fetch_meta = {
+                                "asin": asin,
+                                "client": "curl_session",
+                                "status": 200,
+                                "outcome": "parsed_ok",
+                                "dest": parsed.get("delivery_country_confirmed"),
+                                "has_buybox": parsed.get("has_buybox"),
+                                "price_usd": parsed.get("price_usd"),
+                                "list_price_usd": parsed.get("list_price_usd"),
+                            }
+                            return parsed
+                        self._last_fetch_meta = {"asin": asin, "client": "curl_session", "status": 200, "outcome": "unparsed_dom"}
+                else:
+                    self._last_fetch_meta = {"asin": asin, "client": "curl_session", "status": status_code, "outcome": f"http_{status_code}"}
+                    if status_code in (403, 503):
+                        self._curl_session = None
+                        self._colombia_location_ready = False
+            except Exception as exc:
+                self._last_fetch_meta = {"asin": asin, "client": "curl_session", "status": "exc", "outcome": type(exc).__name__}
+                self._curl_session = None
+                self._colombia_location_ready = False
+
+            # 1b. Reintento limpio stateless con perfil TLS alternativo y cookie sp-cdn="L5Z9:CO"
+            for profile in ("chrome124", "safari17_0"):
+                try:
+                    resp2 = curl_requests.get(
+                        url,
+                        impersonate=profile,
+                        headers=headers,
+                        timeout=min(self.timeout, 8),
+                    )
+                    sc2 = int(getattr(resp2, "status_code", 0) or 0)
+                    txt2 = getattr(resp2, "text", "") or ""
+                    if sc2 == 200 and not _is_captcha_or_blocked(txt2):
+                        parsed2 = self._parse_if_valid_page(txt2, asin)
+                        if parsed2 is not None:
+                            self._last_fetch_meta = {
+                                "asin": asin,
+                                "client": f"curl_{profile}",
+                                "status": 200,
+                                "outcome": "parsed_ok",
+                                "dest": parsed2.get("delivery_country_confirmed"),
+                                "has_buybox": parsed2.get("has_buybox"),
+                                "price_usd": parsed2.get("price_usd"),
+                                "list_price_usd": parsed2.get("list_price_usd"),
+                            }
+                            return parsed2
+                    elif sc2 == 200:
+                        got_http_captcha = True
+                        self._last_fetch_meta = {"asin": asin, "client": f"curl_{profile}", "status": 200, "outcome": "captcha"}
+                    else:
+                        self._last_fetch_meta = {"asin": asin, "client": f"curl_{profile}", "status": sc2, "outcome": f"http_{sc2}"}
+                except Exception as exc:
+                    self._last_fetch_meta = {"asin": asin, "client": f"curl_{profile}", "status": "exc", "outcome": type(exc).__name__}
 
         if HAS_SCRAPLING and FetcherSession is not None:
             try:
-                with FetcherSession(impersonate="chrome", timeout=self.timeout) as session:
+                with FetcherSession(impersonate="chrome", timeout=min(self.timeout, 8)) as session:
                     try:
                         session.get(
                             "https://www.amazon.com/gp/delivery/ajax/address-change.html?locationType=COUNTRY&district=CO&countryCode=CO&deviceType=web&pageType=Detail&storeContext=generic",
@@ -990,24 +1066,50 @@ class AmazonMonitorScraper:
                         pass
                     response = session.get(url, headers=headers)
                     html = getattr(response, "text", "") or str(getattr(response, "body", ""))
-                    parsed = self._parse_if_valid_page(html, asin)
-                    if parsed is not None:
-                        return parsed
-            except Exception:
-                pass
+                    if _is_captcha_or_blocked(html):
+                        got_http_captcha = True
+                        self._last_fetch_meta = {"asin": asin, "client": "scrapling", "status": 200, "outcome": "captcha"}
+                    else:
+                        parsed = self._parse_if_valid_page(html, asin)
+                        if parsed is not None:
+                            self._last_fetch_meta = {
+                                "asin": asin,
+                                "client": "scrapling",
+                                "status": 200,
+                                "outcome": "parsed_ok",
+                                "dest": parsed.get("delivery_country_confirmed"),
+                                "has_buybox": parsed.get("has_buybox"),
+                                "price_usd": parsed.get("price_usd"),
+                                "list_price_usd": parsed.get("list_price_usd"),
+                            }
+                            return parsed
+            except Exception as exc:
+                self._last_fetch_meta = {"asin": asin, "client": "scrapling", "status": "exc", "outcome": type(exc).__name__}
 
-        try:
-            import urllib.request
+        if not got_http_captcha:
+            try:
+                import urllib.request
 
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=self.timeout) as resp:
-                if resp.status == 200:
-                    html = resp.read().decode("utf-8", errors="ignore")
-                    parsed = self._parse_if_valid_page(html, asin)
-                    if parsed is not None:
-                        return parsed
-        except Exception:
-            pass
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=min(self.timeout, 6)) as resp:
+                    if resp.status == 200:
+                        html = resp.read().decode("utf-8", errors="ignore")
+                        parsed = self._parse_if_valid_page(html, asin)
+                        if parsed is not None:
+                            self._last_fetch_meta = {
+                                "asin": asin,
+                                "client": "urllib",
+                                "status": 200,
+                                "outcome": "parsed_ok",
+                                "dest": parsed.get("delivery_country_confirmed"),
+                                "has_buybox": parsed.get("has_buybox"),
+                                "price_usd": parsed.get("price_usd"),
+                                "list_price_usd": parsed.get("list_price_usd"),
+                            }
+                            return parsed
+            except Exception as exc:
+                if self._last_fetch_meta.get("client") == "none":
+                    self._last_fetch_meta = {"asin": asin, "client": "urllib", "status": "exc", "outcome": type(exc).__name__}
         return None
 
     def fetch_catalog(
@@ -1053,7 +1155,30 @@ class AmazonMonitorScraper:
             for asin in target_asins:
                 if asin in seed_map:
                     results.append(dict(seed_map[asin]))
+            self.last_telemetry = {
+                "mode": "seed",
+                "target_asins_count": len(target_asins),
+                "returned_count": len(results),
+            }
             return results
+
+        telemetry: dict[str, Any] = {
+            "mode": "live",
+            "target_asins_count": len(target_asins),
+            "max_live_asins": max_live_asins,
+            "pre_verified_count": 0,
+            "attempted_count": 0,
+            "parsed_ok_count": 0,
+            "live_verified_count": 0,
+            "fetch_failures_count": 0,
+            "outcome_counts": {},
+            "colombia_co_count": 0,
+            "blocked_co_count": 0,
+            "us_or_unknown_count": 0,
+            "missing_buybox_count": 0,
+            "aborted_early_reason": None,
+            "sample_outcomes": [],
+        }
 
         live_results: list[dict[str, Any]] = []
         seen_live: set[str] = set()
@@ -1071,20 +1196,69 @@ class AmazonMonitorScraper:
             ):
                 live_results.append(dict(pre_item))
                 seen_live.add(asin)
+                telemetry["pre_verified_count"] += 1
 
         for idx, asin in enumerate(target_asins[:max_live_asins]):
             if asin in seen_live:
                 continue
-            if consecutive_failures >= 6:
+            if consecutive_failures >= 10:
+                telemetry["aborted_early_reason"] = f"consecutive_failures_{consecutive_failures}"
                 break
             if idx > 0:
-                _time.sleep(0.7)
+                _time.sleep(0.5)
+
+            telemetry["attempted_count"] += 1
+            self._last_fetch_meta = {}
             live_item = self.fetch_asin_live(asin)
             if live_item is not None:
                 consecutive_failures = 0
-                if live_item.get("live_verified") and float(live_item.get("price_usd") or 0.0) > 0:
-                    if asin in extra_map and extra_map[asin].get("category"):
-                        live_item["category"] = extra_map[asin]["category"]
+                telemetry["parsed_ok_count"] += 1
+
+                dest = str(live_item.get("delivery_country_confirmed") or "US_OR_UNKNOWN")
+                if dest == "CO":
+                    telemetry["colombia_co_count"] += 1
+                elif dest == "BLOCKED_CO":
+                    telemetry["blocked_co_count"] += 1
+                else:
+                    telemetry["us_or_unknown_count"] += 1
+
+                if not live_item.get("has_buybox", True):
+                    telemetry["missing_buybox_count"] += 1
+
+                # Si viene de una tarjeta de Ofertas con descuento visible y el precio Buy Box en /dp/
+                # coincide exactamente (<= $0.50 diferencia), conservar list_price_usd como referencia cuando /dp/ la omite en SSR.
+                pre_lead = extra_map.get(asin)
+                live_price = round(float(live_item.get("price_usd") or 0.0), 2)
+                if pre_lead and live_price > 0.0:
+                    lead_price = round(float(pre_lead.get("price_usd") or 0.0), 2)
+                    lead_list = round(float(pre_lead.get("list_price_usd") or 0.0), 2)
+                    live_list = round(float(live_item.get("list_price_usd") or live_price), 2)
+                    if (
+                        lead_price > 0.0
+                        and abs(live_price - lead_price) <= 0.50
+                        and live_list <= live_price
+                        and lead_list > live_price
+                    ):
+                        live_item["list_price_usd"] = lead_list
+                        live_item["avg_90d_usd"] = lead_list
+
+                if len(telemetry["sample_outcomes"]) < 10:
+                    telemetry["sample_outcomes"].append(
+                        {
+                            "asin": asin,
+                            "outcome": "parsed_ok",
+                            "price_usd": live_price,
+                            "list_price_usd": live_item.get("list_price_usd"),
+                            "dest": dest,
+                            "has_buybox": live_item.get("has_buybox"),
+                            "live_verified": live_item.get("live_verified"),
+                        }
+                    )
+
+                if live_item.get("live_verified") and live_price > 0.0:
+                    telemetry["live_verified_count"] += 1
+                    if pre_lead and pre_lead.get("category"):
+                        live_item["category"] = pre_lead["category"]
                     elif asin in seed_map:
                         live_item["category"] = seed_map[asin].get("category", live_item["category"])
                         live_item["brand"] = seed_map[asin].get("brand", live_item.get("brand", ""))
@@ -1092,5 +1266,12 @@ class AmazonMonitorScraper:
                     seen_live.add(asin)
             else:
                 consecutive_failures += 1
+                telemetry["fetch_failures_count"] += 1
+                meta = self._last_fetch_meta or {"asin": asin, "outcome": "fetch_none"}
+                outcome_key = f"{meta.get('client', 'na')}:{meta.get('outcome', 'fetch_none')}"
+                telemetry["outcome_counts"][outcome_key] = telemetry["outcome_counts"].get(outcome_key, 0) + 1
+                if len(telemetry["sample_outcomes"]) < 10:
+                    telemetry["sample_outcomes"].append(meta)
 
+        self.last_telemetry = telemetry
         return live_results
