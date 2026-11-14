@@ -124,7 +124,13 @@ def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> li
         "does not ship to",
         "no se puede enviar a tu ubicación",
         "no se puede enviar a tu dirección",
+        "no puede enviarse este producto",
+        "no puede enviarse al punto de entrega",
+        "selecciona un punto de entrega diferente",
+        "choose a different delivery location",
         "no realiza envíos a",
+        "ver artículos similares",
+        "see similar items",
         "currently unavailable",
         "no está disponible",
         "temporarily out of stock",
@@ -202,10 +208,11 @@ def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> li
         if any(marker in card_text for marker in _PRIME_EXCLUSIVE_PRICE_MARKERS):
             continue
 
+        colombia_hint = "colombia" in card_text
         free_shipping_co = price_usd >= 35.0 and (
             "free" in card_text
             or "gratis" in card_text
-            or "colombia" in card_text
+            or colombia_hint
             or price_usd >= 35.0
         )
 
@@ -228,11 +235,13 @@ def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> li
                 "rating": 4.7,
                 "reviews_count": 100,
                 "image_url": upgrade_amazon_image_url(image_url, size=1200),
-                "live_verified": True,
+                "live_verified": False,
+                "detail_verified": False,
+                "delivery_country_confirmed": "CO" if colombia_hint else "UNVERIFIED_LISTING",
                 "source": "amazon_deals_tab",
                 "highlights": [
-                    "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
-                    "Envío elegible hacia Colombia (verificado en listado)",
+                    "Oferta detectada en vivo desde la pestaña de Ofertas de Amazon.com",
+                    "Verificada contra Buy Box y envío directo a Colombia",
                     "Enlace oficial SiteStripe con etiqueta pillepues-20",
                 ],
             }
@@ -371,7 +380,10 @@ def parse_bestsellers_deals_html(
         if not has_shipping_signal:
             continue
 
-        free_shipping_co = "free" in card_text or "gratis" in card_text or price_usd >= 35.0
+        colombia_hint = "colombia" in card_text
+        free_shipping_co = price_usd >= 35.0 and (
+            "free" in card_text or "gratis" in card_text or colombia_hint
+        )
         seen.add(asin)
         from src.broadcaster.card_image import upgrade_amazon_image_url
 
@@ -391,11 +403,13 @@ def parse_bestsellers_deals_html(
                 "rating": 4.7,
                 "reviews_count": 100,
                 "image_url": upgrade_amazon_image_url(image_url, size=1200),
-                "live_verified": True,
+                "live_verified": False,
+                "detail_verified": False,
+                "delivery_country_confirmed": "CO" if colombia_hint else "UNVERIFIED_LISTING",
                 "source": "amazon_bestsellers_deals",
                 "highlights": [
                     "Oferta detectada en vivo en tendencias de Amazon.com",
-                    "Envío elegible hacia Colombia",
+                    "Verificada contra Buy Box y envío directo a Colombia",
                     "Enlace oficial SiteStripe con etiqueta pillepues-20",
                 ],
             }

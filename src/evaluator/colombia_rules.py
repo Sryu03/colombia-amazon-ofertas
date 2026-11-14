@@ -62,6 +62,7 @@ def evaluate_colombia_deal(
     tax_free_limit_usd: float = 200.0,
     free_shipping_min_usd: float = 35.0,
     min_discount_pct: float = 20.0,
+    allow_locker_deals: bool = False,
 ) -> dict[str, Any]:
     """Evalúa una oferta de Amazon.com según las reglas aduaneras y logísticas de Colombia.
 
@@ -73,8 +74,8 @@ def evaluate_colombia_deal(
     list_price_usd = round(float(product.get("list_price_usd", 0.0) or 0.0), 2)
     avg_90d_usd = round(float(product.get("avg_90d_usd", 0.0) or 0.0), 2)
     ships_to_colombia = bool(product.get("ships_to_colombia", True))
-    free_shipping_co = bool(product.get("free_shipping_co", False))
-    requires_locker = bool(product.get("requires_locker", not ships_to_colombia))
+    requires_locker = bool(product.get("requires_locker", not ships_to_colombia)) or not ships_to_colombia
+    free_shipping_co = bool(product.get("free_shipping_co", False)) and not requires_locker
 
     reference_price = round(_compute_reference_price(price_usd, avg_90d_usd, list_price_usd), 2)
 
@@ -105,7 +106,7 @@ def evaluate_colombia_deal(
     shipping_cost_cop = int(round(shipping_cost_usd * trm_cop))
     shipping_cost_formatted = (
         "GRATIS ($0 USD)"
-        if shipping_cost_usd == 0.0
+        if (not requires_locker and shipping_cost_usd == 0.0)
         else f"+${shipping_cost_usd:.2f} USD (~{format_cop(shipping_cost_cop)})"
     )
 
@@ -138,32 +139,38 @@ def evaluate_colombia_deal(
     elif not requires_locker:
         shipping_badge_co = f"✈️ Envío directo a Colombia: +${shipping_cost_usd:.2f} USD (Gratis desde $35)"
     else:
-        shipping_badge_co = f"📦 Envío vía casillero Miami: ~${shipping_cost_usd:.2f} USD"
+        shipping_badge_co = f"📦 Sin envío directo — Envío vía casillero Miami: ~${shipping_cost_usd:.2f} USD"
 
-    # 4. Clasificación de la oferta (Envío a Colombia obligatorio + Anti-Humo)
+    # 4. Clasificación de la oferta (Envío a Colombia obligatorio salvo allow_locker_deals + Anti-Humo)
     ships_direct_to_colombia = bool(ships_to_colombia and not requires_locker)
-    if not ships_direct_to_colombia:
-        deal_tier = "❌ SIN ENVÍO A COLOMBIA"
-    elif price_usd > 0.0 and reference_price > price_usd and savings_usd >= 1.0 and discount_pct >= 35.0:
-        deal_tier = "🔥 MÍNIMO HISTÓRICO"
-    elif price_usd > 0.0 and reference_price > price_usd and savings_usd >= 1.0 and discount_pct >= min_discount_pct:
-        deal_tier = "⚡ GRAN OFERTA"
-    else:
-        deal_tier = "❌ DESCARTAR"
-
-    approved_for_colombia = bool(
-        ships_direct_to_colombia
-        and price_usd > 0.0
+    valid_discount = bool(
+        price_usd > 0.0
         and reference_price > price_usd
         and savings_usd >= 1.0
         and discount_pct >= min_discount_pct
         and cheaper_than_before
     )
+    if not ships_direct_to_colombia:
+        if allow_locker_deals and valid_discount:
+            deal_tier = "📦 VÍA CASILLERO MIAMI"
+        else:
+            deal_tier = "❌ SIN ENVÍO A COLOMBIA"
+    elif valid_discount and discount_pct >= 35.0:
+        deal_tier = "🔥 MÍNIMO HISTÓRICO"
+    elif valid_discount:
+        deal_tier = "⚡ GRAN OFERTA"
+    else:
+        deal_tier = "❌ DESCARTAR"
+
+    approved_for_colombia = bool(
+        (ships_direct_to_colombia or allow_locker_deals)
+        and valid_discount
+    )
 
     # 5. Consejo práctico para compradores en Colombia
     if requires_locker:
         colombia_tip = (
-            "Este producto no tiene envío directo de Amazon a Colombia; envíalo a tu casillero en Miami "
+            "Este producto NO tiene envío directo de Amazon a Colombia; requiere casillero en Miami "
             f"(~${shipping_cost_usd:.2f} USD de flete) y paga siempre en USD."
         )
     elif tax_free_colombia and shipping_cost_usd == 0.0:
@@ -196,6 +203,7 @@ def evaluate_colombia_deal(
             "trm_cop": round(float(trm_cop), 2),
             "tax_free_colombia": tax_free_colombia,
             "estimated_import_tax_usd": estimated_import_tax_usd,
+            "free_shipping_co": free_shipping_co,
             "shipping_cost_usd": shipping_cost_usd,
             "shipping_cost_cop": shipping_cost_cop,
             "shipping_cost_formatted": shipping_cost_formatted,

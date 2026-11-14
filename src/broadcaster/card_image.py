@@ -233,6 +233,13 @@ def render_offer_card_from_image_bytes(
     font_watermark = _load_font(28, bold=True)
     font_stamp = _load_font(20, bold=True)
 
+    ships_direct = bool(deal.get("ships_to_colombia", False)) and not bool(deal.get("requires_locker", False))
+    header_ship_note = (
+        f"{channel_handle} · Envío directo sin casillero"
+        if ships_direct
+        else f"{channel_handle} · Requiere casillero en Miami"
+    )
+
     logo_header = _load_brand_logo(98)
     if logo_header is not None:
         lx = 32
@@ -242,7 +249,7 @@ def render_offer_card_from_image_bytes(
         sub_x = lx + logo_header.width + 18
         draw.text((sub_x, 24), f"{brand_name} · OFERTAS BIEN BACANAS", font=_load_font(28, bold=True), fill=(250, 204, 21, 255))
         draw.text((sub_x, 60), "OFERTAS VERIFICADAS AMAZON -> COLOMBIA", font=_load_font(19, bold=True), fill=(248, 250, 252, 255))
-        draw.text((sub_x, 88), f"{channel_handle} · Envío directo sin casillero", font=_load_font(19, bold=False), fill=(148, 163, 184, 255))
+        draw.text((sub_x, 88), header_ship_note, font=_load_font(19, bold=False), fill=(148, 163, 184, 255))
     else:
         # Fallback textual si no está el asset del logo
         brand_bbox = draw.textbbox((0, 0), brand_name, font=font_brand)
@@ -256,7 +263,7 @@ def render_offer_card_from_image_bytes(
 
         sub_x = brand_x1 + 22
         draw.text((sub_x, 36), "OFERTAS AMAZON · COLOMBIA", font=font_subbrand, fill=(248, 250, 252, 255))
-        draw.text((sub_x, 68), f"{channel_handle} · Envío directo sin casillero", font=_load_font(20, bold=False), fill=(148, 163, 184, 255))
+        draw.text((sub_x, 68), header_ship_note, font=_load_font(20, bold=False), fill=(148, 163, 184, 255))
 
     # Badge derecha: -XX% OFF
     discount_pct = int(round(float(deal.get("discount_pct") or 0)))
@@ -336,16 +343,20 @@ def render_offer_card_from_image_bytes(
     draw.text((st_x0 + 14 + icon_slot - st_bbox[0], st_ty), stamp_text, font=font_stamp, fill=(254, 243, 199, 255))
 
     # Badges inferiores izquierda dentro de la vitrina (Envío CO + DIAN sin solapamiento)
-    ships_direct = bool(deal.get("ships_to_colombia", False)) and not bool(deal.get("requires_locker", False))
     price_usd = float(deal.get("price_usd") or 0.0)
     tax_free = bool(deal.get("tax_free_colombia", price_usd <= 200.0))
     free_ship = bool(deal.get("free_shipping_co", False))
 
-    left_pill_text = (
-        "ENVÍO GRATIS A COLOMBIA"
-        if (ships_direct and free_ship)
-        else ("ENVÍO DIRECTO A COLOMBIA" if ships_direct else "REVISAR ENVÍO COLOMBIA")
-    )
+    if ships_direct and free_ship:
+        left_pill_text = "ENVÍO GRATIS A COLOMBIA"
+        lp_fill, lp_outline, lp_fg = (236, 253, 245, 245), (16, 185, 129, 255), (4, 120, 87, 255)
+    elif ships_direct:
+        left_pill_text = "ENVÍO DIRECTO A COLOMBIA"
+        lp_fill, lp_outline, lp_fg = (236, 253, 245, 245), (16, 185, 129, 255), (4, 120, 87, 255)
+    else:
+        left_pill_text = "REQUIERE CASILLERO MIAMI"
+        lp_fill, lp_outline, lp_fg = (254, 243, 199, 245), (217, 119, 6, 255), (146, 64, 14, 255)
+
     lp_bbox = draw.textbbox((0, 0), left_pill_text, font=font_stamp)
     lp_w = (lp_bbox[2] - lp_bbox[0]) + 28
     lp_x0 = stage_x0 + 22
@@ -353,12 +364,12 @@ def render_offer_card_from_image_bytes(
     draw.rounded_rectangle(
         [(lp_x0, pill_y0), (lp_x1, pill_y1)],
         radius=12,
-        fill=(236, 253, 245, 245),
-        outline=(16, 185, 129, 255),
+        fill=lp_fill,
+        outline=lp_outline,
         width=2,
     )
     lp_ty = pill_y0 + ((pill_y1 - pill_y0) - (lp_bbox[3] - lp_bbox[1])) // 2 - lp_bbox[1]
-    draw.text((lp_x0 + 14 - lp_bbox[0], lp_ty), left_pill_text, font=font_stamp, fill=(4, 120, 87, 255))
+    draw.text((lp_x0 + 14 - lp_bbox[0], lp_ty), left_pill_text, font=font_stamp, fill=lp_fg)
 
     if tax_free:
         dian_text = "0% IVA DIAN (<= $200)"
