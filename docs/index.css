@@ -631,20 +631,39 @@ a {
 /* Card Top Header / Image Area */
 .deal-card-media {
   position: relative;
-  height: 215px;
+  height: 235px;
   background-color: #ffffff;
   border-bottom: 1px solid var(--border-subtle);
-  padding: 1.25rem;
+  padding: 2.35rem 1.35rem 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 .deal-card-media img {
-  max-height: 175px;
-  max-width: 85%;
+  max-height: 100%;
+  max-width: 90%;
+  width: auto;
+  height: auto;
   object-fit: contain;
   transition: transform var(--transition-smooth);
+}
+
+.deal-card-media::after {
+  content: "PillePues · @pillepues";
+  position: absolute;
+  bottom: 0.55rem;
+  left: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.67rem;
+  font-weight: 700;
+  color: rgba(15, 23, 42, 0.52);
+  background: rgba(248, 250, 252, 0.88);
+  padding: 0.14rem 0.5rem;
+  border-radius: 4px;
+  border: 1px solid rgba(203, 213, 225, 0.8);
+  pointer-events: none;
 }
 
 .deal-card:hover .deal-card-media img {
@@ -1077,18 +1096,38 @@ a {
 }
 
 .tg-photo-header {
-  height: 180px;
+  position: relative;
+  height: 230px;
   background-color: #ffffff;
   border-bottom: 1px solid var(--border-subtle);
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 1rem;
+  padding: 1.25rem 1.25rem 2rem;
 }
 
 .tg-photo-header img {
-  max-height: 150px;
+  max-height: 100%;
+  max-width: 90%;
+  width: auto;
+  height: auto;
   object-fit: contain;
+}
+
+.tg-photo-header::after {
+  content: "PillePues · @pillepues";
+  position: absolute;
+  bottom: 0.45rem;
+  right: 0.65rem;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  font-weight: 700;
+  color: rgba(15, 23, 42, 0.55);
+  background: rgba(248, 250, 252, 0.9);
+  padding: 0.12rem 0.48rem;
+  border-radius: 4px;
+  border: 1px solid rgba(203, 213, 225, 0.85);
+  pointer-events: none;
 }
 
 .tg-caption-body {
