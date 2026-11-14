@@ -39,7 +39,12 @@ class PriceHistoryStore:
         )
         return str(self.path)
 
-    def get_baseline_avg(self, asin: str) -> float | None:
+    def get_baseline_avg(
+        self,
+        asin: str,
+        current_price_usd: float | None = None,
+        live_list_price_usd: float | None = None,
+    ) -> float | None:
         """Devuelve el promedio histórico observado previamente para el ASIN si existe."""
         prev = self.records.get(asin.upper())
         if not prev:
@@ -47,9 +52,25 @@ class PriceHistoryStore:
         val = prev.get("avg_90d_usd") or prev.get("last_price_usd")
         try:
             fval = float(val)
-            return fval if fval > 0 else None
         except (TypeError, ValueError):
             return None
+        if fval <= 0:
+            return None
+
+        # Si el producto solo se ha observado en precio de oferta (sin registros reales más altos)
+        # y la media decayó artificialmente por corridas frecuentes, restaurar referencia viva de Amazon.
+        if (
+            current_price_usd is not None
+            and live_list_price_usd is not None
+            and live_list_price_usd > current_price_usd
+            and fval < live_list_price_usd
+        ):
+            min_seen = float(prev.get("min_price_seen_usd") or current_price_usd)
+            last_seen = float(prev.get("last_price_usd") or current_price_usd)
+            if abs(min_seen - current_price_usd) <= 0.50 and abs(last_seen - current_price_usd) <= 0.50:
+                fval = round(float(live_list_price_usd), 2)
+                prev["avg_90d_usd"] = fval
+        return fval
 
     def evaluate_and_record(
         self,
@@ -63,7 +84,8 @@ class PriceHistoryStore:
         último precio publicado en Telegram.
         """
         asin_key = asin.upper()
-        now_iso = datetime.now(timezone.utc).isoformat()
+        now_dt = datetime.now(timezone.utc)
+        now_iso = now_dt.isoformat()
         prev = self.records.get(asin_key)
 
         if not prev:
@@ -88,9 +110,21 @@ class PriceHistoryStore:
         min_seen = min(float(prev.get("min_price_seen_usd") or current_price_usd), current_price_usd)
         last_pub = prev.get("last_published_price_usd")
 
-        # Promedio móvil simple para ir afinando el promedio histórico real
-        prev_avg = float(prev.get("avg_90d_usd") or avg_90d_usd)
-        updated_avg = round((prev_avg * 0.85) + (current_price_usd * 0.15), 2)
+        # Promedio móvil ponderado por tiempo real transcurrido sobre ventana de 90 días (2160h),
+        # evitando que corridas cada 10 minutos colapsen el promedio en menos de 1 hora.
+        elapsed_hours = 0.0
+        raw_last_seen = str(prev.get("last_seen_at") or "").strip()
+        if raw_last_seen:
+            try:
+                last_dt = datetime.fromisoformat(raw_last_seen.replace("Z", "+00:00"))
+                if last_dt.tzinfo is None:
+                    last_dt = last_dt.replace(tzinfo=timezone.utc)
+                elapsed_hours = max(0.0, (now_dt - last_dt).total_seconds() / 3600.0)
+            except Exception:
+                elapsed_hours = 0.0
+        alpha = min(0.05, elapsed_hours / (90.0 * 24.0))
+        prev_avg = max(float(prev.get("avg_90d_usd") or avg_90d_usd), float(avg_90d_usd or 0.0))
+        updated_avg = round((prev_avg * (1.0 - alpha)) + (current_price_usd * alpha), 2)
 
         is_new_drop = (
             last_pub is None

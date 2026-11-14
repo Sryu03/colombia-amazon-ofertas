@@ -418,8 +418,8 @@ def parse_bestsellers_deals_html(
     return deals
 
 
-def _fetch_html(url: str, timeout: int = 12) -> str:
-    """Obtiene HTML de una página pública de Amazon usando Scrapling, curl_cffi o urllib."""
+def _fetch_html(url: str, timeout: int = 12, session: Any = None) -> str:
+    """Obtiene HTML de una página pública de Amazon usando curl_cffi (sesión CO), Scrapling o urllib."""
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -427,29 +427,29 @@ def _fetch_html(url: str, timeout: int = 12) -> str:
             "Chrome/125.0.0.0 Safari/537.36"
         ),
         "Accept-Language": "es-US,es;q=0.9,en;q=0.8",
-        "Cookie": "i18n-prefs=USD; lc-main=es_US",
     }
+
+    if HAS_CURL_CFFI and curl_requests is not None:
+        try:
+            client = session or curl_requests
+            resp = client.get(url, impersonate="chrome", headers=headers, timeout=timeout)
+            if resp.status_code == 200 and resp.text and "captcha" not in resp.text.lower():
+                return resp.text
+        except Exception:
+            pass
 
     if HAS_SCRAPLING and FetcherSession is not None:
         try:
-            with FetcherSession(impersonate="chrome", timeout=timeout) as session:
-                resp = session.get(url, headers=headers)
+            with FetcherSession(impersonate="chrome", timeout=timeout) as sc_session:
+                resp = sc_session.get(url, headers={**headers, "Cookie": "i18n-prefs=USD; lc-main=es_US"})
                 html = getattr(resp, "text", "") or str(getattr(resp, "body", ""))
                 if html and "captcha" not in html.lower():
                     return html
         except Exception:
             pass
 
-    if HAS_CURL_CFFI and curl_requests is not None:
-        try:
-            resp = curl_requests.get(url, impersonate="chrome", headers=headers, timeout=timeout)
-            if resp.status_code == 200 and resp.text and "captcha" not in resp.text.lower():
-                return resp.text
-        except Exception:
-            pass
-
     try:
-        req = urllib_request.Request(url, headers=headers)
+        req = urllib_request.Request(url, headers={**headers, "Cookie": "i18n-prefs=USD; lc-main=es_US"})
         with urllib_request.urlopen(req, timeout=timeout) as resp:
             if resp.status == 200:
                 return resp.read().decode("utf-8", errors="ignore")
@@ -473,8 +473,17 @@ def discover_deals_and_asins(
     discovered: list[dict[str, str]] = []
     parsed_deals_by_asin: dict[str, dict[str, Any]] = {}
 
+    session = None
+    if HAS_CURL_CFFI and curl_requests is not None:
+        try:
+            session = curl_requests.Session(impersonate="chrome")
+            for k, v in (("i18n-prefs", "USD"), ("lc-main", "es_US"), ("sp-cdn", '"L5Z9:CO"')):
+                session.cookies.set(k, v, domain=".amazon.com")
+        except Exception:
+            session = None
+
     for category, feed_url in DISCOVERY_FEEDS:
-        html = _fetch_html(feed_url, timeout=timeout)
+        html = _fetch_html(feed_url, timeout=timeout, session=session)
         if html:
             for item in parse_search_deals_html(html, category=category):
                 parsed_deals_by_asin.setdefault(item["asin"], item)

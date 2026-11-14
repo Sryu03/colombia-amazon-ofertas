@@ -1384,6 +1384,7 @@ class AmazonMonitorScraper:
             "us_or_unknown_count": 0,
             "missing_buybox_count": 0,
             "aborted_early_reason": None,
+            "attempted_asins": [],
             "sample_outcomes": [],
         }
 
@@ -1415,6 +1416,7 @@ class AmazonMonitorScraper:
                 _time.sleep(0.5)
 
             telemetry["attempted_count"] += 1
+            telemetry["attempted_asins"].append(asin)
             self._last_fetch_meta = {}
             live_item = self.fetch_asin_live(asin)
             if live_item is not None:

@@ -994,6 +994,24 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(active_url, "https://colombia-amazon-ofertas.vercel.app")
         self.assertTrue(health["ok"])
 
+    def test_price_history_does_not_decay_in_10min_runs(self):
+        from src.monitor.price_history import PriceHistoryStore
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            store = PriceHistoryStore(Path(tmpdir) / "history.json")
+            store.evaluate_and_record("B0HNRSRX9V", current_price_usd=39.99, avg_90d_usd=60.87)
+            for _ in range(12):
+                baseline = store.get_baseline_avg(
+                    "B0HNRSRX9V",
+                    current_price_usd=39.99,
+                    live_list_price_usd=79.99,
+                )
+                self.assertIsNotNone(baseline)
+                self.assertGreaterEqual(baseline, 60.0)
+                store.evaluate_and_record("B0HNRSRX9V", current_price_usd=39.99, avg_90d_usd=baseline)
+            final_avg = store.records["B0HNRSRX9V"]["avg_90d_usd"]
+            self.assertGreaterEqual(final_avg, 60.0)
+
 
 if __name__ == "__main__":
     unittest.main()
