@@ -392,10 +392,6 @@
     "category": "Hogar"
   },
   {
-    "asin": "B0DC6GXZSV",
-    "category": "Tecnología"
-  },
-  {
     "asin": "B0GV58C3K3",
     "category": "Gaming"
   },
@@ -406,6 +402,58 @@
   {
     "asin": "B0B2DFX3PB",
     "category": "Gaming"
+  },
+  {
+    "asin": "B0CLNLLSYM",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B084TFWTH5",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B09715G57M",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HD6GN86Q",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0BWK8QVZ2",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B088D8JG3L",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0F6TM5LJR",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0GVM8N2CK",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B00S93EQUK",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0CYJBB2JQ",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B01GJOMWVA",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0C5Z8VCHX",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0DC6GXZSV",
+    "category": "Tecnología"
   },
   {
     "asin": "B0F7RCSSTN",
@@ -446,14 +494,6 @@
   {
     "asin": "B0BS1QCFHX",
     "category": "Audio"
-  },
-  {
-    "asin": "B0CLNLLSYM",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B084TFWTH5",
-    "category": "Gaming"
   },
   {
     "asin": "B0F4R7N9CQ",
@@ -558,45 +598,5 @@
   {
     "asin": "B0FNWCYLZN",
     "category": "Audio"
-  },
-  {
-    "asin": "B0F9KJRBT1",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0H1CVWC43",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0H8DDDSS4",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0CZPLV566",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0DFLNL3XM",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0FT21HKZ6",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0GH6XYLQK",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0HMKPPM6V",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0DL72PK1P",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0BXNR9DB6",
-    "category": "Computadores"
   }
 ]
