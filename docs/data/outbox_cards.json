@@ -1,5 +1,1241 @@
 [
   {
+    "asin": "B0DXM9Y8J1",
+    "title": "Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)",
+    "timestamp": "2026-11-14T06:40:28.553391+00:00",
+    "timestamp_colombia": "2026-11-14T01:40:28.553391-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0DXM9Y8J1",
+      "title": "Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 24.99,
+      "list_price_usd": 59.99,
+      "avg_90d_usd": 59.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 59.99,
+      "discount_pct": 58.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 58.3,
+      "price_vs_90d_badge": "📉 58.3% más barato que su promedio de 90 días ($59.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 24.99,
+      "price_cop": 82884,
+      "price_cop_formatted": "$82.884 COP",
+      "total_landed_cop": 82884,
+      "total_landed_cop_formatted": "$82.884 COP",
+      "savings_usd": 35.0,
+      "savings_cop": 116084,
+      "savings_cop_formatted": "$116.084 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0DXM9Y8J1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXM9Y8J1",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-58% OFF)</b>\n📦 <b>Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$82.884 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-58% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51WG7mi3h-L._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-58% OFF)</b>\n📦 <b>Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$82.884 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-58% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DXM9Y8J1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXM9Y8J1"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 22,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794638432,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFmr4AmBQauUl8NzL7fWGL_2H-MUtAAK_DWsbXhPAR3xWmrspvAfaAQADAgADcwADPQQ",
+              "file_unique_id": "AQADvw1rG14TwEd4",
+              "file_size": 1692,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFmr4AmBQauUl8NzL7fWGL_2H-MUtAAK_DWsbXhPAR3xWmrspvAfaAQADAgADbQADPQQ",
+              "file_unique_id": "AQADvw1rG14TwEdy",
+              "file_size": 22412,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFmr4AmBQauUl8NzL7fWGL_2H-MUtAAK_DWsbXhPAR3xWmrspvAfaAQADAgADeAADPQQ",
+              "file_unique_id": "AQADvw1rG14TwEd9",
+              "file_size": 83800,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFmr4AmBQauUl8NzL7fWGL_2H-MUtAAK_DWsbXhPAR3xWmrspvAfaAQADAgADeQADPQQ",
+              "file_unique_id": "AQADvw1rG14TwEd-",
+              "file_size": 122501,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-58% OFF)\n📦 Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)\n\n💵 Precio Hoy: $24.99 USD (~$82.884 COP · TRM $3.317)\n📉 Más barato que antes: Antes $59.99 USD → Hoy -58% OFF · Ahorras $35.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 146,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 214,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 226,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 256,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 284,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 301,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 312,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 335,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 537,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 608,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 802,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 817,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 830,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0DXM9Y8J1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXM9Y8J1"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0DXM9Y8J1",
+        "title": "Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)",
+        "photo_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-58% OFF)</b>\n📦 <b>Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$82.884 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-58% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DXM9Y8J1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXM9Y8J1"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0DXM9Y8J1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXM9Y8J1",
+        "deal_snapshot": {
+          "asin": "B0DXM9Y8J1",
+          "title": "Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)",
+          "price_usd": 24.99,
+          "reference_price_usd": 59.99,
+          "discount_pct": 58,
+          "price_cop": 82884,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0DXM9Y8J1",
+      "title": "Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)",
+      "photo_url": "https://m.media-amazon.com/images/I/51WG7mi3h-L._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-58% OFF)</b>\n📦 <b>Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$82.884 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-58% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+              "url": "https://www.amazon.com/dp/B0DXM9Y8J1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXM9Y8J1"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0DXM9Y8J1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXM9Y8J1",
+      "deal_snapshot": {
+        "asin": "B0DXM9Y8J1",
+        "title": "Cámara para interiores 2K Ring (último modelo): Retinal 2K para una calidad de video nítida y realista, zoom 6x mejorado, visión nocturna (blanco)",
+        "price_usd": 24.99,
+        "reference_price_usd": 59.99,
+        "discount_pct": 58,
+        "price_cop": 82884,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0F3BB8D37",
+    "title": "Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución 2K, visión nocturna a color, audio mejorado y detección de movimiento. 1 cámara (Negro)",
+    "timestamp": "2026-11-14T06:40:23.617803+00:00",
+    "timestamp_colombia": "2026-11-14T01:40:23.617803-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0F3BB8D37",
+      "title": "Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución 2K, visión nocturna a color, audio mejorado y detección de movimiento. 1 cámara (Negro)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 15.99,
+      "list_price_usd": 39.99,
+      "avg_90d_usd": 39.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51zmndEGfFL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 39.99,
+      "discount_pct": 60.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 60.0,
+      "price_vs_90d_badge": "📉 60.0% más barato que su promedio de 90 días ($39.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 15.99,
+      "price_cop": 53034,
+      "price_cop_formatted": "$53.034 COP",
+      "total_landed_cop": 53034,
+      "total_landed_cop_formatted": "$53.034 COP",
+      "savings_usd": 24.0,
+      "savings_cop": 79601,
+      "savings_cop_formatted": "$79.601 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0F3BB8D37?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F3BB8D37",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución...</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.034 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $24.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51zmndEGfFL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución...</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.034 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $24.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($15.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F3BB8D37?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F3BB8D37"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 21,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794638428,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFWr4Alzok_1z8jrNWm9OWQafsXr1AAK-DWsbXhPAR-Q4qDstMFylAQADAgADcwADPQQ",
+              "file_unique_id": "AQADvg1rG14TwEd4",
+              "file_size": 2146,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFWr4Alzok_1z8jrNWm9OWQafsXr1AAK-DWsbXhPAR-Q4qDstMFylAQADAgADbQADPQQ",
+              "file_unique_id": "AQADvg1rG14TwEdy",
+              "file_size": 28227,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFWr4Alzok_1z8jrNWm9OWQafsXr1AAK-DWsbXhPAR-Q4qDstMFylAQADAgADeAADPQQ",
+              "file_unique_id": "AQADvg1rG14TwEd9",
+              "file_size": 102122,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFWr4Alzok_1z8jrNWm9OWQafsXr1AAK-DWsbXhPAR-Q4qDstMFylAQADAgADeQADPQQ",
+              "file_unique_id": "AQADvg1rG14TwEd-",
+              "file_size": 152886,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)\n📦 Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución...\n\n💵 Precio Hoy: $15.99 USD (~$53.034 COP · TRM $3.317)\n📉 Más barato que antes: Antes $39.99 USD → Hoy -60% OFF · Ahorras $24.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 223,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 268,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 279,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 302,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 504,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 713,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 741,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($15.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0F3BB8D37?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F3BB8D37"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F3BB8D37",
+        "title": "Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución 2K, visión nocturna a color, audio mejorado y detección de movimiento. 1 cámara (Negro)",
+        "photo_url": "https://m.media-amazon.com/images/I/51zmndEGfFL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución...</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.034 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $24.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($15.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F3BB8D37?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F3BB8D37"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F3BB8D37?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F3BB8D37",
+        "deal_snapshot": {
+          "asin": "B0F3BB8D37",
+          "title": "Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución 2K, visión nocturna a color, audio mejorado y detección de movimiento. 1 cámara (Negro)",
+          "price_usd": 15.99,
+          "reference_price_usd": 39.99,
+          "discount_pct": 60,
+          "price_cop": 53034,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F3BB8D37",
+      "title": "Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución 2K, visión nocturna a color, audio mejorado y detección de movimiento. 1 cámara (Negro)",
+      "photo_url": "https://m.media-amazon.com/images/I/51zmndEGfFL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución...</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.034 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $24.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($15.99 USD)",
+              "url": "https://www.amazon.com/dp/B0F3BB8D37?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F3BB8D37"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F3BB8D37?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0F3BB8D37",
+      "deal_snapshot": {
+        "asin": "B0F3BB8D37",
+        "title": "Blink Mini 2K+ (último modelo) - Cámara interior con enchufe. Ve mascotas o el interior de casa con resolución 2K, visión nocturna a color, audio mejorado y detección de movimiento. 1 cámara (Negro)",
+        "price_usd": 15.99,
+        "reference_price_usd": 39.99,
+        "discount_pct": 60,
+        "price_cop": 53034,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0GZLXWN8X",
+    "title": "Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores, video 2 K con seguimiento automático, vista 360°, visión nocturna, 1 cámara (en blanco)",
+    "timestamp": "2026-11-14T06:40:18.704404+00:00",
+    "timestamp_colombia": "2026-11-14T01:40:18.704404-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GZLXWN8X",
+      "title": "Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores, video 2 K con seguimiento automático, vista 360°, visión nocturna, 1 cámara (en blanco)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 19.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51d8aU-vasL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 60.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 60.0,
+      "price_vs_90d_badge": "📉 60.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 19.99,
+      "price_cop": 66301,
+      "price_cop_formatted": "$66.301 COP",
+      "total_landed_cop": 66301,
+      "total_landed_cop_formatted": "$66.301 COP",
+      "savings_usd": 30.0,
+      "savings_cop": 99501,
+      "savings_cop_formatted": "$99.501 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GZLXWN8X?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GZLXWN8X",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores...</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51d8aU-vasL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores...</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GZLXWN8X?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GZLXWN8X"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 20,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794638423,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFGr4Alf-K2xByvithsX3jeYcy7iRAAK9DWsbXhPAR3Ehz2YnL5grAQADAgADcwADPQQ",
+              "file_unique_id": "AQADvQ1rG14TwEd4",
+              "file_size": 1685,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFGr4Alf-K2xByvithsX3jeYcy7iRAAK9DWsbXhPAR3Ehz2YnL5grAQADAgADbQADPQQ",
+              "file_unique_id": "AQADvQ1rG14TwEdy",
+              "file_size": 22173,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFGr4Alf-K2xByvithsX3jeYcy7iRAAK9DWsbXhPAR3Ehz2YnL5grAQADAgADeAADPQQ",
+              "file_unique_id": "AQADvQ1rG14TwEd9",
+              "file_size": 80923,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADFGr4Alf-K2xByvithsX3jeYcy7iRAAK9DWsbXhPAR3Ehz2YnL5grAQADAgADeQADPQQ",
+              "file_unique_id": "AQADvQ1rG14TwEd-",
+              "file_size": 117359,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)\n📦 Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores...\n\n💵 Precio Hoy: $19.99 USD (~$66.301 COP · TRM $3.317)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -60% OFF · Ahorras $30.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 223,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 268,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 279,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 302,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 504,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 713,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 741,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0GZLXWN8X?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GZLXWN8X"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GZLXWN8X",
+        "title": "Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores, video 2 K con seguimiento automático, vista 360°, visión nocturna, 1 cámara (en blanco)",
+        "photo_url": "https://m.media-amazon.com/images/I/51d8aU-vasL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores...</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GZLXWN8X?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GZLXWN8X"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GZLXWN8X?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GZLXWN8X",
+        "deal_snapshot": {
+          "asin": "B0GZLXWN8X",
+          "title": "Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores, video 2 K con seguimiento automático, vista 360°, visión nocturna, 1 cámara (en blanco)",
+          "price_usd": 19.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 60,
+          "price_cop": 66301,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GZLXWN8X",
+      "title": "Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores, video 2 K con seguimiento automático, vista 360°, visión nocturna, 1 cámara (en blanco)",
+      "photo_url": "https://m.media-amazon.com/images/I/51d8aU-vasL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores...</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.301 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+              "url": "https://www.amazon.com/dp/B0GZLXWN8X?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GZLXWN8X"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GZLXWN8X?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0GZLXWN8X",
+      "deal_snapshot": {
+        "asin": "B0GZLXWN8X",
+        "title": "Blink Mini Pan-Tilt 2K+ (último modelo), cámara de seguridad inteligente giratoria con enchufe para interiores, video 2 K con seguimiento automático, vista 360°, visión nocturna, 1 cámara (en blanco)",
+        "price_usd": 19.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 60,
+        "price_cop": 66301,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FHJ7TKZM",
+    "title": "Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x, comunicación bidireccional y batería integrada (gris moteado)",
+    "timestamp": "2026-11-14T06:40:16.526614+00:00",
+    "timestamp_colombia": "2026-11-14T01:40:16.526614-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FHJ7TKZM",
+      "title": "Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x, comunicación bidireccional y batería integrada (gris moteado)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 39.99,
+      "list_price_usd": 99.99,
+      "avg_90d_usd": 99.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/616Leg1GwuL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 99.99,
+      "discount_pct": 60.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 60.0,
+      "price_vs_90d_badge": "📉 60.0% más barato que su promedio de 90 días ($99.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 39.99,
+      "price_cop": 132635,
+      "price_cop_formatted": "$132.635 COP",
+      "total_landed_cop": 132635,
+      "total_landed_cop_formatted": "$132.635 COP",
+      "savings_usd": 60.0,
+      "savings_cop": 199002,
+      "savings_cop_formatted": "$199.002 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FHJ7TKZM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FHJ7TKZM",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $60.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/616Leg1GwuL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $60.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FHJ7TKZM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FHJ7TKZM"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 19,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794638418,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADE2r4AlLnV9EKhrtP-iUxgUoVvSboAAK8DWsbXhPARw3uwaUyXtroAQADAgADcwADPQQ",
+              "file_unique_id": "AQADvA1rG14TwEd4",
+              "file_size": 1763,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADE2r4AlLnV9EKhrtP-iUxgUoVvSboAAK8DWsbXhPARw3uwaUyXtroAQADAgADbQADPQQ",
+              "file_unique_id": "AQADvA1rG14TwEdy",
+              "file_size": 23991,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADE2r4AlLnV9EKhrtP-iUxgUoVvSboAAK8DWsbXhPARw3uwaUyXtroAQADAgADeAADPQQ",
+              "file_unique_id": "AQADvA1rG14TwEd9",
+              "file_size": 89635,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADE2r4AlLnV9EKhrtP-iUxgUoVvSboAAK8DWsbXhPARw3uwaUyXtroAQADAgADeQADPQQ",
+              "file_unique_id": "AQADvA1rG14TwEd-",
+              "file_size": 134432,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)\n📦 Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta ...\n\n💵 Precio Hoy: $39.99 USD (~$132.635 COP · TRM $3.317)\n📉 Más barato que antes: Antes $99.99 USD → Hoy -60% OFF · Ahorras $60.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 224,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 269,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 280,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 303,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 505,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 520,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 714,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 729,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 742,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FHJ7TKZM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FHJ7TKZM"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FHJ7TKZM",
+        "title": "Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x, comunicación bidireccional y batería integrada (gris moteado)",
+        "photo_url": "https://m.media-amazon.com/images/I/616Leg1GwuL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $60.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FHJ7TKZM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FHJ7TKZM"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FHJ7TKZM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FHJ7TKZM",
+        "deal_snapshot": {
+          "asin": "B0FHJ7TKZM",
+          "title": "Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x, comunicación bidireccional y batería integrada (gris moteado)",
+          "price_usd": 39.99,
+          "reference_price_usd": 99.99,
+          "discount_pct": 60,
+          "price_cop": 132635,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FHJ7TKZM",
+      "title": "Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x, comunicación bidireccional y batería integrada (gris moteado)",
+      "photo_url": "https://m.media-amazon.com/images/I/616Leg1GwuL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-60% OFF)</b>\n📦 <b>Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$132.635 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-60% OFF</b> · <b>Ahorras $60.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FHJ7TKZM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FHJ7TKZM"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FHJ7TKZM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FHJ7TKZM",
+      "deal_snapshot": {
+        "asin": "B0FHJ7TKZM",
+        "title": "Videotimbre inalámbrico 2K Ring (último modelo): Retinal 2K con video de gran angular, zoom mejorado de hasta 6x, comunicación bidireccional y batería integrada (gris moteado)",
+        "price_usd": 39.99,
+        "reference_price_usd": 99.99,
+        "discount_pct": 60,
+        "price_cop": 132635,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0000645YM",
     "title": "Cuisinart - Mini procesador de alimentos, hoja reversible, capacidad de 3 tazas",
     "timestamp": "2026-11-14T06:16:35.331856+00:00",
