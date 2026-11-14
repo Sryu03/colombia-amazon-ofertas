@@ -149,6 +149,34 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         asins = extract_asins_from_listing_html(sample_html)
         self.assertEqual(asins, ["B0CHWRXH8B", "B0B9C4DKKG", "B0863FR3S9", "B07GBZ4Q68"])
 
+        from src.monitor.discovery import parse_search_deals_html
+
+        deals_search_html = """
+        <html><body>
+          <div data-asin="B0B9C4DKKG" data-component-type="s-search-result">
+            <h2><span>Samsung 990 PRO SSD 2TB PCIe 4.0</span></h2>
+            <img class="s-image" src="https://m.media-amazon.com/images/I/71K6m2A+WJL._AC_UL320_.jpg"/>
+            <span class="a-price"><span class="a-offscreen">$149.99</span></span>
+            <span class="a-price a-text-price"><span class="a-offscreen">$249.99</span></span>
+            <span>FREE delivery to Colombia</span>
+          </div>
+          <div data-asin="B09B8V1LZ3" data-component-type="s-search-result">
+            <h2><span>Echo Dot 5th Gen</span></h2>
+            <img class="s-image" src="https://m.media-amazon.com/images/I/echo._AC_UL320_.jpg"/>
+            <span class="a-price"><span class="a-offscreen">$29.99</span></span>
+            <span class="a-price a-text-price"><span class="a-offscreen">$49.99</span></span>
+            <span>This item cannot be shipped to your selected delivery location</span>
+          </div>
+        </body></html>
+        """
+        parsed_deals = parse_search_deals_html(deals_search_html, category="Tecnología")
+        self.assertEqual(len(parsed_deals), 1)
+        self.assertEqual(parsed_deals[0]["asin"], "B0B9C4DKKG")
+        self.assertEqual(parsed_deals[0]["price_usd"], 149.99)
+        self.assertEqual(parsed_deals[0]["list_price_usd"], 249.99)
+        self.assertTrue(parsed_deals[0]["ships_to_colombia"])
+        self.assertTrue(parsed_deals[0]["free_shipping_co"])
+
         with tempfile.TemporaryDirectory() as tmpdir:
             store = PriceHistoryStore(path=Path(tmpdir) / "price_history.json")
             first = store.evaluate_and_record("B0B9C4DKKG", current_price_usd=149.99, avg_90d_usd=199.99)

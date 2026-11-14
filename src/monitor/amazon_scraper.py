@@ -20,6 +20,14 @@ except Exception:
     FetcherSession = None  # type: ignore
     HAS_SCRAPLING = False
 
+try:
+    from curl_cffi import requests as curl_requests  # type: ignore
+
+    HAS_CURL_CFFI = True
+except Exception:
+    curl_requests = None  # type: ignore
+    HAS_CURL_CFFI = False
+
 
 def _build_product_svg_data_uri(
     label: str,
@@ -792,12 +800,21 @@ class AmazonMonitorScraper:
         self.has_scrapling = HAS_SCRAPLING
 
     def fetch_asin_live(self, asin: str) -> dict[str, Any] | None:
-        """Fetch live product page from Amazon.com using Scrapling or urllib fallback."""
+        """Fetch live product page from Amazon.com using Scrapling, curl_cffi, or urllib fallback."""
         url = f"https://www.amazon.com/dp/{asin}?language=es_US"
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/125.0.0.0 Safari/537.36"
+            ),
+            "Accept-Language": "es-US,es;q=0.9,en;q=0.8",
+            "Cookie": "i18n-prefs=USD; lc-main=es_US",
+        }
         if HAS_SCRAPLING and FetcherSession is not None:
             try:
                 with FetcherSession(impersonate="chrome", timeout=self.timeout) as session:
-                    response = session.get(url)
+                    response = session.get(url, headers=headers)
                     html = getattr(response, "text", "") or str(getattr(response, "body", ""))
                     if html and not _is_captcha_or_blocked(html):
                         parsed = parse_amazon_html(html, asin)
@@ -806,20 +823,20 @@ class AmazonMonitorScraper:
             except Exception:
                 pass
 
+        if HAS_CURL_CFFI and curl_requests is not None:
+            try:
+                resp = curl_requests.get(url, impersonate="chrome", headers=headers, timeout=self.timeout)
+                if resp.status_code == 200 and resp.text and not _is_captcha_or_blocked(resp.text):
+                    parsed = parse_amazon_html(resp.text, asin)
+                    if parsed.get("live_verified") and parsed.get("price_usd", 0.0) > 0:
+                        return parsed
+            except Exception:
+                pass
+
         try:
             import urllib.request
 
-            req = urllib.request.Request(
-                url,
-                headers={
-                    "User-Agent": (
-                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                        "AppleWebKit/537.36 (KHTML, like Gecko) "
-                        "Chrome/124.0.0.0 Safari/537.36"
-                    ),
-                    "Accept-Language": "es-US,es;q=0.9,en;q=0.8",
-                },
-            )
+            req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=self.timeout) as resp:
                 if resp.status == 200:
                     html = resp.read().decode("utf-8", errors="ignore")
@@ -846,11 +863,12 @@ class AmazonMonitorScraper:
         import time as _time
 
         seed_map = {item["asin"]: dict(item) for item in SEED_PRODUCTS_COLOMBIA}
-        extra_map = {
-            str(item["asin"]).upper(): dict(item)
-            for item in (extra_items or [])
-            if item.get("asin")
-        }
+        extra_map: dict[str, dict[str, Any]] = {}
+        for item in extra_items or []:
+            if item.get("asin"):
+                key = str(item["asin"]).upper()
+                if key not in extra_map or item.get("live_verified"):
+                    extra_map[key] = dict(item)
 
         if asins:
             target_asins = [a.upper() for a in asins]
@@ -876,18 +894,39 @@ class AmazonMonitorScraper:
             return results
 
         live_results: list[dict[str, Any]] = []
+        seen_live: set[str] = set()
+        consecutive_failures = 0
+
+        # Primero incorporar ofertas reales ya extraídas directamente de la pestaña de Ofertas SSR
+        for asin in target_asins:
+            pre_item = extra_map.get(asin)
+            if (
+                pre_item
+                and pre_item.get("live_verified")
+                and float(pre_item.get("price_usd") or 0.0) > 0.0
+                and str(pre_item.get("image_url") or "").startswith("https://")
+            ):
+                live_results.append(dict(pre_item))
+                seen_live.add(asin)
+
         for idx, asin in enumerate(target_asins[:max_live_asins]):
+            if asin in seen_live:
+                continue
+            if consecutive_failures >= 6:
+                break
             if idx > 0:
-                _time.sleep(0.4)
+                _time.sleep(0.7)
             live_item = self.fetch_asin_live(asin)
             if live_item and live_item.get("live_verified") and live_item.get("price_usd", 0.0) > 0:
+                consecutive_failures = 0
                 if asin in extra_map and extra_map[asin].get("category"):
                     live_item["category"] = extra_map[asin]["category"]
                 elif asin in seed_map:
-                    # Only borrow verified category/brand/image fallback if live page omitted them;
-                    # NEVER overwrite live title, price_usd, list_price_usd, avg_90d_usd, or shipping.
                     live_item["category"] = seed_map[asin].get("category", live_item["category"])
                     live_item["brand"] = seed_map[asin].get("brand", live_item.get("brand", ""))
                 live_results.append(live_item)
+                seen_live.add(asin)
+            else:
+                consecutive_failures += 1
 
         return live_results
