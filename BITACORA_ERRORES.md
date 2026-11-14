@@ -123,3 +123,15 @@ Registro histórico de incidentes reales encontrados durante el desarrollo, desp
   - [`discovery.py`](src/monitor/discovery.py) ahora marca los hallazgos de búsqueda con `live_verified=False` y `detail_verified=False`, obligando a [`AmazonMonitorScraper`](src/monitor/amazon_scraper.py) a verificar cada `/dp/<ASIN>` con sesión `countryCode=CO` (endpoint `glow/address-change` + `sp-cdn="L5Z9:CO"`), Buy Box activo (`#add-to-cart-button` / `#buy-now-button`) y confirmación explícita de envío a Colombia (`delivery_country_confirmed == "CO"`).
   - Si un producto no envía directo (`BLOCKED_CO` o `requires_locker=True`), nunca puede publicarse como envío directo; [`card_image.py`](src/broadcaster/card_image.py), [`colombia_rules.py`](src/evaluator/colombia_rules.py) y [`public/app.js`](public/app.js) muestran explícitamente `"Requiere casillero en Miami"` cuando aplique, y `DealAuditor` rechaza y purga automáticamente ofertas no verificadas en `deals.json`.
 
+---
+
+## 12. Botón `"🇨🇴 Ver Análisis y TRM en PillePues"` enviaba a página con error `404 DEPLOYMENT_NOT_FOUND`
+- **Síntoma:** Al pulsar el botón `"🇨🇴 Ver Análisis y TRM en PillePues"` en el canal de Telegram `@pillepues`, el navegador abría `https://vitrina-colombia-ofertas.vercel.app/?asin=B0...` mostrando `This page doesn't exist — 404 DEPLOYMENT_NOT_FOUND`.
+- **Causa raíz:**
+  1. Tras eliminar el proyecto obsoleto en Vercel (`vitrina-colombia-ofertas`), el proyecto activo conectado al repositorio quedó desplegado bajo **`colombia-amazon-ofertas`** (`https://vercel.com/pawtricion/colombia-amazon-ofertas` → `https://colombia-amazon-ofertas.vercel.app`).
+  2. Sin embargo, `PUBLIC_WEB_URL` por defecto seguía apuntando al dominio antiguo `https://vitrina-colombia-ofertas.vercel.app` en [`api/index.py`](api/index.py), [`affiliate_builder.py`](src/copywriter/affiliate_builder.py), [`vercel_deployer.py`](src/publisher/vercel_deployer.py), [`public/index.html`](public/index.html), [`public/app.js`](public/app.js), [`.env.example`](.env.example) y [`.github/workflows/zero-token-monitor.yml`](.github/workflows/zero-token-monitor.yml), sin validación previa HTTP `200` ni bloqueo en el auditor.
+- **Solución:**
+  - Se actualizó el dominio canónico a **`https://colombia-amazon-ofertas.vercel.app`** en todo el backend, frontend (`public/` y `docs/`), catálogo `deals.json`, `.env`, `.env.example` y el workflow de GitHub Actions.
+  - Se implementó [`resolve_live_public_web_url`](src/publisher/vercel_deployer.py) (`probe_public_web_url`) para comprobar en vivo en la nube que la URL responda `HTTP 200` (sin `DEPLOYMENT_NOT_FOUND`) antes de construir los botones de Telegram y registrar el resultado en `metadata.web_health_check`.
+  - Se reforzó [`DealAuditor`](src/auditor/deal_auditor.py) para rechazar automáticamente (`telegram_invalid_web_button_url`) cualquier oferta o botón de Telegram cuyo enlace web apunte al dominio muerto `vitrina-colombia-ofertas.vercel.app` o no coincida con `deal["web_url"]`.
+

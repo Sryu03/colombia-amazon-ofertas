@@ -169,6 +169,21 @@ class DealAuditor:
             if not checks["tg_button_price_match"]:
                 return _fail("telegram_button_price_mismatch")
 
+            web_btn_url = (
+                str(keyboard[1][0].get("url") or "").strip()
+                if len(keyboard) > 1 and keyboard[1]
+                else ""
+            )
+            deal_web_url = str(deal.get("web_url") or "").strip()
+            checks["tg_web_button_valid"] = (
+                web_btn_url.startswith("https://")
+                and "vitrina-colombia-ofertas.vercel.app" not in web_btn_url
+                and "vitrina-colombia-ofertas.vercel.app" not in deal_web_url
+                and (not deal_web_url or web_btn_url == deal_web_url)
+            )
+            if not checks["tg_web_button_valid"]:
+                return _fail("telegram_invalid_web_button_url")
+
             photo_url = str(telegram_card.get("photo_url") or "").strip().lower()
             checks["tg_photo_https"] = photo_url.startswith("https://")
             if not checks["tg_photo_https"]:

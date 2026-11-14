@@ -89,8 +89,8 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
             "https://www.amazon.com/dp/B0B9C4DKKG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
         )
 
-        vercel_url = build_vercel_deal_url(asin, public_web_url="https://vitrina-colombia-ofertas.vercel.app")
-        self.assertEqual(vercel_url, "https://vitrina-colombia-ofertas.vercel.app/?asin=B0B9C4DKKG")
+        vercel_url = build_vercel_deal_url(asin, public_web_url="https://colombia-amazon-ofertas.vercel.app")
+        self.assertEqual(vercel_url, "https://colombia-amazon-ofertas.vercel.app/?asin=B0B9C4DKKG")
 
         deal = evaluate_colombia_deal(
             {
@@ -943,6 +943,56 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(parsed_split["price_usd"], 44.99)
         self.assertEqual(parsed_split["list_price_usd"], 79.99)
         self.assertEqual(parsed_split["delivery_country_confirmed"], "CO")
+
+    def test_auditor_rejects_broken_vercel_button_and_url_resolver(self):
+        from unittest.mock import patch
+        from src.auditor.deal_auditor import DealAuditor
+        from src.publisher.vercel_deployer import resolve_live_public_web_url
+
+        auditor = DealAuditor(min_discount_pct=20.0)
+        deal = evaluate_colombia_deal(
+            {
+                "asin": "B0DD41G2NZ",
+                "title": "TOZO NC9 Auriculares inalámbricos híbridos",
+                "price_usd": 26.55,
+                "list_price_usd": 39.99,
+                "avg_90d_usd": 34.80,
+                "ships_to_colombia": True,
+                "free_shipping_co": False,
+                "shipping_cost_usd": 11.95,
+                "requires_locker": False,
+                "image_url": "https://m.media-amazon.com/images/I/81rcNF3pG7L._AC_SL1500_.jpg",
+            },
+            trm_cop=3316.7,
+        )
+        deal["web_url"] = "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DD41G2NZ"
+        bad_card = build_telegram_card(
+            deal,
+            associate_tag="pillepues-20",
+            public_web_url="https://vitrina-colombia-ofertas.vercel.app",
+        )
+        res_bad = auditor.audit_deal(deal, telegram_card=bad_card)
+        self.assertFalse(res_bad.approved)
+        self.assertEqual(res_bad.reason, "telegram_invalid_web_button_url")
+
+        deal["web_url"] = "https://colombia-amazon-ofertas.vercel.app/?asin=B0DD41G2NZ"
+        good_card = build_telegram_card(
+            deal,
+            associate_tag="pillepues-20",
+            public_web_url="https://colombia-amazon-ofertas.vercel.app",
+        )
+        res_good = auditor.audit_deal(deal, telegram_card=good_card)
+        self.assertTrue(res_good.approved)
+
+        def fake_probe(url: str, timeout: float = 6.0):
+            if url == "https://colombia-amazon-ofertas.vercel.app":
+                return {"url": url, "ok": True, "status": 200, "reason": "ok"}
+            return {"url": url, "ok": False, "status": 404, "reason": "deployment_not_found"}
+
+        with patch("src.publisher.vercel_deployer.probe_public_web_url", side_effect=fake_probe):
+            active_url, health = resolve_live_public_web_url("https://vitrina-colombia-ofertas.vercel.app")
+        self.assertEqual(active_url, "https://colombia-amazon-ofertas.vercel.app")
+        self.assertTrue(health["ok"])
 
 
 if __name__ == "__main__":
