@@ -92,6 +92,25 @@ def extract_asins_from_listing_html(html: str, limit: int = 25) -> list[str]:
     return ordered
 
 
+_LOCKER_ONLY_KEYWORDS = (
+    "echo ",
+    "fire tv",
+    "fire hd",
+    "kindle",
+    "blink ",
+    "ring ",
+    "eero ",
+)
+
+_PRIME_EXCLUSIVE_PRICE_MARKERS = (
+    "with prime",
+    "prime member price",
+    "join prime to buy",
+    "solo con prime",
+    "precio exclusivo prime",
+)
+
+
 def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> list[dict[str, Any]]:
     """Extrae ofertas completas (título, precio actual, precio tachado, imagen y envío) desde HTML SSR de Amazon Deals."""
     if not html_text or "captcha" in html_text.lower():
@@ -171,14 +190,19 @@ def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> li
             continue
         if not title or len(title) < 5:
             continue
+        lower_title = title.lower()
+        if any(kw in lower_title for kw in _LOCKER_ONLY_KEYWORDS):
+            continue
         if not image_url.lower().startswith("https://") or "sprite" in image_url.lower() or "pixel" in image_url.lower():
             continue
         if price_usd <= 0.0 or list_price_usd <= price_usd:
             continue
         if any(phrase in card_text for phrase in no_ship_phrases):
             continue
+        if any(marker in card_text for marker in _PRIME_EXCLUSIVE_PRICE_MARKERS):
+            continue
 
-        free_shipping_co = (
+        free_shipping_co = price_usd >= 35.0 and (
             "free" in card_text
             or "gratis" in card_text
             or "colombia" in card_text
@@ -215,17 +239,6 @@ def parse_search_deals_html(html_text: str, category: str = "Tecnología") -> li
         )
 
     return deals
-
-
-_LOCKER_ONLY_KEYWORDS = (
-    "echo ",
-    "fire tv",
-    "fire hd",
-    "kindle",
-    "blink ",
-    "ring ",
-    "eero ",
-)
 
 
 def parse_bestsellers_deals_html(
