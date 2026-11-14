@@ -18,7 +18,11 @@ from src.copywriter.affiliate_builder import (
     build_vercel_deal_url,
 )
 from src.db.database import Database
-from src.evaluator.colombia_rules import evaluate_colombia_deal, fetch_live_trm_cop
+from src.evaluator.colombia_rules import (
+    deal_priority_key,
+    evaluate_colombia_deal,
+    fetch_live_trm_cop,
+)
 from src.monitor.amazon_scraper import AmazonMonitorScraper
 from src.monitor.discovery import (
     discover_trending_asins,
@@ -42,6 +46,7 @@ MIN_DISCOUNT_PCT = float(os.getenv("MIN_DISCOUNT_PERCENT", "20.0"))
 LIVE_SCRAPE = os.getenv("LIVE_SCRAPE", "false").lower() in ("1", "true", "yes")
 DISCOVERY_ENABLED = os.getenv("DISCOVERY_ENABLED", "true").lower() in ("1", "true", "yes")
 MAX_LIVE_ASINS = int(os.getenv("MAX_LIVE_ASINS", "60"))
+MAX_TELEGRAM_PER_CYCLE = int(os.getenv("MAX_TELEGRAM_PER_CYCLE", "5"))
 
 app = FastAPI(
     title="Amazon Colombia Deals & Zero-Token Agentic Tracker",
@@ -85,7 +90,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         extra_items=watchlist_items,
         max_live_asins=MAX_LIVE_ASINS,
     )
-    approved_deals: list[dict] = []
+    approved_candidates: list[tuple[dict, dict, dict]] = []
     broadcast_results: list[dict] = []
     new_price_drops_count = 0
 
@@ -134,7 +139,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         if not drop_info["is_deal"]:
             continue
 
-        # Layer 1: Colombia Customs & TRM Evaluation (arancel-guardian-analista)
+        # Layer 1: Colombia Customs, Shipping & TRM Evaluation (arancel-guardian-analista)
         evaluated = evaluate_colombia_deal(
             product=raw_item,
             trm_cop=active_trm,
@@ -143,7 +148,10 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
         if not evaluated.get("approved_for_colombia", False):
             continue
 
-        # Strict coherence & image gate: never publish incoherent prices or missing photos
+        # Strict coherence, Colombia shipping & image gate
+        ships_to_colombia = bool(evaluated.get("ships_to_colombia", False)) and not bool(
+            evaluated.get("requires_locker", False)
+        )
         has_https_image = str(evaluated.get("image_url") or "").strip().lower().startswith("https://")
         has_valid_title = not str(evaluated.get("title") or "").strip().lower().startswith("amazon product")
         has_coherent_price = (
@@ -151,7 +159,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
             and evaluated.get("reference_price_usd", 0.0) > evaluated.get("price_usd", 0.0)
             and evaluated.get("savings_usd", 0.0) >= 1.0
         )
-        if not (has_coherent_price and has_valid_title and has_https_image):
+        if not (ships_to_colombia and has_coherent_price and has_valid_title and has_https_image):
             continue
 
         # Layer 2: Affiliate Links & Copy Generation (midas-copy-afiliados)
@@ -166,14 +174,24 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
             public_web_url=PUBLIC_WEB_URL,
         )
         evaluated["telegram_copy"] = tg_card["caption_html"]
+        approved_candidates.append((evaluated, tg_card, history_event))
 
-        # Save in SQLite
+    # Priorizar estrictamente por mejor oferta/descuento y envío a Colombia (NO por comisión)
+    approved_candidates.sort(key=lambda item: deal_priority_key(item[0]), reverse=True)
+    approved_deals: list[dict] = []
+    live_sent_count = 0
+
+    for evaluated, tg_card, history_event in approved_candidates:
+        asin = evaluated["asin"]
+        price_usd = evaluated["price_usd"]
+
         db.save_published_deal(evaluated)
         approved_deals.append(evaluated)
 
-        # Publish immediately to Telegram ONLY on new drops/deals when LIVE_SCRAPE is active
-        # (or always write to simulated outbox when running without a live token)
-        should_send_live = history_event["is_new_drop"] or not LIVE_SCRAPE
+        should_send_live = (
+            (history_event["is_new_drop"] and live_sent_count < MAX_TELEGRAM_PER_CYCLE)
+            or not LIVE_SCRAPE
+        )
         if should_send_live:
             b_res = broadcaster.broadcast_deal(
                 deal=evaluated,
@@ -182,6 +200,7 @@ def run_zero_token_pipeline(trm_cop: Optional[float] = None) -> dict:
             broadcast_results.append(b_res)
             if history_event["is_new_drop"]:
                 new_price_drops_count += 1
+                live_sent_count += 1
                 if broadcaster.telegram_bot_token:
                     price_history.mark_published(asin, price_usd)
 

@@ -140,8 +140,11 @@ def evaluate_colombia_deal(
     else:
         shipping_badge_co = f"📦 Envío vía casillero Miami: ~${shipping_cost_usd:.2f} USD"
 
-    # 4. Clasificación de la oferta (Anti-Humo y Coherencia de Precios)
-    if price_usd > 0.0 and reference_price > price_usd and savings_usd >= 1.0 and discount_pct >= 35.0:
+    # 4. Clasificación de la oferta (Envío a Colombia obligatorio + Anti-Humo)
+    ships_direct_to_colombia = bool(ships_to_colombia and not requires_locker)
+    if not ships_direct_to_colombia:
+        deal_tier = "❌ SIN ENVÍO A COLOMBIA"
+    elif price_usd > 0.0 and reference_price > price_usd and savings_usd >= 1.0 and discount_pct >= 35.0:
         deal_tier = "🔥 MÍNIMO HISTÓRICO"
     elif price_usd > 0.0 and reference_price > price_usd and savings_usd >= 1.0 and discount_pct >= min_discount_pct:
         deal_tier = "⚡ GRAN OFERTA"
@@ -149,7 +152,8 @@ def evaluate_colombia_deal(
         deal_tier = "❌ DESCARTAR"
 
     approved_for_colombia = bool(
-        price_usd > 0.0
+        ships_direct_to_colombia
+        and price_usd > 0.0
         and reference_price > price_usd
         and savings_usd >= 1.0
         and discount_pct >= min_discount_pct
@@ -195,6 +199,7 @@ def evaluate_colombia_deal(
             "shipping_cost_usd": shipping_cost_usd,
             "shipping_cost_cop": shipping_cost_cop,
             "shipping_cost_formatted": shipping_cost_formatted,
+            "ships_to_colombia": ships_direct_to_colombia,
             "requires_locker": requires_locker,
             "locker_badge_co": locker_badge_co,
             "total_landed_usd": total_landed_usd,
@@ -214,3 +219,14 @@ def evaluate_colombia_deal(
     )
 
     return enriched
+
+
+def deal_priority_key(deal: dict[str, Any]) -> tuple[int, float, int, int, float]:
+    """Ordena las ofertas aprobadas priorizando el mayor descuento real y beneficio para Colombia."""
+    return (
+        1 if deal.get("is_new_price_drop") else 0,
+        float(deal.get("discount_pct") or 0.0),
+        1 if deal.get("free_shipping_co") else 0,
+        1 if deal.get("tax_free_colombia") else 0,
+        float(deal.get("savings_usd") or 0.0),
+    )
