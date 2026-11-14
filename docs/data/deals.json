@@ -13,7 +13,7 @@
     "active_deals_count": 0,
     "new_price_drops_count": 0,
     "telegram_delivery_status": {
-      "checked_at": "2026-11-14T17:13:27.889738+00:00",
+      "checked_at": "2026-11-14T17:19:56.659881+00:00",
       "token_configured": true,
       "chat_id": "@pillepues",
       "source": "none",
@@ -32,8 +32,8 @@
       "approved_count": 0,
       "rejected_count": 60,
       "rejected_reasons": {
-        "colombia_shipping_unconfirmed:US_OR_UNKNOWN": 21,
-        "incoherent_price_or_discount": 39
+        "colombia_shipping_unconfirmed:US_OR_UNKNOWN": 15,
+        "incoherent_price_or_discount": 45
       },
       "rejected_samples": [
         {
@@ -46,7 +46,7 @@
         },
         {
           "asin": "B0DZ254SSR",
-          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+          "reason": "incoherent_price_or_discount"
         },
         {
           "asin": "B0CNTH3F7P",
@@ -54,7 +54,7 @@
         },
         {
           "asin": "B0DSFJY5VD",
-          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+          "reason": "incoherent_price_or_discount"
         },
         {
           "asin": "B0CSK16X7B",
@@ -118,7 +118,7 @@
         }
       ]
     },
-    "last_live_check_at": "2026-11-14T17:10:27.301179+00:00",
+    "last_live_check_at": "2026-11-14T17:16:49.210791+00:00",
     "scraper_telemetry": {
       "mode": "live",
       "target_asins_count": 160,
@@ -141,7 +141,7 @@
           "price_usd": 24.0,
           "list_price_usd": 39.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -151,7 +151,7 @@
           "price_usd": 13.92,
           "list_price_usd": 16.46,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -161,7 +161,7 @@
           "price_usd": 11.99,
           "list_price_usd": 15.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -171,7 +171,7 @@
           "price_usd": 17.93,
           "list_price_usd": 21.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -181,7 +181,7 @@
           "price_usd": 9.97,
           "list_price_usd": 12.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -191,7 +191,7 @@
           "price_usd": 29.74,
           "list_price_usd": 34.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -201,7 +201,7 @@
           "price_usd": 22.48,
           "list_price_usd": 24.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -211,7 +211,7 @@
           "price_usd": 62.97,
           "list_price_usd": 72.97,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -221,7 +221,7 @@
           "price_usd": 9.98,
           "list_price_usd": 11.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         },
@@ -231,11 +231,18 @@
           "price_usd": 26.55,
           "list_price_usd": 39.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Ashburn 20149 - Actualizar u",
+          "ingress": "Actualizar ubicación Entrega en Boydton 23917 - Actualizar u",
           "has_buybox": true,
           "live_verified": true
         }
       ],
+      "glow_bootstrap": {
+        "home_status": 202,
+        "modal_status": 200,
+        "csrf_found": false,
+        "post_status": 200,
+        "post_body": ""
+      },
       "discovery_new_asins": 0,
       "discovery_parsed_leads": 57
     }
