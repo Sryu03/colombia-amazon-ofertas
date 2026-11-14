@@ -13,6 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
+from src.auditor.deal_auditor import DealAuditor
 from src.broadcaster.channels import ChannelBroadcaster
 from src.copywriter.affiliate_builder import (
     build_affiliate_url,
@@ -51,6 +52,7 @@ MAX_LIVE_ASINS = int(os.getenv("MAX_LIVE_ASINS", "60"))
 MAX_TELEGRAM_PER_CYCLE = int(os.getenv("MAX_TELEGRAM_PER_CYCLE", "5"))
 PUBLISH_VERIFIED_CATALOG = os.getenv("PUBLISH_VERIFIED_CATALOG", "false").lower() in ("1", "true", "yes")
 MAX_UNVERIFIED_DEAL_AGE_MINUTES = int(os.getenv("MAX_UNVERIFIED_DEAL_AGE_MINUTES", "90"))
+ALLOW_LOCKER_DEALS = os.getenv("ALLOW_LOCKER_DEALS", "false").lower() in ("1", "true", "yes")
 
 app = FastAPI(
     title="Amazon Colombia Deals & Zero-Token Agentic Tracker",
@@ -192,6 +194,12 @@ def run_zero_token_pipeline(
 
     run_now_iso = datetime.now(timezone.utc).isoformat()
     deals_json_path = DATA_DIR / "deals.json"
+    auditor = DealAuditor(
+        min_discount_pct=MIN_DISCOUNT_PCT,
+        allow_locker_deals=ALLOW_LOCKER_DEALS,
+        require_live_detail=LIVE_SCRAPE,
+        require_colombia_confirmation=LIVE_SCRAPE,
+    )
     watchlist_items = load_watchlist_asins(WATCHLIST_PATH)
     parsed_live_deals: list[dict] = []
     if LIVE_SCRAPE and DISCOVERY_ENABLED:
@@ -265,22 +273,9 @@ def run_zero_token_pipeline(
             product=raw_item,
             trm_cop=active_trm,
             min_discount_pct=MIN_DISCOUNT_PCT,
+            allow_locker_deals=ALLOW_LOCKER_DEALS,
         )
         if not evaluated.get("approved_for_colombia", False):
-            continue
-
-        # Strict coherence, Colombia shipping & image gate
-        ships_to_colombia = bool(evaluated.get("ships_to_colombia", False)) and not bool(
-            evaluated.get("requires_locker", False)
-        )
-        has_https_image = str(evaluated.get("image_url") or "").strip().lower().startswith("https://")
-        has_valid_title = not str(evaluated.get("title") or "").strip().lower().startswith("amazon product")
-        has_coherent_price = (
-            evaluated.get("price_usd", 0.0) > 0.0
-            and evaluated.get("reference_price_usd", 0.0) > evaluated.get("price_usd", 0.0)
-            and evaluated.get("savings_usd", 0.0) >= 1.0
-        )
-        if not (ships_to_colombia and has_coherent_price and has_valid_title and has_https_image):
             continue
 
         # Layer 2: Affiliate Links & Copy Generation (midas-copy-afiliados)
@@ -296,6 +291,13 @@ def run_zero_token_pipeline(
             public_web_url=PUBLIC_WEB_URL,
         )
         evaluated["telegram_copy"] = tg_card["caption_html"]
+
+        # Layer 2.5: Auditoría Final Obligatoria (verificador-colombia-auditor)
+        audit_res = auditor.audit_deal(evaluated, telegram_card=tg_card)
+        if not audit_res.approved:
+            continue
+
+        evaluated["audited_by"] = "verificador-colombia-auditor"
         approved_candidates.append((evaluated, tg_card, history_event))
 
     # Priorizar estrictamente por mejor oferta/descuento y envío a Colombia (NO por comisión)
@@ -350,7 +352,17 @@ def run_zero_token_pipeline(
             except Exception:
                 stored_deals = []
 
-        verified_pool = [dict(d) for d in stored_deals if isinstance(d, dict) and _is_valid_verified_deal(d)]
+        verified_pool: list[dict] = []
+        for d in stored_deals:
+            if not isinstance(d, dict):
+                continue
+            d_asin = str(d.get("asin") or "").strip().upper()
+            audit_cached = auditor.audit_deal(d, record_metrics=False)
+            if audit_cached.approved:
+                verified_pool.append(dict(d))
+            elif d_asin:
+                expired_asins.add(d_asin)
+
         verified_pool.sort(key=deal_priority_key, reverse=True)
 
         unpublished_pool: list[dict] = []
@@ -376,11 +388,20 @@ def run_zero_token_pipeline(
                 2,
             )
 
-            # Re-verificación obligatoria en vivo antes de enviar ofertas en cola desde deals.json
+            # Re-verificación obligatoria en vivo por el Auditor antes de enviar ofertas en cola desde deals.json
             if LIVE_SCRAPE and not already_fresh_in_run:
                 live_item = scraper.fetch_asin_live(asin) if consecutive_live_blocks < 4 else None
-                if live_item and live_item.get("live_verified") and float(live_item.get("price_usd") or 0.0) > 0.0:
+                if live_item is not None:
                     consecutive_live_blocks = 0
+                    if (
+                        not live_item.get("live_verified")
+                        or float(live_item.get("price_usd") or 0.0) <= 0.0
+                        or not live_item.get("has_buybox", True)
+                    ):
+                        expired_asins.add(asin)
+                        auditor.audit_deal(live_item)
+                        continue
+
                     live_price = round(float(live_item["price_usd"]), 2)
                     live_list = round(float(live_item.get("list_price_usd") or live_price), 2)
                     baseline_avg = price_history.get_baseline_avg(asin)
@@ -414,23 +435,28 @@ def run_zero_token_pipeline(
                         product=merged,
                         trm_cop=active_trm,
                         min_discount_pct=MIN_DISCOUNT_PCT,
+                        allow_locker_deals=ALLOW_LOCKER_DEALS,
                     )
+                    re_eval["verified_at"] = run_now_iso
+                    re_eval["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
+                    re_eval["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
+                    re_tg_card = build_telegram_card(
+                        deal=re_eval,
+                        associate_tag=ASSOCIATE_TAG,
+                        public_web_url=PUBLIC_WEB_URL,
+                    )
+                    re_eval["telegram_copy"] = re_tg_card["caption_html"]
+                    re_audit = auditor.audit_deal(re_eval, telegram_card=re_tg_card)
+
                     if not (
                         drop_info["is_deal"]
                         and re_eval.get("approved_for_colombia", False)
-                        and _is_valid_verified_deal(re_eval)
+                        and re_audit.approved
                     ):
                         expired_asins.add(asin)
                         continue
 
-                    re_eval["verified_at"] = run_now_iso
-                    re_eval["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
-                    re_eval["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
-                    re_eval["telegram_copy"] = build_telegram_card(
-                        deal=re_eval,
-                        associate_tag=ASSOCIATE_TAG,
-                        public_web_url=PUBLIC_WEB_URL,
-                    )["caption_html"]
+                    re_eval["audited_by"] = "verificador-colombia-auditor"
                     refreshed_deals_by_asin[asin] = re_eval
                     deal_item = re_eval
                 else:
@@ -452,6 +478,11 @@ def run_zero_token_pipeline(
                 associate_tag=ASSOCIATE_TAG,
                 public_web_url=PUBLIC_WEB_URL,
             )
+            final_tg_audit = auditor.audit_deal(deal_item, telegram_card=tg_card, record_metrics=False)
+            if not final_tg_audit.approved:
+                expired_asins.add(asin)
+                continue
+
             telegram_source = "verified_catalog"
             b_res = broadcaster.broadcast_deal(
                 deal=deal_item,
@@ -481,18 +512,20 @@ def run_zero_token_pipeline(
     if expired_asins:
         telegram_delivery_status["pruned_expired_asins"] = sorted(expired_asins)
 
+    audit_report = auditor.summary()
+
     # Layer 3: Export static JSON catalog & price history for Vercel CDN
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     price_history.save()
 
     if LIVE_SCRAPE and len(approved_deals) == 0 and deals_json_path.exists():
         # Preserve existing public catalog if live discovery yielded 0 approved deals,
-        # while pruning expired ASINs and updating any deals re-verified in this cycle.
+        # while strictly purging expired or unaudited items via DealAuditor.
         try:
             preserved = json.loads(deals_json_path.read_text(encoding="utf-8"))
             if isinstance(preserved, dict):
                 current_list = preserved.get("deals", [])
-                if isinstance(current_list, list) and (expired_asins or refreshed_deals_by_asin):
+                if isinstance(current_list, list):
                     updated_list: list[dict] = []
                     for item in current_list:
                         if not isinstance(item, dict):
@@ -500,7 +533,12 @@ def run_zero_token_pipeline(
                         item_asin = str(item.get("asin") or "").upper()
                         if item_asin in expired_asins:
                             continue
-                        updated_list.append(refreshed_deals_by_asin.get(item_asin, item))
+                        candidate_item = refreshed_deals_by_asin.get(item_asin, item)
+                        if not auditor.audit_deal(candidate_item, record_metrics=False).approved:
+                            if item_asin:
+                                expired_asins.add(item_asin)
+                            continue
+                        updated_list.append(candidate_item)
                     preserved["deals"] = updated_list
                     preserved["total_deals"] = len(updated_list)
                     preserved["tax_free_count"] = sum(
@@ -512,10 +550,13 @@ def run_zero_token_pipeline(
                     preserved["categories"] = sorted(
                         {str(d.get("category") or "Tecnología") for d in updated_list}
                     )
+                if expired_asins:
+                    telegram_delivery_status["pruned_expired_asins"] = sorted(expired_asins)
                 meta = preserved.setdefault("metadata", {})
                 if isinstance(meta, dict):
                     meta["last_live_check_at"] = run_now_iso
                     meta["telegram_delivery_status"] = telegram_delivery_status
+                    meta["audit_report"] = audit_report
                     if isinstance(preserved.get("deals"), list):
                         meta["active_deals_count"] = len(preserved["deals"])
                 deals_json_path.write_text(
@@ -538,6 +579,7 @@ def run_zero_token_pipeline(
                 "active_deals_count": len(approved_deals),
                 "new_price_drops_count": new_price_drops_count,
                 "telegram_delivery_status": telegram_delivery_status,
+                "audit_report": audit_report,
             },
         )
 
@@ -549,6 +591,7 @@ def run_zero_token_pipeline(
         "approved_deals_count": len(approved_deals),
         "new_price_drops_count": new_price_drops_count,
         "telegram_delivery_status": telegram_delivery_status,
+        "audit_report": audit_report,
         "exported_json": exported_path,
         "deals": approved_deals,
         "broadcasts": broadcast_results,

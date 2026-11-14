@@ -647,12 +647,34 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         )
         list_price_usd = _extract_float_price(list_node.get_text(strip=True) if list_node else "")
 
-        delivery_node = (
-            soup.select_one("#mir-layout-DELIVERY_BLOCK")
-            or soup.select_one("#deliveryBlockMessage")
-            or soup.select_one("#amazonGlobal_feature_div")
+        delivery_selectors = (
+            "#mir-layout-DELIVERY_BLOCK",
+            "#deliveryBlockMessage",
+            "#amazonGlobal_feature_div",
+            "#exports_desktop_qualifiedBuybox_tlc_feature_div",
+            "#availability",
+            "#outOfStock",
+            "#unqualifiedBuyBox",
+            "#buybox",
+            "#desktop_buybox",
         )
-        delivery_text = (delivery_node.get_text(" ", strip=True) if delivery_node else raw_html).lower()
+        delivery_chunks = [
+            node.get_text(" ", strip=True)
+            for sel in delivery_selectors
+            for node in soup.select(sel)
+        ]
+        delivery_text = (" ".join(delivery_chunks) if delivery_chunks else raw_html).lower()
+
+        ingress_nodes = soup.select("#glow-ingress-block, #glow-ingress-line2, #contextualIngressPtLabel")
+        ingress_text = " ".join(n.get_text(" ", strip=True) for n in ingress_nodes).lower()
+
+        is_full_dp_page = bool(
+            soup.select_one("#ppd, #dp-container, #desktop_buybox, #buybox, #availability, #outOfStock")
+        )
+        has_buybox_cta = bool(
+            soup.select_one("#add-to-cart-button, #buy-now-button, #one-click-button, input[name='submit.add-to-cart']")
+        )
+        has_unqualified_box = bool(soup.select_one("#outOfStock, #unqualifiedBuyBox"))
 
         rating_node = soup.select_one("#acrPopover") or soup.select_one(".a-icon-alt")
         rating_val = _extract_float_price(rating_node.get_text(strip=True) if rating_node else "")
@@ -709,7 +731,16 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
             re.S | re.I,
         )
         list_price_usd = _extract_float_price(strike_match.group(1) if strike_match else "")
-        delivery_text = raw_html.lower()
+        delivery_text = re.sub(r"<[^>]+>", " ", raw_html).lower()
+        ingress_m = re.search(
+            r'id=["\'](?:glow-ingress-block|contextualIngressPtLabel)["\'][^>]*>(.*?)</div>',
+            raw_html,
+            re.S | re.I,
+        )
+        ingress_text = re.sub(r"<[^>]+>", " ", ingress_m.group(1)).lower() if ingress_m else ""
+        is_full_dp_page = bool(re.search(r'id=["\'](?:ppd|dp-container|desktop_buybox|buybox|availability|outOfStock)["\']', raw_html, re.I))
+        has_buybox_cta = bool(re.search(r'(?:add-to-cart-button|buy-now-button|submit\.add-to-cart)', raw_html, re.I))
+        has_unqualified_box = bool(re.search(r'id=["\'](?:outOfStock|unqualifiedBuyBox)["\']', raw_html, re.I))
         rating = 4.7
 
         for img_pattern in (
@@ -744,19 +775,59 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         "does not ship to",
         "no se puede enviar a tu ubicación",
         "no se puede enviar a tu dirección",
+        "no puede enviarse este producto al punto de entrega seleccionado",
+        "no puede enviarse este producto",
+        "no puede enviarse al punto de entrega",
+        "selecciona un punto de entrega diferente",
+        "choose a different delivery location",
         "no realiza envíos a",
         "currently unavailable",
         "no está disponible",
         "temporarily out of stock",
         "temporalmente agotado",
+        "ver artículos similares",
+        "see similar items",
     )
-    availability_scope = delivery_text
+    unqualified_phrases = (
+        "see all buying options",
+        "ver todas las opciones de compra",
+        "ver artículos similares",
+        "see similar items",
+    )
+    availability_scope = f"{delivery_text} {ingress_text}".strip()
     if HAS_BS4 and BeautifulSoup is not None:
         avail_node = soup.select_one("#availability") or soup.select_one("#outOfStock")
         if avail_node:
-            availability_scope = f"{delivery_text} {avail_node.get_text(' ', strip=True).lower()}"
+            availability_scope = f"{availability_scope} {avail_node.get_text(' ', strip=True).lower()}"
 
-    ships_to_colombia = not any(phrase in availability_scope for phrase in no_ship_phrases)
+    explicitly_blocked_co = any(phrase in availability_scope for phrase in no_ship_phrases)
+    has_buybox = not has_unqualified_box and not any(
+        phrase in availability_scope for phrase in unqualified_phrases
+    )
+    if is_full_dp_page and not has_buybox_cta:
+        has_buybox = False
+
+    colombia_confirmed_signals = (
+        "colombia",
+        "amazonglobal",
+        "import fees",
+        "derechos de importación",
+        "cargos de importación",
+        "sin cargos de importación",
+        "no import fees",
+    )
+    has_colombia_signal = any(sig in availability_scope for sig in colombia_confirmed_signals)
+
+    if explicitly_blocked_co:
+        delivery_country_confirmed = "BLOCKED_CO"
+        ships_to_colombia = False
+    elif has_colombia_signal:
+        delivery_country_confirmed = "CO"
+        ships_to_colombia = True
+    else:
+        delivery_country_confirmed = "US_OR_UNKNOWN"
+        ships_to_colombia = True
+
     free_shipping_co = ships_to_colombia and price_usd >= 35.0 and (
         "free" in delivery_text
         or "gratis" in delivery_text
@@ -766,7 +837,7 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
 
     requires_locker = not ships_to_colombia
     shipping_cost_usd = 0.0 if (ships_to_colombia and free_shipping_co) else (8.50 if requires_locker else 11.95)
-    live_verified = bool(price_usd > 0.0 and title_valid)
+    live_verified = bool(price_usd > 0.0 and title_valid and has_buybox)
 
     from src.broadcaster.card_image import upgrade_amazon_image_url
 
@@ -788,8 +859,11 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
         "reviews_count": 100,
         "image_url": image_url,
         "live_verified": live_verified,
+        "detail_verified": True,
+        "has_buybox": has_buybox,
+        "delivery_country_confirmed": delivery_country_confirmed,
         "highlights": [
-            "Precio verificado en tiempo real mediante motor Zero-Token",
+            "Precio verificado en el Buy Box de Amazon.com (/dp/)",
             "Elegible para envío internacional AmazonGlobal hacia Colombia"
             if not requires_locker
             else "Requiere casillero en Miami para reenvío a Colombia",
@@ -802,43 +876,122 @@ class AmazonMonitorScraper:
     """
     Hybrid Zero-Token Amazon.com monitor for Colombia:
     - Uses deterministic seed catalog when `use_seed=True` for offline/CI reproducibility
-    - Uses strictly live-verified pages via Scrapling FetcherSession or urllib when `use_seed=False`
+    - Uses strictly live-verified `/dp/ASIN` pages with Colombia (`CO`) shipping session when `use_seed=False`
     """
 
     def __init__(self, timeout: int = 15) -> None:
         self.timeout = timeout
         self.has_scrapling = HAS_SCRAPLING
+        self._curl_session: Any = None
+        self._colombia_location_ready = False
 
-    def fetch_asin_live(self, asin: str) -> dict[str, Any] | None:
-        """Fetch live product page from Amazon.com using Scrapling, curl_cffi, or urllib fallback."""
-        url = f"https://www.amazon.com/dp/{asin}?language=es_US"
-        headers = {
+    @staticmethod
+    def _default_headers() -> dict[str, str]:
+        return {
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/125.0.0.0 Safari/537.36"
             ),
             "Accept-Language": "es-US,es;q=0.9,en;q=0.8",
-            "Cookie": "i18n-prefs=USD; lc-main=es_US",
+            "Cookie": 'i18n-prefs=USD; lc-main=es_US; sp-cdn="L5Z9:CO"',
         }
-        if HAS_SCRAPLING and FetcherSession is not None:
-            try:
-                with FetcherSession(impersonate="chrome", timeout=self.timeout) as session:
-                    response = session.get(url, headers=headers)
-                    html = getattr(response, "text", "") or str(getattr(response, "body", ""))
-                    if html and not _is_captcha_or_blocked(html):
-                        parsed = parse_amazon_html(html, asin)
-                        if parsed.get("live_verified") and parsed.get("price_usd", 0.0) > 0:
-                            return parsed
-            except Exception:
-                pass
+
+    @staticmethod
+    def _extract_csrf_token(html_text: str) -> str:
+        patterns = (
+            r'name=["\']anti-csrftoken-a2z["\'][^>]*content=["\']([^"\']+)["\']',
+            r'anti-csrftoken-a2z["\']?\s*[:=]\s*["\']([^"\']+)["\']',
+            r'"csrfToken"\s*:\s*"([^"]+)"',
+        )
+        for pat in patterns:
+            m = re.search(pat, html_text or "", re.I)
+            if m:
+                return m.group(1).strip()
+        return ""
+
+    def _bootstrap_colombia_location_curl(self, session: Any) -> None:
+        if self._colombia_location_ready:
+            return
+        headers = self._default_headers()
+        try:
+            home_resp = session.get("https://www.amazon.com/?language=es_US", headers=headers, timeout=self.timeout)
+            csrf = self._extract_csrf_token(getattr(home_resp, "text", "") or "")
+            glow_headers = {
+                **headers,
+                "Accept": "text/html,*/*",
+                "Content-Type": "application/json",
+                "Origin": "https://www.amazon.com",
+                "Referer": "https://www.amazon.com/?language=es_US",
+                "X-Requested-With": "XMLHttpRequest",
+            }
+            if csrf:
+                glow_headers["anti-csrftoken-a2z"] = csrf
+            payload = {
+                "locationType": "COUNTRY",
+                "district": "CO",
+                "countryCode": "CO",
+                "deviceType": "web",
+                "pageType": "Detail",
+                "storeContext": "generic",
+                "almBrandId": "undefined",
+            }
+            session.post(
+                "https://www.amazon.com/portal-migration/hz/glow/address-change?actionSource=glow",
+                json=payload,
+                headers=glow_headers,
+                timeout=self.timeout,
+            )
+            session.get(
+                "https://www.amazon.com/gp/delivery/ajax/address-change.html?locationType=COUNTRY&district=CO&countryCode=CO&deviceType=web&pageType=Detail&storeContext=generic",
+                headers=glow_headers,
+                timeout=self.timeout,
+            )
+            self._colombia_location_ready = True
+        except Exception:
+            pass
+
+    def _parse_if_valid_page(self, html_text: str, asin: str) -> dict[str, Any] | None:
+        if not html_text or _is_captcha_or_blocked(html_text):
+            return None
+        parsed = parse_amazon_html(html_text, asin)
+        has_real_title = not str(parsed.get("title") or "").lower().startswith("amazon product ")
+        if has_real_title or parsed.get("price_usd", 0.0) > 0 or parsed.get("delivery_country_confirmed") == "BLOCKED_CO":
+            return parsed
+        return None
+
+    def fetch_asin_live(self, asin: str) -> dict[str, Any] | None:
+        """Fetch live product page from Amazon.com with Colombia (`CO`) destination context."""
+        url = f"https://www.amazon.com/dp/{asin}?language=es_US"
+        headers = self._default_headers()
 
         if HAS_CURL_CFFI and curl_requests is not None:
             try:
-                resp = curl_requests.get(url, impersonate="chrome", headers=headers, timeout=self.timeout)
-                if resp.status_code == 200 and resp.text and not _is_captcha_or_blocked(resp.text):
-                    parsed = parse_amazon_html(resp.text, asin)
-                    if parsed.get("live_verified") and parsed.get("price_usd", 0.0) > 0:
+                if self._curl_session is None:
+                    self._curl_session = curl_requests.Session(impersonate="chrome")
+                self._bootstrap_colombia_location_curl(self._curl_session)
+                resp = self._curl_session.get(url, headers=headers, timeout=self.timeout)
+                if resp.status_code == 200:
+                    parsed = self._parse_if_valid_page(resp.text, asin)
+                    if parsed is not None:
+                        return parsed
+            except Exception:
+                pass
+
+        if HAS_SCRAPLING and FetcherSession is not None:
+            try:
+                with FetcherSession(impersonate="chrome", timeout=self.timeout) as session:
+                    try:
+                        session.get(
+                            "https://www.amazon.com/gp/delivery/ajax/address-change.html?locationType=COUNTRY&district=CO&countryCode=CO&deviceType=web&pageType=Detail&storeContext=generic",
+                            headers=headers,
+                        )
+                    except Exception:
+                        pass
+                    response = session.get(url, headers=headers)
+                    html = getattr(response, "text", "") or str(getattr(response, "body", ""))
+                    parsed = self._parse_if_valid_page(html, asin)
+                    if parsed is not None:
                         return parsed
             except Exception:
                 pass
@@ -850,10 +1003,9 @@ class AmazonMonitorScraper:
             with urllib.request.urlopen(req, timeout=self.timeout) as resp:
                 if resp.status == 200:
                     html = resp.read().decode("utf-8", errors="ignore")
-                    if html and not _is_captcha_or_blocked(html):
-                        parsed = parse_amazon_html(html, asin)
-                        if parsed.get("live_verified") and parsed.get("price_usd", 0.0) > 0:
-                            return parsed
+                    parsed = self._parse_if_valid_page(html, asin)
+                    if parsed is not None:
+                        return parsed
         except Exception:
             pass
         return None
@@ -868,7 +1020,7 @@ class AmazonMonitorScraper:
         """
         Return the list of monitored Amazon products for Colombia.
         If `use_seed=True`, returns the curated SEED_PRODUCTS_COLOMBIA (filtered by `asins` if provided).
-        If `use_seed=False`, fetches ONLY genuinely live-verified products (never falls back to hardcoded seed prices).
+        If `use_seed=False`, fetches ONLY genuinely live `/dp/ASIN` verified products (never trusts unverified search-tab prices).
         """
         import time as _time
 
@@ -877,7 +1029,7 @@ class AmazonMonitorScraper:
         for item in extra_items or []:
             if item.get("asin"):
                 key = str(item["asin"]).upper()
-                if key not in extra_map or item.get("live_verified"):
+                if key not in extra_map or item.get("detail_verified"):
                     extra_map[key] = dict(item)
 
         if asins:
@@ -907,11 +1059,12 @@ class AmazonMonitorScraper:
         seen_live: set[str] = set()
         consecutive_failures = 0
 
-        # Primero incorporar ofertas reales ya extraídas directamente de la pestaña de Ofertas SSR
+        # Solo omitir /dp/ASIN si el candidato YA fue auditado en una página de detalle (/dp/)
         for asin in target_asins:
             pre_item = extra_map.get(asin)
             if (
                 pre_item
+                and pre_item.get("detail_verified") is True
                 and pre_item.get("live_verified")
                 and float(pre_item.get("price_usd") or 0.0) > 0.0
                 and str(pre_item.get("image_url") or "").startswith("https://")
@@ -927,15 +1080,16 @@ class AmazonMonitorScraper:
             if idx > 0:
                 _time.sleep(0.7)
             live_item = self.fetch_asin_live(asin)
-            if live_item and live_item.get("live_verified") and live_item.get("price_usd", 0.0) > 0:
+            if live_item is not None:
                 consecutive_failures = 0
-                if asin in extra_map and extra_map[asin].get("category"):
-                    live_item["category"] = extra_map[asin]["category"]
-                elif asin in seed_map:
-                    live_item["category"] = seed_map[asin].get("category", live_item["category"])
-                    live_item["brand"] = seed_map[asin].get("brand", live_item.get("brand", ""))
-                live_results.append(live_item)
-                seen_live.add(asin)
+                if live_item.get("live_verified") and float(live_item.get("price_usd") or 0.0) > 0:
+                    if asin in extra_map and extra_map[asin].get("category"):
+                        live_item["category"] = extra_map[asin]["category"]
+                    elif asin in seed_map:
+                        live_item["category"] = seed_map[asin].get("category", live_item["category"])
+                        live_item["brand"] = seed_map[asin].get("brand", live_item.get("brand", ""))
+                    live_results.append(live_item)
+                    seen_live.add(asin)
             else:
                 consecutive_failures += 1
 

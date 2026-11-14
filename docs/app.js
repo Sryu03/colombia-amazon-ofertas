@@ -478,7 +478,9 @@
         const shippingBadge =
           !deal.requires_locker && deal.shipping_usd === 0
             ? `<span class="co-pill co-pill-shipping">🇨🇴 Envío Gratis ($0)</span>`
-            : `<span class="co-pill">✈️ Envío +$${deal.shipping_usd.toFixed(2)} USD</span>`;
+            : deal.requires_locker
+              ? `<span class="co-pill co-pill-taxed">📦 Vía Casillero Miami (~$${deal.shipping_usd.toFixed(2)} USD)</span>`
+              : `<span class="co-pill">✈️ Envío +$${deal.shipping_usd.toFixed(2)} USD</span>`;
 
         const lockerBadge = deal.requires_locker
           ? `<span class="co-pill co-pill-taxed">📦 Necesita casillero: Sí (Miami)</span>`

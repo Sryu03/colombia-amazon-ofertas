@@ -337,6 +337,10 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
                         "ships_to_colombia": True,
                         "free_shipping_co": False,
                         "requires_locker": False,
+                        "live_verified": True,
+                        "detail_verified": True,
+                        "has_buybox": True,
+                        "delivery_country_confirmed": "CO",
                         "image_url": "https://m.media-amazon.com/images/I/tozo.jpg",
                         "affiliate_url": "https://www.amazon.com/dp/B07J2Z5DBM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
                     },
@@ -353,6 +357,10 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
                         "ships_to_colombia": True,
                         "free_shipping_co": False,
                         "requires_locker": False,
+                        "live_verified": True,
+                        "detail_verified": True,
+                        "has_buybox": True,
+                        "delivery_country_confirmed": "CO",
                         "image_url": "https://m.media-amazon.com/images/I/ugreen.jpg",
                         "affiliate_url": "https://www.amazon.com/dp/B09X1H88VP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
                     },
@@ -451,6 +459,10 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
                         "ships_to_colombia": True,
                         "free_shipping_co": False,
                         "requires_locker": False,
+                        "live_verified": True,
+                        "detail_verified": True,
+                        "has_buybox": True,
+                        "delivery_country_confirmed": "CO",
                         "image_url": "https://m.media-amazon.com/images/I/tozo.jpg",
                     },
                     {
@@ -466,6 +478,10 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
                         "ships_to_colombia": True,
                         "free_shipping_co": False,
                         "requires_locker": False,
+                        "live_verified": True,
+                        "detail_verified": True,
+                        "has_buybox": True,
+                        "delivery_country_confirmed": "CO",
                         "image_url": "https://m.media-amazon.com/images/I/ugreen.jpg",
                     },
                 ],
@@ -514,6 +530,9 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
                         "requires_locker": False,
                         "image_url": "https://m.media-amazon.com/images/I/tozo.jpg",
                         "live_verified": True,
+                        "detail_verified": True,
+                        "has_buybox": True,
+                        "delivery_country_confirmed": "CO",
                     }
                 if asin == "B09X1H88VP":
                     return {
@@ -527,6 +546,9 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
                         "requires_locker": False,
                         "image_url": "https://m.media-amazon.com/images/I/ugreen.jpg",
                         "live_verified": True,
+                        "detail_verified": True,
+                        "has_buybox": True,
+                        "delivery_country_confirmed": "CO",
                     }
                 return None
 
@@ -636,6 +658,188 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
             self.assertEqual(res["status"], "sent")
             self.assertEqual(res["upload_mode"], "rendered_pillepues_card")
             mock_upload.assert_called_once()
+
+    def test_auditor_blocks_unshippable_us_only_and_price_mismatches(self):
+        from datetime import datetime, timezone
+        from unittest.mock import patch
+        import api.index as idx_mod
+        from src.auditor.deal_auditor import DealAuditor
+        from src.monitor.amazon_scraper import parse_amazon_html
+
+        # 1. Exact Apple Magic Mouse scenario from Colombia session:
+        # "No puede enviarse este producto al punto de entrega seleccionado" + "Ver artículos similares" + no Buy Box
+        blocked_co_html = """
+        <html><body>
+          <div id="glow-ingress-block"><span id="glow-ingress-line2">Colombia</span></div>
+          <div id="ppd">
+            <span id="productTitle">Apple Magic Mouse - Superficie multitáctil blanca</span>
+            <div id="deliveryBlockMessage">
+              No puede enviarse este producto al punto de entrega seleccionado. Selecciona un punto de entrega diferente.
+            </div>
+            <div id="desktop_buybox">
+              <a href="#">Ver artículos similares</a>
+            </div>
+            <div id="twister"><span>35 opciones desde US$47.99</span></div>
+          </div>
+        </body></html>
+        """
+        parsed_blocked = parse_amazon_html(blocked_co_html, "B0DL72PK1P")
+        self.assertFalse(parsed_blocked["ships_to_colombia"])
+        self.assertTrue(parsed_blocked["requires_locker"])
+        self.assertFalse(parsed_blocked["has_buybox"])
+        self.assertFalse(parsed_blocked["live_verified"])
+        self.assertEqual(parsed_blocked["delivery_country_confirmed"], "BLOCKED_CO")
+
+        # 2. Full /dp/ page rendered for a US ZIP without Colombia confirmation must NOT pass as direct CO shipping
+        us_only_html = """
+        <html>
+          <head><meta property="og:image" content="https://m.media-amazon.com/images/I/test._AC_SL1500_.jpg"/></head>
+          <body>
+            <div id="glow-ingress-block"><span id="glow-ingress-line2">New York 10001</span></div>
+            <div id="ppd">
+              <span id="productTitle">Logitech MX Vertical Mouse</span>
+              <div id="corePriceDisplay_desktop_feature_div">
+                <span class="a-price priceToPay"><span class="a-offscreen">$59.99</span></span>
+                <span class="a-price a-text-price"><span class="a-offscreen">$99.99</span></span>
+              </div>
+              <div id="mir-layout-DELIVERY_BLOCK">FREE delivery Tomorrow</div>
+              <div id="desktop_buybox"><input id="add-to-cart-button" type="submit" value="Add to Cart" /></div>
+            </div>
+          </body>
+        </html>
+        """
+        parsed_us = parse_amazon_html(us_only_html, "B07FNJB8TT")
+        self.assertTrue(parsed_us["has_buybox"])
+        self.assertEqual(parsed_us["delivery_country_confirmed"], "US_OR_UNKNOWN")
+
+        auditor = DealAuditor(
+            min_discount_pct=20.0,
+            allow_locker_deals=False,
+            require_live_detail=True,
+            require_colombia_confirmation=True,
+        )
+        eval_us = evaluate_colombia_deal(parsed_us, trm_cop=4150.0)
+        card_us = build_telegram_card(eval_us)
+        res_us = auditor.audit_deal(eval_us, telegram_card=card_us)
+        self.assertFalse(res_us.approved)
+        self.assertIn("colombia_shipping_unconfirmed", res_us.reason)
+
+        # 3. Search-tab lead without /dp/ verification must be rejected by DealAuditor
+        search_lead = evaluate_colombia_deal(
+            {
+                "asin": "B0DL72PK1P",
+                "title": "Apple Magic Mouse - Superficie multitáctil blanca",
+                "price_usd": 59.99,
+                "list_price_usd": 79.00,
+                "avg_90d_usd": 79.00,
+                "ships_to_colombia": True,
+                "free_shipping_co": True,
+                "requires_locker": False,
+                "live_verified": False,
+                "detail_verified": False,
+                "delivery_country_confirmed": "UNVERIFIED_LISTING",
+                "image_url": "https://m.media-amazon.com/images/I/516a630bNQL._AC_SL1200_.jpg",
+            },
+            trm_cop=4150.0,
+        )
+        res_lead = auditor.audit_deal(search_lead)
+        self.assertFalse(res_lead.approved)
+        self.assertEqual(res_lead.reason, "missing_dp_detail_verification")
+
+        # 4. If locker deals ARE explicitly enabled, they must disclose Miami locker in Telegram & Web (never claim direct CO shipping)
+        locker_deal = evaluate_colombia_deal(
+            {
+                "asin": "B09B8V1LZ3",
+                "title": "Amazon Echo Dot 5th Gen",
+                "price_usd": 29.99,
+                "list_price_usd": 49.99,
+                "avg_90d_usd": 44.99,
+                "ships_to_colombia": False,
+                "free_shipping_co": False,
+                "requires_locker": True,
+                "live_verified": True,
+                "detail_verified": True,
+                "has_buybox": True,
+                "delivery_country_confirmed": "BLOCKED_CO",
+                "image_url": "https://m.media-amazon.com/images/I/echo._AC_SL1200_.jpg",
+            },
+            trm_cop=4150.0,
+            allow_locker_deals=True,
+        )
+        locker_card = build_telegram_card(locker_deal)
+        self.assertIn("Necesita casillero: Sí", locker_card["caption_html"])
+        self.assertNotIn("Envío GRATIS directo a Colombia", locker_card["caption_html"])
+
+        locker_auditor = DealAuditor(
+            allow_locker_deals=True,
+            require_live_detail=True,
+            require_colombia_confirmation=True,
+        )
+        self.assertTrue(locker_auditor.audit_deal(locker_deal, telegram_card=locker_card).approved)
+
+        # Price mismatch between deal and Telegram card must be blocked
+        mismatch_card = dict(locker_card)
+        mismatch_card["caption_html"] = locker_card["caption_html"].replace("$29.99 USD", "$19.99 USD")
+        mismatch_res = locker_auditor.audit_deal(locker_deal, telegram_card=mismatch_card)
+        self.assertFalse(mismatch_res.approved)
+        self.assertEqual(mismatch_res.reason, "telegram_caption_price_mismatch")
+
+        # 5. Preserved deals.json purge: legacy unaudited amazon_deals_tab items are automatically removed
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            data_dir = tmp_path / "public" / "data"
+            data_dir.mkdir(parents=True, exist_ok=True)
+            deals_file = data_dir / "deals.json"
+            deals_file.write_text(
+                json.dumps(
+                    {
+                        "generated_at": datetime.now(timezone.utc).isoformat(),
+                        "total_deals": 1,
+                        "deals": [
+                            {
+                                "asin": "B0DL72PK1P",
+                                "title": "Apple Magic Mouse - Superficie multitáctil blanca",
+                                "price_usd": 59.99,
+                                "list_price_usd": 79.0,
+                                "avg_90d_usd": 79.0,
+                                "reference_price_usd": 79.0,
+                                "discount_pct": 24.1,
+                                "savings_usd": 19.01,
+                                "ships_to_colombia": True,
+                                "free_shipping_co": True,
+                                "requires_locker": False,
+                                "source": "amazon_deals_tab",
+                                "image_url": "https://m.media-amazon.com/images/I/516a630bNQL._AC_SL1200_.jpg",
+                            }
+                        ],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            fake_broadcaster = ChannelBroadcaster(
+                telegram_bot_token="fake-token",
+                telegram_chat_id="@pillepues",
+                outbox_path=str(data_dir / "outbox_cards.json"),
+            )
+            with (
+                patch.object(idx_mod, "DATA_DIR", data_dir),
+                patch.object(idx_mod, "DB_PATH", str(tmp_path / "deals.db")),
+                patch.object(idx_mod, "WATCHLIST_PATH", tmp_path / "watchlist.json"),
+                patch.object(idx_mod, "PRICE_HISTORY_PATH", data_dir / "price_history.json"),
+                patch.object(idx_mod, "LIVE_SCRAPE", True),
+                patch.object(idx_mod, "DISCOVERY_ENABLED", False),
+                patch.object(AmazonMonitorScraper, "fetch_catalog", return_value=[]),
+            ):
+                clean_res = idx_mod.run_zero_token_pipeline(
+                    trm_cop=4150.0,
+                    publish_verified_catalog=True,
+                    max_telegram_per_cycle=5,
+                    broadcaster=fake_broadcaster,
+                )
+            self.assertEqual(clean_res["telegram_delivery_status"]["sent"], 0)
+            cleaned_payload = json.loads(deals_file.read_text(encoding="utf-8"))
+            self.assertEqual(cleaned_payload["deals"], [])
+            self.assertIn("B0DL72PK1P", cleaned_payload["metadata"]["telegram_delivery_status"]["pruned_expired_asins"])
 
 
 if __name__ == "__main__":

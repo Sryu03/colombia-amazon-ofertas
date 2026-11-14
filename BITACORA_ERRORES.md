@@ -110,3 +110,16 @@ Registro histórico de incidentes reales encontrados durante el desarrollo, desp
   - Priorización de los ASINs activos de `deals.json` dentro de `fetch_catalog` para refrescar la vitrina web en cada ciclo.
   - Filtros en [`src/monitor/discovery.py`](src/monitor/discovery.py) contra precios exclusivos Prime y dispositivos restringidos (`Echo`/`Ring`/`Blink`/`Fire TV`/`Kindle`), y acotamiento estricto al Buy Box en [`src/monitor/amazon_scraper.py`](src/monitor/amazon_scraper.py).
 
+---
+
+## 11. Productos sin envío a Colombia o precio distinto desde listado de búsqueda (`B0DL72PK1P` Apple Magic Mouse)
+- **Síntoma:** Se publicó en Telegram y Web `Apple Magic Mouse` (`B0DL72PK1P`) con precio `$59.99 USD` y etiqueta `"Necesita casillero: No (Envío directo a Colombia)"`, cuando al abrirlo desde Colombia Amazon mostraba `"No puede enviarse este producto al punto de entrega seleccionado"` + `"Ver artículos similares"` (sin Buy Box ni envío directo).
+- **Causa raíz:**
+  1. [`parse_search_deals_html`](src/monitor/discovery.py) marcaba `live_verified=True` y `ships_to_colombia=True` directamente desde tarjetas de búsqueda renderizadas para IP de EE. UU., y `fetch_catalog` omitía consultar `/dp/<ASIN>` cuando veía `live_verified=True`.
+  2. El scraper no configuraba sesión de entrega en Colombia (`countryCode=CO`) en Amazon y asumía `ships_to_colombia=True` por defecto si no detectaba la frase de bloqueo.
+  3. No existía una puerta final independiente de auditoría antes de exportar a la Web y difundir a Telegram.
+- **Solución:**
+  - Se creó el subagente auditor **`verificador-colombia-auditor`** y su motor determinista [`DealAuditor`](src/auditor/deal_auditor.py), ejecutado obligatoriamente en [`api/index.py`](api/index.py) antes de exportar a `deals.json` (Web) y antes de enviar a `@pillepues` (Telegram).
+  - [`discovery.py`](src/monitor/discovery.py) ahora marca los hallazgos de búsqueda con `live_verified=False` y `detail_verified=False`, obligando a [`AmazonMonitorScraper`](src/monitor/amazon_scraper.py) a verificar cada `/dp/<ASIN>` con sesión `countryCode=CO` (endpoint `glow/address-change` + `sp-cdn="L5Z9:CO"`), Buy Box activo (`#add-to-cart-button` / `#buy-now-button`) y confirmación explícita de envío a Colombia (`delivery_country_confirmed == "CO"`).
+  - Si un producto no envía directo (`BLOCKED_CO` o `requires_locker=True`), nunca puede publicarse como envío directo; [`card_image.py`](src/broadcaster/card_image.py), [`colombia_rules.py`](src/evaluator/colombia_rules.py) y [`public/app.js`](public/app.js) muestran explícitamente `"Requiere casillero en Miami"` cuando aplique, y `DealAuditor` rechaza y purga automáticamente ofertas no verificadas en `deals.json`.
+
