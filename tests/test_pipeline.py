@@ -841,6 +841,83 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
             self.assertEqual(cleaned_payload["deals"], [])
             self.assertIn("B0DL72PK1P", cleaned_payload["metadata"]["telegram_delivery_status"]["pruned_expired_asins"])
 
+    def test_scraper_telemetry_and_safe_lead_strike_matching(self):
+        from unittest.mock import patch
+
+        scraper = AmazonMonitorScraper()
+        leads = [
+            {
+                "asin": "B0MATCH0001",
+                "title": "Matching Price Lead",
+                "category": "Audio",
+                "price_usd": 49.99,
+                "list_price_usd": 89.99,
+                "detail_verified": False,
+                "live_verified": False,
+            },
+            {
+                "asin": "B0MISMATC02",
+                "title": "Mismatched Price Lead",
+                "category": "Audio",
+                "price_usd": 49.99,
+                "list_price_usd": 89.99,
+                "detail_verified": False,
+                "live_verified": False,
+            },
+        ]
+
+        def fake_live(asin: str):
+            if asin == "B0MATCH0001":
+                return {
+                    "asin": asin,
+                    "title": "Verified Sony Headphones",
+                    "category": "Tecnología",
+                    "price_usd": 49.99,
+                    "list_price_usd": 49.99,
+                    "avg_90d_usd": 49.99,
+                    "ships_to_colombia": True,
+                    "free_shipping_co": True,
+                    "requires_locker": False,
+                    "image_url": "https://m.media-amazon.com/images/I/sony.jpg",
+                    "live_verified": True,
+                    "detail_verified": True,
+                    "has_buybox": True,
+                    "delivery_country_confirmed": "CO",
+                }
+            if asin == "B0MISMATC02":
+                return {
+                    "asin": asin,
+                    "title": "Verified Different Variant Price",
+                    "category": "Tecnología",
+                    "price_usd": 69.99,
+                    "list_price_usd": 69.99,
+                    "avg_90d_usd": 69.99,
+                    "ships_to_colombia": True,
+                    "free_shipping_co": True,
+                    "requires_locker": False,
+                    "image_url": "https://m.media-amazon.com/images/I/diff.jpg",
+                    "live_verified": True,
+                    "detail_verified": True,
+                    "has_buybox": True,
+                    "delivery_country_confirmed": "CO",
+                }
+            return None
+
+        with patch.object(scraper, "fetch_asin_live", side_effect=fake_live):
+            items = scraper.fetch_catalog(use_seed=False, extra_items=leads, max_live_asins=3)
+
+        self.assertEqual(len(items), 2)
+        by_asin = {it["asin"]: it for it in items}
+        # Matching Buy Box price preserves lead's visible strike price
+        self.assertEqual(by_asin["B0MATCH0001"]["list_price_usd"], 89.99)
+        # Mismatched Buy Box price NEVER trusts the stale/variant lead strike price
+        self.assertEqual(by_asin["B0MISMATC02"]["list_price_usd"], 69.99)
+
+        self.assertEqual(scraper.last_telemetry["mode"], "live")
+        self.assertEqual(scraper.last_telemetry["parsed_ok_count"], 2)
+        self.assertEqual(scraper.last_telemetry["colombia_co_count"], 2)
+        self.assertGreaterEqual(scraper.last_telemetry["fetch_failures_count"], 1)
+
 
 if __name__ == "__main__":
     unittest.main()
