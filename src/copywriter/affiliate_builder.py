@@ -1,7 +1,7 @@
 """Midas-Copy: Generador de enlaces canónicos de Amazon Associates y copywriting para Telegram y Web.
 
 Transforma ofertas aprobadas para Colombia en:
-- Enlaces limpios de afiliado (`?tag=pillepues-20&language=es_US`).
+- Enlaces limpios de afiliado estilo SiteStripe (`?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl`).
 - Tarjetas HTML optimizadas para Telegram Bot API (`sendPhoto` <= 1024 caracteres).
 """
 
@@ -42,10 +42,13 @@ def build_affiliate_url(
     url_or_asin: str,
     associate_tag: str = "pillepues-20",
 ) -> str:
-    """Construye el enlace canónico limpio de Amazon Associates eliminando parámetros basura."""
+    """Construye el enlace canónico de Amazon Associates con parámetros estándar de SiteStripe."""
     asin = extract_asin(url_or_asin)
     clean_tag = (associate_tag or "pillepues-20").strip()
-    return f"https://www.amazon.com/dp/{asin}?tag={clean_tag}&language=es_US"
+    return (
+        f"https://www.amazon.com/dp/{asin}"
+        f"?linkCode=ll1&tag={clean_tag}&language=es_US&ref_=as_li_ss_tl"
+    )
 
 
 def build_vercel_deal_url(
@@ -147,8 +150,11 @@ def build_telegram_card(
 ) -> dict[str, Any]:
     """Genera el payload y copy HTML optimizado para `sendPhoto` de Telegram (máx 1024 caracteres)."""
     asin = extract_asin(str(deal.get("asin") or deal.get("url") or ""))
-    affiliate_url = str(deal.get("affiliate_url") or "").strip() or build_affiliate_url(
-        asin, associate_tag=associate_tag
+    raw_aff_url = str(deal.get("affiliate_url") or "").strip()
+    affiliate_url = (
+        raw_aff_url
+        if (raw_aff_url and "linkCode=" in raw_aff_url and "tag=" in raw_aff_url)
+        else build_affiliate_url(asin, associate_tag=associate_tag)
     )
     vercel_deal_url = str(deal.get("web_url") or "").strip() or build_vercel_deal_url(
         asin, public_web_url=public_web_url

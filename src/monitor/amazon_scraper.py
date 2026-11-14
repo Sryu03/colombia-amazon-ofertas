@@ -727,10 +727,22 @@ def parse_amazon_html(html: str, asin: str) -> dict[str, Any]:
 
     no_ship_phrases = (
         "cannot be shipped to your selected delivery location",
+        "does not ship to",
         "no se puede enviar a tu ubicación",
+        "no se puede enviar a tu dirección",
+        "no realiza envíos a",
         "currently unavailable",
+        "no está disponible",
+        "temporarily out of stock",
+        "temporalmente agotado",
     )
-    ships_to_colombia = not any(phrase in delivery_text for phrase in no_ship_phrases)
+    availability_scope = delivery_text
+    if HAS_BS4 and BeautifulSoup is not None:
+        avail_node = soup.select_one("#availability") or soup.select_one("#outOfStock")
+        if avail_node:
+            availability_scope = f"{delivery_text} {avail_node.get_text(' ', strip=True).lower()}"
+
+    ships_to_colombia = not any(phrase in availability_scope for phrase in no_ship_phrases)
     free_shipping_co = ships_to_colombia and (
         "free" in delivery_text
         or "gratis" in delivery_text
@@ -842,10 +854,18 @@ class AmazonMonitorScraper:
 
         if asins:
             target_asins = [a.upper() for a in asins]
-        else:
+        elif use_seed:
             target_asins = [item["asin"] for item in SEED_PRODUCTS_COLOMBIA]
-            for asin_key in extra_map:
-                if asin_key not in seed_map:
+        else:
+            # En modo live: priorizar ASINs recién descubiertos de la pestaña de Ofertas + semillas con envío a Colombia
+            seed_colombia_asins = [
+                item["asin"]
+                for item in SEED_PRODUCTS_COLOMBIA
+                if item.get("ships_to_colombia", True) and not item.get("requires_locker", False)
+            ]
+            target_asins = list(extra_map.keys())
+            for asin_key in seed_colombia_asins:
+                if asin_key not in extra_map:
                     target_asins.append(asin_key)
 
         if use_seed:

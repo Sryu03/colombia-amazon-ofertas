@@ -75,6 +75,8 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertTrue(eval_locker["requires_locker"])
         self.assertEqual(eval_locker["shipping_cost_usd"], 12.0)
         self.assertIn("Necesita casillero: Sí", eval_locker["locker_badge_co"])
+        self.assertFalse(eval_locker["approved_for_colombia"])
+        self.assertIn("SIN ENVÍO A COLOMBIA", eval_locker["deal_tier"])
 
     def test_affiliate_builder_and_cards(self):
         dirty_url = "https://www.amazon.com/Samsung-990-PRO-2TB/dp/B0B9C4DKKG/ref=sr_1_1?crid=123&qid=456"
@@ -82,7 +84,10 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(asin, "B0B9C4DKKG")
 
         aff_url = build_affiliate_url(dirty_url, associate_tag="pillepues-20")
-        self.assertEqual(aff_url, "https://www.amazon.com/dp/B0B9C4DKKG?tag=pillepues-20&language=es_US")
+        self.assertEqual(
+            aff_url,
+            "https://www.amazon.com/dp/B0B9C4DKKG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        )
 
         vercel_url = build_vercel_deal_url(asin, public_web_url="https://vitrina-colombia-ofertas.vercel.app")
         self.assertEqual(vercel_url, "https://vitrina-colombia-ofertas.vercel.app/?asin=B0B9C4DKKG")
@@ -105,6 +110,8 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         tg_card = build_telegram_card(deal, associate_tag="pillepues-20")
         self.assertLessEqual(len(tg_card["caption_html"]), 1024)
         self.assertEqual(len(tg_card["reply_markup"]["inline_keyboard"]), 2)
+        self.assertIn("linkCode=ll1", tg_card["reply_markup"]["inline_keyboard"][0][0]["url"])
+        self.assertIn("ref_=as_li_ss_tl", tg_card["reply_markup"]["inline_keyboard"][0][0]["url"])
         self.assertIn("Más barato que antes", tg_card["caption_html"])
         self.assertIn("Necesita casillero:", tg_card["caption_html"])
 
@@ -114,6 +121,9 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         self.assertEqual(res["status"], "ok")
         self.assertEqual(res["zero_token_llm_tokens_used"], 0)
         self.assertGreaterEqual(res["approved_deals_count"], 10)
+        self.assertTrue(all(d.get("ships_to_colombia") and not d.get("requires_locker") for d in res["deals"]))
+        discounts_without_drop_tier = [d["discount_pct"] for d in res["deals"] if not d.get("is_new_price_drop")]
+        self.assertEqual(discounts_without_drop_tier, sorted(discounts_without_drop_tier, reverse=True))
 
         project_dir = Path(__file__).resolve().parent.parent
         deals_json_path = project_dir / "public" / "data" / "deals.json"
@@ -130,12 +140,14 @@ class TestAmazonColombiaPipeline(unittest.TestCase):
         from src.monitor.price_history import PriceHistoryStore
 
         sample_html = (
+            '<div data-asin="B0CHWRXH8B">Deal 1</div>'
             '<a href="/Some-Product/dp/B0B9C4DKKG/ref=zg_bs">Item 1</a>'
             '<a href="/Another-Product/dp/B0863FR3S9?th=1">Item 2</a>'
+            '<script>{"asin":"B07GBZ4Q68"}</script>'
             '<a href="/Some-Product/dp/B0B9C4DKKG">Duplicate</a>'
         )
         asins = extract_asins_from_listing_html(sample_html)
-        self.assertEqual(asins, ["B0B9C4DKKG", "B0863FR3S9"])
+        self.assertEqual(asins, ["B0CHWRXH8B", "B0B9C4DKKG", "B0863FR3S9", "B07GBZ4Q68"])
 
         with tempfile.TemporaryDirectory() as tmpdir:
             store = PriceHistoryStore(path=Path(tmpdir) / "price_history.json")

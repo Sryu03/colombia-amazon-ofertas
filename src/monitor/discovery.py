@@ -17,31 +17,50 @@ except ImportError:  # pragma: no cover
     HAS_SCRAPLING = False
 
 
-# Categorías de mayor demanda para compradores en Colombia
+# Pestaña de Ofertas del Día (Today's Deals) + Tendencias de Amazon.com para Colombia
 DISCOVERY_FEEDS: list[tuple[str, str]] = [
-    ("Tecnología", "https://www.amazon.com/gp/movers-and-shakers/electronics"),
-    ("Computadores", "https://www.amazon.com/gp/bestsellers/pc"),
-    ("Gaming", "https://www.amazon.com/gp/movers-and-shakers/videogames"),
-    ("Audio", "https://www.amazon.com/gp/bestsellers/electronics/172541"),
-    ("Hogar", "https://www.amazon.com/gp/movers-and-shakers/kitchen"),
+    ("Tecnología", "https://www.amazon.com/gp/goldbox?language=es_US"),
+    (
+        "Tecnología",
+        "https://www.amazon.com/s?i=electronics&rh=n%3A172282%2Cp_n_deal_type%3A23566064011&s=exact-aware-popularity-rank&language=es_US",
+    ),
+    (
+        "Computadores",
+        "https://www.amazon.com/s?i=computers&rh=n%3A541966%2Cp_n_deal_type%3A23566064011&s=exact-aware-popularity-rank&language=es_US",
+    ),
+    (
+        "Gaming",
+        "https://www.amazon.com/s?i=videogames&rh=n%3A468642%2Cp_n_deal_type%3A23566064011&s=exact-aware-popularity-rank&language=es_US",
+    ),
+    (
+        "Hogar",
+        "https://www.amazon.com/s?i=kitchen&rh=n%3A284507%2Cp_n_deal_type%3A23566064011&s=exact-aware-popularity-rank&language=es_US",
+    ),
+    ("Tecnología", "https://www.amazon.com/gp/movers-and-shakers/electronics?language=es_US"),
+    ("Audio", "https://www.amazon.com/gp/bestsellers/electronics/172541?language=es_US"),
 ]
 
-ASIN_REGEX = re.compile(r"/dp/([A-Z0-9]{10})(?:[/?\"'&]|$)")
+ASIN_PATTERNS: tuple[re.Pattern[str], ...] = (
+    re.compile(r'data-asin=["\']([A-Z0-9]{10})["\']', re.IGNORECASE),
+    re.compile(r"/dp/([A-Z0-9]{10})(?:[/?\"'&]|$)", re.IGNORECASE),
+    re.compile(r'["\']asin["\']\s*:\s*["\']([A-Z0-9]{10})["\']', re.IGNORECASE),
+)
 
 
 def extract_asins_from_listing_html(html: str, limit: int = 25) -> list[str]:
-    """Extrae ASINs únicos de 10 caracteres desde HTML de Best Sellers o Movers & Shakers."""
+    """Extrae ASINs únicos de 10 caracteres desde HTML de Ofertas (Goldbox/Deals), Best Sellers o Movers & Shakers."""
     if not html or "captcha" in html.lower():
         return []
     seen: set[str] = set()
     ordered: list[str] = []
-    for match in ASIN_REGEX.finditer(html):
-        asin = match.group(1).upper()
-        if asin not in seen:
-            seen.add(asin)
-            ordered.append(asin)
-            if len(ordered) >= limit:
-                break
+    for pattern in ASIN_PATTERNS:
+        for match in pattern.finditer(html):
+            asin = match.group(1).upper()
+            if asin not in seen:
+                seen.add(asin)
+                ordered.append(asin)
+                if len(ordered) >= limit:
+                    return ordered
     return ordered
 
 

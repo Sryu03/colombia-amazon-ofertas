@@ -27,7 +27,7 @@
       requires_locker: false,
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B0CHWRXH8B?tag=pillepues-20&language=es_US',
+      affiliate_url: 'https://www.amazon.com/dp/B0CHWRXH8B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
       web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0CHWRXH8B',
       is_historic_low: true,
       status: 'ACTIVE'
@@ -47,7 +47,7 @@
       requires_locker: false,
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/71K6m2A+WJL._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B0B9C4DKKG?tag=pillepues-20&language=es_US',
+      affiliate_url: 'https://www.amazon.com/dp/B0B9C4DKKG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
       web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0B9C4DKKG',
       is_historic_low: true,
       status: 'ACTIVE'
@@ -67,7 +67,7 @@
       requires_locker: false,
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B0863FR3S9?tag=pillepues-20&language=es_US',
+      affiliate_url: 'https://www.amazon.com/dp/B0863FR3S9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
       web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0863FR3S9',
       is_historic_low: true,
       status: 'ACTIVE'
@@ -87,7 +87,7 @@
       requires_locker: false,
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg',
-      affiliate_url: 'https://www.amazon.com/dp/B07GBZ4Q68?tag=pillepues-20&language=es_US',
+      affiliate_url: 'https://www.amazon.com/dp/B07GBZ4Q68?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
       web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B07GBZ4Q68',
       is_historic_low: true,
       status: 'ACTIVE'
@@ -245,10 +245,11 @@
         ? Math.round(((avg90dUsd - priceUsd) / avg90dUsd) * 100)
         : 0;
 
+    const rawAffUrl = raw.affiliate_url || raw.amazon_url || '';
     const affiliateUrl =
-      raw.affiliate_url ||
-      raw.amazon_url ||
-      `https://www.amazon.com/dp/${asin}?tag=${DEFAULT_TAG}&language=es_US`;
+      rawAffUrl && rawAffUrl.includes('linkCode=') && rawAffUrl.includes('tag=')
+        ? rawAffUrl
+        : `https://www.amazon.com/dp/${asin}?linkCode=ll1&tag=${DEFAULT_TAG}&language=es_US&ref_=as_li_ss_tl`;
 
     const webDealUrl =
       raw.web_deal_url ||
