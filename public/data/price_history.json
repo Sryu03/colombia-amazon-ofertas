@@ -364,10 +364,10 @@
     "last_price_usd": 24.0,
     "min_price_seen_usd": 24.0,
     "avg_90d_usd": 39.99,
-    "last_published_price_usd": null,
+    "last_published_price_usd": 24.0,
     "first_seen_at": "2026-11-14T06:40:16.454124+00:00",
     "last_seen_at": "2026-11-14T06:40:16.454124+00:00",
-    "last_published_at": null
+    "last_published_at": "2026-11-14T15:50:19.860323+00:00"
   },
   "B0FHJ7TKZM": {
     "asin": "B0FHJ7TKZM",
@@ -504,10 +504,10 @@
     "last_price_usd": 21.99,
     "min_price_seen_usd": 21.99,
     "avg_90d_usd": 35.47,
-    "last_published_price_usd": null,
+    "last_published_price_usd": 21.99,
     "first_seen_at": "2026-11-14T06:40:16.469634+00:00",
     "last_seen_at": "2026-11-14T06:40:16.469634+00:00",
-    "last_published_at": null
+    "last_published_at": "2026-11-14T15:50:28.945055+00:00"
   },
   "B0DL72PK1P": {
     "asin": "B0DL72PK1P",
@@ -554,10 +554,10 @@
     "last_price_usd": 12.98,
     "min_price_seen_usd": 12.98,
     "avg_90d_usd": 19.99,
-    "last_published_price_usd": null,
+    "last_published_price_usd": 12.98,
     "first_seen_at": "2026-11-14T06:40:16.475196+00:00",
     "last_seen_at": "2026-11-14T06:40:16.475196+00:00",
-    "last_published_at": null
+    "last_published_at": "2026-11-14T15:50:37.289440+00:00"
   },
   "B0DC6GXZSV": {
     "asin": "B0DC6GXZSV",
@@ -604,10 +604,10 @@
     "last_price_usd": 14.43,
     "min_price_seen_usd": 14.43,
     "avg_90d_usd": 22.99,
-    "last_published_price_usd": null,
+    "last_published_price_usd": 14.43,
     "first_seen_at": "2026-11-14T06:40:16.480650+00:00",
     "last_seen_at": "2026-11-14T06:40:16.480650+00:00",
-    "last_published_at": null
+    "last_published_at": "2026-11-14T15:50:33.038387+00:00"
   },
   "B0BWK8QVZ2": {
     "asin": "B0BWK8QVZ2",
@@ -664,10 +664,10 @@
     "last_price_usd": 54.99,
     "min_price_seen_usd": 54.99,
     "avg_90d_usd": 89.99,
-    "last_published_price_usd": null,
+    "last_published_price_usd": 54.99,
     "first_seen_at": "2026-11-14T06:40:16.487976+00:00",
     "last_seen_at": "2026-11-14T06:40:16.487976+00:00",
-    "last_published_at": null
+    "last_published_at": "2026-11-14T15:50:24.464904+00:00"
   },
   "B004N627KS": {
     "asin": "B004N627KS",

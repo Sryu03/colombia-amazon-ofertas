@@ -1,5 +1,1590 @@
 [
   {
+    "asin": "B0FPFF7JN8",
+    "title": "SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobretensiones de enchufe plano, cable largo de 10 pies, 6 salidas y 3 puertos USB, estación de",
+    "timestamp": "2026-11-14T15:50:33.038491+00:00",
+    "timestamp_colombia": "2026-11-14T10:50:33.038491-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FPFF7JN8",
+      "title": "SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobretensiones de enchufe plano, cable largo de 10 pies, 6 salidas y 3 puertos USB, estación de",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 12.98,
+      "list_price_usd": 19.99,
+      "avg_90d_usd": 19.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/711kBmGTqBL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 19.99,
+      "discount_pct": 35.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 35.1,
+      "price_vs_90d_badge": "📉 35.1% más barato que su promedio de 90 días ($19.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 12.98,
+      "price_cop": 43051.0,
+      "price_cop_formatted": "$43.051 COP",
+      "total_landed_cop": 43051.0,
+      "total_landed_cop_formatted": "$43.051 COP",
+      "savings_usd": 7.01,
+      "savings_cop": 23250,
+      "savings_cop_formatted": "$23.250 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FPFF7JN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FPFF7JN8",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobreten...</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.98 USD</b> (<i>~$43.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $7.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.092814+00:00",
+      "reference_price": 19.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/711kBmGTqBL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobreten...</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.98 USD</b> (<i>~$43.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $7.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($12.98 USD)",
+                "url": "https://www.amazon.com/dp/B0FPFF7JN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FPFF7JN8"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 32,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794671437,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIGr4g01RFDaskR3wAdiAzGoZ0PyTAAKBDGsbXhPIR6AFlsDO6I9UAQADAgADcwADPQQ",
+              "file_unique_id": "AQADgQxrG14TyEd4",
+              "file_size": 1640,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIGr4g01RFDaskR3wAdiAzGoZ0PyTAAKBDGsbXhPIR6AFlsDO6I9UAQADAgADbQADPQQ",
+              "file_unique_id": "AQADgQxrG14TyEdy",
+              "file_size": 23136,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIGr4g01RFDaskR3wAdiAzGoZ0PyTAAKBDGsbXhPIR6AFlsDO6I9UAQADAgADeAADPQQ",
+              "file_unique_id": "AQADgQxrG14TyEd9",
+              "file_size": 86614,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADIGr4g01RFDaskR3wAdiAzGoZ0PyTAAKBDGsbXhPIR6AFlsDO6I9UAQADAgADeQADPQQ",
+              "file_unique_id": "AQADgQxrG14TyEd-",
+              "file_size": 127714,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)\n📦 SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobreten...\n\n💵 Precio Hoy: $12.98 USD (~$43.051 COP · TRM $3.317)\n📉 Más barato que antes: Antes $19.99 USD → Hoy -35% OFF · Ahorras $7.01 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 223,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 268,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 279,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 301,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 503,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 518,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 712,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 727,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 740,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($12.98 USD)",
+                  "url": "https://www.amazon.com/dp/B0FPFF7JN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FPFF7JN8"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FPFF7JN8",
+        "title": "SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobretensiones de enchufe plano, cable largo de 10 pies, 6 salidas y 3 puertos USB, estación de",
+        "photo_url": "https://m.media-amazon.com/images/I/711kBmGTqBL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobreten...</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.98 USD</b> (<i>~$43.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $7.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($12.98 USD)",
+                "url": "https://www.amazon.com/dp/B0FPFF7JN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FPFF7JN8"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FPFF7JN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FPFF7JN8",
+        "deal_snapshot": {
+          "asin": "B0FPFF7JN8",
+          "title": "SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobretensiones de enchufe plano, cable largo de 10 pies, 6 salidas y 3 puertos USB, estación de",
+          "price_usd": 12.98,
+          "reference_price_usd": 19.99,
+          "discount_pct": 35,
+          "price_cop": 43051.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FPFF7JN8",
+      "title": "SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobretensiones de enchufe plano, cable largo de 10 pies, 6 salidas y 3 puertos USB, estación de",
+      "photo_url": "https://m.media-amazon.com/images/I/711kBmGTqBL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobreten...</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.98 USD</b> (<i>~$43.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $7.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($12.98 USD)",
+              "url": "https://www.amazon.com/dp/B0FPFF7JN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FPFF7JN8"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FPFF7JN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0FPFF7JN8",
+      "deal_snapshot": {
+        "asin": "B0FPFF7JN8",
+        "title": "SUPERDANNY - Cable de extensión de 10 pies con múltiples tomas, tira de alimentación con protector de sobretensiones de enchufe plano, cable largo de 10 pies, 6 salidas y 3 puertos USB, estación de",
+        "price_usd": 12.98,
+        "reference_price_usd": 19.99,
+        "discount_pct": 35,
+        "price_cop": 43051.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0BXNR9DB6",
+    "title": "Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito",
+    "timestamp": "2026-11-14T15:50:28.945150+00:00",
+    "timestamp_colombia": "2026-11-14T10:50:28.945150-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0BXNR9DB6",
+      "title": "Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 14.43,
+      "list_price_usd": 22.99,
+      "avg_90d_usd": 22.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51+zmcWK3cL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 22.99,
+      "discount_pct": 37.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 37.2,
+      "price_vs_90d_badge": "📉 37.2% más barato que su promedio de 90 días ($22.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 14.43,
+      "price_cop": 47860.0,
+      "price_cop_formatted": "$47.860 COP",
+      "total_landed_cop": 47860.0,
+      "total_landed_cop_formatted": "$47.860 COP",
+      "savings_usd": 8.56,
+      "savings_cop": 28391,
+      "savings_cop_formatted": "$28.391 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0BXNR9DB6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0BXNR9DB6",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.43 USD</b> (<i>~$47.860 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $8.56 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.092107+00:00",
+      "reference_price": 22.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51+zmcWK3cL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.43 USD</b> (<i>~$47.860 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $8.56 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.43 USD)",
+                "url": "https://www.amazon.com/dp/B0BXNR9DB6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0BXNR9DB6"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 31,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794671432,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADH2r4g0jzVjLgrjhfE-l0-P_5s2DKAAKADGsbXhPIR4MdsvvZ5MUvAQADAgADcwADPQQ",
+              "file_unique_id": "AQADgAxrG14TyEd4",
+              "file_size": 1663,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADH2r4g0jzVjLgrjhfE-l0-P_5s2DKAAKADGsbXhPIR4MdsvvZ5MUvAQADAgADbQADPQQ",
+              "file_unique_id": "AQADgAxrG14TyEdy",
+              "file_size": 20875,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADH2r4g0jzVjLgrjhfE-l0-P_5s2DKAAKADGsbXhPIR4MdsvvZ5MUvAQADAgADeAADPQQ",
+              "file_unique_id": "AQADgAxrG14TyEd9",
+              "file_size": 77123,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADH2r4g0jzVjLgrjhfE-l0-P_5s2DKAAKADGsbXhPIR4MdsvvZ5MUvAQADAgADeQADPQQ",
+              "file_unique_id": "AQADgAxrG14TyEd-",
+              "file_size": 112277,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)\n📦 Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito\n\n💵 Precio Hoy: $14.43 USD (~$47.860 COP · TRM $3.317)\n📉 Más barato que antes: Antes $22.99 USD → Hoy -37% OFF · Ahorras $8.56 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 71,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 181,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 226,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 237,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 259,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 461,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 532,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 726,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 741,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 754,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($14.43 USD)",
+                  "url": "https://www.amazon.com/dp/B0BXNR9DB6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0BXNR9DB6"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0BXNR9DB6",
+        "title": "Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito",
+        "photo_url": "https://m.media-amazon.com/images/I/51+zmcWK3cL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.43 USD</b> (<i>~$47.860 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $8.56 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.43 USD)",
+                "url": "https://www.amazon.com/dp/B0BXNR9DB6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0BXNR9DB6"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0BXNR9DB6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0BXNR9DB6",
+        "deal_snapshot": {
+          "asin": "B0BXNR9DB6",
+          "title": "Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito",
+          "price_usd": 14.43,
+          "reference_price_usd": 22.99,
+          "discount_pct": 37,
+          "price_cop": 47860.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0BXNR9DB6",
+      "title": "Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito",
+      "photo_url": "https://m.media-amazon.com/images/I/51+zmcWK3cL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.43 USD</b> (<i>~$47.860 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$22.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $8.56 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($14.43 USD)",
+              "url": "https://www.amazon.com/dp/B0BXNR9DB6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0BXNR9DB6"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0BXNR9DB6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0BXNR9DB6",
+      "deal_snapshot": {
+        "asin": "B0BXNR9DB6",
+        "title": "Logitech Ratón inalámbrico Bluetooth silencioso compacto M240 - Grafito",
+        "price_usd": 14.43,
+        "reference_price_usd": 22.99,
+        "discount_pct": 37,
+        "price_cop": 47860.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HMKPPM6V",
+    "title": "para el cargador portátil Magsafe, banco de energía magnético ultra delgado",
+    "timestamp": "2026-11-14T15:50:24.465013+00:00",
+    "timestamp_colombia": "2026-11-14T10:50:24.465013-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HMKPPM6V",
+      "title": "para el cargador portátil Magsafe, banco de energía magnético ultra delgado",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 21.99,
+      "list_price_usd": 35.47,
+      "avg_90d_usd": 35.47,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61ufhswY9EL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 35.47,
+      "discount_pct": 38.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 38.0,
+      "price_vs_90d_badge": "📉 38.0% más barato que su promedio de 90 días ($35.47 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 21.99,
+      "price_cop": 72934.0,
+      "price_cop_formatted": "$72.934 COP",
+      "total_landed_cop": 72934.0,
+      "total_landed_cop_formatted": "$72.934 COP",
+      "savings_usd": 13.48,
+      "savings_cop": 44709,
+      "savings_cop_formatted": "$44.709 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HMKPPM6V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HMKPPM6V",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>para el cargador portátil Magsafe, banco de energía magnético ultra delgado</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.99 USD</b> (<i>~$72.934 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$35.47 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $13.48 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.091381+00:00",
+      "reference_price": 35.47,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61ufhswY9EL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>para el cargador portátil Magsafe, banco de energía magnético ultra delgado</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.99 USD</b> (<i>~$72.934 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$35.47 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $13.48 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($21.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HMKPPM6V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HMKPPM6V"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 30,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794671428,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHmr4g0SQRLHodoRB5FNsZ7mu1JXIAAJ_DGsbXhPIR35VDFrRj10MAQADAgADcwADPQQ",
+              "file_unique_id": "AQADfwxrG14TyEd4",
+              "file_size": 1703,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHmr4g0SQRLHodoRB5FNsZ7mu1JXIAAJ_DGsbXhPIR35VDFrRj10MAQADAgADbQADPQQ",
+              "file_unique_id": "AQADfwxrG14TyEdy",
+              "file_size": 22004,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHmr4g0SQRLHodoRB5FNsZ7mu1JXIAAJ_DGsbXhPIR35VDFrRj10MAQADAgADeAADPQQ",
+              "file_unique_id": "AQADfwxrG14TyEd9",
+              "file_size": 83372,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHmr4g0SQRLHodoRB5FNsZ7mu1JXIAAJ_DGsbXhPIR35VDFrRj10MAQADAgADeQADPQQ",
+              "file_unique_id": "AQADfwxrG14TyEd-",
+              "file_size": 122021,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)\n📦 para el cargador portátil Magsafe, banco de energía magnético ultra delgado\n\n💵 Precio Hoy: $21.99 USD (~$72.934 COP · TRM $3.317)\n📉 Más barato que antes: Antes $35.47 USD → Hoy -38% OFF · Ahorras $13.48 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 155,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 185,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 213,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 230,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 241,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 264,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 466,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 537,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 731,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 746,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 759,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($21.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HMKPPM6V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HMKPPM6V"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HMKPPM6V",
+        "title": "para el cargador portátil Magsafe, banco de energía magnético ultra delgado",
+        "photo_url": "https://m.media-amazon.com/images/I/61ufhswY9EL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>para el cargador portátil Magsafe, banco de energía magnético ultra delgado</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.99 USD</b> (<i>~$72.934 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$35.47 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $13.48 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($21.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HMKPPM6V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HMKPPM6V"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HMKPPM6V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HMKPPM6V",
+        "deal_snapshot": {
+          "asin": "B0HMKPPM6V",
+          "title": "para el cargador portátil Magsafe, banco de energía magnético ultra delgado",
+          "price_usd": 21.99,
+          "reference_price_usd": 35.47,
+          "discount_pct": 38,
+          "price_cop": 72934.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HMKPPM6V",
+      "title": "para el cargador portátil Magsafe, banco de energía magnético ultra delgado",
+      "photo_url": "https://m.media-amazon.com/images/I/61ufhswY9EL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>para el cargador portátil Magsafe, banco de energía magnético ultra delgado</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.99 USD</b> (<i>~$72.934 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$35.47 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $13.48 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($21.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HMKPPM6V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HMKPPM6V"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HMKPPM6V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0HMKPPM6V",
+      "deal_snapshot": {
+        "asin": "B0HMKPPM6V",
+        "title": "para el cargador portátil Magsafe, banco de energía magnético ultra delgado",
+        "price_usd": 21.99,
+        "reference_price_usd": 35.47,
+        "discount_pct": 38,
+        "price_cop": 72934.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B08H8ZLKKK",
+    "title": "TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)",
+    "timestamp": "2026-11-14T15:50:19.860420+00:00",
+    "timestamp_colombia": "2026-11-14T10:50:19.860420-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B08H8ZLKKK",
+      "title": "TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 54.99,
+      "list_price_usd": 89.99,
+      "avg_90d_usd": 89.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51NPaIorJiL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 89.99,
+      "discount_pct": 38.9,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 38.9,
+      "price_vs_90d_badge": "📉 38.9% más barato que su promedio de 90 días ($89.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 54.99,
+      "price_cop": 182385.0,
+      "price_cop_formatted": "$182.385 COP",
+      "total_landed_cop": 182385.0,
+      "total_landed_cop_formatted": "$182.385 COP",
+      "savings_usd": 35.0,
+      "savings_cop": 116084,
+      "savings_cop_formatted": "$116.084 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B08H8ZLKKK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B08H8ZLKKK",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)</b>\n\n💵 <b>Precio Hoy:</b> <b>$54.99 USD</b> (<i>~$182.385 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.090597+00:00",
+      "reference_price": 89.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51NPaIorJiL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)</b>\n\n💵 <b>Precio Hoy:</b> <b>$54.99 USD</b> (<i>~$182.385 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($54.99 USD)",
+                "url": "https://www.amazon.com/dp/B08H8ZLKKK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B08H8ZLKKK"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 29,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794671424,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHWr4g0CmbRk-lUhHiNC7IvEHageAAAJ-DGsbXhPIRxz_Ia-ZFnBmAQADAgADcwADPQQ",
+              "file_unique_id": "AQADfgxrG14TyEd4",
+              "file_size": 1928,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHWr4g0CmbRk-lUhHiNC7IvEHageAAAJ-DGsbXhPIRxz_Ia-ZFnBmAQADAgADbQADPQQ",
+              "file_unique_id": "AQADfgxrG14TyEdy",
+              "file_size": 24768,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHWr4g0CmbRk-lUhHiNC7IvEHageAAAJ-DGsbXhPIRxz_Ia-ZFnBmAQADAgADeAADPQQ",
+              "file_unique_id": "AQADfgxrG14TyEd9",
+              "file_size": 94297,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHWr4g0CmbRk-lUhHiNC7IvEHageAAAJ-DGsbXhPIRxz_Ia-ZFnBmAQADAgADeQADPQQ",
+              "file_unique_id": "AQADfgxrG14TyEd-",
+              "file_size": 141421,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)\n📦 TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)\n\n💵 Precio Hoy: $54.99 USD (~$182.385 COP · TRM $3.317)\n📉 Más barato que antes: Antes $89.99 USD → Hoy -39% OFF · Ahorras $35.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 48,
+              "type": "bold"
+            },
+            {
+              "offset": 104,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 159,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 187,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 204,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 215,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 440,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 511,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 705,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 733,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($54.99 USD)",
+                  "url": "https://www.amazon.com/dp/B08H8ZLKKK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B08H8ZLKKK"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B08H8ZLKKK",
+        "title": "TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)",
+        "photo_url": "https://m.media-amazon.com/images/I/51NPaIorJiL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)</b>\n\n💵 <b>Precio Hoy:</b> <b>$54.99 USD</b> (<i>~$182.385 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($54.99 USD)",
+                "url": "https://www.amazon.com/dp/B08H8ZLKKK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B08H8ZLKKK"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B08H8ZLKKK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B08H8ZLKKK",
+        "deal_snapshot": {
+          "asin": "B08H8ZLKKK",
+          "title": "TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)",
+          "price_usd": 54.99,
+          "reference_price_usd": 89.99,
+          "discount_pct": 39,
+          "price_cop": 182385.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B08H8ZLKKK",
+      "title": "TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)",
+      "photo_url": "https://m.media-amazon.com/images/I/51NPaIorJiL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)</b>\n\n💵 <b>Precio Hoy:</b> <b>$54.99 USD</b> (<i>~$182.385 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($54.99 USD)",
+              "url": "https://www.amazon.com/dp/B08H8ZLKKK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B08H8ZLKKK"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B08H8ZLKKK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B08H8ZLKKK",
+      "deal_snapshot": {
+        "asin": "B08H8ZLKKK",
+        "title": "TP-Link Enrutador WiFi 6 AX1800 (Archer AX21 V5)",
+        "price_usd": 54.99,
+        "reference_price_usd": 89.99,
+        "discount_pct": 39,
+        "price_cop": 182385.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0DXXYS4BJ",
+    "title": "Roku Streaming Stick HD con control remoto por voz",
+    "timestamp": "2026-11-14T15:50:18.247275+00:00",
+    "timestamp_colombia": "2026-11-14T10:50:18.247275-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0DXXYS4BJ",
+      "title": "Roku Streaming Stick HD con control remoto por voz",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 24.0,
+      "list_price_usd": 39.99,
+      "avg_90d_usd": 39.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71CBWyQfKhL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "source": "amazon_deals_tab",
+      "highlights": [
+        "Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com",
+        "Envío elegible hacia Colombia (verificado en listado)",
+        "Enlace oficial SiteStripe con etiqueta pillepues-20"
+      ],
+      "reference_price_usd": 39.99,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($39.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 24.0,
+      "price_cop": 79601.0,
+      "price_cop_formatted": "$79.601 COP",
+      "total_landed_cop": 79601.0,
+      "total_landed_cop_formatted": "$79.601 COP",
+      "savings_usd": 15.99,
+      "savings_cop": 53034,
+      "savings_cop_formatted": "$53.034 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0DXXYS4BJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXXYS4BJ",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Roku Streaming Stick HD con control remoto por voz</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.00 USD</b> (<i>~$79.601 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $15.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "published_at": "2026-11-14T06:40:33.089873+00:00",
+      "reference_price": 39.99,
+      "is_historic_low": true,
+      "tax_free_co": true,
+      "estimated_import_fees_usd": 0.0,
+      "colombia_badge": "",
+      "shipping_badge": "",
+      "teams_card": {}
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71CBWyQfKhL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Roku Streaming Stick HD con control remoto por voz</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.00 USD</b> (<i>~$79.601 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $15.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.00 USD)",
+                "url": "https://www.amazon.com/dp/B0DXXYS4BJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXXYS4BJ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 28,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794671419,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHGr4gzteXuCsDbzHrqXhCHAyQ0KVAAJ9DGsbXhPIR09_EFRf7BP-AQADAgADcwADPQQ",
+              "file_unique_id": "AQADfQxrG14TyEd4",
+              "file_size": 1798,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHGr4gzteXuCsDbzHrqXhCHAyQ0KVAAJ9DGsbXhPIR09_EFRf7BP-AQADAgADbQADPQQ",
+              "file_unique_id": "AQADfQxrG14TyEdy",
+              "file_size": 23628,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHGr4gzteXuCsDbzHrqXhCHAyQ0KVAAJ9DGsbXhPIR09_EFRf7BP-AQADAgADeAADPQQ",
+              "file_unique_id": "AQADfQxrG14TyEd9",
+              "file_size": 88108,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADHGr4gzteXuCsDbzHrqXhCHAyQ0KVAAJ9DGsbXhPIR09_EFRf7BP-AQADAgADeQADPQQ",
+              "file_unique_id": "AQADfQxrG14TyEd-",
+              "file_size": 129353,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Roku Streaming Stick HD con control remoto por voz\n\n💵 Precio Hoy: $24.00 USD (~$79.601 COP · TRM $3.317)\n📉 Más barato que antes: Antes $39.99 USD → Hoy -40% OFF · Ahorras $15.99 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 50,
+              "type": "bold"
+            },
+            {
+              "offset": 106,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 118,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 130,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 160,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 188,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 205,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 216,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 441,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 512,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 706,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 721,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 734,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($24.00 USD)",
+                  "url": "https://www.amazon.com/dp/B0DXXYS4BJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXXYS4BJ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0DXXYS4BJ",
+        "title": "Roku Streaming Stick HD con control remoto por voz",
+        "photo_url": "https://m.media-amazon.com/images/I/71CBWyQfKhL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Roku Streaming Stick HD con control remoto por voz</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.00 USD</b> (<i>~$79.601 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $15.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.00 USD)",
+                "url": "https://www.amazon.com/dp/B0DXXYS4BJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXXYS4BJ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0DXXYS4BJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXXYS4BJ",
+        "deal_snapshot": {
+          "asin": "B0DXXYS4BJ",
+          "title": "Roku Streaming Stick HD con control remoto por voz",
+          "price_usd": 24.0,
+          "reference_price_usd": 39.99,
+          "discount_pct": 40,
+          "price_cop": 79601.0,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0DXXYS4BJ",
+      "title": "Roku Streaming Stick HD con control remoto por voz",
+      "photo_url": "https://m.media-amazon.com/images/I/71CBWyQfKhL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Roku Streaming Stick HD con control remoto por voz</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.00 USD</b> (<i>~$79.601 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $15.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Oferta extraída en vivo desde la pestaña de Ofertas de Amazon.com\n• Envío elegible hacia Colombia (verificado en listado)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($24.00 USD)",
+              "url": "https://www.amazon.com/dp/B0DXXYS4BJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXXYS4BJ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0DXXYS4BJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://vitrina-colombia-ofertas.vercel.app/?asin=B0DXXYS4BJ",
+      "deal_snapshot": {
+        "asin": "B0DXXYS4BJ",
+        "title": "Roku Streaming Stick HD con control remoto por voz",
+        "price_usd": 24.0,
+        "reference_price_usd": 39.99,
+        "discount_pct": 40,
+        "price_cop": 79601.0,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0F151GFYR",
     "title": "Videotimbre cableado 4K Ring Pro (último modelo): Retinal 4K con video de gran angular, zoom 10x mejorado y visión nocturna (plateado oscuro)",
     "timestamp": "2026-11-14T07:27:33.609441+00:00",
