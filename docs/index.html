@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vitrina Colombia | Ofertas Verificadas de Amazon.com Sin Impuestos DIAN (≤$200 USD)</title>
+  <meta name="description" content="Catálogo curado en tiempo real de ofertas en Amazon.com para Colombia. Filtrado automático de exención de IVA/Arancel DIAN (≤$200 USD), Envío Gratis desde $35 USD y alertas en Telegram y Microsoft Teams." />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:title" content="Vitrina Colombia — Ofertas Amazon.com Sin Aduana (≤$200 USD)" />
+  <meta property="og:description" content="Monitoreo determinista Zero-Token de mínimos históricos en Amazon.com con cálculo aduanero DIAN en pesos colombianos (COP) y envío gratis a Colombia." />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="es_CO" />
+
+  <!-- Google Fonts: Plus Jakarta Sans (Editorial UI) & JetBrains Mono (Precios USD/COP & ASINs) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="./index.css" />
+</head>
+<body>
+
+  <!-- Barra Superior de Telemetría Zero-Token y Conversor TRM Colombia -->
+  <aside class="top-telemetry-bar" aria-label="Estado del monitor Zero-Token y tasa TRM Colombia">
+    <div class="container telemetry-inner">
+      <div class="telemetry-group">
+        <div class="zero-token-status" id="zero-token-badge">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span>MONITOR ZERO-TOKEN: <strong id="monitor-mode-label">ACTIVO (0 LLM TOKENS)</strong></span>
+        </div>
+        <span class="telemetry-divider" aria-hidden="true">|</span>
+        <span class="mono" id="last-sync-timestamp">Sincronizando catálogo...</span>
+      </div>
+
+      <div class="telemetry-group">
+        <div class="trm-converter-widget" title="Ajusta la TRM para recalcular todos los precios en pesos colombianos al instante">
+          <label for="trm-input">🇨🇴 TRM Hoy (1 USD):</label>
+          <div class="trm-input-wrapper">
+            <span>$</span>
+            <input
+              type="number"
+              id="trm-input"
+              class="trm-input"
+              value="4150"
+              min="3000"
+              max="6500"
+              step="10"
+              aria-label="Tasa Representativa del Mercado en COP"
+            />
+            <span>COP</span>
+          </div>
+          <button type="button" id="btn-reset-trm" class="btn-trm-reset" title="Restaurar TRM oficial">Reset</button>
+        </div>
+
+        <button type="button" id="btn-run-scan" class="btn-scan-zero-token">
+          <span aria-hidden="true">⚡</span>
+          <span id="btn-scan-label">Ejecutar Barrido Zero-Token</span>
+        </button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Cabecera Editorial Principal -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-grid">
+        <div>
+          <div class="brand-eyebrow">
+            <span>🇨🇴 CURADURÍA ADUANERA COLOMBIA · AMAZON ASSOCIATES TAG:</span>
+            <span id="active-affiliate-tag">pillepues-20</span>
+          </div>
+          <h1 class="site-title">Ofertas Verificadas de Amazon.com para Colombia</h1>
+          <p class="site-subtitle">
+            Cazador determinista de descuentos reales con validación automática del umbral aduanero DIAN
+            (<strong>≤ $200 USD exento de IVA 19% y arancel</strong>), elegibilidad de envío gratuito a Colombia y
+            comparativa contra precios históricos de 90 días.
+          </p>
+        </div>
+
+        <div class="header-channel-actions">
+          <div class="channel-cta-group">
+            <a
+              href="https://t.me/pillepues"
+              target="_blank"
+              rel="noopener"
+              id="btn-jump-telegram"
+              class="btn-channel btn-channel-telegram"
+              title="Unirse al canal @pillepues en Telegram"
+            >
+              <span>✈️ Únete a @pillepues en Telegram</span>
+            </a>
+            <a
+              href="#channels-preview"
+              id="btn-jump-teams"
+              class="btn-channel btn-channel-teams"
+              title="Ver Adaptive Cards de Microsoft Teams"
+            >
+              <span>🟦 Canal Microsoft Teams</span>
+            </a>
+          </div>
+          <a href="#channels-preview" class="btn-channel btn-channel-preview-jump" id="btn-open-live-channels">
+            <span>👁️ Vista en Vivo de Tarjetas Publicadas</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Resumen de Reglas Aduaneras para Compradores en Colombia -->
+      <div class="customs-rules-strip" role="region" aria-label="Reglas de importación desde Amazon a Colombia">
+        <div class="rule-item">
+          <span class="rule-badge rule-badge-dian">≤ $200 USD</span>
+          <div class="rule-text">
+            <strong>Exención DIAN (0% IVA y Arancel)</strong>
+            <span>Compras hasta $200 USD entran a Colombia sin cobro de impuestos de importación.</span>
+          </div>
+        </div>
+        <div class="rule-item">
+          <span class="rule-badge rule-badge-ship">≥ $35 USD</span>
+          <div class="rule-text">
+            <strong>Envío Gratis a Colombia</strong>
+            <span>Productos elegibles enviados por Amazon califican para despacho internacional sin costo.</span>
+          </div>
+        </div>
+        <div class="rule-item">
+          <span class="rule-badge rule-badge-zero">SQLite + API</span>
+          <div class="rule-text">
+            <strong>Verificación Anti-Falsos Descuentos</strong>
+            <span>Filtramos precios inflados validando el promedio real de los últimos 90 días.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Contenido Principal -->
+  <main id="main-content">
+
+    <!-- Controles de Búsqueda, Categorías y Píldoras de Filtro Rápido -->
+    <section class="controls-section" aria-label="Filtros del catálogo de ofertas">
+      <div class="container">
+        <div class="controls-bar">
+          <div class="search-and-category-row">
+            <div class="search-input-wrap">
+              <span class="search-icon" aria-hidden="true">🔍</span>
+              <input
+                type="search"
+                id="search-input"
+                class="search-input"
+                placeholder="Buscar por producto, marca, categoría o código ASIN (ej. B09V3KXJPB)..."
+                aria-label="Buscar ofertas por nombre o ASIN"
+              />
+              <button type="button" id="btn-clear-search" class="btn-clear-search" title="Limpiar búsqueda" hidden>✕</button>
+            </div>
+
+            <select id="category-filter" class="category-select" aria-label="Filtrar por categoría">
+              <option value="ALL">Todas las categorías</option>
+              <option value="Tecnología">💻 Tecnología</option>
+              <option value="Gaming">🎮 Gaming</option>
+              <option value="Audio">🎧 Audio</option>
+              <option value="Hogar">🏠 Hogar</option>
+            </select>
+
+            <select id="sort-filter" class="sort-select" aria-label="Ordenar ofertas">
+              <option value="discount_desc">Mayor descuento (% OFF)</option>
+              <option value="price_asc">Menor precio (USD / COP)</option>
+              <option value="savings_desc">Mayor ahorro en USD</option>
+            </select>
+          </div>
+
+          <div class="filter-pills-row">
+            <div class="filter-pills-group" role="group" aria-label="Filtros rápidos para Colombia">
+              <button type="button" class="filter-pill active" data-filter="all" id="pill-filter-all">
+                <span>Todos</span>
+              </button>
+              <button type="button" class="filter-pill" data-filter="dian" id="pill-filter-dian">
+                <span>🟢 Sin Impuestos DIAN ≤$200</span>
+              </button>
+              <button type="button" class="filter-pill" data-filter="shipping" id="pill-filter-shipping">
+                <span>🇨🇴 Envío Gratis a CO</span>
+              </button>
+              <button type="button" class="filter-pill" data-filter="historic" id="pill-filter-historic">
+                <span>🔥 Mínimos Históricos (≥35% OFF)</span>
+              </button>
+            </div>
+
+            <div class="results-counter" id="results-counter" aria-live="polite">
+              Cargando ofertas verificadas...
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Grid Responsivo de Tarjetas de Oferta -->
+    <section class="catalog-section" aria-label="Catálogo de ofertas activas">
+      <div class="container">
+        <div id="deals-grid" class="deals-grid" role="list">
+          <!-- Renderizado dinámicamente por app.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Sección Interactiva: Vista en Vivo de Canales (Telegram & Microsoft Teams) -->
+    <section id="channels-preview" class="channels-preview-section" aria-labelledby="channels-preview-title">
+      <div class="container">
+        <div class="section-header-bar">
+          <div>
+            <div class="section-eyebrow">DIFUSIÓN MULTICANAL AUTOMÁTICA (TELEGRAM BOT API &amp; TEAMS WEBHOOK)</div>
+            <h2 id="channels-preview-title" class="section-title">Vista en Vivo de Canales: Telegram &amp; Microsoft Teams</h2>
+            <p class="section-desc">
+              Inspecciona en tiempo real cómo el pipeline publica cada oferta simultáneamente en el canal de Telegram
+              (con botonera inline) y en Microsoft Teams (mediante Adaptive Cards v1.4), incluyendo enlaces de afiliado y URL profunda.
+            </p>
+          </div>
+
+          <div class="preview-selector-wrap">
+            <label for="preview-deal-select">Producto en vista previa:</label>
+            <select id="preview-deal-select" class="preview-deal-select" aria-label="Seleccionar oferta para previsualizar en Telegram y Teams">
+              <!-- Opciones cargadas dinámicamente -->
+            </select>
+          </div>
+        </div>
+
+        <div class="channels-dual-grid">
+          <!-- Panel Simulador Telegram -->
+          <article class="channel-Simulator-panel" aria-label="Previsualización de tarjeta en Telegram">
+            <div class="channel-panel-header channel-panel-header-telegram">
+              <div class="channel-identity">
+                <span class="channel-badge-dot dot-telegram" aria-hidden="true"></span>
+                <div>
+                  <h3>Telegram Broadcast Card (Bot API sendPhoto)</h3>
+                  <span id="tg-channel-handle">@pillepues · HTML Parse Mode</span>
+                </div>
+              </div>
+              <button type="button" id="btn-copy-telegram" class="btn-copy-payload">
+                📋 Copiar Copy Telegram
+              </button>
+            </div>
+
+            <div class="channel-panel-body">
+              <div class="tg-message-card" id="tg-preview-card">
+                <div class="tg-photo-header">
+                  <img id="tg-preview-img" src="" alt="Vista previa del producto en Telegram" />
+                </div>
+                <div class="tg-caption-body" id="tg-preview-caption">
+                  Selecciona un producto para visualizar el mensaje de Telegram...
+                </div>
+                <div class="tg-inline-keyboard" id="tg-preview-buttons">
+                  <!-- Botones inline de Telegram -->
+                </div>
+              </div>
+            </div>
+          </article>
+
+          <!-- Panel Simulador Microsoft Teams Adaptive Card -->
+          <article class="channel-Simulator-panel" aria-label="Previsualización de Adaptive Card en Microsoft Teams">
+            <div class="channel-panel-header channel-panel-header-teams">
+              <div class="channel-identity">
+                <span class="channel-badge-dot dot-teams" aria-hidden="true"></span>
+                <div>
+                  <h3>Microsoft Teams (Adaptive Card v1.4 Webhook)</h3>
+                  <span>Incoming Webhook · FactSet Aduanero DIAN</span>
+                </div>
+              </div>
+              <button type="button" id="btn-copy-teams" class="btn-copy-payload">
+                📋 Copiar JSON Adaptive Card
+              </button>
+            </div>
+
+            <div class="channel-panel-body">
+              <div class="teams-adaptive-card" id="teams-preview-card">
+                <div class="teams-card-header">
+                  <div class="teams-card-header-info">
+                    <div class="teams-card-eyebrow" id="teams-preview-badge">🔥 OFERTA VERIFICADA COLOMBIA</div>
+                    <h4 id="teams-preview-title">Cargando Adaptive Card...</h4>
+                  </div>
+                  <img id="teams-preview-img" class="teams-card-thumb" src="" alt="Miniatura en Microsoft Teams" />
+                </div>
+
+                <div class="teams-fact-set" id="teams-preview-facts">
+                  <!-- FactSet renderizado dinámicamente -->
+                </div>
+
+                <div class="teams-actions-bar" id="teams-preview-actions">
+                  <!-- Action.OpenUrl buttons -->
+                </div>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal de Análisis Profundo y Desglose Aduanero (?asin=B0...) -->
+  <div
+    id="deal-modal"
+    class="modal-backdrop"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="modal-deal-title"
+    aria-hidden="true"
+  >
+    <div class="deal-modal-dialog">
+      <div class="modal-header">
+        <div class="modal-header-meta">
+          <span id="modal-deal-asin">ASIN: B000000000</span>
+          <span>•</span>
+          <span id="modal-deal-category">Categoría</span>
+          <span>•</span>
+          <span id="modal-deal-status">Verificado Zero-Token</span>
+        </div>
+        <button type="button" id="btn-close-modal" class="btn-modal-close" aria-label="Cerrar análisis del producto">✕</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-product-visual">
+          <img id="modal-deal-image" src="" alt="Imagen detallada del producto" />
+          <div class="colombia-badges-row" id="modal-deal-badges"></div>
+        </div>
+
+        <div class="modal-details-col">
+          <h2 id="modal-deal-title" class="modal-title">Detalle de la oferta</h2>
+
+          <table class="customs-breakdown-table" aria-label="Desglose de costos e impuestos de importación a Colombia">
+            <tbody>
+              <tr>
+                <th>Precio de Oferta en Amazon.com (FOB)</th>
+                <td id="modal-price-fob">$0.00 USD</td>
+              </tr>
+              <tr>
+                <th>Precio Histórico / Lista (90 días)</th>
+                <td id="modal-price-list">$0.00 USD</td>
+              </tr>
+              <tr>
+                <th>Envío Internacional Estimado a Colombia</th>
+                <td id="modal-shipping-co">GRATIS ($0.00 USD)</td>
+              </tr>
+              <tr>
+                <th>Arancel + IVA Importación DIAN (Umbral $200 USD)</th>
+                <td id="modal-tax-dian">$0.00 USD (0% Exento)</td>
+              </tr>
+              <tr class="row-total">
+                <th>Total Estimado Puesto en Colombia (TRM <span id="modal-trm-label">4,150</span>)</th>
+                <td id="modal-total-cop">$0 COP</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <div class="modal-cta-row">
+            <a
+              id="modal-amazon-cta"
+              href="https://www.amazon.com"
+              target="_blank"
+              rel="nofollow sponsored noopener"
+              class="btn-amazon-cta"
+            >
+              🛒 Comprar en Amazon.com con Descuento
+            </a>
+            <button type="button" id="btn-modal-copy-link" class="btn-card-secondary">
+              🔗 Copiar Link Afiliado
+            </button>
+            <button type="button" id="btn-modal-share-url" class="btn-card-secondary">
+              📤 Copiar URL Profunda (?asin)
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Notificación Toast -->
+  <div id="toast-notification" class="toast-notification" role="status" aria-live="polite"></div>
+
+  <!-- Footer Legal Obligatorio para Aprobación de Amazon Associates -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <h2>Vitrina Colombia · Portal Automatizado de Ofertas Amazon.com</h2>
+          <p>
+            Arquitectura híbrida Zero-Token impulsada por reglas deterministas en SQLite, validación aduanera DIAN
+            para Colombia y distribución simultánea en Telegram, Microsoft Teams y Vercel CDN.
+          </p>
+        </div>
+
+        <div class="legal-disclosure-box" id="amazon-associates-disclosure">
+          <h3>Aviso Legal Obligatorio — Programa de Afiliados de Amazon</h3>
+          <p>
+            <strong>En calidad de Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. (As an Amazon Associate I earn from qualifying purchases).</strong>
+          </p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>© 2026 Vitrina Colombia · Todos los enlaces hacia Amazon.com utilizan <code>rel="nofollow sponsored noopener"</code>.</span>
+        <span class="mono">Precios referenciales sujetos a variación en Amazon.com y TRM vigente en Colombia.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
