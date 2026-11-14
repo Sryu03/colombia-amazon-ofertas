@@ -34,6 +34,7 @@ from src.monitor.discovery import (
 )
 from src.monitor.price_history import PriceHistoryStore
 from src.monitor.price_watcher import detect_price_drop
+from src.publisher.vercel_deployer import resolve_live_public_web_url
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PUBLIC_DIR = PROJECT_ROOT / "public"
@@ -43,7 +44,7 @@ WATCHLIST_PATH = PROJECT_ROOT / "data" / "watchlist.json"
 PRICE_HISTORY_PATH = DATA_DIR / "price_history.json"
 
 ASSOCIATE_TAG = os.getenv("AMAZON_ASSOCIATE_TAG", "pillepues-20")
-PUBLIC_WEB_URL = os.getenv("PUBLIC_WEB_URL", "https://vitrina-colombia-ofertas.vercel.app")
+PUBLIC_WEB_URL = os.getenv("PUBLIC_WEB_URL", "https://colombia-amazon-ofertas.vercel.app")
 DEFAULT_TRM_COP = float(os.getenv("DEFAULT_TRM_COP", "4150.0"))
 MIN_DISCOUNT_PCT = float(os.getenv("MIN_DISCOUNT_PERCENT", "20.0"))
 LIVE_SCRAPE = os.getenv("LIVE_SCRAPE", "false").lower() in ("1", "true", "yes")
@@ -193,6 +194,12 @@ def run_zero_token_pipeline(
     )
 
     run_now_iso = datetime.now(timezone.utc).isoformat()
+    if LIVE_SCRAPE:
+        active_web_url, web_health_check = resolve_live_public_web_url(PUBLIC_WEB_URL)
+    else:
+        active_web_url = PUBLIC_WEB_URL
+        web_health_check = {"active_url": active_web_url, "ok": True, "mode": "offline_seed"}
+
     deals_json_path = DATA_DIR / "deals.json"
     auditor = DealAuditor(
         min_discount_pct=MIN_DISCOUNT_PCT,
@@ -287,7 +294,7 @@ def run_zero_token_pipeline(
 
         # Layer 2: Affiliate Links & Copy Generation (midas-copy-afiliados)
         evaluated["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
-        evaluated["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
+        evaluated["web_url"] = build_vercel_deal_url(asin, public_web_url=active_web_url)
         evaluated["is_new_price_drop"] = history_event["is_new_drop"]
         evaluated["previous_price_usd"] = history_event["previous_price_usd"]
         evaluated["verified_at"] = run_now_iso
@@ -295,7 +302,7 @@ def run_zero_token_pipeline(
         tg_card = build_telegram_card(
             deal=evaluated,
             associate_tag=ASSOCIATE_TAG,
-            public_web_url=PUBLIC_WEB_URL,
+            public_web_url=active_web_url,
         )
         evaluated["telegram_copy"] = tg_card["caption_html"]
 
@@ -446,11 +453,11 @@ def run_zero_token_pipeline(
                     )
                     re_eval["verified_at"] = run_now_iso
                     re_eval["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
-                    re_eval["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
+                    re_eval["web_url"] = build_vercel_deal_url(asin, public_web_url=active_web_url)
                     re_tg_card = build_telegram_card(
                         deal=re_eval,
                         associate_tag=ASSOCIATE_TAG,
-                        public_web_url=PUBLIC_WEB_URL,
+                        public_web_url=active_web_url,
                     )
                     re_eval["telegram_copy"] = re_tg_card["caption_html"]
                     re_audit = auditor.audit_deal(re_eval, telegram_card=re_tg_card)
@@ -479,11 +486,11 @@ def run_zero_token_pipeline(
             )
             deal_item["asin"] = asin
             deal_item["affiliate_url"] = build_affiliate_url(asin, associate_tag=ASSOCIATE_TAG)
-            deal_item["web_url"] = build_vercel_deal_url(asin, public_web_url=PUBLIC_WEB_URL)
+            deal_item["web_url"] = build_vercel_deal_url(asin, public_web_url=active_web_url)
             tg_card = build_telegram_card(
                 deal=deal_item,
                 associate_tag=ASSOCIATE_TAG,
-                public_web_url=PUBLIC_WEB_URL,
+                public_web_url=active_web_url,
             )
             final_tg_audit = auditor.audit_deal(deal_item, telegram_card=tg_card, record_metrics=False)
             if not final_tg_audit.approved:
@@ -541,6 +548,10 @@ def run_zero_token_pipeline(
                         if item_asin in expired_asins:
                             continue
                         candidate_item = refreshed_deals_by_asin.get(item_asin, item)
+                        if item_asin:
+                            candidate_item["web_url"] = build_vercel_deal_url(
+                                item_asin, public_web_url=active_web_url
+                            )
                         if not auditor.audit_deal(candidate_item, record_metrics=False).approved:
                             if item_asin:
                                 expired_asins.add(item_asin)
@@ -561,6 +572,8 @@ def run_zero_token_pipeline(
                     telegram_delivery_status["pruned_expired_asins"] = sorted(expired_asins)
                 meta = preserved.setdefault("metadata", {})
                 if isinstance(meta, dict):
+                    meta["public_web_url"] = active_web_url
+                    meta["web_health_check"] = web_health_check
                     meta["last_live_check_at"] = run_now_iso
                     meta["monitored_products_count"] = len(catalog)
                     meta["new_price_drops_count"] = new_price_drops_count
@@ -583,7 +596,8 @@ def run_zero_token_pipeline(
             metadata={
                 "trm_cop": active_trm,
                 "associate_tag": ASSOCIATE_TAG,
-                "public_web_url": PUBLIC_WEB_URL,
+                "public_web_url": active_web_url,
+                "web_health_check": web_health_check,
                 "zero_token_mode": True,
                 "monitored_products_count": len(catalog),
                 "active_deals_count": len(approved_deals),

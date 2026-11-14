@@ -19,6 +19,56 @@ from typing import Any
 import urllib.request
 
 
+DEFAULT_PUBLIC_WEB_URL = "https://colombia-amazon-ofertas.vercel.app"
+
+
+def probe_public_web_url(url: str, timeout: float = 6.0) -> dict[str, Any]:
+    """Verifica en vivo si una URL de Vercel responde HTTP 200 sin DEPLOYMENT_NOT_FOUND."""
+    clean_url = (url or "").strip().rstrip("/")
+    if not clean_url.startswith("https://"):
+        return {"url": clean_url, "ok": False, "status": 0, "reason": "invalid_scheme"}
+    try:
+        req = urllib.request.Request(
+            clean_url,
+            headers={"User-Agent": "PillePues-Monitor/1.0"},
+            method="GET",
+        )
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            status = int(getattr(resp, "status", 200) or 200)
+            snippet = resp.read(2048).decode("utf-8", errors="ignore")
+            if status == 200 and "DEPLOYMENT_NOT_FOUND" not in snippet:
+                return {"url": clean_url, "ok": True, "status": status, "reason": "ok"}
+            return {"url": clean_url, "ok": False, "status": status, "reason": "deployment_not_found"}
+    except Exception as exc:
+        code = int(getattr(exc, "code", 0) or 0)
+        return {"url": clean_url, "ok": False, "status": code, "reason": str(exc)[:160]}
+
+
+def resolve_live_public_web_url(preferred_url: str | None = None) -> tuple[str, dict[str, Any]]:
+    """Resuelve la URL pública activa de Vercel verificando HTTP 200 antes de generar botones Telegram."""
+    raw_pref = (preferred_url or os.getenv("PUBLIC_WEB_URL") or DEFAULT_PUBLIC_WEB_URL).strip().rstrip("/")
+    candidates: list[str] = []
+    for candidate in (
+        raw_pref,
+        DEFAULT_PUBLIC_WEB_URL,
+        "https://colombia-amazon-ofertas-pawtricion.vercel.app",
+    ):
+        if candidate and "vitrina-colombia-ofertas.vercel.app" not in candidate and candidate not in candidates:
+            candidates.append(candidate)
+    if not candidates:
+        candidates.append(DEFAULT_PUBLIC_WEB_URL)
+
+    checks: list[dict[str, Any]] = []
+    for candidate in candidates:
+        res = probe_public_web_url(candidate)
+        checks.append(res)
+        if res["ok"]:
+            return candidate, {"active_url": candidate, "ok": True, "checks": checks}
+
+    fallback = candidates[0]
+    return fallback, {"active_url": fallback, "ok": False, "checks": checks}
+
+
 class VercelPublisher:
     """Gestiona la validación del catálogo web y el despliegue hacia Vercel."""
 
@@ -42,7 +92,7 @@ class VercelPublisher:
         self.public_web_url = (
             public_web_url
             or os.getenv("PUBLIC_WEB_URL")
-            or "https://vitrina-colombia-ofertas.vercel.app"
+            or DEFAULT_PUBLIC_WEB_URL
         ).rstrip("/")
         self.token = token if token is not None else os.getenv("VERCEL_TOKEN")
         self.deploy_hook_url = (

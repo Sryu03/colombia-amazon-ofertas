@@ -28,7 +28,7 @@
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg',
       affiliate_url: 'https://www.amazon.com/dp/B0CHWRXH8B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0CHWRXH8B',
+      web_deal_url: 'https://colombia-amazon-ofertas.vercel.app/?asin=B0CHWRXH8B',
       is_historic_low: true,
       status: 'ACTIVE'
     },
@@ -48,7 +48,7 @@
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/71K6m2A+WJL._AC_SL1500_.jpg',
       affiliate_url: 'https://www.amazon.com/dp/B0B9C4DKKG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0B9C4DKKG',
+      web_deal_url: 'https://colombia-amazon-ofertas.vercel.app/?asin=B0B9C4DKKG',
       is_historic_low: true,
       status: 'ACTIVE'
     },
@@ -68,7 +68,7 @@
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg',
       affiliate_url: 'https://www.amazon.com/dp/B0863FR3S9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B0863FR3S9',
+      web_deal_url: 'https://colombia-amazon-ofertas.vercel.app/?asin=B0863FR3S9',
       is_historic_low: true,
       status: 'ACTIVE'
     },
@@ -88,7 +88,7 @@
       estimated_tax_usd: 0.0,
       image_url: 'https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg',
       affiliate_url: 'https://www.amazon.com/dp/B07GBZ4Q68?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl',
-      web_deal_url: 'https://vitrina-colombia-ofertas.vercel.app/?asin=B07GBZ4Q68',
+      web_deal_url: 'https://colombia-amazon-ofertas.vercel.app/?asin=B07GBZ4Q68',
       is_historic_low: true,
       status: 'ACTIVE'
     }

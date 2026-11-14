@@ -53,11 +53,11 @@ def build_affiliate_url(
 
 def build_vercel_deal_url(
     asin: str,
-    public_web_url: str = "https://vitrina-colombia-ofertas.vercel.app",
+    public_web_url: str = "https://colombia-amazon-ofertas.vercel.app",
 ) -> str:
     """Construye la URL directa a la ficha de la oferta en la web pública desplegada en Vercel."""
     clean_asin = extract_asin(asin)
-    base_url = (public_web_url or "https://vitrina-colombia-ofertas.vercel.app").strip().rstrip("/")
+    base_url = (public_web_url or "https://colombia-amazon-ofertas.vercel.app").strip().rstrip("/")
     return f"{base_url}/?asin={clean_asin}"
 
 
@@ -146,7 +146,7 @@ def _resolve_colombia_badges(deal: dict[str, Any], price_usd: float) -> tuple[st
 def build_telegram_card(
     deal: dict[str, Any],
     associate_tag: str = "pillepues-20",
-    public_web_url: str = "https://vitrina-colombia-ofertas.vercel.app",
+    public_web_url: str = "https://colombia-amazon-ofertas.vercel.app",
 ) -> dict[str, Any]:
     """Genera el payload y copy HTML optimizado para `sendPhoto` de Telegram (máx 1024 caracteres)."""
     asin = extract_asin(str(deal.get("asin") or deal.get("url") or ""))

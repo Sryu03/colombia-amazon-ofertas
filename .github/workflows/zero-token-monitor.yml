@@ -46,7 +46,7 @@ jobs:
       - name: Run Zero-Token Monitor, Colombia Evaluator & Telegram Broadcaster
         env:
           AMAZON_ASSOCIATE_TAG: ${{ secrets.AMAZON_ASSOCIATE_TAG || 'pillepues-20' }}
-          PUBLIC_WEB_URL: ${{ secrets.PUBLIC_WEB_URL || 'https://vitrina-colombia-ofertas.vercel.app' }}
+          PUBLIC_WEB_URL: ${{ secrets.PUBLIC_WEB_URL || 'https://colombia-amazon-ofertas.vercel.app' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '@pillepues' }}
           VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
