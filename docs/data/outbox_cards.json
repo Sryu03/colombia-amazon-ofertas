@@ -1,5 +1,1570 @@
 [
   {
+    "asin": "B00004OCJW",
+    "title": "OXO Good Grips - Abrelatas manual de mango suave",
+    "timestamp": "2026-11-15T19:24:19.628966+00:00",
+    "timestamp_colombia": "2026-11-15T14:24:19.628966-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B00004OCJW",
+      "title": "OXO Good Grips - Abrelatas manual de mango suave",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 15.95,
+      "list_price_usd": 19.99,
+      "avg_90d_usd": 19.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51NJ8erFERL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 19.99,
+      "discount_pct": 20.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.2,
+      "price_vs_90d_badge": "📉 20.2% más barato que su promedio de 90 días ($19.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 27.9,
+      "price_cop": 52901,
+      "price_cop_formatted": "$52.901 COP",
+      "total_landed_cop": 92536,
+      "total_landed_cop_formatted": "$92.536 COP",
+      "savings_usd": 4.04,
+      "savings_cop": 13399,
+      "savings_cop_formatted": "$13.399 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $19.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B00004OCJW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00004OCJW",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T19:20:27.846924+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>OXO Good Grips - Abrelatas manual de mango suave</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.95 USD</b> (<i>~$52.901 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51NJ8erFERL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>OXO Good Grips - Abrelatas manual de mango suave</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.95 USD</b> (<i>~$52.901 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($15.95 USD)",
+                "url": "https://www.amazon.com/dp/B00004OCJW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00004OCJW"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 125,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794770664,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfWr6BugJJQuPrKc7tUHrSGlJCS_AAAIsDWsbURLZRwy3A2kP547nAQADAgADcwADPQQ",
+              "file_unique_id": "AQADLA1rG1ES2Ud4",
+              "file_size": 1627,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfWr6BugJJQuPrKc7tUHrSGlJCS_AAAIsDWsbURLZRwy3A2kP547nAQADAgADbQADPQQ",
+              "file_unique_id": "AQADLA1rG1ES2Udy",
+              "file_size": 19885,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfWr6BugJJQuPrKc7tUHrSGlJCS_AAAIsDWsbURLZRwy3A2kP547nAQADAgADeAADPQQ",
+              "file_unique_id": "AQADLA1rG1ES2Ud9",
+              "file_size": 78430,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfWr6BugJJQuPrKc7tUHrSGlJCS_AAAIsDWsbURLZRwy3A2kP547nAQADAgADeQADPQQ",
+              "file_unique_id": "AQADLA1rG1ES2Ud-",
+              "file_size": 112943,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 OXO Good Grips - Abrelatas manual de mango suave\n\n💵 Precio Hoy: $15.95 USD (~$52.901 COP · TRM $3.317)\n📉 Más barato que antes: Antes $19.99 USD → Hoy -20% OFF · Ahorras $4.04 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $19.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 48,
+              "type": "bold"
+            },
+            {
+              "offset": 98,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 110,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 152,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 180,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 197,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 208,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 430,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 516,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 664,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 679,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 692,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($15.95 USD)",
+                  "url": "https://www.amazon.com/dp/B00004OCJW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00004OCJW"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B00004OCJW",
+        "title": "OXO Good Grips - Abrelatas manual de mango suave",
+        "photo_url": "https://m.media-amazon.com/images/I/51NJ8erFERL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>OXO Good Grips - Abrelatas manual de mango suave</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.95 USD</b> (<i>~$52.901 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($15.95 USD)",
+                "url": "https://www.amazon.com/dp/B00004OCJW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00004OCJW"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B00004OCJW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00004OCJW",
+        "deal_snapshot": {
+          "asin": "B00004OCJW",
+          "title": "OXO Good Grips - Abrelatas manual de mango suave",
+          "price_usd": 15.95,
+          "reference_price_usd": 19.99,
+          "discount_pct": 20,
+          "price_cop": 52901,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B00004OCJW",
+      "title": "OXO Good Grips - Abrelatas manual de mango suave",
+      "photo_url": "https://m.media-amazon.com/images/I/51NJ8erFERL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>OXO Good Grips - Abrelatas manual de mango suave</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.95 USD</b> (<i>~$52.901 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($15.95 USD)",
+              "url": "https://www.amazon.com/dp/B00004OCJW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00004OCJW"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B00004OCJW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00004OCJW",
+      "deal_snapshot": {
+        "asin": "B00004OCJW",
+        "title": "OXO Good Grips - Abrelatas manual de mango suave",
+        "price_usd": 15.95,
+        "reference_price_usd": 19.99,
+        "discount_pct": 20,
+        "price_cop": 52901,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H5FG8TL2",
+    "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+    "timestamp": "2026-11-15T19:24:14.167672+00:00",
+    "timestamp_colombia": "2026-11-15T14:24:14.167672-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H5FG8TL2",
+      "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 89.97,
+      "list_price_usd": 114.97,
+      "avg_90d_usd": 114.97,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 114.97,
+      "discount_pct": 21.7,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 21.7,
+      "price_vs_90d_badge": "📉 21.7% más barato que su promedio de 90 días ($114.97 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 89.97,
+      "price_cop": 298403,
+      "price_cop_formatted": "$298.403 COP",
+      "total_landed_cop": 298403,
+      "total_landed_cop_formatted": "$298.403 COP",
+      "savings_usd": 25.0,
+      "savings_cop": 82918,
+      "savings_cop_formatted": "$82.918 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T19:20:27.846924+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
+                "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 124,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794770659,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADcwADPQQ",
+              "file_unique_id": "AQADKw1rG1ES2Ud4",
+              "file_size": 2017,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADbQADPQQ",
+              "file_unique_id": "AQADKw1rG1ES2Udy",
+              "file_size": 28593,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADeAADPQQ",
+              "file_unique_id": "AQADKw1rG1ES2Ud9",
+              "file_size": 117510,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADeQADPQQ",
+              "file_unique_id": "AQADKw1rG1ES2Ud-",
+              "file_size": 176700,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-22% OFF)\n📦 Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)\n\n💵 Precio Hoy: $89.97 USD (~$298.403 COP · TRM $3.317)\n📉 Más barato que antes: Antes $114.97 USD → Hoy -22% OFF · Ahorras $25.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 145,
+              "type": "bold"
+            },
+            {
+              "offset": 195,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 207,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 219,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 250,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 278,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 296,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 307,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 330,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 512,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 598,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 792,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 807,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 820,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H5FG8TL2",
+        "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+        "photo_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
+                "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
+        "deal_snapshot": {
+          "asin": "B0H5FG8TL2",
+          "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+          "price_usd": 89.97,
+          "reference_price_usd": 114.97,
+          "discount_pct": 22,
+          "price_cop": 298403,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H5FG8TL2",
+      "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+      "photo_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
+              "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
+      "deal_snapshot": {
+        "asin": "B0H5FG8TL2",
+        "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+        "price_usd": 89.97,
+        "reference_price_usd": 114.97,
+        "discount_pct": 22,
+        "price_cop": 298403,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0CHS69JW3",
+    "title": "Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de aire, universal, manos libres, soporte para teléfono celular, compatible con iPhone, smartphone, cámara",
+    "timestamp": "2026-11-15T19:24:08.441601+00:00",
+    "timestamp_colombia": "2026-11-15T14:24:08.441601-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CHS69JW3",
+      "title": "Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de aire, universal, manos libres, soporte para teléfono celular, compatible con iPhone, smartphone, cámara",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 9.97,
+      "list_price_usd": 12.99,
+      "avg_90d_usd": 12.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/91eWUoslKSL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 12.99,
+      "discount_pct": 23.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 23.2,
+      "price_vs_90d_badge": "📉 23.2% más barato que su promedio de 90 días ($12.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 21.92,
+      "price_cop": 33067,
+      "price_cop_formatted": "$33.067 COP",
+      "total_landed_cop": 72702,
+      "total_landed_cop_formatted": "$72.702 COP",
+      "savings_usd": 3.02,
+      "savings_cop": 10016,
+      "savings_cop_formatted": "$10.016 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $25.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0CHS69JW3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CHS69JW3",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T19:20:27.846924+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de a...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.97 USD</b> (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/91eWUoslKSL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de a...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.97 USD</b> (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+                "url": "https://www.amazon.com/dp/B0CHS69JW3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CHS69JW3"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 123,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794770653,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADe2r6Bt10GP2UshO4R0hsMFOiGcAIAAIqDWsbURLZRyEsaDKpa5bwAQADAgADcwADPQQ",
+              "file_unique_id": "AQADKg1rG1ES2Ud4",
+              "file_size": 2070,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADe2r6Bt10GP2UshO4R0hsMFOiGcAIAAIqDWsbURLZRyEsaDKpa5bwAQADAgADbQADPQQ",
+              "file_unique_id": "AQADKg1rG1ES2Udy",
+              "file_size": 29032,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADe2r6Bt10GP2UshO4R0hsMFOiGcAIAAIqDWsbURLZRyEsaDKpa5bwAQADAgADeAADPQQ",
+              "file_unique_id": "AQADKg1rG1ES2Ud9",
+              "file_size": 118888,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADe2r6Bt10GP2UshO4R0hsMFOiGcAIAAIqDWsbURLZRyEsaDKpa5bwAQADAgADeQADPQQ",
+              "file_unique_id": "AQADKg1rG1ES2Ud-",
+              "file_size": 180338,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-23% OFF)\n📦 Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de a...\n\n💵 Precio Hoy: $9.97 USD (~$33.067 COP · TRM $3.317)\n📉 Más barato que antes: Antes $12.99 USD → Hoy -23% OFF · Ahorras $3.02 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $25.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 186,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 216,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 244,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 261,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 272,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 294,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 494,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 516,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 664,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 679,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 692,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0CHS69JW3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CHS69JW3"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CHS69JW3",
+        "title": "Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de aire, universal, manos libres, soporte para teléfono celular, compatible con iPhone, smartphone, cámara",
+        "photo_url": "https://m.media-amazon.com/images/I/91eWUoslKSL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de a...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.97 USD</b> (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+                "url": "https://www.amazon.com/dp/B0CHS69JW3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CHS69JW3"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CHS69JW3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CHS69JW3",
+        "deal_snapshot": {
+          "asin": "B0CHS69JW3",
+          "title": "Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de aire, universal, manos libres, soporte para teléfono celular, compatible con iPhone, smartphone, cámara",
+          "price_usd": 9.97,
+          "reference_price_usd": 12.99,
+          "discount_pct": 23,
+          "price_cop": 33067,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CHS69JW3",
+      "title": "Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de aire, universal, manos libres, soporte para teléfono celular, compatible con iPhone, smartphone, cámara",
+      "photo_url": "https://m.media-amazon.com/images/I/91eWUoslKSL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de a...</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.97 USD</b> (<i>~$33.067 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($9.97 USD)",
+              "url": "https://www.amazon.com/dp/B0CHS69JW3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CHS69JW3"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CHS69JW3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CHS69JW3",
+      "deal_snapshot": {
+        "asin": "B0CHS69JW3",
+        "title": "Qifutan Soporte de teléfono para automóvil, soporte de teléfono para parabrisas de automóvil, ventilación de aire, universal, manos libres, soporte para teléfono celular, compatible con iPhone, smartphone, cámara",
+        "price_usd": 9.97,
+        "reference_price_usd": 12.99,
+        "discount_pct": 23,
+        "price_cop": 33067,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0CPLVLFK2",
+    "title": "Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de",
+    "timestamp": "2026-11-15T19:24:02.544399+00:00",
+    "timestamp_colombia": "2026-11-15T14:24:02.544399-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CPLVLFK2",
+      "title": "Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 35.95,
+      "list_price_usd": 59.99,
+      "avg_90d_usd": 59.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61XRVcpkxxL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 59.99,
+      "discount_pct": 40.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.1,
+      "price_vs_90d_badge": "📉 40.1% más barato que su promedio de 90 días ($59.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 35.95,
+      "price_cop": 119235,
+      "price_cop_formatted": "$119.235 COP",
+      "total_landed_cop": 119235,
+      "total_landed_cop_formatted": "$119.235 COP",
+      "savings_usd": 24.04,
+      "savings_cop": 79733,
+      "savings_cop_formatted": "$79.733 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0CPLVLFK2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CPLVLFK2",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T19:20:27.846924+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.95 USD</b> (<i>~$119.235 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $24.04 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61XRVcpkxxL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.95 USD</b> (<i>~$119.235 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $24.04 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.95 USD)",
+                "url": "https://www.amazon.com/dp/B0CPLVLFK2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CPLVLFK2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 122,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794770648,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADemr6BthuCxlGdhb8K_BRyCCMZWmLAAIpDWsbURLZRyV9cnjd89gxAQADAgADcwADPQQ",
+              "file_unique_id": "AQADKQ1rG1ES2Ud4",
+              "file_size": 1711,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADemr6BthuCxlGdhb8K_BRyCCMZWmLAAIpDWsbURLZRyV9cnjd89gxAQADAgADbQADPQQ",
+              "file_unique_id": "AQADKQ1rG1ES2Udy",
+              "file_size": 23707,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADemr6BthuCxlGdhb8K_BRyCCMZWmLAAIpDWsbURLZRyV9cnjd89gxAQADAgADeAADPQQ",
+              "file_unique_id": "AQADKQ1rG1ES2Ud9",
+              "file_size": 92941,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADemr6BthuCxlGdhb8K_BRyCCMZWmLAAIpDWsbURLZRyV9cnjd89gxAQADAgADeQADPQQ",
+              "file_unique_id": "AQADKQ1rG1ES2Ud-",
+              "file_size": 135819,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de\n\n💵 Precio Hoy: $35.95 USD (~$119.235 COP · TRM $3.317)\n📉 Más barato que antes: Antes $59.99 USD → Hoy -40% OFF · Ahorras $24.04 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 71,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 182,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 210,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 227,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 443,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 529,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 723,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 738,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 751,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($35.95 USD)",
+                  "url": "https://www.amazon.com/dp/B0CPLVLFK2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CPLVLFK2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CPLVLFK2",
+        "title": "Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de",
+        "photo_url": "https://m.media-amazon.com/images/I/61XRVcpkxxL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.95 USD</b> (<i>~$119.235 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $24.04 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.95 USD)",
+                "url": "https://www.amazon.com/dp/B0CPLVLFK2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CPLVLFK2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CPLVLFK2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CPLVLFK2",
+        "deal_snapshot": {
+          "asin": "B0CPLVLFK2",
+          "title": "Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de",
+          "price_usd": 35.95,
+          "reference_price_usd": 59.99,
+          "discount_pct": 40,
+          "price_cop": 119235,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CPLVLFK2",
+      "title": "Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de",
+      "photo_url": "https://m.media-amazon.com/images/I/61XRVcpkxxL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.95 USD</b> (<i>~$119.235 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$59.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $24.04 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($35.95 USD)",
+              "url": "https://www.amazon.com/dp/B0CPLVLFK2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CPLVLFK2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CPLVLFK2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CPLVLFK2",
+      "deal_snapshot": {
+        "asin": "B0CPLVLFK2",
+        "title": "Turelar Batidora de inmersión de mano con cable, 1100 W 5 en 1 juego de",
+        "price_usd": 35.95,
+        "reference_price_usd": 59.99,
+        "discount_pct": 40,
+        "price_cop": 119235,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HN1ZXSWH",
+    "title": "Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6",
+    "timestamp": "2026-11-15T19:23:59.551847+00:00",
+    "timestamp_colombia": "2026-11-15T14:23:59.551847-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HN1ZXSWH",
+      "title": "Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 79.97,
+      "list_price_usd": 133.99,
+      "avg_90d_usd": 133.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.14,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71bv3j7wXTL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 133.99,
+      "discount_pct": 40.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.3,
+      "price_vs_90d_badge": "📉 40.3% más barato que su promedio de 90 días ($133.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 79.97,
+      "price_cop": 265236,
+      "price_cop_formatted": "$265.236 COP",
+      "total_landed_cop": 265236,
+      "total_landed_cop_formatted": "$265.236 COP",
+      "savings_usd": 54.02,
+      "savings_cop": 179168,
+      "savings_cop_formatted": "$179.168 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HN1ZXSWH?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1ZXSWH",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T19:20:27.846924+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.97 USD</b> (<i>~$265.236 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$133.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $54.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71bv3j7wXTL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.97 USD</b> (<i>~$265.236 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$133.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $54.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.97 USD)",
+                "url": "https://www.amazon.com/dp/B0HN1ZXSWH?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1ZXSWH"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 121,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794770642,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeWr6BtJSGo1SFdsiftOIBxpm4r_oAAIoDWsbURLZR9WC0vM64N3VAQADAgADcwADPQQ",
+              "file_unique_id": "AQADKA1rG1ES2Ud4",
+              "file_size": 2205,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeWr6BtJSGo1SFdsiftOIBxpm4r_oAAIoDWsbURLZR9WC0vM64N3VAQADAgADbQADPQQ",
+              "file_unique_id": "AQADKA1rG1ES2Udy",
+              "file_size": 32266,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeWr6BtJSGo1SFdsiftOIBxpm4r_oAAIoDWsbURLZR9WC0vM64N3VAQADAgADeAADPQQ",
+              "file_unique_id": "AQADKA1rG1ES2Ud9",
+              "file_size": 131453,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeWr6BtJSGo1SFdsiftOIBxpm4r_oAAIoDWsbURLZR9WC0vM64N3VAQADAgADeQADPQQ",
+              "file_unique_id": "AQADKA1rG1ES2Ud-",
+              "file_size": 197868,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6\n\n💵 Precio Hoy: $79.97 USD (~$265.236 COP · TRM $3.317)\n📉 Más barato que antes: Antes $133.99 USD → Hoy -40% OFF · Ahorras $54.02 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 155,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 186,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 214,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 232,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 243,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 266,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 448,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 534,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 743,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 756,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($79.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0HN1ZXSWH?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1ZXSWH"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HN1ZXSWH",
+        "title": "Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6",
+        "photo_url": "https://m.media-amazon.com/images/I/71bv3j7wXTL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.97 USD</b> (<i>~$265.236 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$133.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $54.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.97 USD)",
+                "url": "https://www.amazon.com/dp/B0HN1ZXSWH?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1ZXSWH"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HN1ZXSWH?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1ZXSWH",
+        "deal_snapshot": {
+          "asin": "B0HN1ZXSWH",
+          "title": "Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6",
+          "price_usd": 79.97,
+          "reference_price_usd": 133.99,
+          "discount_pct": 40,
+          "price_cop": 265236,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HN1ZXSWH",
+      "title": "Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6",
+      "photo_url": "https://m.media-amazon.com/images/I/71bv3j7wXTL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.97 USD</b> (<i>~$265.236 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$133.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $54.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($79.97 USD)",
+              "url": "https://www.amazon.com/dp/B0HN1ZXSWH?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1ZXSWH"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HN1ZXSWH?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1ZXSWH",
+      "deal_snapshot": {
+        "asin": "B0HN1ZXSWH",
+        "title": "Android 16 Tablet 10 pulgadas, 24GB RAM 64GB ROM 1TB, HD IPS, WiFi rápido 6",
+        "price_usd": 79.97,
+        "reference_price_usd": 133.99,
+        "discount_pct": 40,
+        "price_cop": 265236,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HFYNG1D1",
     "title": "Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360",
     "timestamp": "2026-11-15T18:33:33.836066+00:00",
