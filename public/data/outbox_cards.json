@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B00UET6VJ6",
+    "title": "El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.",
+    "timestamp": "2026-11-15T01:43:32.614881+00:00",
+    "timestamp_colombia": "2026-11-14T20:43:32.614881-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B00UET6VJ6",
+      "title": "El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 159.99,
+      "list_price_usd": 199.99,
+      "avg_90d_usd": 199.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71WYDlBNM4L._AC_SL1472_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 199.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($199.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 159.99,
+      "price_cop": 530639,
+      "price_cop_formatted": "$530.639 COP",
+      "total_landed_cop": 530639,
+      "total_landed_cop_formatted": "$530.639 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 132668,
+      "savings_cop_formatted": "$132.668 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B00UET6VJ6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00UET6VJ6",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T01:40:28.609082+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$530.639 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71WYDlBNM4L._AC_SL1472_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$530.639 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                "url": "https://www.amazon.com/dp/B00UET6VJ6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00UET6VJ6"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 90,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794707017,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWmr5Dkn8cfz2sxasSxTwVm6EM7aWAAJUDWsbXhPIR26-G_UnYDECAQADAgADcwADPQQ",
+              "file_unique_id": "AQADVA1rG14TyEd4",
+              "file_size": 2076,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWmr5Dkn8cfz2sxasSxTwVm6EM7aWAAJUDWsbXhPIR26-G_UnYDECAQADAgADbQADPQQ",
+              "file_unique_id": "AQADVA1rG14TyEdy",
+              "file_size": 30097,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWmr5Dkn8cfz2sxasSxTwVm6EM7aWAAJUDWsbXhPIR26-G_UnYDECAQADAgADeAADPQQ",
+              "file_unique_id": "AQADVA1rG14TyEd9",
+              "file_size": 121906,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWmr5Dkn8cfz2sxasSxTwVm6EM7aWAAJUDWsbXhPIR26-G_UnYDECAQADAgADeQADPQQ",
+              "file_unique_id": "AQADVA1rG14TyEd-",
+              "file_size": 182707,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.\n\n💵 Precio Hoy: $159.99 USD (~$530.639 COP · TRM $3.317)\n📉 Más barato que antes: Antes $199.99 USD → Hoy -20% OFF · Ahorras $40.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 168,
+              "type": "bold"
+            },
+            {
+              "offset": 218,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 243,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 274,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 302,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 320,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 331,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 354,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 536,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 622,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 816,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 831,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 844,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                  "url": "https://www.amazon.com/dp/B00UET6VJ6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00UET6VJ6"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B00UET6VJ6",
+        "title": "El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.",
+        "photo_url": "https://m.media-amazon.com/images/I/71WYDlBNM4L._AC_SL1472_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$530.639 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                "url": "https://www.amazon.com/dp/B00UET6VJ6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00UET6VJ6"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B00UET6VJ6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00UET6VJ6",
+        "deal_snapshot": {
+          "asin": "B00UET6VJ6",
+          "title": "El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.",
+          "price_usd": 159.99,
+          "reference_price_usd": 199.99,
+          "discount_pct": 20,
+          "price_cop": 530639,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B00UET6VJ6",
+      "title": "El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.",
+      "photo_url": "https://m.media-amazon.com/images/I/71WYDlBNM4L._AC_SL1472_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$530.639 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+              "url": "https://www.amazon.com/dp/B00UET6VJ6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00UET6VJ6"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B00UET6VJ6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B00UET6VJ6",
+      "deal_snapshot": {
+        "asin": "B00UET6VJ6",
+        "title": "El paquete oficial de arduino, juego para principiantes con: Introducción a Arduino: La Plataforma de Prototipos de Electrónica de Código Abierto, 3ª edición del libro.",
+        "price_usd": 159.99,
+        "reference_price_usd": 199.99,
+        "discount_pct": 20,
+        "price_cop": 530639,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0DHNG4DL8",
+    "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+    "timestamp": "2026-11-15T01:43:30.508492+00:00",
+    "timestamp_colombia": "2026-11-14T20:43:30.508492-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0DHNG4DL8",
+      "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 69.99,
+      "list_price_usd": 89.99,
+      "avg_90d_usd": 89.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 89.99,
+      "discount_pct": 22.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 22.2,
+      "price_vs_90d_badge": "📉 22.2% más barato que su promedio de 90 días ($89.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 69.99,
+      "price_cop": 232136,
+      "price_cop_formatted": "$232.136 COP",
+      "total_landed_cop": 232136,
+      "total_landed_cop_formatted": "$232.136 COP",
+      "savings_usd": 20.0,
+      "savings_cop": 66334,
+      "savings_cop_formatted": "$66.334 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T01:40:28.609082+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 89,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794707012,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADcwADPQQ",
+              "file_unique_id": "AQADUw1rG14TyEd4",
+              "file_size": 1931,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADbQADPQQ",
+              "file_unique_id": "AQADUw1rG14TyEdy",
+              "file_size": 25851,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADeAADPQQ",
+              "file_unique_id": "AQADUw1rG14TyEd9",
+              "file_size": 100746,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADeQADPQQ",
+              "file_unique_id": "AQADUw1rG14TyEd-",
+              "file_size": 149196,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-22% OFF)\n📦 WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM\n\n💵 Precio Hoy: $69.99 USD (~$232.136 COP · TRM $3.317)\n📉 Más barato que antes: Antes $89.99 USD → Hoy -22% OFF · Ahorras $20.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 134,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 146,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 177,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 222,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 233,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 438,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 524,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 718,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 733,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 746,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0DHNG4DL8",
+        "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+        "photo_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
+        "deal_snapshot": {
+          "asin": "B0DHNG4DL8",
+          "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+          "price_usd": 69.99,
+          "reference_price_usd": 89.99,
+          "discount_pct": 22,
+          "price_cop": 232136,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0DHNG4DL8",
+      "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+      "photo_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
+              "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
+      "deal_snapshot": {
+        "asin": "B0DHNG4DL8",
+        "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+        "price_usd": 69.99,
+        "reference_price_usd": 89.99,
+        "discount_pct": 22,
+        "price_cop": 232136,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0DTC5N26L",
     "title": "Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna",
     "timestamp": "2026-11-15T01:33:35.454568+00:00",
