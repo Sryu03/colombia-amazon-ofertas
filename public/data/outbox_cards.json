@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0DTC5N26L",
+    "title": "Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna",
+    "timestamp": "2026-11-15T01:33:35.454568+00:00",
+    "timestamp_colombia": "2026-11-14T20:33:35.454568-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0DTC5N26L",
+      "title": "Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 799.99,
+      "list_price_usd": 1139.99,
+      "avg_90d_usd": 1139.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71tQzKiXmNL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 1139.99,
+      "discount_pct": 29.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 29.8,
+      "price_vs_90d_badge": "📉 29.8% más barato que su promedio de 90 días ($1139.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 152.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 951.99,
+      "price_cop": 2653327,
+      "price_cop_formatted": "$2.653.327 COP",
+      "total_landed_cop": 3157465,
+      "total_landed_cop_formatted": "$3.157.465 COP",
+      "savings_usd": 340.0,
+      "savings_cop": 1127678,
+      "savings_cop_formatted": "$1.127.678 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B0DTC5N26L?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DTC5N26L",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T01:30:26.925538+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14&quot; - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna</b>\n\n💵 <b>Precio Hoy:</b> <b>$799.99 USD</b> (<i>~$2.653.327 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$1139.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $340.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71tQzKiXmNL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14&quot; - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna</b>\n\n💵 <b>Precio Hoy:</b> <b>$799.99 USD</b> (<i>~$2.653.327 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$1139.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $340.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($799.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DTC5N26L?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DTC5N26L"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 88,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794706417,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWGr5C_HGu5M6Z4-D461P8uuFtlRHAAJSDWsbXhPIRySFwsPVGmHDAQADAgADcwADPQQ",
+              "file_unique_id": "AQADUg1rG14TyEd4",
+              "file_size": 1909,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWGr5C_HGu5M6Z4-D461P8uuFtlRHAAJSDWsbXhPIRySFwsPVGmHDAQADAgADbQADPQQ",
+              "file_unique_id": "AQADUg1rG14TyEdy",
+              "file_size": 26769,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWGr5C_HGu5M6Z4-D461P8uuFtlRHAAJSDWsbXhPIRySFwsPVGmHDAQADAgADeAADPQQ",
+              "file_unique_id": "AQADUg1rG14TyEd9",
+              "file_size": 104786,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWGr5C_HGu5M6Z4-D461P8uuFtlRHAAJSDWsbXhPIRySFwsPVGmHDAQADAgADeQADPQQ",
+              "file_unique_id": "AQADUg1rG14TyEd-",
+              "file_size": 158391,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna\n\n💵 Precio Hoy: $799.99 USD (~$2.653.327 COP · TRM $3.317)\n📉 Más barato que antes: Antes $1139.99 USD → Hoy -30% OFF · Ahorras $340.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 164,
+              "type": "bold"
+            },
+            {
+              "offset": 214,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 226,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 15,
+              "type": "italic"
+            },
+            {
+              "offset": 272,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 300,
+              "length": 12,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 319,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 330,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 354,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 538,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 624,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 789,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 804,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 817,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($799.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0DTC5N26L?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DTC5N26L"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0DTC5N26L",
+        "title": "Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna",
+        "photo_url": "https://m.media-amazon.com/images/I/71tQzKiXmNL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14&quot; - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna</b>\n\n💵 <b>Precio Hoy:</b> <b>$799.99 USD</b> (<i>~$2.653.327 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$1139.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $340.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($799.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DTC5N26L?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DTC5N26L"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0DTC5N26L?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DTC5N26L",
+        "deal_snapshot": {
+          "asin": "B0DTC5N26L",
+          "title": "Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna",
+          "price_usd": 799.99,
+          "reference_price_usd": 1139.99,
+          "discount_pct": 30,
+          "price_cop": 2653327,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0DTC5N26L",
+      "title": "Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna",
+      "photo_url": "https://m.media-amazon.com/images/I/71tQzKiXmNL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14&quot; - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna</b>\n\n💵 <b>Precio Hoy:</b> <b>$799.99 USD</b> (<i>~$2.653.327 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$1139.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $340.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($799.99 USD)",
+              "url": "https://www.amazon.com/dp/B0DTC5N26L?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DTC5N26L"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0DTC5N26L?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DTC5N26L",
+      "deal_snapshot": {
+        "asin": "B0DTC5N26L",
+        "title": "Lenovo Slim 7i Aura Edition - 2025 - Copilot+ PC - Procesador Core Ultra 7 256V - Pantalla OLED WUXGA de 14\" - Memoria de 16 GB - Almacenamiento de 1 TB - Gris Luna",
+        "price_usd": 799.99,
+        "reference_price_usd": 1139.99,
+        "discount_pct": 30,
+        "price_cop": 2653327,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
     "asin": "B09LYF2ST7",
     "title": "Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi",
     "timestamp": "2026-11-15T01:13:20.365929+00:00",
