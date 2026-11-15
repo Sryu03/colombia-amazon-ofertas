@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0CXGXT6W8",
+    "title": "JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono",
+    "timestamp": "2026-11-15T05:23:28.230053+00:00",
+    "timestamp_colombia": "2026-11-15T00:23:28.230053-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CXGXT6W8",
+      "title": "JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono",
+      "category": "Audio",
+      "brand": "",
+      "price_usd": 18.99,
+      "list_price_usd": 26.99,
+      "avg_90d_usd": 26.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/714e6+cl0kL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 26.99,
+      "discount_pct": 29.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 29.6,
+      "price_vs_90d_badge": "📉 29.6% más barato que su promedio de 90 días ($26.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 30.94,
+      "price_cop": 62984,
+      "price_cop_formatted": "$62.984 COP",
+      "total_landed_cop": 102619,
+      "total_landed_cop_formatted": "$102.619 COP",
+      "savings_usd": 8.0,
+      "savings_cop": 26534,
+      "savings_cop_formatted": "$26.534 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0CXGXT6W8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CXGXT6W8",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T05:20:24.978849+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$62.984 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $8.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/714e6+cl0kL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$62.984 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $8.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CXGXT6W8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CXGXT6W8"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 96,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794720212,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYGr5QdSQsFV7sqQxbtIC2LggAizWAAJmDWsbXhPIR7Gg5S2LUYxrAQADAgADcwADPQQ",
+              "file_unique_id": "AQADZg1rG14TyEd4",
+              "file_size": 1767,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYGr5QdSQsFV7sqQxbtIC2LggAizWAAJmDWsbXhPIR7Gg5S2LUYxrAQADAgADbQADPQQ",
+              "file_unique_id": "AQADZg1rG14TyEdy",
+              "file_size": 23509,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYGr5QdSQsFV7sqQxbtIC2LggAizWAAJmDWsbXhPIR7Gg5S2LUYxrAQADAgADeAADPQQ",
+              "file_unique_id": "AQADZg1rG14TyEd9",
+              "file_size": 90501,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYGr5QdSQsFV7sqQxbtIC2LggAizWAAJmDWsbXhPIR7Gg5S2LUYxrAQADAgADeQADPQQ",
+              "file_unique_id": "AQADZg1rG14TyEd-",
+              "file_size": 135066,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono\n\n💵 Precio Hoy: $18.99 USD (~$62.984 COP · TRM $3.317)\n📉 Más barato que antes: Antes $26.99 USD → Hoy -30% OFF · Ahorras $8.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 193,
+              "type": "bold"
+            },
+            {
+              "offset": 243,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 255,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 267,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 297,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 325,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 342,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 353,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 375,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 575,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 661,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 809,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 824,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 837,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0CXGXT6W8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CXGXT6W8"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CXGXT6W8",
+        "title": "JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono",
+        "photo_url": "https://m.media-amazon.com/images/I/714e6+cl0kL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$62.984 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $8.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CXGXT6W8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CXGXT6W8"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CXGXT6W8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CXGXT6W8",
+        "deal_snapshot": {
+          "asin": "B0CXGXT6W8",
+          "title": "JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono",
+          "price_usd": 18.99,
+          "reference_price_usd": 26.99,
+          "discount_pct": 30,
+          "price_cop": 62984,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CXGXT6W8",
+      "title": "JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono",
+      "photo_url": "https://m.media-amazon.com/images/I/714e6+cl0kL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$62.984 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $8.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+              "url": "https://www.amazon.com/dp/B0CXGXT6W8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CXGXT6W8"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CXGXT6W8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CXGXT6W8",
+      "deal_snapshot": {
+        "asin": "B0CXGXT6W8",
+        "title": "JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono",
+        "price_usd": 18.99,
+        "reference_price_usd": 26.99,
+        "discount_pct": 30,
+        "price_cop": 62984,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0CSXV3GK4",
+    "title": "Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos",
+    "timestamp": "2026-11-15T05:23:26.429574+00:00",
+    "timestamp_colombia": "2026-11-15T00:23:26.429574-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CSXV3GK4",
+      "title": "Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos",
+      "category": "Audio",
+      "brand": "",
+      "price_usd": 25.99,
+      "list_price_usd": 39.99,
+      "avg_90d_usd": 39.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71NMUHszF4L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 39.99,
+      "discount_pct": 35.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 35.0,
+      "price_vs_90d_badge": "📉 35.0% más barato que su promedio de 90 días ($39.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 37.94,
+      "price_cop": 86201,
+      "price_cop_formatted": "$86.201 COP",
+      "total_landed_cop": 125836,
+      "total_landed_cop_formatted": "$125.836 COP",
+      "savings_usd": 14.0,
+      "savings_cop": 46434,
+      "savings_cop_formatted": "$46.434 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $9.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0CSXV3GK4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CSXV3GK4",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T05:20:24.978849+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.99 USD</b> (<i>~$86.201 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71NMUHszF4L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.99 USD</b> (<i>~$86.201 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($25.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CSXV3GK4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CSXV3GK4"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 95,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794720208,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADX2r5Qc8o7W6euNjbpx7Slwzpaa85AAJlDWsbXhPIRx7r0eCg78Z9AQADAgADcwADPQQ",
+              "file_unique_id": "AQADZQ1rG14TyEd4",
+              "file_size": 1898,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADX2r5Qc8o7W6euNjbpx7Slwzpaa85AAJlDWsbXhPIRx7r0eCg78Z9AQADAgADbQADPQQ",
+              "file_unique_id": "AQADZQ1rG14TyEdy",
+              "file_size": 26935,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADX2r5Qc8o7W6euNjbpx7Slwzpaa85AAJlDWsbXhPIRx7r0eCg78Z9AQADAgADeAADPQQ",
+              "file_unique_id": "AQADZQ1rG14TyEd9",
+              "file_size": 106605,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADX2r5Qc8o7W6euNjbpx7Slwzpaa85AAJlDWsbXhPIRx7r0eCg78Z9AQADAgADeQADPQQ",
+              "file_unique_id": "AQADZQ1rG14TyEd-",
+              "file_size": 158574,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)\n📦 Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos\n\n💵 Precio Hoy: $25.99 USD (~$86.201 COP · TRM $3.317)\n📉 Más barato que antes: Antes $39.99 USD → Hoy -35% OFF · Ahorras $14.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $9.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 155,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 185,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 213,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 230,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 241,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 264,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 464,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 550,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 697,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 712,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 725,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($25.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0CSXV3GK4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CSXV3GK4"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CSXV3GK4",
+        "title": "Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos",
+        "photo_url": "https://m.media-amazon.com/images/I/71NMUHszF4L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.99 USD</b> (<i>~$86.201 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($25.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CSXV3GK4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CSXV3GK4"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CSXV3GK4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CSXV3GK4",
+        "deal_snapshot": {
+          "asin": "B0CSXV3GK4",
+          "title": "Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos",
+          "price_usd": 25.99,
+          "reference_price_usd": 39.99,
+          "discount_pct": 35,
+          "price_cop": 86201,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CSXV3GK4",
+      "title": "Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos",
+      "photo_url": "https://m.media-amazon.com/images/I/71NMUHszF4L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-35% OFF)</b>\n📦 <b>Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.99 USD</b> (<i>~$86.201 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($25.99 USD)",
+              "url": "https://www.amazon.com/dp/B0CSXV3GK4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CSXV3GK4"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CSXV3GK4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CSXV3GK4",
+      "deal_snapshot": {
+        "asin": "B0CSXV3GK4",
+        "title": "Auriculares inalámbricos 75H Bluetooth 5.4 Sport con ganchos para los oídos",
+        "price_usd": 25.99,
+        "reference_price_usd": 39.99,
+        "discount_pct": 35,
+        "price_cop": 86201,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0BTCNW16C",
     "title": "SAIJI Escritorio de regazo para laptop, escritorio portátil para",
     "timestamp": "2026-11-15T05:03:22.429817+00:00",
