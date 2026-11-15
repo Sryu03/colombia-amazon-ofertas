@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B09PSSSFPF",
+    "title": "Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro",
+    "timestamp": "2026-11-15T05:33:05.964744+00:00",
+    "timestamp_colombia": "2026-11-15T00:33:05.964744-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B09PSSSFPF",
+      "title": "Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 249.0,
+      "list_price_usd": 399.99,
+      "avg_90d_usd": 399.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/619e3077wWL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 399.99,
+      "discount_pct": 37.7,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 37.7,
+      "price_vs_90d_badge": "📉 37.7% más barato que su promedio de 90 días ($399.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 47.31,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 296.31,
+      "price_cop": 825858,
+      "price_cop_formatted": "$825.858 COP",
+      "total_landed_cop": 982771,
+      "total_landed_cop_formatted": "$982.771 COP",
+      "savings_usd": 150.99,
+      "savings_cop": 500789,
+      "savings_cop_formatted": "$500.789 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B09PSSSFPF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09PSSSFPF",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T05:30:22.814326+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$249.00 USD</b> (<i>~$825.858 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$399.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $150.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/619e3077wWL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$249.00 USD</b> (<i>~$825.858 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$399.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $150.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($249.00 USD)",
+                "url": "https://www.amazon.com/dp/B09PSSSFPF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09PSSSFPF"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 97,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794720787,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYWr5RBOvjT-wZbF_vuYZv07UpHwgAAJnDWsbXhPIRwOx6R8Qdme2AQADAgADcwADPQQ",
+              "file_unique_id": "AQADZw1rG14TyEd4",
+              "file_size": 1700,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYWr5RBOvjT-wZbF_vuYZv07UpHwgAAJnDWsbXhPIRwOx6R8Qdme2AQADAgADbQADPQQ",
+              "file_unique_id": "AQADZw1rG14TyEdy",
+              "file_size": 22790,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYWr5RBOvjT-wZbF_vuYZv07UpHwgAAJnDWsbXhPIRwOx6R8Qdme2AQADAgADeAADPQQ",
+              "file_unique_id": "AQADZw1rG14TyEd9",
+              "file_size": 87443,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADYWr5RBOvjT-wZbF_vuYZv07UpHwgAAJnDWsbXhPIRwOx6R8Qdme2AQADAgADeQADPQQ",
+              "file_unique_id": "AQADZw1rG14TyEd-",
+              "file_size": 128564,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)\n📦 Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro\n\n💵 Precio Hoy: $249.00 USD (~$825.858 COP · TRM $3.317)\n📉 Más barato que antes: Antes $399.99 USD → Hoy -38% OFF · Ahorras $150.99 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 102,
+              "type": "bold"
+            },
+            {
+              "offset": 158,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 170,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 183,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 214,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 242,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 260,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 271,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 295,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 479,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 565,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 730,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 745,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 758,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($249.00 USD)",
+                  "url": "https://www.amazon.com/dp/B09PSSSFPF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09PSSSFPF"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B09PSSSFPF",
+        "title": "Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro",
+        "photo_url": "https://m.media-amazon.com/images/I/619e3077wWL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$249.00 USD</b> (<i>~$825.858 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$399.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $150.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($249.00 USD)",
+                "url": "https://www.amazon.com/dp/B09PSSSFPF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09PSSSFPF"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B09PSSSFPF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09PSSSFPF",
+        "deal_snapshot": {
+          "asin": "B09PSSSFPF",
+          "title": "Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro",
+          "price_usd": 249.0,
+          "reference_price_usd": 399.99,
+          "discount_pct": 38,
+          "price_cop": 825858,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B09PSSSFPF",
+      "title": "Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro",
+      "photo_url": "https://m.media-amazon.com/images/I/619e3077wWL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$249.00 USD</b> (<i>~$825.858 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$399.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $150.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($249.00 USD)",
+              "url": "https://www.amazon.com/dp/B09PSSSFPF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09PSSSFPF"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B09PSSSFPF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09PSSSFPF",
+      "deal_snapshot": {
+        "asin": "B09PSSSFPF",
+        "title": "Garmin inReach Mini 2, comunicador satelital ligero y compacto, para senderismo, portátil, color negro",
+        "price_usd": 249.0,
+        "reference_price_usd": 399.99,
+        "discount_pct": 38,
+        "price_cop": 825858,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
     "asin": "B0CXGXT6W8",
     "title": "JLab Go Air Pop+ Auriculares Verdaderamente Inalámbricos, Auriculares Intraauriculares, Auriculares Bluetooth, Auriculares con 35H de Tiempo de Reproducción, Auriculares Bluetooth con Micrófono",
     "timestamp": "2026-11-15T05:23:28.230053+00:00",
