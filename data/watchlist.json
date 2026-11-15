@@ -1,5 +1,9 @@
 [
   {
+    "asin": "B0HJB15D6L",
+    "category": "Tecnología"
+  },
+  {
     "asin": "B0HJB4G7BR",
     "category": "Tecnología"
   },
@@ -594,9 +598,5 @@
   {
     "asin": "B0FNWCYLZN",
     "category": "Audio"
-  },
-  {
-    "asin": "B0GGPBR4YP",
-    "category": "Tecnología"
   }
 ]
