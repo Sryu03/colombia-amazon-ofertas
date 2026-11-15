@@ -913,10 +913,10 @@
     "asin": "B0CZPLV566",
     "last_price_usd": 129.95,
     "min_price_seen_usd": 129.95,
-    "avg_90d_usd": 199.44,
+    "avg_90d_usd": 199.94,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-14T17:10:00.053006+00:00",
-    "last_seen_at": "2026-11-15T10:44:37.873421+00:00",
+    "last_seen_at": "2026-11-15T11:10:50.580496+00:00",
     "last_published_at": null
   },
   "B0DWX69JVG": {
@@ -1796,7 +1796,7 @@
     "avg_90d_usd": 34.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-15T10:44:37.861382+00:00",
-    "last_seen_at": "2026-11-15T10:44:37.861382+00:00",
+    "last_seen_at": "2026-11-15T11:10:50.578358+00:00",
     "last_published_at": null
   }
 }
