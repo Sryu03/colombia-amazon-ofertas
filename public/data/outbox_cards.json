@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0HFYNG1D1",
+    "title": "Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360",
+    "timestamp": "2026-11-15T18:33:33.836066+00:00",
+    "timestamp_colombia": "2026-11-15T13:33:33.836066-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0HFYNG1D1",
+      "title": "Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 199.99,
+      "list_price_usd": 314.99,
+      "avg_90d_usd": 314.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.04,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71bZ0oXD4AL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 314.99,
+      "discount_pct": 36.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 36.5,
+      "price_vs_90d_badge": "📉 36.5% más barato que su promedio de 90 días ($314.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 199.99,
+      "price_cop": 663307,
+      "price_cop_formatted": "$663.307 COP",
+      "total_landed_cop": 663307,
+      "total_landed_cop_formatted": "$663.307 COP",
+      "savings_usd": 115.0,
+      "savings_cop": 381420,
+      "savings_cop_formatted": "$381.420 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HFYNG1D1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFYNG1D1",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T18:30:21.702307+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-36% OFF)</b>\n📦 <b>Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360</b>\n\n💵 <b>Precio Hoy:</b> <b>$199.99 USD</b> (<i>~$663.307 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$314.99 USD</s> → Hoy <b>-36% OFF</b> · <b>Ahorras $115.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71bZ0oXD4AL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-36% OFF)</b>\n📦 <b>Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360</b>\n\n💵 <b>Precio Hoy:</b> <b>$199.99 USD</b> (<i>~$663.307 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$314.99 USD</s> → Hoy <b>-36% OFF</b> · <b>Ahorras $115.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($199.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HFYNG1D1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFYNG1D1"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 120,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794767615,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeGr5-v9Ezm3AgP96K6M0AAGUm3BvAQACOxBrG1ES0UdzbC4R3zJSuwEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADOxBrG1ES0Ud4",
+              "file_size": 1762,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeGr5-v9Ezm3AgP96K6M0AAGUm3BvAQACOxBrG1ES0UdzbC4R3zJSuwEAAwIAA20AAz0E",
+              "file_unique_id": "AQADOxBrG1ES0Udy",
+              "file_size": 24133,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeGr5-v9Ezm3AgP96K6M0AAGUm3BvAQACOxBrG1ES0UdzbC4R3zJSuwEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADOxBrG1ES0Ud9",
+              "file_size": 95278,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADeGr5-v9Ezm3AgP96K6M0AAGUm3BvAQACOxBrG1ES0UdzbC4R3zJSuwEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADOxBrG1ES0Ud-",
+              "file_size": 139880,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-36% OFF)\n📦 Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360\n\n💵 Precio Hoy: $199.99 USD (~$663.307 COP · TRM $3.317)\n📉 Más barato que antes: Antes $314.99 USD → Hoy -36% OFF · Ahorras $115.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 65,
+              "type": "bold"
+            },
+            {
+              "offset": 121,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 133,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 146,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 177,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 223,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 234,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 258,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 440,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 526,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 735,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 748,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($199.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HFYNG1D1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFYNG1D1"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HFYNG1D1",
+        "title": "Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360",
+        "photo_url": "https://m.media-amazon.com/images/I/71bZ0oXD4AL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-36% OFF)</b>\n📦 <b>Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360</b>\n\n💵 <b>Precio Hoy:</b> <b>$199.99 USD</b> (<i>~$663.307 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$314.99 USD</s> → Hoy <b>-36% OFF</b> · <b>Ahorras $115.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($199.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HFYNG1D1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFYNG1D1"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HFYNG1D1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFYNG1D1",
+        "deal_snapshot": {
+          "asin": "B0HFYNG1D1",
+          "title": "Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360",
+          "price_usd": 199.99,
+          "reference_price_usd": 314.99,
+          "discount_pct": 36,
+          "price_cop": 663307,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HFYNG1D1",
+      "title": "Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360",
+      "photo_url": "https://m.media-amazon.com/images/I/71bZ0oXD4AL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-36% OFF)</b>\n📦 <b>Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360</b>\n\n💵 <b>Precio Hoy:</b> <b>$199.99 USD</b> (<i>~$663.307 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$314.99 USD</s> → Hoy <b>-36% OFF</b> · <b>Ahorras $115.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($199.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HFYNG1D1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFYNG1D1"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HFYNG1D1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFYNG1D1",
+      "deal_snapshot": {
+        "asin": "B0HFYNG1D1",
+        "title": "Owlet Dream Sock Smart Baby Monitor, incluye 3 meses de Owlet 360",
+        "price_usd": 199.99,
+        "reference_price_usd": 314.99,
+        "discount_pct": 36,
+        "price_cop": 663307,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0GVWPMG8F",
     "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
     "timestamp": "2026-11-15T16:23:34.525505+00:00",
