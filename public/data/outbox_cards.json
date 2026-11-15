@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0H2JY6WBC",
+    "title": "EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English",
+    "timestamp": "2026-11-15T14:53:09.502883+00:00",
+    "timestamp_colombia": "2026-11-15T09:53:09.502883-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H2JY6WBC",
+      "title": "EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 34.99,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61hwYFqeWuL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 46.94,
+      "price_cop": 116051,
+      "price_cop_formatted": "$116.051 COP",
+      "total_landed_cop": 155686,
+      "total_landed_cop_formatted": "$155.686 COP",
+      "savings_usd": 35.0,
+      "savings_cop": 116084,
+      "savings_cop_formatted": "$116.084 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H2JY6WBC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JY6WBC",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T14:50:19.245348+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61hwYFqeWuL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H2JY6WBC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JY6WBC"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 116,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794754391,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADdGr5x1fcE_SxN136JBatHJ2CckVjAALsD2sbURLRR2HQbK_z9-tCAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD7A9rG1ES0Ud4",
+              "file_size": 1931,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADdGr5x1fcE_SxN136JBatHJ2CckVjAALsD2sbURLRR2HQbK_z9-tCAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD7A9rG1ES0Udy",
+              "file_size": 26267,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADdGr5x1fcE_SxN136JBatHJ2CckVjAALsD2sbURLRR2HQbK_z9-tCAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD7A9rG1ES0Ud9",
+              "file_size": 102082,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADdGr5x1fcE_SxN136JBatHJ2CckVjAALsD2sbURLRR2HQbK_z9-tCAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD7A9rG1ES0Ud-",
+              "file_size": 151393,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English\n\n💵 Precio Hoy: $34.99 USD (~$116.051 COP · TRM $3.317)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -50% OFF · Ahorras $35.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 83,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 194,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 222,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 239,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 250,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 273,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 473,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 559,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 706,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 721,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 734,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0H2JY6WBC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JY6WBC"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H2JY6WBC",
+        "title": "EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English",
+        "photo_url": "https://m.media-amazon.com/images/I/61hwYFqeWuL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H2JY6WBC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JY6WBC"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H2JY6WBC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JY6WBC",
+        "deal_snapshot": {
+          "asin": "B0H2JY6WBC",
+          "title": "EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English",
+          "price_usd": 34.99,
+          "reference_price_usd": 69.99,
+          "discount_pct": 50,
+          "price_cop": 116051,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H2JY6WBC",
+      "title": "EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English",
+      "photo_url": "https://m.media-amazon.com/images/I/61hwYFqeWuL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+              "url": "https://www.amazon.com/dp/B0H2JY6WBC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JY6WBC"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H2JY6WBC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JY6WBC",
+      "deal_snapshot": {
+        "asin": "B0H2JY6WBC",
+        "title": "EA Sports Madden NFL 27 - Standard Edition Xbox Series X |Disc I VideoGame |English",
+        "price_usd": 34.99,
+        "reference_price_usd": 69.99,
+        "discount_pct": 50,
+        "price_cop": 116051,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B01IR7R6X6",
     "title": "Levi's Jeans 505 de ajuste regular para hombre (también disponibles en tallas grandes y altas)",
     "timestamp": "2026-11-15T14:33:06.850553+00:00",
