@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0H8FS7DJ3",
+    "title": "Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code",
+    "timestamp": "2026-11-15T08:03:17.163346+00:00",
+    "timestamp_colombia": "2026-11-15T03:03:17.163346-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H8FS7DJ3",
+      "title": "Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 35.0,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 3.23,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71SebQ-cCtL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 35.0,
+      "price_cop": 145250,
+      "price_cop_formatted": "$145.250 COP",
+      "total_landed_cop": 145250,
+      "total_landed_cop_formatted": "$145.250 COP",
+      "savings_usd": 34.99,
+      "savings_cop": 145208,
+      "savings_cop_formatted": "$145.208 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H8FS7DJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8FS7DJ3",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T08:00:33.301443+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.00 USD</b> (<i>~$145.250 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $34.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71SebQ-cCtL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.00 USD</b> (<i>~$145.250 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $34.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.00 USD)",
+                "url": "https://www.amazon.com/dp/B0H8FS7DJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8FS7DJ3"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 100,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794729799,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZGr5Z0c5R5gmcWxmUZla_voVkQeoAAL3DGsbXhPQR7BkSb3V2XnbAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD9wxrG14T0Ed4",
+              "file_size": 1876,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZGr5Z0c5R5gmcWxmUZla_voVkQeoAAL3DGsbXhPQR7BkSb3V2XnbAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD9wxrG14T0Edy",
+              "file_size": 24809,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZGr5Z0c5R5gmcWxmUZla_voVkQeoAAL3DGsbXhPQR7BkSb3V2XnbAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD9wxrG14T0Ed9",
+              "file_size": 97737,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZGr5Z0c5R5gmcWxmUZla_voVkQeoAAL3DGsbXhPQR7BkSb3V2XnbAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD9wxrG14T0Ed-",
+              "file_size": 143340,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code\n\n💵 Precio Hoy: $35.00 USD (~$145.250 COP · TRM $4.150)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -50% OFF · Ahorras $34.99 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 119,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 174,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 219,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 253,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 435,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 521,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 715,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 730,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 743,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($35.00 USD)",
+                  "url": "https://www.amazon.com/dp/B0H8FS7DJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8FS7DJ3"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H8FS7DJ3",
+        "title": "Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code",
+        "photo_url": "https://m.media-amazon.com/images/I/71SebQ-cCtL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.00 USD</b> (<i>~$145.250 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $34.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.00 USD)",
+                "url": "https://www.amazon.com/dp/B0H8FS7DJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8FS7DJ3"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H8FS7DJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8FS7DJ3",
+        "deal_snapshot": {
+          "asin": "B0H8FS7DJ3",
+          "title": "Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code",
+          "price_usd": 35.0,
+          "reference_price_usd": 69.99,
+          "discount_pct": 50,
+          "price_cop": 145250,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H8FS7DJ3",
+      "title": "Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code",
+      "photo_url": "https://m.media-amazon.com/images/I/71SebQ-cCtL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.00 USD</b> (<i>~$145.250 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $34.99 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($35.00 USD)",
+              "url": "https://www.amazon.com/dp/B0H8FS7DJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8FS7DJ3"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H8FS7DJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8FS7DJ3",
+      "deal_snapshot": {
+        "asin": "B0H8FS7DJ3",
+        "title": "Madden NFL 27 | Standard Edition | XBOX Series X|S Digital Code",
+        "price_usd": 35.0,
+        "reference_price_usd": 69.99,
+        "discount_pct": 50,
+        "price_cop": 145250,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0FCFTSPTG",
     "title": "[Aplicación con licencia oficial y enfoque automático] Mini proyector inteligente blanco con WiFi y Bluetooth, proyector de película compatible con XuanPad 4K, proyector portátil nativo 1080P para",
     "timestamp": "2026-11-15T07:43:31.746736+00:00",
