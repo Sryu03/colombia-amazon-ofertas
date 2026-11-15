@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B09LYF2ST7",
+    "title": "Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi",
+    "timestamp": "2026-11-15T01:13:20.365929+00:00",
+    "timestamp_colombia": "2026-11-14T20:13:20.365929-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B09LYF2ST7",
+      "title": "Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi",
+      "category": "Audio",
+      "brand": "",
+      "price_usd": 19.95,
+      "list_price_usd": 28.99,
+      "avg_90d_usd": 28.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71F2ccIPPLL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 28.99,
+      "discount_pct": 31.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 31.2,
+      "price_vs_90d_badge": "📉 31.2% más barato que su promedio de 90 días ($28.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 31.9,
+      "price_cop": 66168,
+      "price_cop_formatted": "$66.168 COP",
+      "total_landed_cop": 105803,
+      "total_landed_cop_formatted": "$105.803 COP",
+      "savings_usd": 9.04,
+      "savings_cop": 29983,
+      "savings_cop_formatted": "$29.983 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B09LYF2ST7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09LYF2ST7",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T01:10:32.273616+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.95 USD</b> (<i>~$66.168 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$28.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $9.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71F2ccIPPLL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.95 USD</b> (<i>~$66.168 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$28.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $9.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.95 USD)",
+                "url": "https://www.amazon.com/dp/B09LYF2ST7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09LYF2ST7"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 87,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794705204,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADV2r5BzReG3N_IUu1MxDRf2VD79S3AAJQDWsbXhPIRzlklFQcHkK9AQADAgADcwADPQQ",
+              "file_unique_id": "AQADUA1rG14TyEd4",
+              "file_size": 1791,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADV2r5BzReG3N_IUu1MxDRf2VD79S3AAJQDWsbXhPIRzlklFQcHkK9AQADAgADbQADPQQ",
+              "file_unique_id": "AQADUA1rG14TyEdy",
+              "file_size": 23487,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADV2r5BzReG3N_IUu1MxDRf2VD79S3AAJQDWsbXhPIRzlklFQcHkK9AQADAgADeAADPQQ",
+              "file_unique_id": "AQADUA1rG14TyEd9",
+              "file_size": 92108,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADV2r5BzReG3N_IUu1MxDRf2VD79S3AAJQDWsbXhPIRzlklFQcHkK9AQADAgADeQADPQQ",
+              "file_unique_id": "AQADUA1rG14TyEd-",
+              "file_size": 135780,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-31% OFF)\n📦 Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi\n\n💵 Precio Hoy: $19.95 USD (~$66.168 COP · TRM $3.317)\n📉 Más barato que antes: Antes $28.99 USD → Hoy -31% OFF · Ahorras $9.04 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 69,
+              "type": "bold"
+            },
+            {
+              "offset": 119,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 173,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 201,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 218,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 229,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 451,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 537,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 685,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 700,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 713,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.95 USD)",
+                  "url": "https://www.amazon.com/dp/B09LYF2ST7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09LYF2ST7"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B09LYF2ST7",
+        "title": "Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi",
+        "photo_url": "https://m.media-amazon.com/images/I/71F2ccIPPLL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.95 USD</b> (<i>~$66.168 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$28.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $9.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.95 USD)",
+                "url": "https://www.amazon.com/dp/B09LYF2ST7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09LYF2ST7"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B09LYF2ST7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09LYF2ST7",
+        "deal_snapshot": {
+          "asin": "B09LYF2ST7",
+          "title": "Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi",
+          "price_usd": 19.95,
+          "reference_price_usd": 28.99,
+          "discount_pct": 31,
+          "price_cop": 66168,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B09LYF2ST7",
+      "title": "Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi",
+      "photo_url": "https://m.media-amazon.com/images/I/71F2ccIPPLL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.95 USD</b> (<i>~$66.168 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$28.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $9.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.95 USD)",
+              "url": "https://www.amazon.com/dp/B09LYF2ST7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09LYF2ST7"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B09LYF2ST7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B09LYF2ST7",
+      "deal_snapshot": {
+        "asin": "B09LYF2ST7",
+        "title": "Auriculares Bluetooth BERIBES, 65 h de reproducción, 6 modos EQ, HiFi",
+        "price_usd": 19.95,
+        "reference_price_usd": 28.99,
+        "discount_pct": 31,
+        "price_cop": 66168,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HJ7MGWSZ",
     "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
     "timestamp": "2026-11-15T01:03:22.613496+00:00",

@@ -1,9 +1,5 @@
 [
   {
-    "asin": "B09LYF2ST7",
-    "category": "Audio"
-  },
-  {
     "asin": "B09FT58QQP",
     "category": "Audio"
   },
@@ -416,6 +412,46 @@
     "category": "Audio"
   },
   {
+    "asin": "B09DT48V16",
+    "category": "Audio"
+  },
+  {
+    "asin": "B0HPL7XTW4",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0DJ2W38WK",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0G1MNYR2B",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B09MLSJHN2",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B07QGHK6Q8",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B07Z8G97PY",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B012T634SM",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0FNWCYLZN",
+    "category": "Audio"
+  },
+  {
+    "asin": "B09LYF2ST7",
+    "category": "Audio"
+  },
+  {
     "asin": "B0DXXYS4BJ",
     "category": "Tecnología"
   },
@@ -446,10 +482,6 @@
   {
     "asin": "B0GTYWMWXH",
     "category": "Hogar"
-  },
-  {
-    "asin": "B09DT48V16",
-    "category": "Audio"
   },
   {
     "asin": "B0HJ7MGWSZ",
@@ -565,38 +597,6 @@
   },
   {
     "asin": "B01GJOMWVA",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0C5Z8VCHX",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0BN4H1X9L",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0DFLNL3XM",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0C7BKZ883",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0F21WN48Z",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0F4R7N9CQ",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B01LNFYCHM",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0000645YM",
     "category": "Hogar"
   }
 ]
