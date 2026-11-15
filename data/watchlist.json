@@ -1,5 +1,13 @@
 [
   {
+    "asin": "B015TKPT1A",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0H8FS7DJ3",
+    "category": "Gaming"
+  },
+  {
     "asin": "B0CHDS1DMC",
     "category": "Tecnología"
   },
@@ -110,10 +118,6 @@
   {
     "asin": "B0F8QZ7233",
     "category": "Tecnología"
-  },
-  {
-    "asin": "B098T5486K",
-    "category": "Gaming"
   },
   {
     "asin": "B076FPGWNZ",
@@ -456,6 +460,66 @@
     "category": "Tecnología"
   },
   {
+    "asin": "B09715G57M",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B081415GCS",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0CLLJC6QC",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0C7CLHFX7",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0H9SYK5Q7",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HPL7XTW4",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0DJ2W38WK",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0FJYHNRRY",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0G1MNYR2B",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B09MLSJHN2",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B07QGHK6Q8",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0GVM8N2CK",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B00S93EQUK",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0FNWCYLZN",
+    "category": "Audio"
+  },
+  {
+    "asin": "B098T5486K",
+    "category": "Gaming"
+  },
+  {
     "asin": "B0DXXYS4BJ",
     "category": "Tecnología"
   },
@@ -534,69 +598,5 @@
   {
     "asin": "B01LNFYCHM",
     "category": "Hogar"
-  },
-  {
-    "asin": "B0000645YM",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B07Z8G97PY",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B012T634SM",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0855B5Z6F",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0CZPLV566",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0DD41G2NZ",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0F6TM5LJR",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0C7BKZ883",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B01JPOLKDW",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B004N627KS",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B09BCW7SMF",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0CKPKDD96",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0F21WN48Z",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0H2K3RD7C",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0H2K6W7P9",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0F7RCSSTN",
-    "category": "Gaming"
   }
 ]

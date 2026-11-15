@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0HCGR2PW2",
+    "title": "Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte",
+    "timestamp": "2026-11-15T13:13:33.895175+00:00",
+    "timestamp_colombia": "2026-11-15T08:13:33.895175-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0HCGR2PW2",
+      "title": "Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 79.99,
+      "list_price_usd": 99.99,
+      "avg_90d_usd": 99.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/719S7S6C8CL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 99.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($99.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 79.99,
+      "price_cop": 265303,
+      "price_cop_formatted": "$265.303 COP",
+      "total_landed_cop": 265303,
+      "total_landed_cop_formatted": "$265.303 COP",
+      "savings_usd": 20.0,
+      "savings_cop": 66334,
+      "savings_cop_formatted": "$66.334 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HCGR2PW2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCGR2PW2",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T13:10:19.331218+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.99 USD</b> (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/719S7S6C8CL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.99 USD</b> (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HCGR2PW2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCGR2PW2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 109,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794748418,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbWr5sAIKYZt4jSL6nyFSNTPDKk8JAALaD2sbURLRR7uiFjaSEvGHAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD2g9rG1ES0Ud4",
+              "file_size": 1962,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbWr5sAIKYZt4jSL6nyFSNTPDKk8JAALaD2sbURLRR7uiFjaSEvGHAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD2g9rG1ES0Udy",
+              "file_size": 26501,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbWr5sAIKYZt4jSL6nyFSNTPDKk8JAALaD2sbURLRR7uiFjaSEvGHAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD2g9rG1ES0Ud9",
+              "file_size": 107509,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbWr5sAIKYZt4jSL6nyFSNTPDKk8JAALaD2sbURLRR7uiFjaSEvGHAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD2g9rG1ES0Ud-",
+              "file_size": 159088,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte\n\n💵 Precio Hoy: $79.99 USD (~$265.303 COP · TRM $3.317)\n📉 Más barato que antes: Antes $99.99 USD → Hoy -20% OFF · Ahorras $20.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 74,
+              "type": "bold"
+            },
+            {
+              "offset": 124,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 136,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 148,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 179,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 207,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 224,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 235,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 258,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 440,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 526,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 735,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 748,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HCGR2PW2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCGR2PW2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HCGR2PW2",
+        "title": "Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte",
+        "photo_url": "https://m.media-amazon.com/images/I/719S7S6C8CL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.99 USD</b> (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HCGR2PW2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCGR2PW2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HCGR2PW2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCGR2PW2",
+        "deal_snapshot": {
+          "asin": "B0HCGR2PW2",
+          "title": "Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte",
+          "price_usd": 79.99,
+          "reference_price_usd": 99.99,
+          "discount_pct": 20,
+          "price_cop": 265303,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HCGR2PW2",
+      "title": "Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte",
+      "photo_url": "https://m.media-amazon.com/images/I/719S7S6C8CL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.99 USD</b> (<i>~$265.303 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($79.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HCGR2PW2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCGR2PW2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HCGR2PW2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCGR2PW2",
+      "deal_snapshot": {
+        "asin": "B0HCGR2PW2",
+        "title": "Piano de teclado de 61 teclas, kit de piano eléctrico portátil con soporte",
+        "price_usd": 79.99,
+        "reference_price_usd": 99.99,
+        "discount_pct": 20,
+        "price_cop": 265303,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0BC878ZRG",
+    "title": "Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar",
+    "timestamp": "2026-11-15T13:13:31.966555+00:00",
+    "timestamp_colombia": "2026-11-15T08:13:31.966555-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0BC878ZRG",
+      "title": "Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 9.99,
+      "list_price_usd": 12.99,
+      "avg_90d_usd": 12.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61u3j+oaMoL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 12.99,
+      "discount_pct": 23.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 23.1,
+      "price_vs_90d_badge": "📉 23.1% más barato que su promedio de 90 días ($12.99 USD)",
+      "trm_cop": 3316.7,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39635,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 21.94,
+      "price_cop": 33134,
+      "price_cop_formatted": "$33.134 COP",
+      "total_landed_cop": 72768,
+      "total_landed_cop_formatted": "$72.768 COP",
+      "savings_usd": 3.0,
+      "savings_cop": 9950,
+      "savings_cop_formatted": "$9.950 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $25.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0BC878ZRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BC878ZRG",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T13:10:19.331218+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61u3j+oaMoL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+                "url": "https://www.amazon.com/dp/B0BC878ZRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BC878ZRG"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 108,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794748413,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbGr5r_1if2mBhmz2b3M-xhSsxWftAALZD2sbURLRRxZGTgZMY1ehAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD2Q9rG1ES0Ud4",
+              "file_size": 1886,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbGr5r_1if2mBhmz2b3M-xhSsxWftAALZD2sbURLRRxZGTgZMY1ehAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD2Q9rG1ES0Udy",
+              "file_size": 26063,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbGr5r_1if2mBhmz2b3M-xhSsxWftAALZD2sbURLRRxZGTgZMY1ehAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD2Q9rG1ES0Ud9",
+              "file_size": 103500,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADbGr5r_1if2mBhmz2b3M-xhSsxWftAALZD2sbURLRRxZGTgZMY1ehAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD2Q9rG1ES0Ud-",
+              "file_size": 155434,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-23% OFF)\n📦 Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar\n\n💵 Precio Hoy: $9.99 USD (~$33.134 COP · TRM $3.317)\n📉 Más barato que antes: Antes $12.99 USD → Hoy -23% OFF · Ahorras $3.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $25.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 187,
+              "type": "bold"
+            },
+            {
+              "offset": 237,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 249,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 260,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 290,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 318,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 335,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 346,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 368,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 568,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 654,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 802,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 817,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 830,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0BC878ZRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BC878ZRG"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0BC878ZRG",
+        "title": "Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar",
+        "photo_url": "https://m.media-amazon.com/images/I/61u3j+oaMoL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+                "url": "https://www.amazon.com/dp/B0BC878ZRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BC878ZRG"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0BC878ZRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BC878ZRG",
+        "deal_snapshot": {
+          "asin": "B0BC878ZRG",
+          "title": "Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar",
+          "price_usd": 9.99,
+          "reference_price_usd": 12.99,
+          "discount_pct": 23,
+          "price_cop": 33134,
+          "trm_cop": 3316.7,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0BC878ZRG",
+      "title": "Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar",
+      "photo_url": "https://m.media-amazon.com/images/I/61u3j+oaMoL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.99 USD</b> (<i>~$33.134 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($9.99 USD)",
+              "url": "https://www.amazon.com/dp/B0BC878ZRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BC878ZRG"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0BC878ZRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BC878ZRG",
+      "deal_snapshot": {
+        "asin": "B0BC878ZRG",
+        "title": "Kit de pistola de pegamento caliente con 30 barras de pegamento, precalentamiento rápido, alta temperatura para manualidades escolares, bricolaje, artes y reparaciones rápidas en el hogar",
+        "price_usd": 9.99,
+        "reference_price_usd": 12.99,
+        "discount_pct": 23,
+        "price_cop": 33134,
+        "trm_cop": 3316.7,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H2K6W7P9",
     "title": "EA SPORTS College Football 27 - Standard Edition PS5 |Disc I VideoGame",
     "timestamp": "2026-11-15T12:53:09.084561+00:00",
