@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B098T5486K",
+    "title": "Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de",
+    "timestamp": "2026-11-15T00:53:22.612014+00:00",
+    "timestamp_colombia": "2026-11-14T19:53:22.612014-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B098T5486K",
+      "title": "Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 10.79,
+      "list_price_usd": 18.99,
+      "avg_90d_usd": 18.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81XieKnjRtL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 18.99,
+      "discount_pct": 43.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 43.2,
+      "price_vs_90d_badge": "📉 43.2% más barato que su promedio de 90 días ($18.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 22.74,
+      "price_cop": 44778,
+      "price_cop_formatted": "$44.778 COP",
+      "total_landed_cop": 94371,
+      "total_landed_cop_formatted": "$94.371 COP",
+      "savings_usd": 8.2,
+      "savings_cop": 34030,
+      "savings_cop_formatted": "$34.030 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $24.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B098T5486K?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B098T5486K",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T00:50:33.284950+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de</b>\n\n💵 <b>Precio Hoy:</b> <b>$10.79 USD</b> (<i>~$44.778 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$18.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $8.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $24.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81XieKnjRtL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de</b>\n\n💵 <b>Precio Hoy:</b> <b>$10.79 USD</b> (<i>~$44.778 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$18.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $8.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $24.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($10.79 USD)",
+                "url": "https://www.amazon.com/dp/B098T5486K?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B098T5486K"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 85,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794704007,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVWr5AocZ9CLkMLyxE3h0WjEIvYWZAAJNDWsbXhPIR0ANIGz3CMiSAQADAgADcwADPQQ",
+              "file_unique_id": "AQADTQ1rG14TyEd4",
+              "file_size": 2124,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVWr5AocZ9CLkMLyxE3h0WjEIvYWZAAJNDWsbXhPIR0ANIGz3CMiSAQADAgADbQADPQQ",
+              "file_unique_id": "AQADTQ1rG14TyEdy",
+              "file_size": 32332,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVWr5AocZ9CLkMLyxE3h0WjEIvYWZAAJNDWsbXhPIR0ANIGz3CMiSAQADAgADeAADPQQ",
+              "file_unique_id": "AQADTQ1rG14TyEd9",
+              "file_size": 136078,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVWr5AocZ9CLkMLyxE3h0WjEIvYWZAAJNDWsbXhPIR0ANIGz3CMiSAQADAgADeQADPQQ",
+              "file_unique_id": "AQADTQ1rG14TyEd-",
+              "file_size": 204676,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)\n📦 Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de\n\n💵 Precio Hoy: $10.79 USD (~$44.778 COP · TRM $4.150)\n📉 Más barato que antes: Antes $18.99 USD → Hoy -43% OFF · Ahorras $8.20 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $24.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 73,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 153,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 183,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 211,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 228,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 461,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 547,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 695,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 710,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 723,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($10.79 USD)",
+                  "url": "https://www.amazon.com/dp/B098T5486K?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B098T5486K"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B098T5486K",
+        "title": "Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de",
+        "photo_url": "https://m.media-amazon.com/images/I/81XieKnjRtL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de</b>\n\n💵 <b>Precio Hoy:</b> <b>$10.79 USD</b> (<i>~$44.778 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$18.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $8.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $24.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($10.79 USD)",
+                "url": "https://www.amazon.com/dp/B098T5486K?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B098T5486K"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B098T5486K?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B098T5486K",
+        "deal_snapshot": {
+          "asin": "B098T5486K",
+          "title": "Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de",
+          "price_usd": 10.79,
+          "reference_price_usd": 18.99,
+          "discount_pct": 43,
+          "price_cop": 44778,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B098T5486K",
+      "title": "Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de",
+      "photo_url": "https://m.media-amazon.com/images/I/81XieKnjRtL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de</b>\n\n💵 <b>Precio Hoy:</b> <b>$10.79 USD</b> (<i>~$44.778 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$18.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $8.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $24.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($10.79 USD)",
+              "url": "https://www.amazon.com/dp/B098T5486K?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B098T5486K"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B098T5486K?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B098T5486K",
+      "deal_snapshot": {
+        "asin": "B098T5486K",
+        "title": "Tatuo Decoraciones de cumpleaños de videojuegos para niños, decoración de",
+        "price_usd": 10.79,
+        "reference_price_usd": 18.99,
+        "discount_pct": 43,
+        "price_cop": 44778,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0CRTYZG5C",
+    "title": "Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares",
+    "timestamp": "2026-11-15T00:53:21.039258+00:00",
+    "timestamp_colombia": "2026-11-14T19:53:21.039258-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0CRTYZG5C",
+      "title": "Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares",
+      "category": "Audio",
+      "brand": "",
+      "price_usd": 26.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51HbL1WS+KL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 46.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 46.0,
+      "price_vs_90d_badge": "📉 46.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 38.94,
+      "price_cop": 112008,
+      "price_cop_formatted": "$112.008 COP",
+      "total_landed_cop": 161601,
+      "total_landed_cop_formatted": "$161.601 COP",
+      "savings_usd": 23.0,
+      "savings_cop": 95450,
+      "savings_cop_formatted": "$95.450 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $8.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0CRTYZG5C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CRTYZG5C",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-15T00:50:33.284950+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.99 USD</b> (<i>~$112.008 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $23.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51HbL1WS+KL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.99 USD</b> (<i>~$112.008 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $23.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($26.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CRTYZG5C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CRTYZG5C"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 84,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794704002,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVGr5AoI_ImTZ3JPuO56j4XCljm3uAAJMDWsbXhPIR1hBtgUTK-rBAQADAgADcwADPQQ",
+              "file_unique_id": "AQADTA1rG14TyEd4",
+              "file_size": 1742,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVGr5AoI_ImTZ3JPuO56j4XCljm3uAAJMDWsbXhPIR1hBtgUTK-rBAQADAgADbQADPQQ",
+              "file_unique_id": "AQADTA1rG14TyEdy",
+              "file_size": 22986,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVGr5AoI_ImTZ3JPuO56j4XCljm3uAAJMDWsbXhPIR1hBtgUTK-rBAQADAgADeAADPQQ",
+              "file_unique_id": "AQADTA1rG14TyEd9",
+              "file_size": 87888,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVGr5AoI_ImTZ3JPuO56j4XCljm3uAAJMDWsbXhPIR1hBtgUTK-rBAQADAgADeQADPQQ",
+              "file_unique_id": "AQADTA1rG14TyEd-",
+              "file_size": 127269,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)\n📦 Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares\n\n💵 Precio Hoy: $26.99 USD (~$112.008 COP · TRM $4.150)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -46% OFF · Ahorras $23.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $8.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 200,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 268,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 280,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 311,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 339,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 356,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 367,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 390,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 590,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 676,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 823,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 838,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 851,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($26.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0CRTYZG5C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CRTYZG5C"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CRTYZG5C",
+        "title": "Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares",
+        "photo_url": "https://m.media-amazon.com/images/I/51HbL1WS+KL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.99 USD</b> (<i>~$112.008 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $23.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($26.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CRTYZG5C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CRTYZG5C"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CRTYZG5C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CRTYZG5C",
+        "deal_snapshot": {
+          "asin": "B0CRTYZG5C",
+          "title": "Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares",
+          "price_usd": 26.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 46,
+          "price_cop": 112008,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CRTYZG5C",
+      "title": "Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares",
+      "photo_url": "https://m.media-amazon.com/images/I/51HbL1WS+KL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.99 USD</b> (<i>~$112.008 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $23.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($26.99 USD)",
+              "url": "https://www.amazon.com/dp/B0CRTYZG5C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CRTYZG5C"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CRTYZG5C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CRTYZG5C",
+      "deal_snapshot": {
+        "asin": "B0CRTYZG5C",
+        "title": "Soundcore P30i de Anker Auriculares con cancelación de ruido, cancelación de ruido fuerte e inteligente, graves potentes, 45H de reproducción, estuche 2 en 1 y soporte para teléfono, IP54, auriculares",
+        "price_usd": 26.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 46,
+        "price_cop": 112008,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0CKV2BNZL",
     "title": "Brita Plus - Filtro de agua de repuesto, para jarras y dispensadores",
     "timestamp": "2026-11-14T23:53:14.554445+00:00",
