@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0CX1FRR27",
+    "title": "Relleno de calcetín portátil con altavoz Bluetooth: esenciales para",
+    "timestamp": "2026-11-16T23:03:22.101806+00:00",
+    "timestamp_colombia": "2026-11-16T18:03:22.101806-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0CX1FRR27",
+      "title": "Relleno de calcetín portátil con altavoz Bluetooth: esenciales para",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 19.99,
+      "list_price_usd": 29.99,
+      "avg_90d_usd": 29.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/91chDri2ibL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 29.99,
+      "discount_pct": 33.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.3,
+      "price_vs_90d_badge": "📉 33.3% más barato que su promedio de 90 días ($29.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 31.94,
+      "price_cop": 82958,
+      "price_cop_formatted": "$82.958 COP",
+      "total_landed_cop": 132551,
+      "total_landed_cop_formatted": "$132.551 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 41500,
+      "savings_cop_formatted": "$41.500 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0CX1FRR27?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CX1FRR27",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-16T23:00:38.615192+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Relleno de calcetín portátil con altavoz Bluetooth: esenciales para</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$82.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/91chDri2ibL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Relleno de calcetín portátil con altavoz Bluetooth: esenciales para</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$82.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CX1FRR27?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CX1FRR27"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 141,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794870203,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADjWr7i7s9wbXfodD_XX_ekUWBSWkbAAL_DWsbURLhR-GkhWmKUT5pAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD_w1rG1ES4Ud4",
+              "file_size": 1772,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADjWr7i7s9wbXfodD_XX_ekUWBSWkbAAL_DWsbURLhR-GkhWmKUT5pAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD_w1rG1ES4Udy",
+              "file_size": 24898,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADjWr7i7s9wbXfodD_XX_ekUWBSWkbAAL_DWsbURLhR-GkhWmKUT5pAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD_w1rG1ES4Ud9",
+              "file_size": 104989,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADjWr7i7s9wbXfodD_XX_ekUWBSWkbAAL_DWsbURLhR-GkhWmKUT5pAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD_w1rG1ES4Ud-",
+              "file_size": 159082,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-33% OFF)\n📦 Relleno de calcetín portátil con altavoz Bluetooth: esenciales para\n\n💵 Precio Hoy: $19.99 USD (~$82.958 COP · TRM $4.150)\n📉 Más barato que antes: Antes $29.99 USD → Hoy -33% OFF · Ahorras $10.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 67,
+              "type": "bold"
+            },
+            {
+              "offset": 117,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 171,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 199,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 216,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 227,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 250,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 450,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 536,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 684,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 699,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 712,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0CX1FRR27?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CX1FRR27"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CX1FRR27",
+        "title": "Relleno de calcetín portátil con altavoz Bluetooth: esenciales para",
+        "photo_url": "https://m.media-amazon.com/images/I/91chDri2ibL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Relleno de calcetín portátil con altavoz Bluetooth: esenciales para</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$82.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CX1FRR27?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CX1FRR27"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CX1FRR27?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CX1FRR27",
+        "deal_snapshot": {
+          "asin": "B0CX1FRR27",
+          "title": "Relleno de calcetín portátil con altavoz Bluetooth: esenciales para",
+          "price_usd": 19.99,
+          "reference_price_usd": 29.99,
+          "discount_pct": 33,
+          "price_cop": 82958,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CX1FRR27",
+      "title": "Relleno de calcetín portátil con altavoz Bluetooth: esenciales para",
+      "photo_url": "https://m.media-amazon.com/images/I/91chDri2ibL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Relleno de calcetín portátil con altavoz Bluetooth: esenciales para</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$82.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+              "url": "https://www.amazon.com/dp/B0CX1FRR27?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CX1FRR27"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CX1FRR27?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CX1FRR27",
+      "deal_snapshot": {
+        "asin": "B0CX1FRR27",
+        "title": "Relleno de calcetín portátil con altavoz Bluetooth: esenciales para",
+        "price_usd": 19.99,
+        "reference_price_usd": 29.99,
+        "discount_pct": 33,
+        "price_cop": 82958,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H9Z71PJK",
     "title": "NBA 2K27 - PlayStation 5",
     "timestamp": "2026-11-16T20:03:24.728647+00:00",
