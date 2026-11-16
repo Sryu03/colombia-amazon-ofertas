@@ -1,19 +1,7 @@
 [
   {
-    "asin": "B0CRMP3RQT",
+    "asin": "B0HJB6P7QM",
     "category": "Tecnología"
-  },
-  {
-    "asin": "B00NJ2M33I",
-    "category": "Audio"
-  },
-  {
-    "asin": "B0BJ8YQ2LM",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B08J8GZXKZ",
-    "category": "Hogar"
   },
   {
     "asin": "B0DXM9Y8J1",
@@ -496,6 +484,38 @@
     "category": "Tecnología"
   },
   {
+    "asin": "B0050R67U0",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0GGFG69YQ",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B00005UP2P",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HJB15D6L",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HJB4G7BR",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0H1XTMBL7",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0CHS69JW3",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0CZPLV566",
+    "category": "Tecnología"
+  },
+  {
     "asin": "B0F5HPCLGB",
     "category": "Computadores"
   },
@@ -536,10 +556,6 @@
     "category": "Computadores"
   },
   {
-    "asin": "B0FLXJHGR7",
-    "category": "Computadores"
-  },
-  {
     "asin": "B0FY6Y9WZT",
     "category": "Gaming"
   },
@@ -572,31 +588,39 @@
     "category": "Gaming"
   },
   {
-    "asin": "B09715G57M",
+    "asin": "B0FJYHNRRY",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B09MLSJHN2",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0GC529BMZ",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HNRSRX9V",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0FX5ZKFXJ",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0H2JXTRBY",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0F4R7N9CQ",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0GVM8N2CK",
     "category": "Hogar"
   },
   {
-    "asin": "B0CYJBB2JQ",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B01GJOMWVA",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0BN4H1X9L",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B07Z8G97PY",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B012T634SM",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0000645YM",
+    "asin": "B00S93EQUK",
     "category": "Hogar"
   }
 ]
