@@ -1,5 +1,944 @@
 [
   {
+    "asin": "B0BNQXXT2F",
+    "title": "Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de",
+    "timestamp": "2026-11-17T22:43:24.442154+00:00",
+    "timestamp_colombia": "2026-11-17T17:43:24.442154-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0BNQXXT2F",
+      "title": "Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 23.7,
+      "list_price_usd": 30.95,
+      "avg_90d_usd": 30.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61QDdpK50uL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 30.95,
+      "discount_pct": 23.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 23.4,
+      "price_vs_90d_badge": "📉 23.4% más barato que su promedio de 90 días ($30.95 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39549,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.549 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 35.65,
+      "price_cop": 78436,
+      "price_cop_formatted": "$78.436 COP",
+      "total_landed_cop": 117985,
+      "total_landed_cop_formatted": "$117.985 COP",
+      "savings_usd": 7.25,
+      "savings_cop": 23994,
+      "savings_cop_formatted": "$23.994 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $11.30 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0BNQXXT2F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BNQXXT2F",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T22:40:20.586537+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.70 USD</b> (<i>~$78.436 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$30.95 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $7.25 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.30 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61QDdpK50uL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.70 USD</b> (<i>~$78.436 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$30.95 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $7.25 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.30 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($23.70 USD)",
+                "url": "https://www.amazon.com/dp/B0BNQXXT2F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BNQXXT2F"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 159,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794955408,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADn2r82JDdkjhtSFSVz6ZYd8mDDoBzAAK_DWsbl7_pR-0D7OhZo1vVAQADAgADcwADPQQ",
+              "file_unique_id": "AQADvw1rG5e_6Ud4",
+              "file_size": 1823,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADn2r82JDdkjhtSFSVz6ZYd8mDDoBzAAK_DWsbl7_pR-0D7OhZo1vVAQADAgADbQADPQQ",
+              "file_unique_id": "AQADvw1rG5e_6Udy",
+              "file_size": 25605,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADn2r82JDdkjhtSFSVz6ZYd8mDDoBzAAK_DWsbl7_pR-0D7OhZo1vVAQADAgADeAADPQQ",
+              "file_unique_id": "AQADvw1rG5e_6Ud9",
+              "file_size": 100083,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADn2r82JDdkjhtSFSVz6ZYd8mDDoBzAAK_DWsbl7_pR-0D7OhZo1vVAQADAgADeQADPQQ",
+              "file_unique_id": "AQADvw1rG5e_6Ud-",
+              "file_size": 149595,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-23% OFF)\n📦 Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de\n\n💵 Precio Hoy: $23.70 USD (~$78.436 COP · TRM $3.310)\n📉 Más barato que antes: Antes $30.95 USD → Hoy -23% OFF · Ahorras $7.25 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $11.30 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 187,
+              "type": "bold"
+            },
+            {
+              "offset": 237,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 249,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 291,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 319,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 336,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 347,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 369,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 569,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 655,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 803,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 818,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 831,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($23.70 USD)",
+                  "url": "https://www.amazon.com/dp/B0BNQXXT2F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BNQXXT2F"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0BNQXXT2F",
+        "title": "Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de",
+        "photo_url": "https://m.media-amazon.com/images/I/61QDdpK50uL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.70 USD</b> (<i>~$78.436 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$30.95 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $7.25 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.30 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($23.70 USD)",
+                "url": "https://www.amazon.com/dp/B0BNQXXT2F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BNQXXT2F"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0BNQXXT2F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BNQXXT2F",
+        "deal_snapshot": {
+          "asin": "B0BNQXXT2F",
+          "title": "Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de",
+          "price_usd": 23.7,
+          "reference_price_usd": 30.95,
+          "discount_pct": 23,
+          "price_cop": 78436,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0BNQXXT2F",
+      "title": "Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de",
+      "photo_url": "https://m.media-amazon.com/images/I/61QDdpK50uL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.70 USD</b> (<i>~$78.436 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$30.95 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $7.25 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.30 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($23.70 USD)",
+              "url": "https://www.amazon.com/dp/B0BNQXXT2F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BNQXXT2F"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0BNQXXT2F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BNQXXT2F",
+      "deal_snapshot": {
+        "asin": "B0BNQXXT2F",
+        "title": "Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de",
+        "price_usd": 23.7,
+        "reference_price_usd": 30.95,
+        "discount_pct": 23,
+        "price_cop": 78436,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FBT84P65",
+    "title": "Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color",
+    "timestamp": "2026-11-17T22:43:19.755641+00:00",
+    "timestamp_colombia": "2026-11-17T17:43:19.755641-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FBT84P65",
+      "title": "Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 49.99,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/512mq5GWbhL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 28.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 28.6,
+      "price_vs_90d_badge": "📉 28.6% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 49.99,
+      "price_cop": 165444,
+      "price_cop_formatted": "$165.444 COP",
+      "total_landed_cop": 165444,
+      "total_landed_cop_formatted": "$165.444 COP",
+      "savings_usd": 20.0,
+      "savings_cop": 66191,
+      "savings_cop_formatted": "$66.191 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FBT84P65?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FBT84P65",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T22:40:20.586537+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/512mq5GWbhL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FBT84P65?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FBT84P65"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 158,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794955404,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnmr82IwVq4cfiLTt9xd4unyF3koOAAK-DWsbl7_pR0sT95f0x8WRAQADAgADcwADPQQ",
+              "file_unique_id": "AQADvg1rG5e_6Ud4",
+              "file_size": 1791,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnmr82IwVq4cfiLTt9xd4unyF3koOAAK-DWsbl7_pR0sT95f0x8WRAQADAgADbQADPQQ",
+              "file_unique_id": "AQADvg1rG5e_6Udy",
+              "file_size": 23999,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnmr82IwVq4cfiLTt9xd4unyF3koOAAK-DWsbl7_pR0sT95f0x8WRAQADAgADeAADPQQ",
+              "file_unique_id": "AQADvg1rG5e_6Ud9",
+              "file_size": 95249,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnmr82IwVq4cfiLTt9xd4unyF3koOAAK-DWsbl7_pR0sT95f0x8WRAQADAgADeQADPQQ",
+              "file_unique_id": "AQADvg1rG5e_6Ud-",
+              "file_size": 141793,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-29% OFF)\n📦 Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color\n\n💵 Precio Hoy: $49.99 USD (~$165.444 COP · TRM $3.310)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -29% OFF · Ahorras $20.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 74,
+              "type": "bold"
+            },
+            {
+              "offset": 124,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 136,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 148,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 179,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 207,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 224,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 235,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 258,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 440,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 526,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 735,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 748,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FBT84P65?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FBT84P65"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FBT84P65",
+        "title": "Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color",
+        "photo_url": "https://m.media-amazon.com/images/I/512mq5GWbhL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FBT84P65?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FBT84P65"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FBT84P65?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FBT84P65",
+        "deal_snapshot": {
+          "asin": "B0FBT84P65",
+          "title": "Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color",
+          "price_usd": 49.99,
+          "reference_price_usd": 69.99,
+          "discount_pct": 29,
+          "price_cop": 165444,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FBT84P65",
+      "title": "Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color",
+      "photo_url": "https://m.media-amazon.com/images/I/512mq5GWbhL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FBT84P65?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FBT84P65"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FBT84P65?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FBT84P65",
+      "deal_snapshot": {
+        "asin": "B0FBT84P65",
+        "title": "Crockpot® - Olla de cocción lenta programable de 7 cuartos de galón, color",
+        "price_usd": 49.99,
+        "reference_price_usd": 69.99,
+        "discount_pct": 29,
+        "price_cop": 165444,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H8QND851",
+    "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+    "timestamp": "2026-11-17T22:43:17.571000+00:00",
+    "timestamp_colombia": "2026-11-17T17:43:17.571000-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H8QND851",
+      "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 34.97,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39549,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.549 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 46.92,
+      "price_cop": 115735,
+      "price_cop_formatted": "$115.735 COP",
+      "total_landed_cop": 155284,
+      "total_landed_cop_formatted": "$155.284 COP",
+      "savings_usd": 35.02,
+      "savings_cop": 115900,
+      "savings_cop_formatted": "$115.900 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T22:40:20.586537+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
+                "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 157,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794955399,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADcwADPQQ",
+              "file_unique_id": "AQADvQ1rG5e_6Ud4",
+              "file_size": 1920,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADbQADPQQ",
+              "file_unique_id": "AQADvQ1rG5e_6Udy",
+              "file_size": 26786,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADeAADPQQ",
+              "file_unique_id": "AQADvQ1rG5e_6Ud9",
+              "file_size": 104685,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADeQADPQQ",
+              "file_unique_id": "AQADvQ1rG5e_6Ud-",
+              "file_size": 156921,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 EA SPORTS NHL 27 - Physical Disc - PlayStation 5\n\n💵 Precio Hoy: $34.97 USD (~$115.735 COP · TRM $3.310)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -50% OFF · Ahorras $35.02 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 48,
+              "type": "bold"
+            },
+            {
+              "offset": 104,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 159,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 187,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 204,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 215,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 438,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 524,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 671,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 686,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 699,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H8QND851",
+        "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+        "photo_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
+                "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
+        "deal_snapshot": {
+          "asin": "B0H8QND851",
+          "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+          "price_usd": 34.97,
+          "reference_price_usd": 69.99,
+          "discount_pct": 50,
+          "price_cop": 115735,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H8QND851",
+      "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+      "photo_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
+              "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
+      "deal_snapshot": {
+        "asin": "B0H8QND851",
+        "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+        "price_usd": 34.97,
+        "reference_price_usd": 69.99,
+        "discount_pct": 50,
+        "price_cop": 115735,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0GVXHJZ47",
     "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
     "timestamp": "2026-11-17T22:33:34.109272+00:00",
