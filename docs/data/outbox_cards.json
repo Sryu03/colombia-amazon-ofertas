@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B088CL4RL2",
+    "title": "Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro",
+    "timestamp": "2026-11-17T10:03:41.701943+00:00",
+    "timestamp_colombia": "2026-11-17T05:03:41.701943-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B088CL4RL2",
+      "title": "Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 149.99,
+      "list_price_usd": 249.99,
+      "avg_90d_usd": 249.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71-t1f-44UL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 249.99,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($249.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 149.99,
+      "price_cop": 622458,
+      "price_cop_formatted": "$622.458 COP",
+      "total_landed_cop": 622458,
+      "total_landed_cop_formatted": "$622.458 COP",
+      "savings_usd": 100.0,
+      "savings_cop": 415000,
+      "savings_cop_formatted": "$415.000 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B088CL4RL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B088CL4RL2",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T10:00:34.320216+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$622.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71-t1f-44UL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$622.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+                "url": "https://www.amazon.com/dp/B088CL4RL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B088CL4RL2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 150,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794909823,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlmr8Jn-fumU9nERWQ4w4TNs7-Nt0AAJLDWsbl7_hR7c5eV8NqNvcAQADAgADcwADPQQ",
+              "file_unique_id": "AQADSw1rG5e_4Ud4",
+              "file_size": 1892,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlmr8Jn-fumU9nERWQ4w4TNs7-Nt0AAJLDWsbl7_hR7c5eV8NqNvcAQADAgADbQADPQQ",
+              "file_unique_id": "AQADSw1rG5e_4Udy",
+              "file_size": 26229,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlmr8Jn-fumU9nERWQ4w4TNs7-Nt0AAJLDWsbl7_hR7c5eV8NqNvcAQADAgADeAADPQQ",
+              "file_unique_id": "AQADSw1rG5e_4Ud9",
+              "file_size": 101180,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlmr8Jn-fumU9nERWQ4w4TNs7-Nt0AAJLDWsbl7_hR7c5eV8NqNvcAQADAgADeQADPQQ",
+              "file_unique_id": "AQADSw1rG5e_4Ud-",
+              "file_size": 148548,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro\n\n💵 Precio Hoy: $149.99 USD (~$622.458 COP · TRM $4.150)\n📉 Más barato que antes: Antes $249.99 USD → Hoy -40% OFF · Ahorras $100.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 148,
+              "type": "bold"
+            },
+            {
+              "offset": 204,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 216,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 229,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 260,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 288,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 306,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 317,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 341,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 523,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 609,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 803,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 818,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 831,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+                  "url": "https://www.amazon.com/dp/B088CL4RL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B088CL4RL2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B088CL4RL2",
+        "title": "Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro",
+        "photo_url": "https://m.media-amazon.com/images/I/71-t1f-44UL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$622.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+                "url": "https://www.amazon.com/dp/B088CL4RL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B088CL4RL2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B088CL4RL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B088CL4RL2",
+        "deal_snapshot": {
+          "asin": "B088CL4RL2",
+          "title": "Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro",
+          "price_usd": 149.99,
+          "reference_price_usd": 249.99,
+          "discount_pct": 40,
+          "price_cop": 622458,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B088CL4RL2",
+      "title": "Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro",
+      "photo_url": "https://m.media-amazon.com/images/I/71-t1f-44UL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$149.99 USD</b> (<i>~$622.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $100.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($149.99 USD)",
+              "url": "https://www.amazon.com/dp/B088CL4RL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B088CL4RL2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B088CL4RL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B088CL4RL2",
+      "deal_snapshot": {
+        "asin": "B088CL4RL2",
+        "title": "Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto y estuche de viaje, cepillo de dientes recargable, ónix negro",
+        "price_usd": 149.99,
+        "reference_price_usd": 249.99,
+        "discount_pct": 40,
+        "price_cop": 622458,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0G77TSHLN",
     "title": "Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul",
     "timestamp": "2026-11-17T07:03:35.896418+00:00",
