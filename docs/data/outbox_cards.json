@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0CQ53RVTW",
+    "title": "Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W",
+    "timestamp": "2026-11-17T03:43:34.088129+00:00",
+    "timestamp_colombia": "2026-11-16T22:43:34.088129-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CQ53RVTW",
+      "title": "Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 84.99,
+      "list_price_usd": 129.99,
+      "avg_90d_usd": 129.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/814-mkjVVcL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 129.99,
+      "discount_pct": 34.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 34.6,
+      "price_vs_90d_badge": "📉 34.6% más barato que su promedio de 90 días ($129.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 84.99,
+      "price_cop": 352708,
+      "price_cop_formatted": "$352.708 COP",
+      "total_landed_cop": 352708,
+      "total_landed_cop_formatted": "$352.708 COP",
+      "savings_usd": 45.0,
+      "savings_cop": 186750,
+      "savings_cop_formatted": "$186.750 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0CQ53RVTW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CQ53RVTW",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T03:40:26.164723+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.99 USD</b> (<i>~$352.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$129.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $45.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/814-mkjVVcL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.99 USD</b> (<i>~$352.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$129.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $45.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($84.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CQ53RVTW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CQ53RVTW"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 143,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794887015,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADj2r7zWfbVJ4nAAH3XOTsyKz1GVoCVAACPg1rG5e_4UcvAAHHCEpa6yQBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADPg1rG5e_4Ud4",
+              "file_size": 1928,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADj2r7zWfbVJ4nAAH3XOTsyKz1GVoCVAACPg1rG5e_4UcvAAHHCEpa6yQBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADPg1rG5e_4Udy",
+              "file_size": 30065,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADj2r7zWfbVJ4nAAH3XOTsyKz1GVoCVAACPg1rG5e_4UcvAAHHCEpa6yQBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADPg1rG5e_4Ud9",
+              "file_size": 139114,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADj2r7zWfbVJ4nAAH3XOTsyKz1GVoCVAACPg1rG5e_4UcvAAHHCEpa6yQBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADPg1rG5e_4Ud-",
+              "file_size": 220431,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-35% OFF)\n📦 Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W\n\n💵 Precio Hoy: $84.99 USD (~$352.708 COP · TRM $4.150)\n📉 Más barato que antes: Antes $129.99 USD → Hoy -35% OFF · Ahorras $45.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 68,
+              "type": "bold"
+            },
+            {
+              "offset": 118,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 130,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 142,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 173,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 201,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 219,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 253,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 435,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 521,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 715,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 730,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 743,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($84.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0CQ53RVTW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CQ53RVTW"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CQ53RVTW",
+        "title": "Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W",
+        "photo_url": "https://m.media-amazon.com/images/I/814-mkjVVcL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.99 USD</b> (<i>~$352.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$129.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $45.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($84.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CQ53RVTW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CQ53RVTW"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CQ53RVTW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CQ53RVTW",
+        "deal_snapshot": {
+          "asin": "B0CQ53RVTW",
+          "title": "Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W",
+          "price_usd": 84.99,
+          "reference_price_usd": 129.99,
+          "discount_pct": 35,
+          "price_cop": 352708,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CQ53RVTW",
+      "title": "Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W",
+      "photo_url": "https://m.media-amazon.com/images/I/814-mkjVVcL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.99 USD</b> (<i>~$352.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$129.99 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $45.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($84.99 USD)",
+              "url": "https://www.amazon.com/dp/B0CQ53RVTW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CQ53RVTW"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CQ53RVTW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CQ53RVTW",
+      "deal_snapshot": {
+        "asin": "B0CQ53RVTW",
+        "title": "Soundcore Boom 2 de Anker, altavoz Bluetooth para exteriores de 80 W",
+        "price_usd": 84.99,
+        "reference_price_usd": 129.99,
+        "discount_pct": 35,
+        "price_cop": 352708,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0DCBSX9TS",
     "title": "BONTEC Elevador de soporte para monitor doble, longitud ajustable y ángulo",
     "timestamp": "2026-11-17T03:13:22.060213+00:00",
