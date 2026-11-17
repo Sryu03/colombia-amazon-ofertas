@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0G77TSHLN",
+    "title": "Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul",
+    "timestamp": "2026-11-17T07:03:35.896418+00:00",
+    "timestamp_colombia": "2026-11-17T02:03:35.896418-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0G77TSHLN",
+      "title": "Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 20.0,
+      "list_price_usd": 40.0,
+      "avg_90d_usd": 40.0,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51x4uPvqegL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 40.0,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($40.00 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 31.95,
+      "price_cop": 83000,
+      "price_cop_formatted": "$83.000 COP",
+      "total_landed_cop": 132592,
+      "total_landed_cop_formatted": "$132.592 COP",
+      "savings_usd": 20.0,
+      "savings_cop": 83000,
+      "savings_cop_formatted": "$83.000 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0G77TSHLN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G77TSHLN",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T07:00:37.612242+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.00 USD</b> (<i>~$83.000 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$40.00 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51x4uPvqegL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.00 USD</b> (<i>~$83.000 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$40.00 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($20.00 USD)",
+                "url": "https://www.amazon.com/dp/B0G77TSHLN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G77TSHLN"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 149,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794899017,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlWr7_EmbkK9M860vCqJ1M_RhGiH4AAJKDWsbl7_hR1ywAlEJKC_XAQADAgADcwADPQQ",
+              "file_unique_id": "AQADSg1rG5e_4Ud4",
+              "file_size": 1611,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlWr7_EmbkK9M860vCqJ1M_RhGiH4AAJKDWsbl7_hR1ywAlEJKC_XAQADAgADbQADPQQ",
+              "file_unique_id": "AQADSg1rG5e_4Udy",
+              "file_size": 20346,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlWr7_EmbkK9M860vCqJ1M_RhGiH4AAJKDWsbl7_hR1ywAlEJKC_XAQADAgADeAADPQQ",
+              "file_unique_id": "AQADSg1rG5e_4Ud9",
+              "file_size": 79288,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADlWr7_EmbkK9M860vCqJ1M_RhGiH4AAJKDWsbl7_hR1ywAlEJKC_XAQADAgADeQADPQQ",
+              "file_unique_id": "AQADSg1rG5e_4Ud-",
+              "file_size": 114383,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul\n\n💵 Precio Hoy: $20.00 USD (~$83.000 COP · TRM $4.150)\n📉 Más barato que antes: Antes $40.00 USD → Hoy -50% OFF · Ahorras $20.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 119,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 173,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 201,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 218,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 229,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 452,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 538,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 686,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 701,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 714,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($20.00 USD)",
+                  "url": "https://www.amazon.com/dp/B0G77TSHLN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G77TSHLN"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0G77TSHLN",
+        "title": "Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul",
+        "photo_url": "https://m.media-amazon.com/images/I/51x4uPvqegL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.00 USD</b> (<i>~$83.000 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$40.00 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($20.00 USD)",
+                "url": "https://www.amazon.com/dp/B0G77TSHLN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G77TSHLN"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0G77TSHLN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G77TSHLN",
+        "deal_snapshot": {
+          "asin": "B0G77TSHLN",
+          "title": "Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul",
+          "price_usd": 20.0,
+          "reference_price_usd": 40.0,
+          "discount_pct": 50,
+          "price_cop": 83000,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0G77TSHLN",
+      "title": "Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul",
+      "photo_url": "https://m.media-amazon.com/images/I/51x4uPvqegL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.00 USD</b> (<i>~$83.000 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$40.00 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($20.00 USD)",
+              "url": "https://www.amazon.com/dp/B0G77TSHLN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G77TSHLN"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0G77TSHLN?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G77TSHLN",
+      "deal_snapshot": {
+        "asin": "B0G77TSHLN",
+        "title": "Stanley Quencher H2.0 Flow State - Vaso de 30 onzas, cielo azul",
+        "price_usd": 20.0,
+        "reference_price_usd": 40.0,
+        "discount_pct": 50,
+        "price_cop": 83000,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H47ZFKG9",
     "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Champagne",
     "timestamp": "2026-11-17T03:53:55.233427+00:00",
