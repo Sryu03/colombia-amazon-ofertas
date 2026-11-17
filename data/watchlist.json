@@ -1,9 +1,5 @@
 [
   {
-    "asin": "B0CQKL4YTB",
-    "category": "Tecnología"
-  },
-  {
     "asin": "B0CJTCQRNL",
     "category": "Tecnología"
   },
@@ -578,6 +574,10 @@
   {
     "asin": "B0855B5Z6F",
     "category": "Hogar"
+  },
+  {
+    "asin": "B0CQKL4YTB",
+    "category": "Tecnología"
   },
   {
     "asin": "B0CSK16X7B",
