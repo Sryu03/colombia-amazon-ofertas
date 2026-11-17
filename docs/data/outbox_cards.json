@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0DJ6RG4N7",
+    "title": "EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro",
+    "timestamp": "2026-11-17T22:53:46.189336+00:00",
+    "timestamp_colombia": "2026-11-17T17:53:46.189336-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0DJ6RG4N7",
+      "title": "EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 55.99,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61UhKNkAyDL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 55.99,
+      "price_cop": 232358,
+      "price_cop_formatted": "$232.358 COP",
+      "total_landed_cop": 232358,
+      "total_landed_cop_formatted": "$232.358 COP",
+      "savings_usd": 14.0,
+      "savings_cop": 58100,
+      "savings_cop_formatted": "$58.100 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0DJ6RG4N7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DJ6RG4N7",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T22:50:29.243136+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro</b>\n\n💵 <b>Precio Hoy:</b> <b>$55.99 USD</b> (<i>~$232.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61UhKNkAyDL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro</b>\n\n💵 <b>Precio Hoy:</b> <b>$55.99 USD</b> (<i>~$232.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($55.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DJ6RG4N7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DJ6RG4N7"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 161,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794956030,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoWr82v5RTbYfR25xe-_8vLlBis3QAALDDWsbl7_pR4GMpIp9WdEEAQADAgADcwADPQQ",
+              "file_unique_id": "AQADww1rG5e_6Ud4",
+              "file_size": 1800,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoWr82v5RTbYfR25xe-_8vLlBis3QAALDDWsbl7_pR4GMpIp9WdEEAQADAgADbQADPQQ",
+              "file_unique_id": "AQADww1rG5e_6Udy",
+              "file_size": 23753,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoWr82v5RTbYfR25xe-_8vLlBis3QAALDDWsbl7_pR4GMpIp9WdEEAQADAgADeAADPQQ",
+              "file_unique_id": "AQADww1rG5e_6Ud9",
+              "file_size": 93834,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoWr82v5RTbYfR25xe-_8vLlBis3QAALDDWsbl7_pR4GMpIp9WdEEAQADAgADeQADPQQ",
+              "file_unique_id": "AQADww1rG5e_6Ud-",
+              "file_size": 137621,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro\n\n💵 Precio Hoy: $55.99 USD (~$232.358 COP · TRM $4.150)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -20% OFF · Ahorras $14.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 134,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 146,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 177,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 222,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 233,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 438,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 524,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 718,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 733,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 746,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($55.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0DJ6RG4N7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DJ6RG4N7"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0DJ6RG4N7",
+        "title": "EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro",
+        "photo_url": "https://m.media-amazon.com/images/I/61UhKNkAyDL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro</b>\n\n💵 <b>Precio Hoy:</b> <b>$55.99 USD</b> (<i>~$232.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($55.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DJ6RG4N7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DJ6RG4N7"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0DJ6RG4N7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DJ6RG4N7",
+        "deal_snapshot": {
+          "asin": "B0DJ6RG4N7",
+          "title": "EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro",
+          "price_usd": 55.99,
+          "reference_price_usd": 69.99,
+          "discount_pct": 20,
+          "price_cop": 232358,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0DJ6RG4N7",
+      "title": "EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro",
+      "photo_url": "https://m.media-amazon.com/images/I/61UhKNkAyDL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro</b>\n\n💵 <b>Precio Hoy:</b> <b>$55.99 USD</b> (<i>~$232.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($55.99 USD)",
+              "url": "https://www.amazon.com/dp/B0DJ6RG4N7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DJ6RG4N7"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0DJ6RG4N7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DJ6RG4N7",
+      "deal_snapshot": {
+        "asin": "B0DJ6RG4N7",
+        "title": "EarFun Auriculares inalámbricos con cancelación activa de ruido Tune Pro",
+        "price_usd": 55.99,
+        "reference_price_usd": 69.99,
+        "discount_pct": 20,
+        "price_cop": 232358,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0CCT4LY39",
+    "title": "Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantalla táctil IPS de 1280 x 800, comparte fotos/videos y envía los mejores deseos a través de",
+    "timestamp": "2026-11-17T22:53:44.001233+00:00",
+    "timestamp_colombia": "2026-11-17T17:53:44.001233-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CCT4LY39",
+      "title": "Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantalla táctil IPS de 1280 x 800, comparte fotos/videos y envía los mejores deseos a través de",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 59.99,
+      "list_price_usd": 99.99,
+      "avg_90d_usd": 99.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81pC4YTaGFL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 99.99,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($99.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 59.99,
+      "price_cop": 248958,
+      "price_cop_formatted": "$248.958 COP",
+      "total_landed_cop": 248958,
+      "total_landed_cop_formatted": "$248.958 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 166000,
+      "savings_cop_formatted": "$166.000 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0CCT4LY39?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CCT4LY39",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T22:50:29.243136+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantall...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81pC4YTaGFL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantall...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CCT4LY39?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CCT4LY39"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 160,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794956026,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoGr82vkyL0_ucJyIq1gUtmEAAQhSVQACwg1rG5e_6UeWlQ2JBLI3uAEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADwg1rG5e_6Ud4",
+              "file_size": 2196,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoGr82vkyL0_ucJyIq1gUtmEAAQhSVQACwg1rG5e_6UeWlQ2JBLI3uAEAAwIAA20AAz0E",
+              "file_unique_id": "AQADwg1rG5e_6Udy",
+              "file_size": 32565,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoGr82vkyL0_ucJyIq1gUtmEAAQhSVQACwg1rG5e_6UeWlQ2JBLI3uAEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADwg1rG5e_6Ud9",
+              "file_size": 139637,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADoGr82vkyL0_ucJyIq1gUtmEAAQhSVQACwg1rG5e_6UeWlQ2JBLI3uAEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADwg1rG5e_6Ud-",
+              "file_size": 214830,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantall...\n\n💵 Precio Hoy: $59.99 USD (~$248.958 COP · TRM $4.150)\n📉 Más barato que antes: Antes $99.99 USD → Hoy -40% OFF · Ahorras $40.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 224,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 269,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 280,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 303,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 485,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 507,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 701,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 716,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 729,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0CCT4LY39?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CCT4LY39"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CCT4LY39",
+        "title": "Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantalla táctil IPS de 1280 x 800, comparte fotos/videos y envía los mejores deseos a través de",
+        "photo_url": "https://m.media-amazon.com/images/I/81pC4YTaGFL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantall...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CCT4LY39?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CCT4LY39"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CCT4LY39?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CCT4LY39",
+        "deal_snapshot": {
+          "asin": "B0CCT4LY39",
+          "title": "Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantalla táctil IPS de 1280 x 800, comparte fotos/videos y envía los mejores deseos a través de",
+          "price_usd": 59.99,
+          "reference_price_usd": 99.99,
+          "discount_pct": 40,
+          "price_cop": 248958,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CCT4LY39",
+      "title": "Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantalla táctil IPS de 1280 x 800, comparte fotos/videos y envía los mejores deseos a través de",
+      "photo_url": "https://m.media-amazon.com/images/I/81pC4YTaGFL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantall...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+              "url": "https://www.amazon.com/dp/B0CCT4LY39?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CCT4LY39"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CCT4LY39?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CCT4LY39",
+      "deal_snapshot": {
+        "asin": "B0CCT4LY39",
+        "title": "Euphro Marco de fotos digital de 10.1 pulgadas con almacenamiento de 32 GB, marco de fotos digital con pantalla táctil IPS de 1280 x 800, comparte fotos/videos y envía los mejores deseos a través de",
+        "price_usd": 59.99,
+        "reference_price_usd": 99.99,
+        "discount_pct": 40,
+        "price_cop": 248958,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0BNQXXT2F",
     "title": "Juego de cuchillos eléctricos Hamilton Beach para cortar carnes, aves, pan, espuma para manualidades y más, hojas serradas reciprocantes de acero inoxidable, diseño ergonómico, estuche de",
     "timestamp": "2026-11-17T22:43:24.442154+00:00",
