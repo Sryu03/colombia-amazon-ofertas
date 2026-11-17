@@ -1,5 +1,944 @@
 [
   {
+    "asin": "B0GVXHJZ47",
+    "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+    "timestamp": "2026-11-17T22:33:34.109272+00:00",
+    "timestamp_colombia": "2026-11-17T17:33:34.109272-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GVXHJZ47",
+      "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 59.96,
+      "list_price_usd": 74.95,
+      "avg_90d_usd": 74.94,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51Jz6zvpLLL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 74.94,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($74.94 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 59.96,
+      "price_cop": 198441,
+      "price_cop_formatted": "$198.441 COP",
+      "total_landed_cop": 198441,
+      "total_landed_cop_formatted": "$198.441 COP",
+      "savings_usd": 14.98,
+      "savings_cop": 49577,
+      "savings_cop_formatted": "$49.577 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GVXHJZ47?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVXHJZ47",
+      "is_new_price_drop": true,
+      "previous_price_usd": 67.45,
+      "verified_at": "2026-11-17T22:30:32.010791+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.441 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.94 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51Jz6zvpLLL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.441 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.94 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+                "url": "https://www.amazon.com/dp/B0GVXHJZ47?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVXHJZ47"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 156,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794954818,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnGr81kJ75eKQFTBtFZif_lOXhHD9AAK5DWsbl7_pR8rwIwwxYxZpAQADAgADcwADPQQ",
+              "file_unique_id": "AQADuQ1rG5e_6Ud4",
+              "file_size": 1675,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnGr81kJ75eKQFTBtFZif_lOXhHD9AAK5DWsbl7_pR8rwIwwxYxZpAQADAgADbQADPQQ",
+              "file_unique_id": "AQADuQ1rG5e_6Udy",
+              "file_size": 21231,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnGr81kJ75eKQFTBtFZif_lOXhHD9AAK5DWsbl7_pR8rwIwwxYxZpAQADAgADeAADPQQ",
+              "file_unique_id": "AQADuQ1rG5e_6Ud9",
+              "file_size": 83666,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnGr81kJ75eKQFTBtFZif_lOXhHD9AAK5DWsbl7_pR8rwIwwxYxZpAQADAgADeQADPQQ",
+              "file_unique_id": "AQADuQ1rG5e_6Ud-",
+              "file_size": 123743,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Levi's Women's 318 Shaping Wide-Leg Jeans\n\n💵 Precio Hoy: $59.96 USD (~$198.441 COP · TRM $3.310)\n📉 Más barato que antes: Antes $74.94 USD → Hoy -20% OFF · Ahorras $14.98 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 41,
+              "type": "bold"
+            },
+            {
+              "offset": 91,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 103,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 115,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 146,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 174,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 191,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 225,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 407,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 493,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 687,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 702,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 715,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+                  "url": "https://www.amazon.com/dp/B0GVXHJZ47?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVXHJZ47"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GVXHJZ47",
+        "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+        "photo_url": "https://m.media-amazon.com/images/I/51Jz6zvpLLL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.441 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.94 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+                "url": "https://www.amazon.com/dp/B0GVXHJZ47?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVXHJZ47"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GVXHJZ47?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVXHJZ47",
+        "deal_snapshot": {
+          "asin": "B0GVXHJZ47",
+          "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+          "price_usd": 59.96,
+          "reference_price_usd": 74.94,
+          "discount_pct": 20,
+          "price_cop": 198441,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GVXHJZ47",
+      "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+      "photo_url": "https://m.media-amazon.com/images/I/51Jz6zvpLLL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.96 USD</b> (<i>~$198.441 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.94 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $14.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($59.96 USD)",
+              "url": "https://www.amazon.com/dp/B0GVXHJZ47?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVXHJZ47"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GVXHJZ47?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVXHJZ47",
+      "deal_snapshot": {
+        "asin": "B0GVXHJZ47",
+        "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+        "price_usd": 59.96,
+        "reference_price_usd": 74.94,
+        "discount_pct": 20,
+        "price_cop": 198441,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0GVVM8LCX",
+    "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+    "timestamp": "2026-11-17T22:33:29.262972+00:00",
+    "timestamp_colombia": "2026-11-17T17:33:29.262972-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GVVM8LCX",
+      "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 59.12,
+      "list_price_usd": 74.95,
+      "avg_90d_usd": 74.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51ZlJokEEtL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 74.95,
+      "discount_pct": 21.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 21.1,
+      "price_vs_90d_badge": "📉 21.1% más barato que su promedio de 90 días ($74.95 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 59.12,
+      "price_cop": 195661,
+      "price_cop_formatted": "$195.661 COP",
+      "total_landed_cop": 195661,
+      "total_landed_cop_formatted": "$195.661 COP",
+      "savings_usd": 15.83,
+      "savings_cop": 52390,
+      "savings_cop_formatted": "$52.390 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GVVM8LCX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVVM8LCX",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T22:30:32.010791+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.12 USD</b> (<i>~$195.661 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $15.83 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51ZlJokEEtL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.12 USD</b> (<i>~$195.661 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $15.83 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.12 USD)",
+                "url": "https://www.amazon.com/dp/B0GVVM8LCX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVVM8LCX"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 155,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794954813,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADm2r81j1SZ1K6mrqFMBnTAAE3HxmAYAACuA1rG5e_6Uezd3kHoG91FQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADuA1rG5e_6Ud4",
+              "file_size": 1630,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADm2r81j1SZ1K6mrqFMBnTAAE3HxmAYAACuA1rG5e_6Uezd3kHoG91FQEAAwIAA20AAz0E",
+              "file_unique_id": "AQADuA1rG5e_6Udy",
+              "file_size": 20857,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADm2r81j1SZ1K6mrqFMBnTAAE3HxmAYAACuA1rG5e_6Uezd3kHoG91FQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADuA1rG5e_6Ud9",
+              "file_size": 83272,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADm2r81j1SZ1K6mrqFMBnTAAE3HxmAYAACuA1rG5e_6Uezd3kHoG91FQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADuA1rG5e_6Ud-",
+              "file_size": 122362,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-21% OFF)\n📦 Levi's Women's 318 Shaping Wide-Leg Jeans\n\n💵 Precio Hoy: $59.12 USD (~$195.661 COP · TRM $3.310)\n📉 Más barato que antes: Antes $74.95 USD → Hoy -21% OFF · Ahorras $15.83 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 41,
+              "type": "bold"
+            },
+            {
+              "offset": 91,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 103,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 115,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 146,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 174,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 191,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 225,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 407,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 493,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 687,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 702,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 715,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($59.12 USD)",
+                  "url": "https://www.amazon.com/dp/B0GVVM8LCX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVVM8LCX"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GVVM8LCX",
+        "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+        "photo_url": "https://m.media-amazon.com/images/I/51ZlJokEEtL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.12 USD</b> (<i>~$195.661 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $15.83 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.12 USD)",
+                "url": "https://www.amazon.com/dp/B0GVVM8LCX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVVM8LCX"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GVVM8LCX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVVM8LCX",
+        "deal_snapshot": {
+          "asin": "B0GVVM8LCX",
+          "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+          "price_usd": 59.12,
+          "reference_price_usd": 74.95,
+          "discount_pct": 21,
+          "price_cop": 195661,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GVVM8LCX",
+      "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+      "photo_url": "https://m.media-amazon.com/images/I/51ZlJokEEtL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Levi&#x27;s Women&#x27;s 318 Shaping Wide-Leg Jeans</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.12 USD</b> (<i>~$195.661 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$74.95 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $15.83 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($59.12 USD)",
+              "url": "https://www.amazon.com/dp/B0GVVM8LCX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVVM8LCX"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GVVM8LCX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GVVM8LCX",
+      "deal_snapshot": {
+        "asin": "B0GVVM8LCX",
+        "title": "Levi's Women's 318 Shaping Wide-Leg Jeans",
+        "price_usd": 59.12,
+        "reference_price_usd": 74.95,
+        "discount_pct": 21,
+        "price_cop": 195661,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0GTR8FFJV",
+    "title": "Mouse: P.I. For Hire - PlayStation 5",
+    "timestamp": "2026-11-17T22:33:26.836485+00:00",
+    "timestamp_colombia": "2026-11-17T17:33:26.836485-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GTR8FFJV",
+      "title": "Mouse: P.I. For Hire - PlayStation 5",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 19.99,
+      "list_price_usd": 29.99,
+      "avg_90d_usd": 29.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71CREONaJeL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 29.99,
+      "discount_pct": 33.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.3,
+      "price_vs_90d_badge": "📉 33.3% más barato que su promedio de 90 días ($29.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39549,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.549 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 31.94,
+      "price_cop": 66158,
+      "price_cop_formatted": "$66.158 COP",
+      "total_landed_cop": 105707,
+      "total_landed_cop_formatted": "$105.707 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 33096,
+      "savings_cop_formatted": "$33.096 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0GTR8FFJV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTR8FFJV",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-17T22:30:32.010791+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mouse: P.I. For Hire - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.158 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71CREONaJeL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mouse: P.I. For Hire - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.158 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GTR8FFJV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTR8FFJV"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 154,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1794954809,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADmmr81jg6E6sdEupir47hNuTW-yIoAAK3DWsbl7_pR2ENDqkkqbmeAQADAgADcwADPQQ",
+              "file_unique_id": "AQADtw1rG5e_6Ud4",
+              "file_size": 1835,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADmmr81jg6E6sdEupir47hNuTW-yIoAAK3DWsbl7_pR2ENDqkkqbmeAQADAgADbQADPQQ",
+              "file_unique_id": "AQADtw1rG5e_6Udy",
+              "file_size": 23956,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADmmr81jg6E6sdEupir47hNuTW-yIoAAK3DWsbl7_pR2ENDqkkqbmeAQADAgADeAADPQQ",
+              "file_unique_id": "AQADtw1rG5e_6Ud9",
+              "file_size": 95315,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADmmr81jg6E6sdEupir47hNuTW-yIoAAK3DWsbl7_pR2ENDqkkqbmeAQADAgADeQADPQQ",
+              "file_unique_id": "AQADtw1rG5e_6Ud-",
+              "file_size": 141206,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-33% OFF)\n📦 Mouse: P.I. For Hire - PlayStation 5\n\n💵 Precio Hoy: $19.99 USD (~$66.158 COP · TRM $3.310)\n📉 Más barato que antes: Antes $29.99 USD → Hoy -33% OFF · Ahorras $10.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 36,
+              "type": "bold"
+            },
+            {
+              "offset": 86,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 98,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 110,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 140,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 168,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 185,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 196,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 219,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 419,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 505,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 653,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 668,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 681,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0GTR8FFJV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTR8FFJV"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GTR8FFJV",
+        "title": "Mouse: P.I. For Hire - PlayStation 5",
+        "photo_url": "https://m.media-amazon.com/images/I/71CREONaJeL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mouse: P.I. For Hire - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.158 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GTR8FFJV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTR8FFJV"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GTR8FFJV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTR8FFJV",
+        "deal_snapshot": {
+          "asin": "B0GTR8FFJV",
+          "title": "Mouse: P.I. For Hire - PlayStation 5",
+          "price_usd": 19.99,
+          "reference_price_usd": 29.99,
+          "discount_pct": 33,
+          "price_cop": 66158,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GTR8FFJV",
+      "title": "Mouse: P.I. For Hire - PlayStation 5",
+      "photo_url": "https://m.media-amazon.com/images/I/71CREONaJeL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mouse: P.I. For Hire - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$66.158 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+              "url": "https://www.amazon.com/dp/B0GTR8FFJV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTR8FFJV"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GTR8FFJV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTR8FFJV",
+      "deal_snapshot": {
+        "asin": "B0GTR8FFJV",
+        "title": "Mouse: P.I. For Hire - PlayStation 5",
+        "price_usd": 19.99,
+        "reference_price_usd": 29.99,
+        "discount_pct": 33,
+        "price_cop": 66158,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B088CK4X7G",
     "title": "Oral-B iO Series 8 Cepillo de dientes eléctrico con 2 cabezales de cepillo de repuesto, violeta ametrina",
     "timestamp": "2026-11-17T20:43:13.913846+00:00",
