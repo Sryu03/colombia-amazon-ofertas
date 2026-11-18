@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0GJ6QGPHQ",
+    "title": "Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 pulgadas - 4 GB de RAM - Almacenamiento UFS de 128 GB - Gráficos Intel integrados - Gris",
+    "timestamp": "2026-11-18T17:03:15.285538+00:00",
+    "timestamp_colombia": "2026-11-18T12:03:15.285538-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0GJ6QGPHQ",
+      "title": "Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 pulgadas - 4 GB de RAM - Almacenamiento UFS de 128 GB - Gráficos Intel integrados - Gris",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 373.18,
+      "list_price_usd": 509.99,
+      "avg_90d_usd": 509.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71XJEorALdL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 509.99,
+      "discount_pct": 26.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 26.8,
+      "price_vs_90d_badge": "📉 26.8% más barato que su promedio de 90 días ($509.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 70.9,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 444.08,
+      "price_cop": 1548697,
+      "price_cop_formatted": "$1.548.697 COP",
+      "total_landed_cop": 1842932,
+      "total_landed_cop_formatted": "$1.842.932 COP",
+      "savings_usd": 136.81,
+      "savings_cop": 567762,
+      "savings_cop_formatted": "$567.762 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B0GJ6QGPHQ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GJ6QGPHQ",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-18T17:00:25.034568+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$373.18 USD</b> (<i>~$1.548.697 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$509.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $136.81 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71XJEorALdL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$373.18 USD</b> (<i>~$1.548.697 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$509.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $136.81 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($373.18 USD)",
+                "url": "https://www.amazon.com/dp/B0GJ6QGPHQ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GJ6QGPHQ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 171,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795021397,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADq2r92lSfGMhFVqA6JF3VT86pmmQNAAJLDWsbBQXxRz61FL7rWBpPAQADAgADcwADPQQ",
+              "file_unique_id": "AQADSw1rGwUF8Ud4",
+              "file_size": 1847,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADq2r92lSfGMhFVqA6JF3VT86pmmQNAAJLDWsbBQXxRz61FL7rWBpPAQADAgADbQADPQQ",
+              "file_unique_id": "AQADSw1rGwUF8Udy",
+              "file_size": 26275,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADq2r92lSfGMhFVqA6JF3VT86pmmQNAAJLDWsbBQXxRz61FL7rWBpPAQADAgADeAADPQQ",
+              "file_unique_id": "AQADSw1rGwUF8Ud9",
+              "file_size": 104788,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADq2r92lSfGMhFVqA6JF3VT86pmmQNAAJLDWsbBQXxRz61FL7rWBpPAQADAgADeQADPQQ",
+              "file_unique_id": "AQADSw1rGwUF8Ud-",
+              "file_size": 158412,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-27% OFF)\n📦 Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 ...\n\n💵 Precio Hoy: $373.18 USD (~$1.548.697 COP · TRM $4.150)\n📉 Más barato que antes: Antes $509.99 USD → Hoy -27% OFF · Ahorras $136.81 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 188,
+              "length": 15,
+              "type": "italic"
+            },
+            {
+              "offset": 221,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 249,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 267,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 278,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 302,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 486,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 508,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 673,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 688,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 701,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($373.18 USD)",
+                  "url": "https://www.amazon.com/dp/B0GJ6QGPHQ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GJ6QGPHQ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GJ6QGPHQ",
+        "title": "Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 pulgadas - 4 GB de RAM - Almacenamiento UFS de 128 GB - Gráficos Intel integrados - Gris",
+        "photo_url": "https://m.media-amazon.com/images/I/71XJEorALdL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$373.18 USD</b> (<i>~$1.548.697 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$509.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $136.81 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($373.18 USD)",
+                "url": "https://www.amazon.com/dp/B0GJ6QGPHQ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GJ6QGPHQ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GJ6QGPHQ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GJ6QGPHQ",
+        "deal_snapshot": {
+          "asin": "B0GJ6QGPHQ",
+          "title": "Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 pulgadas - 4 GB de RAM - Almacenamiento UFS de 128 GB - Gráficos Intel integrados - Gris",
+          "price_usd": 373.18,
+          "reference_price_usd": 509.99,
+          "discount_pct": 27,
+          "price_cop": 1548697,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GJ6QGPHQ",
+      "title": "Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 pulgadas - 4 GB de RAM - Almacenamiento UFS de 128 GB - Gráficos Intel integrados - Gris",
+      "photo_url": "https://m.media-amazon.com/images/I/71XJEorALdL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$373.18 USD</b> (<i>~$1.548.697 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$509.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $136.81 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($373.18 USD)",
+              "url": "https://www.amazon.com/dp/B0GJ6QGPHQ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GJ6QGPHQ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GJ6QGPHQ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GJ6QGPHQ",
+      "deal_snapshot": {
+        "asin": "B0GJ6QGPHQ",
+        "title": "Lenovo Chromebook 2 en 1 - Portátil ligero - Google Gemini - CPU Intel N150 - Pantalla táctil WUXGA IPS de 14 pulgadas - 4 GB de RAM - Almacenamiento UFS de 128 GB - Gráficos Intel integrados - Gris",
+        "price_usd": 373.18,
+        "reference_price_usd": 509.99,
+        "discount_pct": 27,
+        "price_cop": 1548697,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
     "asin": "B0H3ZSPJF2",
     "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2",
     "timestamp": "2026-11-18T16:53:48.957700+00:00",
