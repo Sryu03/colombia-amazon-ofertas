@@ -1,5 +1,1569 @@
 [
   {
+    "asin": "B0H3ZSPJF2",
+    "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2",
+    "timestamp": "2026-11-18T16:53:48.957700+00:00",
+    "timestamp_colombia": "2026-11-18T11:53:48.957700-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H3ZSPJF2",
+      "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 39.33,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71k7JWefu7L._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 21.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 21.3,
+      "price_vs_90d_badge": "📉 21.3% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 39.33,
+      "price_cop": 130165,
+      "price_cop_formatted": "$130.165 COP",
+      "total_landed_cop": 130165,
+      "total_landed_cop_formatted": "$130.165 COP",
+      "savings_usd": 10.66,
+      "savings_cop": 35280,
+      "savings_cop_formatted": "$35.280 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H3ZSPJF2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3ZSPJF2",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-18T16:50:20.808428+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.33 USD</b> (<i>~$130.165 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $10.66 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71k7JWefu7L._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.33 USD</b> (<i>~$130.165 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $10.66 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.33 USD)",
+                "url": "https://www.amazon.com/dp/B0H3ZSPJF2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3ZSPJF2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 170,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795020833,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqmr92CBsrhG7tiw7Tly9FEan594xAAJJDWsbBQXxR2c7N6630uMnAQADAgADcwADPQQ",
+              "file_unique_id": "AQADSQ1rGwUF8Ud4",
+              "file_size": 1874,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqmr92CBsrhG7tiw7Tly9FEan594xAAJJDWsbBQXxR2c7N6630uMnAQADAgADbQADPQQ",
+              "file_unique_id": "AQADSQ1rGwUF8Udy",
+              "file_size": 27095,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqmr92CBsrhG7tiw7Tly9FEan594xAAJJDWsbBQXxR2c7N6630uMnAQADAgADeAADPQQ",
+              "file_unique_id": "AQADSQ1rGwUF8Ud9",
+              "file_size": 109817,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqmr92CBsrhG7tiw7Tly9FEan594xAAJJDWsbBQXxR2c7N6630uMnAQADAgADeQADPQQ",
+              "file_unique_id": "AQADSQ1rGwUF8Ud-",
+              "file_size": 162984,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-21% OFF)\n📦 Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2\n\n💵 Precio Hoy: $39.33 USD (~$130.165 COP · TRM $3.310)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -21% OFF · Ahorras $10.66 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 88,
+              "type": "bold"
+            },
+            {
+              "offset": 138,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 150,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 162,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 193,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 221,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 238,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 249,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 272,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 454,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 540,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 734,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 749,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 762,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($39.33 USD)",
+                  "url": "https://www.amazon.com/dp/B0H3ZSPJF2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3ZSPJF2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H3ZSPJF2",
+        "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2",
+        "photo_url": "https://m.media-amazon.com/images/I/71k7JWefu7L._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.33 USD</b> (<i>~$130.165 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $10.66 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.33 USD)",
+                "url": "https://www.amazon.com/dp/B0H3ZSPJF2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3ZSPJF2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H3ZSPJF2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3ZSPJF2",
+        "deal_snapshot": {
+          "asin": "B0H3ZSPJF2",
+          "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2",
+          "price_usd": 39.33,
+          "reference_price_usd": 49.99,
+          "discount_pct": 21,
+          "price_cop": 130165,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H3ZSPJF2",
+      "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2",
+      "photo_url": "https://m.media-amazon.com/images/I/71k7JWefu7L._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.33 USD</b> (<i>~$130.165 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $10.66 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($39.33 USD)",
+              "url": "https://www.amazon.com/dp/B0H3ZSPJF2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3ZSPJF2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H3ZSPJF2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3ZSPJF2",
+      "deal_snapshot": {
+        "asin": "B0H3ZSPJF2",
+        "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack - Nintendo Switch 2",
+        "price_usd": 39.33,
+        "reference_price_usd": 49.99,
+        "discount_pct": 21,
+        "price_cop": 130165,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0F7Y8QPVV",
+    "title": "Mafia: The Old Country - PlayStation 5",
+    "timestamp": "2026-11-18T16:53:44.349083+00:00",
+    "timestamp_colombia": "2026-11-18T11:53:44.349083-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0F7Y8QPVV",
+      "title": "Mafia: The Old Country - PlayStation 5",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 19.97,
+      "list_price_usd": 29.99,
+      "avg_90d_usd": 29.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/819LHzVzMeL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 29.99,
+      "discount_pct": 33.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.4,
+      "price_vs_90d_badge": "📉 33.4% más barato que su promedio de 90 días ($29.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39549,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.549 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 31.92,
+      "price_cop": 66092,
+      "price_cop_formatted": "$66.092 COP",
+      "total_landed_cop": 105641,
+      "total_landed_cop_formatted": "$105.641 COP",
+      "savings_usd": 10.02,
+      "savings_cop": 33162,
+      "savings_cop_formatted": "$33.162 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0F7Y8QPVV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7Y8QPVV",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-18T16:50:20.808428+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mafia: The Old Country - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.97 USD</b> (<i>~$66.092 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/819LHzVzMeL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mafia: The Old Country - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.97 USD</b> (<i>~$66.092 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.97 USD)",
+                "url": "https://www.amazon.com/dp/B0F7Y8QPVV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7Y8QPVV"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 169,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795020828,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqWr92BxKtBgjgtWpCoE7fszA76WbAAJIDWsbBQXxR7lTYfOP3GEiAQADAgADcwADPQQ",
+              "file_unique_id": "AQADSA1rGwUF8Ud4",
+              "file_size": 1849,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqWr92BxKtBgjgtWpCoE7fszA76WbAAJIDWsbBQXxR7lTYfOP3GEiAQADAgADbQADPQQ",
+              "file_unique_id": "AQADSA1rGwUF8Udy",
+              "file_size": 25490,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqWr92BxKtBgjgtWpCoE7fszA76WbAAJIDWsbBQXxR7lTYfOP3GEiAQADAgADeAADPQQ",
+              "file_unique_id": "AQADSA1rGwUF8Ud9",
+              "file_size": 102287,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADqWr92BxKtBgjgtWpCoE7fszA76WbAAJIDWsbBQXxR7lTYfOP3GEiAQADAgADeQADPQQ",
+              "file_unique_id": "AQADSA1rGwUF8Ud-",
+              "file_size": 154162,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-33% OFF)\n📦 Mafia: The Old Country - PlayStation 5\n\n💵 Precio Hoy: $19.97 USD (~$66.092 COP · TRM $3.310)\n📉 Más barato que antes: Antes $29.99 USD → Hoy -33% OFF · Ahorras $10.02 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 88,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 100,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 112,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 142,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 170,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 187,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 198,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 221,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 421,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 507,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 655,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 670,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 683,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0F7Y8QPVV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7Y8QPVV"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F7Y8QPVV",
+        "title": "Mafia: The Old Country - PlayStation 5",
+        "photo_url": "https://m.media-amazon.com/images/I/819LHzVzMeL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mafia: The Old Country - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.97 USD</b> (<i>~$66.092 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.97 USD)",
+                "url": "https://www.amazon.com/dp/B0F7Y8QPVV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7Y8QPVV"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F7Y8QPVV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7Y8QPVV",
+        "deal_snapshot": {
+          "asin": "B0F7Y8QPVV",
+          "title": "Mafia: The Old Country - PlayStation 5",
+          "price_usd": 19.97,
+          "reference_price_usd": 29.99,
+          "discount_pct": 33,
+          "price_cop": 66092,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F7Y8QPVV",
+      "title": "Mafia: The Old Country - PlayStation 5",
+      "photo_url": "https://m.media-amazon.com/images/I/819LHzVzMeL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>Mafia: The Old Country - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.97 USD</b> (<i>~$66.092 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $10.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.97 USD)",
+              "url": "https://www.amazon.com/dp/B0F7Y8QPVV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7Y8QPVV"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F7Y8QPVV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7Y8QPVV",
+      "deal_snapshot": {
+        "asin": "B0F7Y8QPVV",
+        "title": "Mafia: The Old Country - PlayStation 5",
+        "price_usd": 19.97,
+        "reference_price_usd": 29.99,
+        "discount_pct": 33,
+        "price_cop": 66092,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FX5ZWTF1",
+    "title": "Bluey's Quest for The Gold Pen - Nintendo Switch 2",
+    "timestamp": "2026-11-18T16:53:24.776611+00:00",
+    "timestamp_colombia": "2026-11-18T11:53:24.776611-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FX5ZWTF1",
+      "title": "Bluey's Quest for The Gold Pen - Nintendo Switch 2",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 29.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.94,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71u3LU7iUXL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39549,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.549 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 41.94,
+      "price_cop": 99253,
+      "price_cop_formatted": "$99.253 COP",
+      "total_landed_cop": 138803,
+      "total_landed_cop_formatted": "$138.803 COP",
+      "savings_usd": 20.0,
+      "savings_cop": 66191,
+      "savings_cop_formatted": "$66.191 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0FX5ZWTF1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX5ZWTF1",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-18T16:50:20.808428+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Bluey&#x27;s Quest for The Gold Pen - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.253 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71u3LU7iUXL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Bluey&#x27;s Quest for The Gold Pen - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.253 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FX5ZWTF1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX5ZWTF1"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 167,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795020824,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADp2r92Bg2NpnuTBtVBZGJ71i3WtYGAAKiEGsbMaH1U-X_7ZiLpEAKAQADAgADcwADPQQ",
+              "file_unique_id": "AQADohBrGzGh9VN4",
+              "file_size": 1664,
+              "width": 56,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADp2r92Bg2NpnuTBtVBZGJ71i3WtYGAAKiEGsbMaH1U-X_7ZiLpEAKAQADAgADbQADPQQ",
+              "file_unique_id": "AQADohBrGzGh9VNy",
+              "file_size": 21776,
+              "width": 198,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADp2r92Bg2NpnuTBtVBZGJ71i3WtYGAAKiEGsbMaH1U-X_7ZiLpEAKAQADAgADeAADPQQ",
+              "file_unique_id": "AQADohBrGzGh9VN9",
+              "file_size": 82726,
+              "width": 494,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADp2r92Bg2NpnuTBtVBZGJ71i3WtYGAAKiEGsbMaH1U-X_7ZiLpEAKAQADAgADeQADPQQ",
+              "file_unique_id": "AQADohBrGzGh9VN-",
+              "file_size": 91685,
+              "width": 741,
+              "height": 1200
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Bluey's Quest for The Gold Pen - Nintendo Switch 2\n\n💵 Precio Hoy: $29.99 USD (~$99.253 COP · TRM $3.310)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -40% OFF · Ahorras $20.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 50,
+              "type": "bold"
+            },
+            {
+              "offset": 106,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 118,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 130,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 160,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 188,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 205,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 216,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 439,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 525,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 672,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 687,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 700,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FX5ZWTF1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX5ZWTF1"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FX5ZWTF1",
+        "title": "Bluey's Quest for The Gold Pen - Nintendo Switch 2",
+        "photo_url": "https://m.media-amazon.com/images/I/71u3LU7iUXL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Bluey&#x27;s Quest for The Gold Pen - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.253 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FX5ZWTF1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX5ZWTF1"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FX5ZWTF1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX5ZWTF1",
+        "deal_snapshot": {
+          "asin": "B0FX5ZWTF1",
+          "title": "Bluey's Quest for The Gold Pen - Nintendo Switch 2",
+          "price_usd": 29.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 40,
+          "price_cop": 99253,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FX5ZWTF1",
+      "title": "Bluey's Quest for The Gold Pen - Nintendo Switch 2",
+      "photo_url": "https://m.media-amazon.com/images/I/71u3LU7iUXL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Bluey&#x27;s Quest for The Gold Pen - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.253 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FX5ZWTF1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX5ZWTF1"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FX5ZWTF1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FX5ZWTF1",
+      "deal_snapshot": {
+        "asin": "B0FX5ZWTF1",
+        "title": "Bluey's Quest for The Gold Pen - Nintendo Switch 2",
+        "price_usd": 29.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 40,
+        "price_cop": 99253,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0G2LZPN6B",
+    "title": "SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de",
+    "timestamp": "2026-11-18T16:53:20.263165+00:00",
+    "timestamp_colombia": "2026-11-18T11:53:20.263165-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0G2LZPN6B",
+      "title": "SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 14.98,
+      "list_price_usd": 24.99,
+      "avg_90d_usd": 24.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/710nJkRDUAL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 24.99,
+      "discount_pct": 40.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.1,
+      "price_vs_90d_badge": "📉 40.1% más barato que su promedio de 90 días ($24.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39549,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.549 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 26.93,
+      "price_cop": 49577,
+      "price_cop_formatted": "$49.577 COP",
+      "total_landed_cop": 89126,
+      "total_landed_cop_formatted": "$89.126 COP",
+      "savings_usd": 10.01,
+      "savings_cop": 33129,
+      "savings_cop_formatted": "$33.129 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $20.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0G2LZPN6B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G2LZPN6B",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-18T16:50:20.808428+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.98 USD</b> (<i>~$49.577 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/710nJkRDUAL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.98 USD</b> (<i>~$49.577 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.98 USD)",
+                "url": "https://www.amazon.com/dp/B0G2LZPN6B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G2LZPN6B"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 166,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795020804,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpmr92ATlBYeT3eqVM7OUFDyR2b-SAAJGDWsbBQXxR4gLPppuzMHsAQADAgADcwADPQQ",
+              "file_unique_id": "AQADRg1rGwUF8Ud4",
+              "file_size": 1704,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpmr92ATlBYeT3eqVM7OUFDyR2b-SAAJGDWsbBQXxR4gLPppuzMHsAQADAgADbQADPQQ",
+              "file_unique_id": "AQADRg1rGwUF8Udy",
+              "file_size": 25229,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpmr92ATlBYeT3eqVM7OUFDyR2b-SAAJGDWsbBQXxR4gLPppuzMHsAQADAgADeAADPQQ",
+              "file_unique_id": "AQADRg1rGwUF8Ud9",
+              "file_size": 103334,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpmr92ATlBYeT3eqVM7OUFDyR2b-SAAJGDWsbBQXxR4gLPppuzMHsAQADAgADeQADPQQ",
+              "file_unique_id": "AQADRg1rGwUF8Ud-",
+              "file_size": 155814,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de\n\n💵 Precio Hoy: $14.98 USD (~$49.577 COP · TRM $3.310)\n📉 Más barato que antes: Antes $24.99 USD → Hoy -40% OFF · Ahorras $10.01 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $20.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 74,
+              "type": "bold"
+            },
+            {
+              "offset": 130,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 142,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 154,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 184,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 212,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 229,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 240,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 263,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 463,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 549,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 697,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 712,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 725,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($14.98 USD)",
+                  "url": "https://www.amazon.com/dp/B0G2LZPN6B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G2LZPN6B"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0G2LZPN6B",
+        "title": "SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de",
+        "photo_url": "https://m.media-amazon.com/images/I/710nJkRDUAL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.98 USD</b> (<i>~$49.577 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.98 USD)",
+                "url": "https://www.amazon.com/dp/B0G2LZPN6B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G2LZPN6B"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0G2LZPN6B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G2LZPN6B",
+        "deal_snapshot": {
+          "asin": "B0G2LZPN6B",
+          "title": "SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de",
+          "price_usd": 14.98,
+          "reference_price_usd": 24.99,
+          "discount_pct": 40,
+          "price_cop": 49577,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0G2LZPN6B",
+      "title": "SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de",
+      "photo_url": "https://m.media-amazon.com/images/I/710nJkRDUAL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.98 USD</b> (<i>~$49.577 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($14.98 USD)",
+              "url": "https://www.amazon.com/dp/B0G2LZPN6B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G2LZPN6B"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0G2LZPN6B?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G2LZPN6B",
+      "deal_snapshot": {
+        "asin": "B0G2LZPN6B",
+        "title": "SUPERDANNY - Cable de extensión de 15 pies con múltiples tomas, regleta de",
+        "price_usd": 14.98,
+        "reference_price_usd": 24.99,
+        "discount_pct": 40,
+        "price_cop": 49577,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0CNY1F31S",
+    "title": "Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en minutos, cuenta con tecnología Hi-Fry para controles de pantalla táctil extra crujientes con 4 ajustes preestablecidos, cesta antiadherente y apta para lavavajillas, color negro",
+    "timestamp": "2026-11-18T16:53:18.285040+00:00",
+    "timestamp_colombia": "2026-11-18T11:53:18.285040-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CNY1F31S",
+      "title": "Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en minutos, cuenta con tecnología Hi-Fry para controles de pantalla táctil extra crujientes con 4 ajustes preestablecidos, cesta antiadherente y apta para lavavajillas, color negro",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 49.99,
+      "list_price_usd": 99.99,
+      "avg_90d_usd": 99.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71Ld+1SBc5L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 99.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($99.99 USD)",
+      "trm_cop": 3309.55,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 49.99,
+      "price_cop": 165444,
+      "price_cop_formatted": "$165.444 COP",
+      "total_landed_cop": 165444,
+      "total_landed_cop_formatted": "$165.444 COP",
+      "savings_usd": 50.0,
+      "savings_cop": 165478,
+      "savings_cop_formatted": "$165.478 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0CNY1F31S?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CNY1F31S",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-18T16:50:20.808428+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en m...</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $50.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71Ld+1SBc5L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en m...</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $50.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CNY1F31S?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CNY1F31S"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 165,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795020799,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpWr91_-MMt0pYsEyu1p2Jla17HAoAAJFDWsbBQXxR8fNaod2GEwRAQADAgADcwADPQQ",
+              "file_unique_id": "AQADRQ1rGwUF8Ud4",
+              "file_size": 1745,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpWr91_-MMt0pYsEyu1p2Jla17HAoAAJFDWsbBQXxR8fNaod2GEwRAQADAgADbQADPQQ",
+              "file_unique_id": "AQADRQ1rGwUF8Udy",
+              "file_size": 24386,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpWr91_-MMt0pYsEyu1p2Jla17HAoAAJFDWsbBQXxR8fNaod2GEwRAQADAgADeAADPQQ",
+              "file_unique_id": "AQADRQ1rGwUF8Ud9",
+              "file_size": 95380,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADpWr91_-MMt0pYsEyu1p2Jla17HAoAAJFDWsbBQXxR8fNaod2GEwRAQADAgADeQADPQQ",
+              "file_unique_id": "AQADRQ1rGwUF8Ud-",
+              "file_size": 140388,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en m...\n\n💵 Precio Hoy: $49.99 USD (~$165.444 COP · TRM $3.310)\n📉 Más barato que antes: Antes $99.99 USD → Hoy -50% OFF · Ahorras $50.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 224,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 269,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 280,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 303,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 485,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 507,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 701,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 716,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 729,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0CNY1F31S?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CNY1F31S"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CNY1F31S",
+        "title": "Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en minutos, cuenta con tecnología Hi-Fry para controles de pantalla táctil extra crujientes con 4 ajustes preestablecidos, cesta antiadherente y apta para lavavajillas, color negro",
+        "photo_url": "https://m.media-amazon.com/images/I/71Ld+1SBc5L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en m...</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $50.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+                "url": "https://www.amazon.com/dp/B0CNY1F31S?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CNY1F31S"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CNY1F31S?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CNY1F31S",
+        "deal_snapshot": {
+          "asin": "B0CNY1F31S",
+          "title": "Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en minutos, cuenta con tecnología Hi-Fry para controles de pantalla táctil extra crujientes con 4 ajustes preestablecidos, cesta antiadherente y apta para lavavajillas, color negro",
+          "price_usd": 49.99,
+          "reference_price_usd": 99.99,
+          "discount_pct": 50,
+          "price_cop": 165444,
+          "trm_cop": 3309.55,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CNY1F31S",
+      "title": "Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en minutos, cuenta con tecnología Hi-Fry para controles de pantalla táctil extra crujientes con 4 ajustes preestablecidos, cesta antiadherente y apta para lavavajillas, color negro",
+      "photo_url": "https://m.media-amazon.com/images/I/71Ld+1SBc5L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en m...</b>\n\n💵 <b>Precio Hoy:</b> <b>$49.99 USD</b> (<i>~$165.444 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $50.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($49.99 USD)",
+              "url": "https://www.amazon.com/dp/B0CNY1F31S?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CNY1F31S"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CNY1F31S?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CNY1F31S",
+      "deal_snapshot": {
+        "asin": "B0CNY1F31S",
+        "title": "Chefman Freidora de aire – Freidora de aire compacta de 4 cuartos de galón para comidas rápidas y fáciles en minutos, cuenta con tecnología Hi-Fry para controles de pantalla táctil extra crujientes con 4 ajustes preestablecidos, cesta antiadherente y apta para lavavajillas, color negro",
+        "price_usd": 49.99,
+        "reference_price_usd": 99.99,
+        "discount_pct": 50,
+        "price_cop": 165444,
+        "trm_cop": 3309.55,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0D4TLG3GD",
     "title": "Euphro Marco de fotos digital de 15.6 pulgadas con pantalla táctil IPS de 1920 x 1080, marco de fotos digital inteligente con almacenamiento de 32 GB, fácil configuración para compartir fotos/videos a",
     "timestamp": "2026-11-18T10:53:01.492840+00:00",
