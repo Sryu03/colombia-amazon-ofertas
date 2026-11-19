@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B092TQG5ZD",
+    "title": "Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria",
+    "timestamp": "2026-11-19T01:21:59.346298+00:00",
+    "timestamp_colombia": "2026-11-18T20:21:59.346298-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B092TQG5ZD",
+      "title": "Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 25.49,
+      "list_price_usd": 31.99,
+      "avg_90d_usd": 31.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/810gZYpPz9L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 31.99,
+      "discount_pct": 20.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.3,
+      "price_vs_90d_badge": "📉 20.3% más barato que su promedio de 90 días ($31.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 37.44,
+      "price_cop": 84804,
+      "price_cop_formatted": "$84.804 COP",
+      "total_landed_cop": 124561,
+      "total_landed_cop_formatted": "$124.561 COP",
+      "savings_usd": 6.5,
+      "savings_cop": 21625,
+      "savings_cop_formatted": "$21.625 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $9.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B092TQG5ZD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B092TQG5ZD",
+      "is_new_price_drop": true,
+      "previous_price_usd": 25.49,
+      "verified_at": "2026-11-19T01:18:59.154707+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.49 USD</b> (<i>~$84.804 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$31.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $6.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/810gZYpPz9L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.49 USD</b> (<i>~$84.804 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$31.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $6.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($25.49 USD)",
+                "url": "https://www.amazon.com/dp/B092TQG5ZD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B092TQG5ZD"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 174,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795051320,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrmr-TzjJG-nielWdKSl4G2dTKePRAAKKDWsbBQXxR6y1s29Eus-KAQADAgADcwADPQQ",
+              "file_unique_id": "AQADig1rGwUF8Ud4",
+              "file_size": 1780,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrmr-TzjJG-nielWdKSl4G2dTKePRAAKKDWsbBQXxR6y1s29Eus-KAQADAgADbQADPQQ",
+              "file_unique_id": "AQADig1rGwUF8Udy",
+              "file_size": 24661,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrmr-TzjJG-nielWdKSl4G2dTKePRAAKKDWsbBQXxR6y1s29Eus-KAQADAgADeAADPQQ",
+              "file_unique_id": "AQADig1rGwUF8Ud9",
+              "file_size": 101509,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrmr-TzjJG-nielWdKSl4G2dTKePRAAKKDWsbBQXxR6y1s29Eus-KAQADAgADeQADPQQ",
+              "file_unique_id": "AQADig1rGwUF8Ud-",
+              "file_size": 158637,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria\n\n💵 Precio Hoy: $25.49 USD (~$84.804 COP · TRM $3.327)\n📉 Más barato que antes: Antes $31.99 USD → Hoy -20% OFF · Ahorras $6.50 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $9.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 100,
+              "type": "bold"
+            },
+            {
+              "offset": 150,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 162,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 174,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 204,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 232,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 249,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 260,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 282,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 482,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 568,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 715,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 730,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 743,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($25.49 USD)",
+                  "url": "https://www.amazon.com/dp/B092TQG5ZD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B092TQG5ZD"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B092TQG5ZD",
+        "title": "Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria",
+        "photo_url": "https://m.media-amazon.com/images/I/810gZYpPz9L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.49 USD</b> (<i>~$84.804 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$31.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $6.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($25.49 USD)",
+                "url": "https://www.amazon.com/dp/B092TQG5ZD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B092TQG5ZD"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B092TQG5ZD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B092TQG5ZD",
+        "deal_snapshot": {
+          "asin": "B092TQG5ZD",
+          "title": "Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria",
+          "price_usd": 25.49,
+          "reference_price_usd": 31.99,
+          "discount_pct": 20,
+          "price_cop": 84804,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B092TQG5ZD",
+      "title": "Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria",
+      "photo_url": "https://m.media-amazon.com/images/I/810gZYpPz9L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria</b>\n\n💵 <b>Precio Hoy:</b> <b>$25.49 USD</b> (<i>~$84.804 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$31.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $6.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $9.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($25.49 USD)",
+              "url": "https://www.amazon.com/dp/B092TQG5ZD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B092TQG5ZD"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B092TQG5ZD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B092TQG5ZD",
+      "deal_snapshot": {
+        "asin": "B092TQG5ZD",
+        "title": "Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria",
+        "price_usd": 25.49,
+        "reference_price_usd": 31.99,
+        "discount_pct": 20,
+        "price_cop": 84804,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0GX5N4LX7",
     "title": "Celeron N5100 - Computadora portátil tradicional de 15.6 pulgadas, 8 GB de RAM, 256 GB SSD, teclado retroiluminado, lector de huellas dactilares, computadora portátil para estudiantes de negocios",
     "timestamp": "2026-11-19T00:33:19.851280+00:00",
