@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0HD32PPQM",
+    "title": "Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5",
+    "timestamp": "2026-11-19T11:03:18.938483+00:00",
+    "timestamp_colombia": "2026-11-19T06:03:18.938483-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HD32PPQM",
+      "title": "Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 29.99,
+      "list_price_usd": 39.99,
+      "avg_90d_usd": 39.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 3.83,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81vJFY0kIjL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 39.99,
+      "discount_pct": 25.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 25.0,
+      "price_vs_90d_badge": "📉 25.0% más barato que su promedio de 90 días ($39.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 41.94,
+      "price_cop": 124458,
+      "price_cop_formatted": "$124.458 COP",
+      "total_landed_cop": 174051,
+      "total_landed_cop_formatted": "$174.051 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 41500,
+      "savings_cop_formatted": "$41.500 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HD32PPQM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD32PPQM",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T11:00:34.453658+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81vJFY0kIjL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HD32PPQM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD32PPQM"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 227,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795086203,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD42r-13tnpYOUXSjbAZhPm1-fAYPDAAIIDWsbBQX5RwadvtUvhOk0AQADAgADcwADPQQ",
+              "file_unique_id": "AQADCA1rGwUF-Ud4",
+              "file_size": 1920,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD42r-13tnpYOUXSjbAZhPm1-fAYPDAAIIDWsbBQX5RwadvtUvhOk0AQADAgADbQADPQQ",
+              "file_unique_id": "AQADCA1rGwUF-Udy",
+              "file_size": 27814,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD42r-13tnpYOUXSjbAZhPm1-fAYPDAAIIDWsbBQX5RwadvtUvhOk0AQADAgADeAADPQQ",
+              "file_unique_id": "AQADCA1rGwUF-Ud9",
+              "file_size": 114561,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD42r-13tnpYOUXSjbAZhPm1-fAYPDAAIIDWsbBQX5RwadvtUvhOk0AQADAgADeQADPQQ",
+              "file_unique_id": "AQADCA1rGwUF-Ud-",
+              "file_size": 173919,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-25% OFF)\n📦 Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5\n\n💵 Precio Hoy: $29.99 USD (~$124.458 COP · TRM $4.150)\n📉 Más barato que antes: Antes $39.99 USD → Hoy -25% OFF · Ahorras $10.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 113,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 168,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 196,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 213,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 224,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 447,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 533,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 680,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 695,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 708,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HD32PPQM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD32PPQM"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HD32PPQM",
+        "title": "Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5",
+        "photo_url": "https://m.media-amazon.com/images/I/81vJFY0kIjL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HD32PPQM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD32PPQM"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HD32PPQM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD32PPQM",
+        "deal_snapshot": {
+          "asin": "B0HD32PPQM",
+          "title": "Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5",
+          "price_usd": 29.99,
+          "reference_price_usd": 39.99,
+          "discount_pct": 25,
+          "price_cop": 124458,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HD32PPQM",
+      "title": "Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5",
+      "photo_url": "https://m.media-amazon.com/images/I/81vJFY0kIjL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HD32PPQM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD32PPQM"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HD32PPQM?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD32PPQM",
+      "deal_snapshot": {
+        "asin": "B0HD32PPQM",
+        "title": "Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5",
+        "price_usd": 29.99,
+        "reference_price_usd": 39.99,
+        "discount_pct": 25,
+        "price_cop": 124458,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HMQLM3H2",
+    "title": "Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED",
+    "timestamp": "2026-11-19T11:03:16.266210+00:00",
+    "timestamp_colombia": "2026-11-19T06:03:16.266210-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HMQLM3H2",
+      "title": "Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 19.93,
+      "list_price_usd": 249.99,
+      "avg_90d_usd": 249.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71aKa1+MVXL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 249.99,
+      "discount_pct": 92.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 92.0,
+      "price_vs_90d_badge": "📉 92.0% más barato que su promedio de 90 días ($249.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 31.88,
+      "price_cop": 82710,
+      "price_cop_formatted": "$82.710 COP",
+      "total_landed_cop": 132302,
+      "total_landed_cop_formatted": "$132.302 COP",
+      "savings_usd": 230.06,
+      "savings_cop": 954749,
+      "savings_cop_formatted": "$954.749 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.07 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HMQLM3H2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HMQLM3H2",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T11:00:34.453658+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.93 USD</b> (<i>~$82.710 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.06 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.07 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71aKa1+MVXL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.93 USD</b> (<i>~$82.710 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.06 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.07 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.93 USD)",
+                "url": "https://www.amazon.com/dp/B0HMQLM3H2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HMQLM3H2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 226,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795086198,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4mr-13Ur3TBDRXOyxu0sMIOv_MoQAAIHDWsbBQX5RzfUdCthHRSpAQADAgADcwADPQQ",
+              "file_unique_id": "AQADBw1rGwUF-Ud4",
+              "file_size": 1970,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4mr-13Ur3TBDRXOyxu0sMIOv_MoQAAIHDWsbBQX5RzfUdCthHRSpAQADAgADbQADPQQ",
+              "file_unique_id": "AQADBw1rGwUF-Udy",
+              "file_size": 29008,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4mr-13Ur3TBDRXOyxu0sMIOv_MoQAAIHDWsbBQX5RzfUdCthHRSpAQADAgADeAADPQQ",
+              "file_unique_id": "AQADBw1rGwUF-Ud9",
+              "file_size": 118584,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4mr-13Ur3TBDRXOyxu0sMIOv_MoQAAIHDWsbBQX5RzfUdCthHRSpAQADAgADeQADPQQ",
+              "file_unique_id": "AQADBw1rGwUF-Ud-",
+              "file_size": 178340,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)\n📦 Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED\n\n💵 Precio Hoy: $19.93 USD (~$82.710 COP · TRM $4.150)\n📉 Más barato que antes: Antes $249.99 USD → Hoy -92% OFF · Ahorras $230.06 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.07 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 184,
+              "type": "bold"
+            },
+            {
+              "offset": 240,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 264,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 294,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 322,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 340,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 351,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 375,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 575,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 661,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 809,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 824,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 837,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.93 USD)",
+                  "url": "https://www.amazon.com/dp/B0HMQLM3H2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HMQLM3H2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HMQLM3H2",
+        "title": "Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED",
+        "photo_url": "https://m.media-amazon.com/images/I/71aKa1+MVXL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.93 USD</b> (<i>~$82.710 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.06 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.07 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.93 USD)",
+                "url": "https://www.amazon.com/dp/B0HMQLM3H2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HMQLM3H2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HMQLM3H2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HMQLM3H2",
+        "deal_snapshot": {
+          "asin": "B0HMQLM3H2",
+          "title": "Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED",
+          "price_usd": 19.93,
+          "reference_price_usd": 249.99,
+          "discount_pct": 92,
+          "price_cop": 82710,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HMQLM3H2",
+      "title": "Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED",
+      "photo_url": "https://m.media-amazon.com/images/I/71aKa1+MVXL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.93 USD</b> (<i>~$82.710 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.06 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.07 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.93 USD)",
+              "url": "https://www.amazon.com/dp/B0HMQLM3H2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HMQLM3H2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HMQLM3H2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HMQLM3H2",
+      "deal_snapshot": {
+        "asin": "B0HMQLM3H2",
+        "title": "Auriculares inalámbricos, auriculares Bluetooth deportivos, auriculares con cancelación de ruido con 75 horas de reproducción, 75 horas de reproducción con pantalla de alimentación LED",
+        "price_usd": 19.93,
+        "reference_price_usd": 249.99,
+        "discount_pct": 92,
+        "price_cop": 82710,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0GF1VMNJP",
     "title": "Ratón inalámbrico para laptop, ratones inalámbricos silenciosos para",
     "timestamp": "2026-11-19T10:43:15.345336+00:00",
