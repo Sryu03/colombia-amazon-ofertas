@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0HFMFPPGG",
+    "title": "Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido",
+    "timestamp": "2026-11-19T09:23:28.602253+00:00",
+    "timestamp_colombia": "2026-11-19T04:23:28.602253-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HFMFPPGG",
+      "title": "Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 20.88,
+      "list_price_usd": 199.99,
+      "avg_90d_usd": 199.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.3,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_QL70_FMwebp_.gif",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 199.99,
+      "discount_pct": 89.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 89.6,
+      "price_vs_90d_badge": "📉 89.6% más barato que su promedio de 90 días ($199.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 32.83,
+      "price_cop": 69467,
+      "price_cop_formatted": "$69.467 COP",
+      "total_landed_cop": 109224,
+      "total_landed_cop_formatted": "$109.224 COP",
+      "savings_usd": 179.11,
+      "savings_cop": 595892,
+      "savings_cop_formatted": "$595.892 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $14.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HFMFPPGG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFMFPPGG",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T09:20:23.427468+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.88 USD</b> (<i>~$69.467 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $179.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_QL70_FMwebp_.gif",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.88 USD</b> (<i>~$69.467 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $179.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($20.88 USD)",
+                "url": "https://www.amazon.com/dp/B0HFMFPPGG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFMFPPGG"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 217,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795080210,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2Wr-wBLT9GuHYgWY6l87bIQ9EVg8AAL6DGsbBQX5R8T3uyraqC2mAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD-gxrGwUF-Ud4",
+              "file_size": 1892,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2Wr-wBLT9GuHYgWY6l87bIQ9EVg8AAL6DGsbBQX5R8T3uyraqC2mAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD-gxrGwUF-Udy",
+              "file_size": 24051,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2Wr-wBLT9GuHYgWY6l87bIQ9EVg8AAL6DGsbBQX5R8T3uyraqC2mAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD-gxrGwUF-Ud9",
+              "file_size": 91886,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2Wr-wBLT9GuHYgWY6l87bIQ9EVg8AAL6DGsbBQX5R8T3uyraqC2mAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD-gxrGwUF-Ud-",
+              "file_size": 134300,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)\n📦 Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido\n\n💵 Precio Hoy: $20.88 USD (~$69.467 COP · TRM $3.327)\n📉 Más barato que antes: Antes $199.99 USD → Hoy -90% OFF · Ahorras $179.11 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $14.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 155,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 185,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 213,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 231,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 242,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 266,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 466,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 552,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 700,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 715,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 728,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($20.88 USD)",
+                  "url": "https://www.amazon.com/dp/B0HFMFPPGG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFMFPPGG"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HFMFPPGG",
+        "title": "Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido",
+        "photo_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_QL70_FMwebp_.gif",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.88 USD</b> (<i>~$69.467 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $179.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($20.88 USD)",
+                "url": "https://www.amazon.com/dp/B0HFMFPPGG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFMFPPGG"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HFMFPPGG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFMFPPGG",
+        "deal_snapshot": {
+          "asin": "B0HFMFPPGG",
+          "title": "Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido",
+          "price_usd": 20.88,
+          "reference_price_usd": 199.99,
+          "discount_pct": 90,
+          "price_cop": 69467,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HFMFPPGG",
+      "title": "Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido",
+      "photo_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_QL70_FMwebp_.gif",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.88 USD</b> (<i>~$69.467 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $179.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($20.88 USD)",
+              "url": "https://www.amazon.com/dp/B0HFMFPPGG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFMFPPGG"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HFMFPPGG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFMFPPGG",
+      "deal_snapshot": {
+        "asin": "B0HFMFPPGG",
+        "title": "Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido",
+        "price_usd": 20.88,
+        "reference_price_usd": 199.99,
+        "discount_pct": 90,
+        "price_cop": 69467,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H5WKDT2P",
     "title": "TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada",
     "timestamp": "2026-11-19T09:03:59.166355+00:00",
