@@ -1,5 +1,944 @@
 [
   {
+    "asin": "B0HN1G1DN3",
+    "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
+    "timestamp": "2026-11-19T09:33:29.960118+00:00",
+    "timestamp_colombia": "2026-11-19T04:33:29.960118-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HN1G1DN3",
+      "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 17.14,
+      "list_price_usd": 24.99,
+      "avg_90d_usd": 24.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.94,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61Py+fCKCUL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 24.99,
+      "discount_pct": 31.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 31.4,
+      "price_vs_90d_badge": "📉 31.4% más barato que su promedio de 90 días ($24.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 29.09,
+      "price_cop": 57024,
+      "price_cop_formatted": "$57.024 COP",
+      "total_landed_cop": 96781,
+      "total_landed_cop_formatted": "$96.781 COP",
+      "savings_usd": 7.85,
+      "savings_cop": 26117,
+      "savings_cop_formatted": "$26.117 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $17.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HN1G1DN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1G1DN3",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T09:30:21.961821+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.14 USD</b> (<i>~$57.024 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $7.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61Py+fCKCUL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.14 USD</b> (<i>~$57.024 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $7.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($17.14 USD)",
+                "url": "https://www.amazon.com/dp/B0HN1G1DN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1G1DN3"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 220,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795080814,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Gr-wm675Ufujf2o5916E6ECIBhOAAL9DGsbBQX5R3bvGeKFa3h4AQADAgADcwADPQQ",
+              "file_unique_id": "AQAD_QxrGwUF-Ud4",
+              "file_size": 1812,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Gr-wm675Ufujf2o5916E6ECIBhOAAL9DGsbBQX5R3bvGeKFa3h4AQADAgADbQADPQQ",
+              "file_unique_id": "AQAD_QxrGwUF-Udy",
+              "file_size": 23691,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Gr-wm675Ufujf2o5916E6ECIBhOAAL9DGsbBQX5R3bvGeKFa3h4AQADAgADeAADPQQ",
+              "file_unique_id": "AQAD_QxrGwUF-Ud9",
+              "file_size": 93494,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Gr-wm675Ufujf2o5916E6ECIBhOAAL9DGsbBQX5R3bvGeKFa3h4AQADAgADeQADPQQ",
+              "file_unique_id": "AQAD_QxrGwUF-Ud-",
+              "file_size": 137562,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-31% OFF)\n📦 TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb\n\n💵 Precio Hoy: $17.14 USD (~$57.024 COP · TRM $3.327)\n📉 Más barato que antes: Antes $24.99 USD → Hoy -31% OFF · Ahorras $7.85 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $17.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 49,
+              "type": "bold"
+            },
+            {
+              "offset": 99,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 111,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 123,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 153,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 198,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 231,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 431,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 517,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 665,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 680,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 693,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($17.14 USD)",
+                  "url": "https://www.amazon.com/dp/B0HN1G1DN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1G1DN3"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HN1G1DN3",
+        "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
+        "photo_url": "https://m.media-amazon.com/images/I/61Py+fCKCUL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.14 USD</b> (<i>~$57.024 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $7.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($17.14 USD)",
+                "url": "https://www.amazon.com/dp/B0HN1G1DN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1G1DN3"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HN1G1DN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1G1DN3",
+        "deal_snapshot": {
+          "asin": "B0HN1G1DN3",
+          "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
+          "price_usd": 17.14,
+          "reference_price_usd": 24.99,
+          "discount_pct": 31,
+          "price_cop": 57024,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HN1G1DN3",
+      "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
+      "photo_url": "https://m.media-amazon.com/images/I/61Py+fCKCUL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.14 USD</b> (<i>~$57.024 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $7.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($17.14 USD)",
+              "url": "https://www.amazon.com/dp/B0HN1G1DN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1G1DN3"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HN1G1DN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HN1G1DN3",
+      "deal_snapshot": {
+        "asin": "B0HN1G1DN3",
+        "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
+        "price_usd": 17.14,
+        "reference_price_usd": 24.99,
+        "discount_pct": 31,
+        "price_cop": 57024,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HFFPXHCR",
+    "title": "Bandeja de calentamiento, calentadores de alimentos para fiestas",
+    "timestamp": "2026-11-19T09:33:23.889154+00:00",
+    "timestamp_colombia": "2026-11-19T04:33:23.889154-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HFFPXHCR",
+      "title": "Bandeja de calentamiento, calentadores de alimentos para fiestas",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 62.69,
+      "list_price_usd": 109.99,
+      "avg_90d_usd": 109.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.94,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71O40oraxnL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 109.99,
+      "discount_pct": 43.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 43.0,
+      "price_vs_90d_badge": "📉 43.0% más barato que su promedio de 90 días ($109.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 62.69,
+      "price_cop": 208567,
+      "price_cop_formatted": "$208.567 COP",
+      "total_landed_cop": 208567,
+      "total_landed_cop_formatted": "$208.567 COP",
+      "savings_usd": 47.3,
+      "savings_cop": 157365,
+      "savings_cop_formatted": "$157.365 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HFFPXHCR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFFPXHCR",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T09:30:21.961821+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Bandeja de calentamiento, calentadores de alimentos para fiestas</b>\n\n💵 <b>Precio Hoy:</b> <b>$62.69 USD</b> (<i>~$208.567 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $47.30 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71O40oraxnL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Bandeja de calentamiento, calentadores de alimentos para fiestas</b>\n\n💵 <b>Precio Hoy:</b> <b>$62.69 USD</b> (<i>~$208.567 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $47.30 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($62.69 USD)",
+                "url": "https://www.amazon.com/dp/B0HFFPXHCR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFFPXHCR"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 219,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795080809,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD22r-wmlbuHwMJBWK5Btt5h_rErieAAL8DGsbBQX5R8AlEuLGaJ0UAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD_AxrGwUF-Ud4",
+              "file_size": 1934,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD22r-wmlbuHwMJBWK5Btt5h_rErieAAL8DGsbBQX5R8AlEuLGaJ0UAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD_AxrGwUF-Udy",
+              "file_size": 25712,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD22r-wmlbuHwMJBWK5Btt5h_rErieAAL8DGsbBQX5R8AlEuLGaJ0UAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD_AxrGwUF-Ud9",
+              "file_size": 103713,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD22r-wmlbuHwMJBWK5Btt5h_rErieAAL8DGsbBQX5R8AlEuLGaJ0UAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD_AxrGwUF-Ud-",
+              "file_size": 154310,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)\n📦 Bandeja de calentamiento, calentadores de alimentos para fiestas\n\n💵 Precio Hoy: $62.69 USD (~$208.567 COP · TRM $3.327)\n📉 Más barato que antes: Antes $109.99 USD → Hoy -43% OFF · Ahorras $47.30 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 64,
+              "type": "bold"
+            },
+            {
+              "offset": 120,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 132,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 144,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 175,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 203,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 221,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 232,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 255,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 437,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 523,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 717,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 732,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 745,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($62.69 USD)",
+                  "url": "https://www.amazon.com/dp/B0HFFPXHCR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFFPXHCR"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HFFPXHCR",
+        "title": "Bandeja de calentamiento, calentadores de alimentos para fiestas",
+        "photo_url": "https://m.media-amazon.com/images/I/71O40oraxnL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Bandeja de calentamiento, calentadores de alimentos para fiestas</b>\n\n💵 <b>Precio Hoy:</b> <b>$62.69 USD</b> (<i>~$208.567 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $47.30 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($62.69 USD)",
+                "url": "https://www.amazon.com/dp/B0HFFPXHCR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFFPXHCR"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HFFPXHCR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFFPXHCR",
+        "deal_snapshot": {
+          "asin": "B0HFFPXHCR",
+          "title": "Bandeja de calentamiento, calentadores de alimentos para fiestas",
+          "price_usd": 62.69,
+          "reference_price_usd": 109.99,
+          "discount_pct": 43,
+          "price_cop": 208567,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HFFPXHCR",
+      "title": "Bandeja de calentamiento, calentadores de alimentos para fiestas",
+      "photo_url": "https://m.media-amazon.com/images/I/71O40oraxnL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Bandeja de calentamiento, calentadores de alimentos para fiestas</b>\n\n💵 <b>Precio Hoy:</b> <b>$62.69 USD</b> (<i>~$208.567 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$109.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $47.30 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($62.69 USD)",
+              "url": "https://www.amazon.com/dp/B0HFFPXHCR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFFPXHCR"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HFFPXHCR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFFPXHCR",
+      "deal_snapshot": {
+        "asin": "B0HFFPXHCR",
+        "title": "Bandeja de calentamiento, calentadores de alimentos para fiestas",
+        "price_usd": 62.69,
+        "reference_price_usd": 109.99,
+        "discount_pct": 43,
+        "price_cop": 208567,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HFM63KVW",
+    "title": "Auriculares inalámbricos Bluetooth",
+    "timestamp": "2026-11-19T09:33:21.904159+00:00",
+    "timestamp_colombia": "2026-11-19T04:33:21.904159-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HFM63KVW",
+      "title": "Auriculares inalámbricos Bluetooth",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 28.49,
+      "list_price_usd": 299.99,
+      "avg_90d_usd": 299.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/610B9+2JRvL._AC_SL1499_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 299.99,
+      "discount_pct": 90.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 90.5,
+      "price_vs_90d_badge": "📉 90.5% más barato que su promedio de 90 días ($299.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.44,
+      "price_cop": 94785,
+      "price_cop_formatted": "$94.785 COP",
+      "total_landed_cop": 134542,
+      "total_landed_cop_formatted": "$134.542 COP",
+      "savings_usd": 271.5,
+      "savings_cop": 903270,
+      "savings_cop_formatted": "$903.270 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HFM63KVW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFM63KVW",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T09:30:21.961821+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares inalámbricos Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.49 USD</b> (<i>~$94.785 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $271.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/610B9+2JRvL._AC_SL1499_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares inalámbricos Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.49 USD</b> (<i>~$94.785 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $271.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.49 USD)",
+                "url": "https://www.amazon.com/dp/B0HFM63KVW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFM63KVW"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 218,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795080803,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2mr-wmOV41yGZIfi6Zu3YBbqOyNkAAL7DGsbBQX5R3G6X8rxLEgnAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD-wxrGwUF-Ud4",
+              "file_size": 1772,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2mr-wmOV41yGZIfi6Zu3YBbqOyNkAAL7DGsbBQX5R3G6X8rxLEgnAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD-wxrGwUF-Udy",
+              "file_size": 21697,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2mr-wmOV41yGZIfi6Zu3YBbqOyNkAAL7DGsbBQX5R3G6X8rxLEgnAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD-wxrGwUF-Ud9",
+              "file_size": 85851,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD2mr-wmOV41yGZIfi6Zu3YBbqOyNkAAL7DGsbBQX5R3G6X8rxLEgnAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD-wxrGwUF-Ud-",
+              "file_size": 126837,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)\n📦 Auriculares inalámbricos Bluetooth\n\n💵 Precio Hoy: $28.49 USD (~$94.785 COP · TRM $3.327)\n📉 Más barato que antes: Antes $299.99 USD → Hoy -90% OFF · Ahorras $271.50 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 34,
+              "type": "bold"
+            },
+            {
+              "offset": 90,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 102,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 114,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 144,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 172,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 190,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 201,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 225,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 425,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 511,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 658,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 673,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 686,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($28.49 USD)",
+                  "url": "https://www.amazon.com/dp/B0HFM63KVW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFM63KVW"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HFM63KVW",
+        "title": "Auriculares inalámbricos Bluetooth",
+        "photo_url": "https://m.media-amazon.com/images/I/610B9+2JRvL._AC_SL1499_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares inalámbricos Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.49 USD</b> (<i>~$94.785 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $271.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.49 USD)",
+                "url": "https://www.amazon.com/dp/B0HFM63KVW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFM63KVW"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HFM63KVW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFM63KVW",
+        "deal_snapshot": {
+          "asin": "B0HFM63KVW",
+          "title": "Auriculares inalámbricos Bluetooth",
+          "price_usd": 28.49,
+          "reference_price_usd": 299.99,
+          "discount_pct": 90,
+          "price_cop": 94785,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HFM63KVW",
+      "title": "Auriculares inalámbricos Bluetooth",
+      "photo_url": "https://m.media-amazon.com/images/I/610B9+2JRvL._AC_SL1499_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-90% OFF)</b>\n📦 <b>Auriculares inalámbricos Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.49 USD</b> (<i>~$94.785 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-90% OFF</b> · <b>Ahorras $271.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.51 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($28.49 USD)",
+              "url": "https://www.amazon.com/dp/B0HFM63KVW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFM63KVW"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HFM63KVW?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HFM63KVW",
+      "deal_snapshot": {
+        "asin": "B0HFM63KVW",
+        "title": "Auriculares inalámbricos Bluetooth",
+        "price_usd": 28.49,
+        "reference_price_usd": 299.99,
+        "discount_pct": 90,
+        "price_cop": 94785,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HFMFPPGG",
     "title": "Auriculares Bluetooth, auriculares híbridos con cancelación activa de ruido",
     "timestamp": "2026-11-19T09:23:28.602253+00:00",
