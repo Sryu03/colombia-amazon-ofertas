@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0HDT94SVJ",
+    "title": "GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black",
+    "timestamp": "2026-11-19T11:13:09.174701+00:00",
+    "timestamp_colombia": "2026-11-19T06:13:09.174701-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HDT94SVJ",
+      "title": "GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 63.99,
+      "list_price_usd": 79.99,
+      "avg_90d_usd": 79.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/813woQfLQ2L._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 79.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($79.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 63.99,
+      "price_cop": 212892,
+      "price_cop_formatted": "$212.892 COP",
+      "total_landed_cop": 212892,
+      "total_landed_cop_formatted": "$212.892 COP",
+      "savings_usd": 16.0,
+      "savings_cop": 53231,
+      "savings_cop_formatted": "$53.231 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HDT94SVJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDT94SVJ",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T11:10:22.209875+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black</b>\n\n💵 <b>Precio Hoy:</b> <b>$63.99 USD</b> (<i>~$212.892 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/813woQfLQ2L._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black</b>\n\n💵 <b>Precio Hoy:</b> <b>$63.99 USD</b> (<i>~$212.892 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($63.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HDT94SVJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDT94SVJ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 229,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795086793,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Wr-2clRVSJCGVvH1L5jhSEVnb-_AAIKDWsbBQX5Ry1C0x-_R1G1AQADAgADcwADPQQ",
+              "file_unique_id": "AQADCg1rGwUF-Ud4",
+              "file_size": 1885,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Wr-2clRVSJCGVvH1L5jhSEVnb-_AAIKDWsbBQX5Ry1C0x-_R1G1AQADAgADbQADPQQ",
+              "file_unique_id": "AQADCg1rGwUF-Udy",
+              "file_size": 26225,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Wr-2clRVSJCGVvH1L5jhSEVnb-_AAIKDWsbBQX5Ry1C0x-_R1G1AQADAgADeAADPQQ",
+              "file_unique_id": "AQADCg1rGwUF-Ud9",
+              "file_size": 111675,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Wr-2clRVSJCGVvH1L5jhSEVnb-_AAIKDWsbBQX5Ry1C0x-_R1G1AQADAgADeQADPQQ",
+              "file_unique_id": "AQADCg1rGwUF-Ud-",
+              "file_size": 175851,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black\n\n💵 Precio Hoy: $63.99 USD (~$212.892 COP · TRM $3.327)\n📉 Más barato que antes: Antes $79.99 USD → Hoy -20% OFF · Ahorras $16.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 67,
+              "type": "bold"
+            },
+            {
+              "offset": 117,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 172,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 200,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 217,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 228,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 433,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 713,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 741,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($63.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HDT94SVJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDT94SVJ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HDT94SVJ",
+        "title": "GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black",
+        "photo_url": "https://m.media-amazon.com/images/I/813woQfLQ2L._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black</b>\n\n💵 <b>Precio Hoy:</b> <b>$63.99 USD</b> (<i>~$212.892 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($63.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HDT94SVJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDT94SVJ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HDT94SVJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDT94SVJ",
+        "deal_snapshot": {
+          "asin": "B0HDT94SVJ",
+          "title": "GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black",
+          "price_usd": 63.99,
+          "reference_price_usd": 79.99,
+          "discount_pct": 20,
+          "price_cop": 212892,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HDT94SVJ",
+      "title": "GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black",
+      "photo_url": "https://m.media-amazon.com/images/I/813woQfLQ2L._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black</b>\n\n💵 <b>Precio Hoy:</b> <b>$63.99 USD</b> (<i>~$212.892 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($63.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HDT94SVJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDT94SVJ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HDT94SVJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDT94SVJ",
+      "deal_snapshot": {
+        "asin": "B0HDT94SVJ",
+        "title": "GameSir G7 Pro 8K PC Wireless Gaming Controller for Esports - Black",
+        "price_usd": 63.99,
+        "reference_price_usd": 79.99,
+        "discount_pct": 20,
+        "price_cop": 212892,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H7VTHR4V",
+    "title": "FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de",
+    "timestamp": "2026-11-19T11:13:07.158875+00:00",
+    "timestamp_colombia": "2026-11-19T06:13:07.158875-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H7VTHR4V",
+      "title": "FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 94.98,
+      "list_price_usd": 139.99,
+      "avg_90d_usd": 139.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/718NvFju+WL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 139.99,
+      "discount_pct": 32.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 32.2,
+      "price_vs_90d_badge": "📉 32.2% más barato que su promedio de 90 días ($139.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 94.98,
+      "price_cop": 315995,
+      "price_cop_formatted": "$315.995 COP",
+      "total_landed_cop": 315995,
+      "total_landed_cop_formatted": "$315.995 COP",
+      "savings_usd": 45.01,
+      "savings_cop": 149746,
+      "savings_cop_formatted": "$149.746 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H7VTHR4V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7VTHR4V",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T11:10:22.209875+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de</b>\n\n💵 <b>Precio Hoy:</b> <b>$94.98 USD</b> (<i>~$315.995 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $45.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/718NvFju+WL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de</b>\n\n💵 <b>Precio Hoy:</b> <b>$94.98 USD</b> (<i>~$315.995 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $45.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($94.98 USD)",
+                "url": "https://www.amazon.com/dp/B0H7VTHR4V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7VTHR4V"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 228,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795086788,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Gr-2cRvMt4tj8Uh4pC30MoYhRO8AAIJDWsbBQX5R2x0Eb4EVMHrAQADAgADcwADPQQ",
+              "file_unique_id": "AQADCQ1rGwUF-Ud4",
+              "file_size": 1910,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Gr-2cRvMt4tj8Uh4pC30MoYhRO8AAIJDWsbBQX5R2x0Eb4EVMHrAQADAgADbQADPQQ",
+              "file_unique_id": "AQADCQ1rGwUF-Udy",
+              "file_size": 26556,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Gr-2cRvMt4tj8Uh4pC30MoYhRO8AAIJDWsbBQX5R2x0Eb4EVMHrAQADAgADeAADPQQ",
+              "file_unique_id": "AQADCQ1rGwUF-Ud9",
+              "file_size": 106873,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD5Gr-2cRvMt4tj8Uh4pC30MoYhRO8AAIJDWsbBQX5R2x0Eb4EVMHrAQADAgADeQADPQQ",
+              "file_unique_id": "AQADCQ1rGwUF-Ud-",
+              "file_size": 158682,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-32% OFF)\n📦 FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de\n\n💵 Precio Hoy: $94.98 USD (~$315.995 COP · TRM $3.327)\n📉 Más barato que antes: Antes $139.99 USD → Hoy -32% OFF · Ahorras $45.01 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 66,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 171,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 199,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 217,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 228,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 433,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 713,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 741,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($94.98 USD)",
+                  "url": "https://www.amazon.com/dp/B0H7VTHR4V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7VTHR4V"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H7VTHR4V",
+        "title": "FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de",
+        "photo_url": "https://m.media-amazon.com/images/I/718NvFju+WL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de</b>\n\n💵 <b>Precio Hoy:</b> <b>$94.98 USD</b> (<i>~$315.995 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $45.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($94.98 USD)",
+                "url": "https://www.amazon.com/dp/B0H7VTHR4V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7VTHR4V"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H7VTHR4V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7VTHR4V",
+        "deal_snapshot": {
+          "asin": "B0H7VTHR4V",
+          "title": "FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de",
+          "price_usd": 94.98,
+          "reference_price_usd": 139.99,
+          "discount_pct": 32,
+          "price_cop": 315995,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H7VTHR4V",
+      "title": "FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de",
+      "photo_url": "https://m.media-amazon.com/images/I/718NvFju+WL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de</b>\n\n💵 <b>Precio Hoy:</b> <b>$94.98 USD</b> (<i>~$315.995 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $45.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($94.98 USD)",
+              "url": "https://www.amazon.com/dp/B0H7VTHR4V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7VTHR4V"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H7VTHR4V?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7VTHR4V",
+      "deal_snapshot": {
+        "asin": "B0H7VTHR4V",
+        "title": "FYY Bandeja de calentamiento eléctrica, 4 paneles, calentadores de",
+        "price_usd": 94.98,
+        "reference_price_usd": 139.99,
+        "discount_pct": 32,
+        "price_cop": 315995,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HD32PPQM",
     "title": "Warrior Cats: Clans of the Forest Feral Edition - PlayStation 5",
     "timestamp": "2026-11-19T11:03:18.938483+00:00",
