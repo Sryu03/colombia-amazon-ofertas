@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0HJ7MGWSZ",
+    "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
+    "timestamp": "2026-11-19T09:53:23.991678+00:00",
+    "timestamp_colombia": "2026-11-19T04:53:23.991678-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HJ7MGWSZ",
+      "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 18.96,
+      "list_price_usd": 29.99,
+      "avg_90d_usd": 249.72,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 29.99,
+      "discount_pct": 36.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 92.4,
+      "price_vs_90d_badge": "📉 92.4% más barato que su promedio de 90 días ($249.72 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 30.91,
+      "price_cop": 63079,
+      "price_cop_formatted": "$63.079 COP",
+      "total_landed_cop": 102836,
+      "total_landed_cop_formatted": "$102.836 COP",
+      "savings_usd": 11.03,
+      "savings_cop": 36696,
+      "savings_cop_formatted": "$36.696 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $16.04 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ",
+      "is_new_price_drop": true,
+      "previous_price_usd": 19.99,
+      "verified_at": "2026-11-19T09:50:21.810519+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.96 USD</b> (<i>~$63.079 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $11.03 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.04 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.96 USD</b> (<i>~$63.079 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $11.03 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.04 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.96 USD)",
+                "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 221,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795082005,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Wr-xxUzWmefLYlUMWvuugX3ql0rAAL-DGsbBQX5R4zmQa0ysNdKAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD_gxrGwUF-Ud4",
+              "file_size": 1805,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Wr-xxUzWmefLYlUMWvuugX3ql0rAAL-DGsbBQX5R4zmQa0ysNdKAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD_gxrGwUF-Udy",
+              "file_size": 25567,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Wr-xxUzWmefLYlUMWvuugX3ql0rAAL-DGsbBQX5R4zmQa0ysNdKAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD_gxrGwUF-Ud9",
+              "file_size": 99342,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3Wr-xxUzWmefLYlUMWvuugX3ql0rAAL-DGsbBQX5R4zmQa0ysNdKAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD_gxrGwUF-Ud-",
+              "file_size": 147187,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)\n📦 Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)\n\n💵 Precio Hoy: $18.96 USD (~$63.079 COP · TRM $3.327)\n📉 Más barato que antes: Antes $29.99 USD → Hoy -37% OFF · Ahorras $11.03 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $16.04 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 190,
+              "type": "bold"
+            },
+            {
+              "offset": 246,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 258,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 270,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 300,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 328,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 345,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 356,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 379,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 579,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 665,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 813,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 828,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 841,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($18.96 USD)",
+                  "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HJ7MGWSZ",
+        "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
+        "photo_url": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.96 USD</b> (<i>~$63.079 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $11.03 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.04 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.96 USD)",
+                "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ",
+        "deal_snapshot": {
+          "asin": "B0HJ7MGWSZ",
+          "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
+          "price_usd": 18.96,
+          "reference_price_usd": 29.99,
+          "discount_pct": 37,
+          "price_cop": 63079,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HJ7MGWSZ",
+      "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
+      "photo_url": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.96 USD</b> (<i>~$63.079 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$29.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $11.03 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.04 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($18.96 USD)",
+              "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ",
+      "deal_snapshot": {
+        "asin": "B0HJ7MGWSZ",
+        "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
+        "price_usd": 18.96,
+        "reference_price_usd": 29.99,
+        "discount_pct": 37,
+        "price_cop": 63079,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HN1G1DN3",
     "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
     "timestamp": "2026-11-19T09:33:29.960118+00:00",
@@ -37260,319 +37573,6 @@
         "reference_price_usd": 28.99,
         "discount_pct": 31,
         "price_cop": 66168,
-        "trm_cop": 3316.7,
-        "ships_to_colombia": true,
-        "free_shipping_co": false,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B0HJ7MGWSZ",
-    "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
-    "timestamp": "2026-11-15T01:03:22.613496+00:00",
-    "timestamp_colombia": "2026-11-14T20:03:22.613496-05:00",
-    "is_colombia_peak_hour": true,
-    "deal": {
-      "asin": "B0HJ7MGWSZ",
-      "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
-      "category": "Audio",
-      "brand": "",
-      "price_usd": 19.98,
-      "list_price_usd": 249.99,
-      "avg_90d_usd": 249.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": false,
-      "shipping_cost_usd": 11.95,
-      "requires_locker": false,
-      "rating": 4.64,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 249.99,
-      "discount_pct": 92.0,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 92.0,
-      "price_vs_90d_badge": "📉 92.0% más barato que su promedio de 90 días ($249.99 USD)",
-      "trm_cop": 3316.7,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 39635,
-      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 31.93,
-      "price_cop": 66268,
-      "price_cop_formatted": "$66.268 COP",
-      "total_landed_cop": 105902,
-      "total_landed_cop_formatted": "$105.902 COP",
-      "savings_usd": 230.01,
-      "savings_cop": 762874,
-      "savings_cop_formatted": "$762.874 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
-      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
-      "approved_for_colombia": true,
-      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
-      "affiliate_url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ",
-      "is_new_price_drop": true,
-      "previous_price_usd": null,
-      "verified_at": "2026-11-15T01:00:32.796493+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.98 USD</b> (<i>~$66.268 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.98 USD</b> (<i>~$66.268 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($19.98 USD)",
-                "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 86,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1794704604,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVmr5BNyAzVPN5YiugRineid9PcuUAAJPDWsbXhPIRwa6qcq5rDWsAQADAgADcwADPQQ",
-              "file_unique_id": "AQADTw1rG14TyEd4",
-              "file_size": 1802,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVmr5BNyAzVPN5YiugRineid9PcuUAAJPDWsbXhPIRwa6qcq5rDWsAQADAgADbQADPQQ",
-              "file_unique_id": "AQADTw1rG14TyEdy",
-              "file_size": 25645,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVmr5BNyAzVPN5YiugRineid9PcuUAAJPDWsbXhPIRwa6qcq5rDWsAQADAgADeAADPQQ",
-              "file_unique_id": "AQADTw1rG14TyEd9",
-              "file_size": 99631,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADVmr5BNyAzVPN5YiugRineid9PcuUAAJPDWsbXhPIRwa6qcq5rDWsAQADAgADeQADPQQ",
-              "file_unique_id": "AQADTw1rG14TyEd-",
-              "file_size": 147743,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)\n📦 Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)\n\n💵 Precio Hoy: $19.98 USD (~$66.268 COP · TRM $3.317)\n📉 Más barato que antes: Antes $249.99 USD → Hoy -92% OFF · Ahorras $230.01 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 44,
-              "type": "bold"
-            },
-            {
-              "offset": 51,
-              "length": 190,
-              "type": "bold"
-            },
-            {
-              "offset": 246,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 258,
-              "length": 10,
-              "type": "bold"
-            },
-            {
-              "offset": 270,
-              "length": 12,
-              "type": "italic"
-            },
-            {
-              "offset": 300,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 328,
-              "length": 11,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 346,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 357,
-              "length": 19,
-              "type": "bold"
-            },
-            {
-              "offset": 381,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 581,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 667,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 815,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 830,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 843,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($19.98 USD)",
-                  "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0HJ7MGWSZ",
-        "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
-        "photo_url": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.98 USD</b> (<i>~$66.268 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($19.98 USD)",
-                "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ",
-        "deal_snapshot": {
-          "asin": "B0HJ7MGWSZ",
-          "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
-          "price_usd": 19.98,
-          "reference_price_usd": 249.99,
-          "discount_pct": 92,
-          "price_cop": 66268,
-          "trm_cop": 3316.7,
-          "ships_to_colombia": true,
-          "free_shipping_co": false,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0HJ7MGWSZ",
-      "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
-      "photo_url": "https://m.media-amazon.com/images/I/61Ep1QDS51L._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-92% OFF)</b>\n📦 <b>Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.98 USD</b> (<i>~$66.268 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$249.99 USD</s> → Hoy <b>-92% OFF</b> · <b>Ahorras $230.01 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.02 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($19.98 USD)",
-              "url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0HJ7MGWSZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ7MGWSZ",
-      "deal_snapshot": {
-        "asin": "B0HJ7MGWSZ",
-        "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
-        "price_usd": 19.98,
-        "reference_price_usd": 249.99,
-        "discount_pct": 92,
-        "price_cop": 66268,
         "trm_cop": 3316.7,
         "ships_to_colombia": true,
         "free_shipping_co": false,
