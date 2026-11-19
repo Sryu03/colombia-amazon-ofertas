@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B07LCCT6VS",
+    "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+    "timestamp": "2026-11-19T15:33:44.147151+00:00",
+    "timestamp_colombia": "2026-11-19T10:33:44.147151-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B07LCCT6VS",
+      "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 142.49,
+      "list_price_usd": 179.99,
+      "avg_90d_usd": 179.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 179.99,
+      "discount_pct": 20.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.8,
+      "price_vs_90d_badge": "📉 20.8% más barato que su promedio de 90 días ($179.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 142.49,
+      "price_cop": 591334,
+      "price_cop_formatted": "$591.334 COP",
+      "total_landed_cop": 591334,
+      "total_landed_cop_formatted": "$591.334 COP",
+      "savings_usd": 37.5,
+      "savings_cop": 155625,
+      "savings_cop_formatted": "$155.625 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T15:30:24.991743+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
+                "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 234,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795102428,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADcwADPQQ",
+              "file_unique_id": "AQADIw1rGwUF-Ud4",
+              "file_size": 2104,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADbQADPQQ",
+              "file_unique_id": "AQADIw1rGwUF-Udy",
+              "file_size": 28996,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADeAADPQQ",
+              "file_unique_id": "AQADIw1rGwUF-Ud9",
+              "file_size": 114222,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADeQADPQQ",
+              "file_unique_id": "AQADIw1rGwUF-Ud-",
+              "file_size": 169650,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-21% OFF)\n📦 FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie\n\n💵 Precio Hoy: $142.49 USD (~$591.334 COP · TRM $4.150)\n📉 Más barato que antes: Antes $179.99 USD → Hoy -21% OFF · Ahorras $37.50 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 102,
+              "type": "bold"
+            },
+            {
+              "offset": 152,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 164,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 177,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 208,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 236,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 254,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 265,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 288,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 470,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 556,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 750,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 765,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 778,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
+                  "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B07LCCT6VS",
+        "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+        "photo_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
+                "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
+        "deal_snapshot": {
+          "asin": "B07LCCT6VS",
+          "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+          "price_usd": 142.49,
+          "reference_price_usd": 179.99,
+          "discount_pct": 21,
+          "price_cop": 591334,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B07LCCT6VS",
+      "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+      "photo_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
+              "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
+      "deal_snapshot": {
+        "asin": "B07LCCT6VS",
+        "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+        "price_usd": 142.49,
+        "reference_price_usd": 179.99,
+        "discount_pct": 21,
+        "price_cop": 591334,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0DHNG4DL8",
+    "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+    "timestamp": "2026-11-19T15:33:41.908150+00:00",
+    "timestamp_colombia": "2026-11-19T10:33:41.908150-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0DHNG4DL8",
+      "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 59.99,
+      "list_price_usd": 89.99,
+      "avg_90d_usd": 89.97,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 89.97,
+      "discount_pct": 33.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 33.3,
+      "price_vs_90d_badge": "📉 33.3% más barato que su promedio de 90 días ($89.97 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 59.99,
+      "price_cop": 248958,
+      "price_cop_formatted": "$248.958 COP",
+      "total_landed_cop": 248958,
+      "total_landed_cop_formatted": "$248.958 COP",
+      "savings_usd": 29.98,
+      "savings_cop": 124417,
+      "savings_cop_formatted": "$124.417 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
+      "is_new_price_drop": true,
+      "previous_price_usd": 69.99,
+      "verified_at": "2026-11-19T15:30:24.991743+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$89.97 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $29.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$89.97 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $29.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 233,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795102423,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Wr_FtdnZAkBf38O4w3laL6gZaiuAAIiDWsbBQX5Ry7-Tnb-IkJ-AQADAgADcwADPQQ",
+              "file_unique_id": "AQADIg1rGwUF-Ud4",
+              "file_size": 1937,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Wr_FtdnZAkBf38O4w3laL6gZaiuAAIiDWsbBQX5Ry7-Tnb-IkJ-AQADAgADbQADPQQ",
+              "file_unique_id": "AQADIg1rGwUF-Udy",
+              "file_size": 25831,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Wr_FtdnZAkBf38O4w3laL6gZaiuAAIiDWsbBQX5Ry7-Tnb-IkJ-AQADAgADeAADPQQ",
+              "file_unique_id": "AQADIg1rGwUF-Ud9",
+              "file_size": 100828,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Wr_FtdnZAkBf38O4w3laL6gZaiuAAIiDWsbBQX5Ry7-Tnb-IkJ-AQADAgADeQADPQQ",
+              "file_unique_id": "AQADIg1rGwUF-Ud-",
+              "file_size": 149171,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-33% OFF)\n📦 WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM\n\n💵 Precio Hoy: $59.99 USD (~$248.958 COP · TRM $4.150)\n📉 Más barato que antes: Antes $89.97 USD → Hoy -33% OFF · Ahorras $29.98 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 134,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 146,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 177,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 222,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 233,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 438,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 524,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 718,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 733,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 746,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0DHNG4DL8",
+        "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+        "photo_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$89.97 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $29.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
+        "deal_snapshot": {
+          "asin": "B0DHNG4DL8",
+          "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+          "price_usd": 59.99,
+          "reference_price_usd": 89.97,
+          "discount_pct": 33,
+          "price_cop": 248958,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0DHNG4DL8",
+      "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+      "photo_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-33% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$248.958 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$89.97 USD</s> → Hoy <b>-33% OFF</b> · <b>Ahorras $29.98 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+              "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
+      "deal_snapshot": {
+        "asin": "B0DHNG4DL8",
+        "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
+        "price_usd": 59.99,
+        "reference_price_usd": 89.97,
+        "discount_pct": 33,
+        "price_cop": 248958,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HKNLJ1V9",
     "title": "3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable",
     "timestamp": "2026-11-19T11:53:13.391582+00:00",
@@ -40077,319 +40703,6 @@
         "reference_price_usd": 199.99,
         "discount_pct": 20,
         "price_cop": 530639,
-        "trm_cop": 3316.7,
-        "ships_to_colombia": true,
-        "free_shipping_co": true,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B0DHNG4DL8",
-    "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
-    "timestamp": "2026-11-15T01:43:30.508492+00:00",
-    "timestamp_colombia": "2026-11-14T20:43:30.508492-05:00",
-    "is_colombia_peak_hour": true,
-    "deal": {
-      "asin": "B0DHNG4DL8",
-      "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
-      "category": "Tecnología",
-      "brand": "",
-      "price_usd": 69.99,
-      "list_price_usd": 89.99,
-      "avg_90d_usd": 89.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": true,
-      "shipping_cost_usd": 0.0,
-      "requires_locker": false,
-      "rating": 4.54,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 89.99,
-      "discount_pct": 22.2,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 22.2,
-      "price_vs_90d_badge": "📉 22.2% más barato que su promedio de 90 días ($89.99 USD)",
-      "trm_cop": 3316.7,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 0,
-      "shipping_cost_formatted": "GRATIS ($0 USD)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 69.99,
-      "price_cop": 232136,
-      "price_cop_formatted": "$232.136 COP",
-      "total_landed_cop": 232136,
-      "total_landed_cop_formatted": "$232.136 COP",
-      "savings_usd": 20.0,
-      "savings_cop": 66334,
-      "savings_cop_formatted": "$66.334 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
-      "deal_tier": "⚡ GRAN OFERTA",
-      "approved_for_colombia": true,
-      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
-      "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
-      "is_new_price_drop": true,
-      "previous_price_usd": null,
-      "verified_at": "2026-11-15T01:40:28.609082+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
-                "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 89,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1794707012,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADcwADPQQ",
-              "file_unique_id": "AQADUw1rG14TyEd4",
-              "file_size": 1931,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADbQADPQQ",
-              "file_unique_id": "AQADUw1rG14TyEdy",
-              "file_size": 25851,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADeAADPQQ",
-              "file_unique_id": "AQADUw1rG14TyEd9",
-              "file_size": 100746,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADWWr5DkRMx53o_YZk30m3v4N8Zya9AAJTDWsbXhPIR5EDHIRBK-HnAQADAgADeQADPQQ",
-              "file_unique_id": "AQADUw1rG14TyEd-",
-              "file_size": 149196,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-22% OFF)\n📦 WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM\n\n💵 Precio Hoy: $69.99 USD (~$232.136 COP · TRM $3.317)\n📉 Más barato que antes: Antes $89.99 USD → Hoy -22% OFF · Ahorras $20.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 38,
-              "type": "bold"
-            },
-            {
-              "offset": 45,
-              "length": 72,
-              "type": "bold"
-            },
-            {
-              "offset": 122,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 134,
-              "length": 10,
-              "type": "bold"
-            },
-            {
-              "offset": 146,
-              "length": 13,
-              "type": "italic"
-            },
-            {
-              "offset": 177,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 205,
-              "length": 10,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 222,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 233,
-              "length": 18,
-              "type": "bold"
-            },
-            {
-              "offset": 256,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 438,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 524,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 718,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 733,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 746,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
-                  "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0DHNG4DL8",
-        "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
-        "photo_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
-                "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
-        "deal_snapshot": {
-          "asin": "B0DHNG4DL8",
-          "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
-          "price_usd": 69.99,
-          "reference_price_usd": 89.99,
-          "discount_pct": 22,
-          "price_cop": 232136,
-          "trm_cop": 3316.7,
-          "ships_to_colombia": true,
-          "free_shipping_co": true,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0DHNG4DL8",
-      "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
-      "photo_url": "https://m.media-amazon.com/images/I/71-GXbysmKL._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM</b>\n\n💵 <b>Precio Hoy:</b> <b>$69.99 USD</b> (<i>~$232.136 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$89.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($69.99 USD)",
-              "url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0DHNG4DL8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0DHNG4DL8",
-      "deal_snapshot": {
-        "asin": "B0DHNG4DL8",
-        "title": "WOLFBOX Plumero de aire comprimido MF100, ventilador turbo de 150000 RPM",
-        "price_usd": 69.99,
-        "reference_price_usd": 89.99,
-        "discount_pct": 22,
-        "price_cop": 232136,
         "trm_cop": 3316.7,
         "ships_to_colombia": true,
         "free_shipping_co": true,
