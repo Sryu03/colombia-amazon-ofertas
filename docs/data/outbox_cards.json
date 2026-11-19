@@ -1,5 +1,1570 @@
 [
   {
+    "asin": "B0HLDLDWSP",
+    "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
+    "timestamp": "2026-11-19T08:23:45.584086+00:00",
+    "timestamp_colombia": "2026-11-19T03:23:45.584086-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HLDLDWSP",
+      "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 9.48,
+      "list_price_usd": 12.99,
+      "avg_90d_usd": 12.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51szWBozLKL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 12.99,
+      "discount_pct": 27.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 27.0,
+      "price_vs_90d_badge": "📉 27.0% más barato que su promedio de 90 días ($12.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 21.43,
+      "price_cop": 31540,
+      "price_cop_formatted": "$31.540 COP",
+      "total_landed_cop": 71297,
+      "total_landed_cop_formatted": "$71.297 COP",
+      "savings_usd": 3.51,
+      "savings_cop": 11678,
+      "savings_cop_formatted": "$11.678 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HLDLDWSP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HLDLDWSP",
+      "is_new_price_drop": true,
+      "previous_price_usd": 9.48,
+      "verified_at": "2026-11-19T08:20:18.686804+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51szWBozLKL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+                "url": "https://www.amazon.com/dp/B0HLDLDWSP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HLDLDWSP"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 195,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795076629,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADw2r-shVQmQyEpwABwjC1DyGzZ88pPQAC4gxrGwUF-Ue3JaYzJFnU8AEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD4gxrGwUF-Ud4",
+              "file_size": 1593,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADw2r-shVQmQyEpwABwjC1DyGzZ88pPQAC4gxrGwUF-Ue3JaYzJFnU8AEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD4gxrGwUF-Udy",
+              "file_size": 21862,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADw2r-shVQmQyEpwABwjC1DyGzZ88pPQAC4gxrGwUF-Ue3JaYzJFnU8AEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD4gxrGwUF-Ud9",
+              "file_size": 85696,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADw2r-shVQmQyEpwABwjC1DyGzZ88pPQAC4gxrGwUF-Ue3JaYzJFnU8AEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD4gxrGwUF-Ud-",
+              "file_size": 126319,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-27% OFF)\n📦 i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de\n\n💵 Precio Hoy: $9.48 USD (~$31.540 COP · TRM $3.327)\n📉 Más barato que antes: Antes $12.99 USD → Hoy -27% OFF · Ahorras $3.51 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 148,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 178,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 206,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 223,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 234,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 456,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 542,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 690,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 705,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 718,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+                  "url": "https://www.amazon.com/dp/B0HLDLDWSP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HLDLDWSP"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HLDLDWSP",
+        "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
+        "photo_url": "https://m.media-amazon.com/images/I/51szWBozLKL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+                "url": "https://www.amazon.com/dp/B0HLDLDWSP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HLDLDWSP"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HLDLDWSP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HLDLDWSP",
+        "deal_snapshot": {
+          "asin": "B0HLDLDWSP",
+          "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
+          "price_usd": 9.48,
+          "reference_price_usd": 12.99,
+          "discount_pct": 27,
+          "price_cop": 31540,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HLDLDWSP",
+      "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
+      "photo_url": "https://m.media-amazon.com/images/I/51szWBozLKL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+              "url": "https://www.amazon.com/dp/B0HLDLDWSP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HLDLDWSP"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HLDLDWSP?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HLDLDWSP",
+      "deal_snapshot": {
+        "asin": "B0HLDLDWSP",
+        "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
+        "price_usd": 9.48,
+        "reference_price_usd": 12.99,
+        "discount_pct": 27,
+        "price_cop": 31540,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HGQK86HR",
+    "title": "Funda magnética para iPhone Duo de alta resistencia, color negro",
+    "timestamp": "2026-11-19T08:23:41.393744+00:00",
+    "timestamp_colombia": "2026-11-19T03:23:41.393744-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HGQK86HR",
+      "title": "Funda magnética para iPhone Duo de alta resistencia, color negro",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 14.24,
+      "list_price_usd": 19.98,
+      "avg_90d_usd": 19.98,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71hDOHn7KkL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 19.98,
+      "discount_pct": 28.7,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 28.7,
+      "price_vs_90d_badge": "📉 28.7% más barato que su promedio de 90 días ($19.98 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 26.19,
+      "price_cop": 47376,
+      "price_cop_formatted": "$47.376 COP",
+      "total_landed_cop": 87133,
+      "total_landed_cop_formatted": "$87.133 COP",
+      "savings_usd": 5.74,
+      "savings_cop": 19097,
+      "savings_cop_formatted": "$19.097 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $20.76 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HGQK86HR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGQK86HR",
+      "is_new_price_drop": true,
+      "previous_price_usd": 14.24,
+      "verified_at": "2026-11-19T08:20:18.686804+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Funda magnética para iPhone Duo de alta resistencia, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.24 USD</b> (<i>~$47.376 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.98 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $5.74 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.76 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71hDOHn7KkL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Funda magnética para iPhone Duo de alta resistencia, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.24 USD</b> (<i>~$47.376 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.98 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $5.74 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.76 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.24 USD)",
+                "url": "https://www.amazon.com/dp/B0HGQK86HR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGQK86HR"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 194,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795076625,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwmr-shGBq7imvs7hppH0db7QyM3wAALhDGsbBQX5R9d3aliNJvUbAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD4QxrGwUF-Ud4",
+              "file_size": 1840,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwmr-shGBq7imvs7hppH0db7QyM3wAALhDGsbBQX5R9d3aliNJvUbAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD4QxrGwUF-Udy",
+              "file_size": 24201,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwmr-shGBq7imvs7hppH0db7QyM3wAALhDGsbBQX5R9d3aliNJvUbAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD4QxrGwUF-Ud9",
+              "file_size": 95849,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwmr-shGBq7imvs7hppH0db7QyM3wAALhDGsbBQX5R9d3aliNJvUbAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD4QxrGwUF-Ud-",
+              "file_size": 146296,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-29% OFF)\n📦 Funda magnética para iPhone Duo de alta resistencia, color negro\n\n💵 Precio Hoy: $14.24 USD (~$47.376 COP · TRM $3.327)\n📉 Más barato que antes: Antes $19.98 USD → Hoy -29% OFF · Ahorras $5.74 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $20.76 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 64,
+              "type": "bold"
+            },
+            {
+              "offset": 114,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 126,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 138,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 168,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 196,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 213,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 224,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 246,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 446,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 532,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 680,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 695,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 708,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($14.24 USD)",
+                  "url": "https://www.amazon.com/dp/B0HGQK86HR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGQK86HR"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HGQK86HR",
+        "title": "Funda magnética para iPhone Duo de alta resistencia, color negro",
+        "photo_url": "https://m.media-amazon.com/images/I/71hDOHn7KkL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Funda magnética para iPhone Duo de alta resistencia, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.24 USD</b> (<i>~$47.376 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.98 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $5.74 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.76 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($14.24 USD)",
+                "url": "https://www.amazon.com/dp/B0HGQK86HR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGQK86HR"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HGQK86HR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGQK86HR",
+        "deal_snapshot": {
+          "asin": "B0HGQK86HR",
+          "title": "Funda magnética para iPhone Duo de alta resistencia, color negro",
+          "price_usd": 14.24,
+          "reference_price_usd": 19.98,
+          "discount_pct": 29,
+          "price_cop": 47376,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HGQK86HR",
+      "title": "Funda magnética para iPhone Duo de alta resistencia, color negro",
+      "photo_url": "https://m.media-amazon.com/images/I/71hDOHn7KkL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Funda magnética para iPhone Duo de alta resistencia, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$14.24 USD</b> (<i>~$47.376 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.98 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $5.74 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $20.76 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($14.24 USD)",
+              "url": "https://www.amazon.com/dp/B0HGQK86HR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGQK86HR"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HGQK86HR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGQK86HR",
+      "deal_snapshot": {
+        "asin": "B0HGQK86HR",
+        "title": "Funda magnética para iPhone Duo de alta resistencia, color negro",
+        "price_usd": 14.24,
+        "reference_price_usd": 19.98,
+        "discount_pct": 29,
+        "price_cop": 47376,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H3MGRBWT",
+    "title": "Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil",
+    "timestamp": "2026-11-19T08:23:25.517581+00:00",
+    "timestamp_colombia": "2026-11-19T03:23:25.517581-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H3MGRBWT",
+      "title": "Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 33.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71idWtAy52L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 32.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 32.0,
+      "price_vs_90d_badge": "📉 32.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 45.94,
+      "price_cop": 113083,
+      "price_cop_formatted": "$113.083 COP",
+      "total_landed_cop": 152841,
+      "total_landed_cop_formatted": "$152.841 COP",
+      "savings_usd": 16.0,
+      "savings_cop": 53231,
+      "savings_cop_formatted": "$53.231 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $1.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H3MGRBWT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3MGRBWT",
+      "is_new_price_drop": true,
+      "previous_price_usd": 33.99,
+      "verified_at": "2026-11-19T08:20:18.686804+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil</b>\n\n💵 <b>Precio Hoy:</b> <b>$33.99 USD</b> (<i>~$113.083 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $1.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71idWtAy52L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil</b>\n\n💵 <b>Precio Hoy:</b> <b>$33.99 USD</b> (<i>~$113.083 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $1.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($33.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H3MGRBWT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3MGRBWT"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 193,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795076621,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwWr-sg3ztozlZXaZAAGEnBPSJ5QnbAAC4AxrGwUF-UdIRG-GKRTM4gEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD4AxrGwUF-Ud4",
+              "file_size": 2070,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwWr-sg3ztozlZXaZAAGEnBPSJ5QnbAAC4AxrGwUF-UdIRG-GKRTM4gEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD4AxrGwUF-Udy",
+              "file_size": 29083,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwWr-sg3ztozlZXaZAAGEnBPSJ5QnbAAC4AxrGwUF-UdIRG-GKRTM4gEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD4AxrGwUF-Ud9",
+              "file_size": 118600,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwWr-sg3ztozlZXaZAAGEnBPSJ5QnbAAC4AxrGwUF-UdIRG-GKRTM4gEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD4AxrGwUF-Ud-",
+              "file_size": 181895,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-32% OFF)\n📦 Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil\n\n💵 Precio Hoy: $33.99 USD (~$113.083 COP · TRM $3.327)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -32% OFF · Ahorras $16.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $1.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 194,
+              "type": "bold"
+            },
+            {
+              "offset": 244,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 268,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 299,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 327,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 344,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 355,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 378,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 578,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 664,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 811,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 826,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 839,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($33.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0H3MGRBWT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3MGRBWT"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H3MGRBWT",
+        "title": "Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil",
+        "photo_url": "https://m.media-amazon.com/images/I/71idWtAy52L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil</b>\n\n💵 <b>Precio Hoy:</b> <b>$33.99 USD</b> (<i>~$113.083 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $1.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($33.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H3MGRBWT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3MGRBWT"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H3MGRBWT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3MGRBWT",
+        "deal_snapshot": {
+          "asin": "B0H3MGRBWT",
+          "title": "Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil",
+          "price_usd": 33.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 32,
+          "price_cop": 113083,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H3MGRBWT",
+      "title": "Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil",
+      "photo_url": "https://m.media-amazon.com/images/I/71idWtAy52L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil</b>\n\n💵 <b>Precio Hoy:</b> <b>$33.99 USD</b> (<i>~$113.083 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $16.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $1.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($33.99 USD)",
+              "url": "https://www.amazon.com/dp/B0H3MGRBWT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3MGRBWT"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H3MGRBWT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3MGRBWT",
+      "deal_snapshot": {
+        "asin": "B0H3MGRBWT",
+        "title": "Chefman Olla de cocción lenta de 7 cuartos de galón, tamaño familiar grande con ajustes bajos, altos y cálidos, cerámica extraíble, tapa de vidrio templado, apta para lavavajillas para una fácil",
+        "price_usd": 33.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 32,
+        "price_cop": 113083,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0GWD6F3X3",
+    "title": "Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de",
+    "timestamp": "2026-11-19T08:23:20.848139+00:00",
+    "timestamp_colombia": "2026-11-19T03:23:20.848139-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GWD6F3X3",
+      "title": "Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 47.49,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.24,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/714Z+GeGTVL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 32.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 32.1,
+      "price_vs_90d_badge": "📉 32.1% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 47.49,
+      "price_cop": 157997,
+      "price_cop_formatted": "$157.997 COP",
+      "total_landed_cop": 157997,
+      "total_landed_cop_formatted": "$157.997 COP",
+      "savings_usd": 22.5,
+      "savings_cop": 74857,
+      "savings_cop_formatted": "$74.857 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GWD6F3X3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWD6F3X3",
+      "is_new_price_drop": true,
+      "previous_price_usd": 47.49,
+      "verified_at": "2026-11-19T08:20:18.686804+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de</b>\n\n💵 <b>Precio Hoy:</b> <b>$47.49 USD</b> (<i>~$157.997 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $22.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/714Z+GeGTVL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de</b>\n\n💵 <b>Precio Hoy:</b> <b>$47.49 USD</b> (<i>~$157.997 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $22.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($47.49 USD)",
+                "url": "https://www.amazon.com/dp/B0GWD6F3X3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWD6F3X3"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 192,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795076605,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwGr-sf3G2g4cRqtmAAFXUjey6zW8WgAC3wxrGwUF-UfHKFO0lrmNEQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD3wxrGwUF-Ud4",
+              "file_size": 1711,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwGr-sf3G2g4cRqtmAAFXUjey6zW8WgAC3wxrGwUF-UfHKFO0lrmNEQEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD3wxrGwUF-Udy",
+              "file_size": 25105,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwGr-sf3G2g4cRqtmAAFXUjey6zW8WgAC3wxrGwUF-UfHKFO0lrmNEQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD3wxrGwUF-Ud9",
+              "file_size": 104859,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADwGr-sf3G2g4cRqtmAAFXUjey6zW8WgAC3wxrGwUF-UfHKFO0lrmNEQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD3wxrGwUF-Ud-",
+              "file_size": 156476,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-32% OFF)\n📦 Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de\n\n💵 Precio Hoy: $47.49 USD (~$157.997 COP · TRM $3.327)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -32% OFF · Ahorras $22.50 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 67,
+              "type": "bold"
+            },
+            {
+              "offset": 117,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 172,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 200,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 217,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 228,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 433,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 713,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 741,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($47.49 USD)",
+                  "url": "https://www.amazon.com/dp/B0GWD6F3X3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWD6F3X3"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GWD6F3X3",
+        "title": "Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de",
+        "photo_url": "https://m.media-amazon.com/images/I/714Z+GeGTVL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de</b>\n\n💵 <b>Precio Hoy:</b> <b>$47.49 USD</b> (<i>~$157.997 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $22.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($47.49 USD)",
+                "url": "https://www.amazon.com/dp/B0GWD6F3X3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWD6F3X3"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GWD6F3X3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWD6F3X3",
+        "deal_snapshot": {
+          "asin": "B0GWD6F3X3",
+          "title": "Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de",
+          "price_usd": 47.49,
+          "reference_price_usd": 69.99,
+          "discount_pct": 32,
+          "price_cop": 157997,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GWD6F3X3",
+      "title": "Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de",
+      "photo_url": "https://m.media-amazon.com/images/I/714Z+GeGTVL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-32% OFF)</b>\n📦 <b>Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de</b>\n\n💵 <b>Precio Hoy:</b> <b>$47.49 USD</b> (<i>~$157.997 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-32% OFF</b> · <b>Ahorras $22.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($47.49 USD)",
+              "url": "https://www.amazon.com/dp/B0GWD6F3X3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWD6F3X3"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GWD6F3X3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWD6F3X3",
+      "deal_snapshot": {
+        "asin": "B0GWD6F3X3",
+        "title": "Impresora térmica de etiquetas Bluetooth, impresora de etiquetas de",
+        "price_usd": 47.49,
+        "reference_price_usd": 69.99,
+        "discount_pct": 32,
+        "price_cop": 157997,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HJ83BM5R",
+    "title": "Wok, woks de acero al carbono de 13 pulgadas y sartenes",
+    "timestamp": "2026-11-19T08:23:18.951010+00:00",
+    "timestamp_colombia": "2026-11-19T03:23:18.951010-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HJ83BM5R",
+      "title": "Wok, woks de acero al carbono de 13 pulgadas y sartenes",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 28.48,
+      "list_price_usd": 45.99,
+      "avg_90d_usd": 45.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81vwsVRdMcL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 45.99,
+      "discount_pct": 38.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 38.1,
+      "price_vs_90d_badge": "📉 38.1% más barato que su promedio de 90 días ($45.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.43,
+      "price_cop": 94752,
+      "price_cop_formatted": "$94.752 COP",
+      "total_landed_cop": 134509,
+      "total_landed_cop_formatted": "$134.509 COP",
+      "savings_usd": 17.51,
+      "savings_cop": 58255,
+      "savings_cop_formatted": "$58.255 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HJ83BM5R?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ83BM5R",
+      "is_new_price_drop": true,
+      "previous_price_usd": 28.48,
+      "verified_at": "2026-11-19T08:20:18.686804+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Wok, woks de acero al carbono de 13 pulgadas y sartenes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $17.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81vwsVRdMcL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Wok, woks de acero al carbono de 13 pulgadas y sartenes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $17.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0HJ83BM5R?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ83BM5R"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 191,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795076600,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADv2r-sfhIREsEwZ01rvUgwMRwcmvsAALeDGsbBQX5Rw33NdlTx2kaAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD3gxrGwUF-Ud4",
+              "file_size": 1898,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADv2r-sfhIREsEwZ01rvUgwMRwcmvsAALeDGsbBQX5Rw33NdlTx2kaAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD3gxrGwUF-Udy",
+              "file_size": 25901,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADv2r-sfhIREsEwZ01rvUgwMRwcmvsAALeDGsbBQX5Rw33NdlTx2kaAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD3gxrGwUF-Ud9",
+              "file_size": 107237,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADv2r-sfhIREsEwZ01rvUgwMRwcmvsAALeDGsbBQX5Rw33NdlTx2kaAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD3gxrGwUF-Ud-",
+              "file_size": 161068,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)\n📦 Wok, woks de acero al carbono de 13 pulgadas y sartenes\n\n💵 Precio Hoy: $28.48 USD (~$94.752 COP · TRM $3.327)\n📉 Más barato que antes: Antes $45.99 USD → Hoy -38% OFF · Ahorras $17.51 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 55,
+              "type": "bold"
+            },
+            {
+              "offset": 111,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 123,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 135,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 165,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 210,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 221,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 244,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 444,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 530,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 677,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 692,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 705,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                  "url": "https://www.amazon.com/dp/B0HJ83BM5R?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ83BM5R"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HJ83BM5R",
+        "title": "Wok, woks de acero al carbono de 13 pulgadas y sartenes",
+        "photo_url": "https://m.media-amazon.com/images/I/81vwsVRdMcL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Wok, woks de acero al carbono de 13 pulgadas y sartenes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $17.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0HJ83BM5R?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ83BM5R"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HJ83BM5R?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ83BM5R",
+        "deal_snapshot": {
+          "asin": "B0HJ83BM5R",
+          "title": "Wok, woks de acero al carbono de 13 pulgadas y sartenes",
+          "price_usd": 28.48,
+          "reference_price_usd": 45.99,
+          "discount_pct": 38,
+          "price_cop": 94752,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HJ83BM5R",
+      "title": "Wok, woks de acero al carbono de 13 pulgadas y sartenes",
+      "photo_url": "https://m.media-amazon.com/images/I/81vwsVRdMcL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Wok, woks de acero al carbono de 13 pulgadas y sartenes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $17.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+              "url": "https://www.amazon.com/dp/B0HJ83BM5R?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ83BM5R"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HJ83BM5R?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ83BM5R",
+      "deal_snapshot": {
+        "asin": "B0HJ83BM5R",
+        "title": "Wok, woks de acero al carbono de 13 pulgadas y sartenes",
+        "price_usd": 28.48,
+        "reference_price_usd": 45.99,
+        "discount_pct": 38,
+        "price_cop": 94752,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HD2TH6Q4",
     "title": "Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta",
     "timestamp": "2026-11-19T08:13:24.649086+00:00",
