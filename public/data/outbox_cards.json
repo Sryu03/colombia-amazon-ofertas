@@ -1,5 +1,1570 @@
 [
   {
+    "asin": "B0HGR4SDYC",
+    "title": "AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC",
+    "timestamp": "2026-11-19T08:33:33.803168+00:00",
+    "timestamp_colombia": "2026-11-19T03:33:33.803168-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HGR4SDYC",
+      "title": "AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 37.98,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71hsvNd1BtL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 24.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 24.0,
+      "price_vs_90d_badge": "📉 24.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 37.98,
+      "price_cop": 126358,
+      "price_cop_formatted": "$126.358 COP",
+      "total_landed_cop": 126358,
+      "total_landed_cop_formatted": "$126.358 COP",
+      "savings_usd": 12.01,
+      "savings_cop": 39957,
+      "savings_cop_formatted": "$39.957 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HGR4SDYC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGR4SDYC",
+      "is_new_price_drop": true,
+      "previous_price_usd": 37.98,
+      "verified_at": "2026-11-19T08:30:20.927559+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.98 USD</b> (<i>~$126.358 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $12.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71hsvNd1BtL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.98 USD</b> (<i>~$126.358 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $12.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($37.98 USD)",
+                "url": "https://www.amazon.com/dp/B0HGR4SDYC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGR4SDYC"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 200,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077218,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADyGr-tGLOIzdCYy5POlgG_G-WmXviAALoDGsbBQX5R028K5QViavPAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD6AxrGwUF-Ud4",
+              "file_size": 1891,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADyGr-tGLOIzdCYy5POlgG_G-WmXviAALoDGsbBQX5R028K5QViavPAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD6AxrGwUF-Udy",
+              "file_size": 24696,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADyGr-tGLOIzdCYy5POlgG_G-WmXviAALoDGsbBQX5R028K5QViavPAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD6AxrGwUF-Ud9",
+              "file_size": 95558,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADyGr-tGLOIzdCYy5POlgG_G-WmXviAALoDGsbBQX5R028K5QViavPAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD6AxrGwUF-Ud-",
+              "file_size": 141565,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-24% OFF)\n📦 AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC\n\n💵 Precio Hoy: $37.98 USD (~$126.358 COP · TRM $3.327)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -24% OFF · Ahorras $12.01 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 69,
+              "type": "bold"
+            },
+            {
+              "offset": 119,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 174,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 219,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 253,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 435,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 521,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 715,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 730,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 743,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($37.98 USD)",
+                  "url": "https://www.amazon.com/dp/B0HGR4SDYC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGR4SDYC"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HGR4SDYC",
+        "title": "AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC",
+        "photo_url": "https://m.media-amazon.com/images/I/71hsvNd1BtL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.98 USD</b> (<i>~$126.358 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $12.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($37.98 USD)",
+                "url": "https://www.amazon.com/dp/B0HGR4SDYC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGR4SDYC"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HGR4SDYC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGR4SDYC",
+        "deal_snapshot": {
+          "asin": "B0HGR4SDYC",
+          "title": "AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC",
+          "price_usd": 37.98,
+          "reference_price_usd": 49.99,
+          "discount_pct": 24,
+          "price_cop": 126358,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HGR4SDYC",
+      "title": "AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC",
+      "photo_url": "https://m.media-amazon.com/images/I/71hsvNd1BtL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.98 USD</b> (<i>~$126.358 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $12.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($37.98 USD)",
+              "url": "https://www.amazon.com/dp/B0HGR4SDYC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGR4SDYC"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HGR4SDYC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGR4SDYC",
+      "deal_snapshot": {
+        "asin": "B0HGR4SDYC",
+        "title": "AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC",
+        "price_usd": 37.98,
+        "reference_price_usd": 49.99,
+        "discount_pct": 24,
+        "price_cop": 126358,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HCYXTJHR",
+    "title": "Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña",
+    "timestamp": "2026-11-19T08:33:29.484789+00:00",
+    "timestamp_colombia": "2026-11-19T03:33:29.484789-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HCYXTJHR",
+      "title": "Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 18.8,
+      "list_price_usd": 24.99,
+      "avg_90d_usd": 24.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 24.99,
+      "discount_pct": 24.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 24.8,
+      "price_vs_90d_badge": "📉 24.8% más barato que su promedio de 90 días ($24.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 30.75,
+      "price_cop": 62547,
+      "price_cop_formatted": "$62.547 COP",
+      "total_landed_cop": 102304,
+      "total_landed_cop_formatted": "$102.304 COP",
+      "savings_usd": 6.19,
+      "savings_cop": 20594,
+      "savings_cop_formatted": "$20.594 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $16.20 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HCYXTJHR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCYXTJHR",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T08:30:20.927559+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.80 USD</b> (<i>~$62.547 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $6.19 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.20 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61PxlVyu8NL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.80 USD</b> (<i>~$62.547 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $6.19 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.20 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.80 USD)",
+                "url": "https://www.amazon.com/dp/B0HCYXTJHR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCYXTJHR"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 199,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077213,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADx2r-tF1GBAUoM8e1_g3Ml_JO-s2iAALnDGsbBQX5R-Mq-qVoYrhBAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD5wxrGwUF-Ud4",
+              "file_size": 1716,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADx2r-tF1GBAUoM8e1_g3Ml_JO-s2iAALnDGsbBQX5R-Mq-qVoYrhBAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD5wxrGwUF-Udy",
+              "file_size": 22514,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADx2r-tF1GBAUoM8e1_g3Ml_JO-s2iAALnDGsbBQX5R-Mq-qVoYrhBAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD5wxrGwUF-Ud9",
+              "file_size": 88823,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADx2r-tF1GBAUoM8e1_g3Ml_JO-s2iAALnDGsbBQX5R-Mq-qVoYrhBAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD5wxrGwUF-Ud-",
+              "file_size": 131292,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-25% OFF)\n📦 Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña\n\n💵 Precio Hoy: $18.80 USD (~$62.547 COP · TRM $3.327)\n📉 Más barato que antes: Antes $24.99 USD → Hoy -25% OFF · Ahorras $6.19 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $16.20 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 68,
+              "type": "bold"
+            },
+            {
+              "offset": 118,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 130,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 142,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 172,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 200,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 217,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 228,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 250,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 450,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 536,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 684,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 699,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 712,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($18.80 USD)",
+                  "url": "https://www.amazon.com/dp/B0HCYXTJHR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCYXTJHR"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HCYXTJHR",
+        "title": "Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña",
+        "photo_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.80 USD</b> (<i>~$62.547 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $6.19 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.20 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.80 USD)",
+                "url": "https://www.amazon.com/dp/B0HCYXTJHR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCYXTJHR"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HCYXTJHR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCYXTJHR",
+        "deal_snapshot": {
+          "asin": "B0HCYXTJHR",
+          "title": "Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña",
+          "price_usd": 18.8,
+          "reference_price_usd": 24.99,
+          "discount_pct": 25,
+          "price_cop": 62547,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HCYXTJHR",
+      "title": "Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña",
+      "photo_url": "https://m.media-amazon.com/images/I/61PxlVyu8NL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.80 USD</b> (<i>~$62.547 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $6.19 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.20 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($18.80 USD)",
+              "url": "https://www.amazon.com/dp/B0HCYXTJHR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCYXTJHR"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HCYXTJHR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCYXTJHR",
+      "deal_snapshot": {
+        "asin": "B0HCYXTJHR",
+        "title": "Miracase Funda magnética para iPhone 18 Pro, silicona, color borgoña",
+        "price_usd": 18.8,
+        "reference_price_usd": 24.99,
+        "discount_pct": 25,
+        "price_cop": 62547,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HJ9ZT2FF",
+    "title": "It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English",
+    "timestamp": "2026-11-19T08:33:24.719419+00:00",
+    "timestamp_colombia": "2026-11-19T03:33:24.719419-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HJ9ZT2FF",
+      "title": "It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 29.99,
+      "list_price_usd": 39.99,
+      "avg_90d_usd": 39.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61M47LNdzzL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 39.99,
+      "discount_pct": 25.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 25.0,
+      "price_vs_90d_badge": "📉 25.0% más barato que su promedio de 90 días ($39.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 41.94,
+      "price_cop": 99776,
+      "price_cop_formatted": "$99.776 COP",
+      "total_landed_cop": 139533,
+      "total_landed_cop_formatted": "$139.533 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 33270,
+      "savings_cop_formatted": "$33.270 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HJ9ZT2FF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ9ZT2FF",
+      "is_new_price_drop": true,
+      "previous_price_usd": 29.99,
+      "verified_at": "2026-11-19T08:30:20.927559+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61M47LNdzzL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HJ9ZT2FF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ9ZT2FF"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 198,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077209,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxmr-tFm4WyPBiDOTzTtiXLgRAcMbAALmDGsbBQX5R0Ofy3lycdnAAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD5gxrGwUF-Ud4",
+              "file_size": 1807,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxmr-tFm4WyPBiDOTzTtiXLgRAcMbAALmDGsbBQX5R0Ofy3lycdnAAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD5gxrGwUF-Udy",
+              "file_size": 25497,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxmr-tFm4WyPBiDOTzTtiXLgRAcMbAALmDGsbBQX5R0Ofy3lycdnAAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD5gxrGwUF-Ud9",
+              "file_size": 104077,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxmr-tFm4WyPBiDOTzTtiXLgRAcMbAALmDGsbBQX5R0Ofy3lycdnAAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD5gxrGwUF-Ud-",
+              "file_size": 153769,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-25% OFF)\n📦 It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English\n\n💵 Precio Hoy: $29.99 USD (~$99.776 COP · TRM $3.327)\n📉 Más barato que antes: Antes $39.99 USD → Hoy -25% OFF · Ahorras $10.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 64,
+              "type": "bold"
+            },
+            {
+              "offset": 114,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 126,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 138,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 168,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 196,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 213,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 224,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 447,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 533,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 680,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 695,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 708,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HJ9ZT2FF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ9ZT2FF"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HJ9ZT2FF",
+        "title": "It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English",
+        "photo_url": "https://m.media-amazon.com/images/I/61M47LNdzzL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HJ9ZT2FF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ9ZT2FF"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HJ9ZT2FF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ9ZT2FF",
+        "deal_snapshot": {
+          "asin": "B0HJ9ZT2FF",
+          "title": "It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English",
+          "price_usd": 29.99,
+          "reference_price_usd": 39.99,
+          "discount_pct": 25,
+          "price_cop": 99776,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HJ9ZT2FF",
+      "title": "It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English",
+      "photo_url": "https://m.media-amazon.com/images/I/61M47LNdzzL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$39.99 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HJ9ZT2FF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ9ZT2FF"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HJ9ZT2FF?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HJ9ZT2FF",
+      "deal_snapshot": {
+        "asin": "B0HJ9ZT2FF",
+        "title": "It Takes Two | Nintendo Switch 2 |Cartridge I VideoGame |English",
+        "price_usd": 29.99,
+        "reference_price_usd": 39.99,
+        "discount_pct": 25,
+        "price_cop": 99776,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H5FG8TL2",
+    "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+    "timestamp": "2026-11-19T08:33:18.016118+00:00",
+    "timestamp_colombia": "2026-11-19T03:33:18.016118-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H5FG8TL2",
+      "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 84.97,
+      "list_price_usd": 114.97,
+      "avg_90d_usd": 114.97,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 114.97,
+      "discount_pct": 26.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 26.1,
+      "price_vs_90d_badge": "📉 26.1% más barato que su promedio de 90 días ($114.97 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 84.97,
+      "price_cop": 282692,
+      "price_cop_formatted": "$282.692 COP",
+      "total_landed_cop": 282692,
+      "total_landed_cop_formatted": "$282.692 COP",
+      "savings_usd": 30.0,
+      "savings_cop": 99809,
+      "savings_cop_formatted": "$99.809 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
+      "is_new_price_drop": true,
+      "previous_price_usd": 84.97,
+      "verified_at": "2026-11-19T08:30:20.927559+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.97 USD</b> (<i>~$282.692 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.97 USD</b> (<i>~$282.692 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($84.97 USD)",
+                "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 197,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077202,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxWr-tFKugUDSGgQC0uKqAAFLKsWizQAC5QxrGwUF-UdL67cuaztoXQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD5QxrGwUF-Ud4",
+              "file_size": 2017,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxWr-tFKugUDSGgQC0uKqAAFLKsWizQAC5QxrGwUF-UdL67cuaztoXQEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD5QxrGwUF-Udy",
+              "file_size": 28605,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxWr-tFKugUDSGgQC0uKqAAFLKsWizQAC5QxrGwUF-UdL67cuaztoXQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD5QxrGwUF-Ud9",
+              "file_size": 117542,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxWr-tFKugUDSGgQC0uKqAAFLKsWizQAC5QxrGwUF-UdL67cuaztoXQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD5QxrGwUF-Ud-",
+              "file_size": 176635,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-26% OFF)\n📦 Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)\n\n💵 Precio Hoy: $84.97 USD (~$282.692 COP · TRM $3.327)\n📉 Más barato que antes: Antes $114.97 USD → Hoy -26% OFF · Ahorras $30.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 145,
+              "type": "bold"
+            },
+            {
+              "offset": 195,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 207,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 219,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 250,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 278,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 296,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 307,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 330,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 512,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 598,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 792,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 807,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 820,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($84.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H5FG8TL2",
+        "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+        "photo_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.97 USD</b> (<i>~$282.692 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($84.97 USD)",
+                "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
+        "deal_snapshot": {
+          "asin": "B0H5FG8TL2",
+          "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+          "price_usd": 84.97,
+          "reference_price_usd": 114.97,
+          "discount_pct": 26,
+          "price_cop": 282692,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H5FG8TL2",
+      "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+      "photo_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$84.97 USD</b> (<i>~$282.692 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $30.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($84.97 USD)",
+              "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
+      "deal_snapshot": {
+        "asin": "B0H5FG8TL2",
+        "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
+        "price_usd": 84.97,
+        "reference_price_usd": 114.97,
+        "discount_pct": 26,
+        "price_cop": 282692,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HCNRZGS2",
+    "title": "Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes",
+    "timestamp": "2026-11-19T08:33:15.962331+00:00",
+    "timestamp_colombia": "2026-11-19T03:33:15.962331-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HCNRZGS2",
+      "title": "Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 28.48,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/711DikwDGHL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 43.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 43.0,
+      "price_vs_90d_badge": "📉 43.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.43,
+      "price_cop": 94752,
+      "price_cop_formatted": "$94.752 COP",
+      "total_landed_cop": 134509,
+      "total_landed_cop_formatted": "$134.509 COP",
+      "savings_usd": 21.51,
+      "savings_cop": 71563,
+      "savings_cop_formatted": "$71.563 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HCNRZGS2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCNRZGS2",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T08:30:20.927559+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/711DikwDGHL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0HCNRZGS2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCNRZGS2"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 196,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077197,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxGr-tE18dpNZJNcer0REdSZ5Wd6CAALkDGsbBQX5R4RiMfAvnF1GAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD5AxrGwUF-Ud4",
+              "file_size": 1934,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxGr-tE18dpNZJNcer0REdSZ5Wd6CAALkDGsbBQX5R4RiMfAvnF1GAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD5AxrGwUF-Udy",
+              "file_size": 26916,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxGr-tE18dpNZJNcer0REdSZ5Wd6CAALkDGsbBQX5R4RiMfAvnF1GAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD5AxrGwUF-Ud9",
+              "file_size": 108881,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADxGr-tE18dpNZJNcer0REdSZ5Wd6CAALkDGsbBQX5R4RiMfAvnF1GAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD5AxrGwUF-Ud-",
+              "file_size": 163978,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)\n📦 Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes\n\n💵 Precio Hoy: $28.48 USD (~$94.752 COP · TRM $3.327)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -43% OFF · Ahorras $21.51 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 73,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 153,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 183,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 211,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 228,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 262,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 462,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 548,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 695,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 710,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 723,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                  "url": "https://www.amazon.com/dp/B0HCNRZGS2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCNRZGS2"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HCNRZGS2",
+        "title": "Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes",
+        "photo_url": "https://m.media-amazon.com/images/I/711DikwDGHL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0HCNRZGS2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCNRZGS2"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HCNRZGS2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCNRZGS2",
+        "deal_snapshot": {
+          "asin": "B0HCNRZGS2",
+          "title": "Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes",
+          "price_usd": 28.48,
+          "reference_price_usd": 49.99,
+          "discount_pct": 43,
+          "price_cop": 94752,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HCNRZGS2",
+      "title": "Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes",
+      "photo_url": "https://m.media-amazon.com/images/I/711DikwDGHL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+              "url": "https://www.amazon.com/dp/B0HCNRZGS2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCNRZGS2"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HCNRZGS2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCNRZGS2",
+      "deal_snapshot": {
+        "asin": "B0HCNRZGS2",
+        "title": "Smoothie Blender Grinder Combo, Personal Blender for Smoothies and Shakes",
+        "price_usd": 28.48,
+        "reference_price_usd": 49.99,
+        "discount_pct": 43,
+        "price_cop": 94752,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HLDLDWSP",
     "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
     "timestamp": "2026-11-19T08:23:45.584086+00:00",
@@ -20650,319 +22215,6 @@
         "trm_cop": 3316.7,
         "ships_to_colombia": true,
         "free_shipping_co": false,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B0H5FG8TL2",
-    "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
-    "timestamp": "2026-11-15T19:24:14.167672+00:00",
-    "timestamp_colombia": "2026-11-15T14:24:14.167672-05:00",
-    "is_colombia_peak_hour": false,
-    "deal": {
-      "asin": "B0H5FG8TL2",
-      "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
-      "category": "Computadores",
-      "brand": "",
-      "price_usd": 89.97,
-      "list_price_usd": 114.97,
-      "avg_90d_usd": 114.97,
-      "ships_to_colombia": true,
-      "free_shipping_co": true,
-      "shipping_cost_usd": 0.0,
-      "requires_locker": false,
-      "rating": 4.64,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 114.97,
-      "discount_pct": 21.7,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 21.7,
-      "price_vs_90d_badge": "📉 21.7% más barato que su promedio de 90 días ($114.97 USD)",
-      "trm_cop": 3316.7,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 0,
-      "shipping_cost_formatted": "GRATIS ($0 USD)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 89.97,
-      "price_cop": 298403,
-      "price_cop_formatted": "$298.403 COP",
-      "total_landed_cop": 298403,
-      "total_landed_cop_formatted": "$298.403 COP",
-      "savings_usd": 25.0,
-      "savings_cop": 82918,
-      "savings_cop_formatted": "$82.918 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
-      "deal_tier": "⚡ GRAN OFERTA",
-      "approved_for_colombia": true,
-      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
-      "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
-      "is_new_price_drop": true,
-      "previous_price_usd": null,
-      "verified_at": "2026-11-15T19:20:27.846924+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
-        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
-                "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 124,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1794770659,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADcwADPQQ",
-              "file_unique_id": "AQADKw1rG1ES2Ud4",
-              "file_size": 2017,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADbQADPQQ",
-              "file_unique_id": "AQADKw1rG1ES2Udy",
-              "file_size": 28593,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADeAADPQQ",
-              "file_unique_id": "AQADKw1rG1ES2Ud9",
-              "file_size": 117510,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADfGr6BuOX4079XKAcIcMGbtJc3tbLAAIrDWsbURLZR5BNTscbLk93AQADAgADeQADPQQ",
-              "file_unique_id": "AQADKw1rG1ES2Ud-",
-              "file_size": 176700,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-22% OFF)\n📦 Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)\n\n💵 Precio Hoy: $89.97 USD (~$298.403 COP · TRM $3.317)\n📉 Más barato que antes: Antes $114.97 USD → Hoy -22% OFF · Ahorras $25.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 38,
-              "type": "bold"
-            },
-            {
-              "offset": 45,
-              "length": 145,
-              "type": "bold"
-            },
-            {
-              "offset": 195,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 207,
-              "length": 10,
-              "type": "bold"
-            },
-            {
-              "offset": 219,
-              "length": 13,
-              "type": "italic"
-            },
-            {
-              "offset": 250,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 278,
-              "length": 11,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 296,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 307,
-              "length": 18,
-              "type": "bold"
-            },
-            {
-              "offset": 330,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 512,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 598,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 792,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 807,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 820,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
-                  "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0H5FG8TL2",
-        "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
-        "photo_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
-        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
-                "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
-        "deal_snapshot": {
-          "asin": "B0H5FG8TL2",
-          "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
-          "price_usd": 89.97,
-          "reference_price_usd": 114.97,
-          "discount_pct": 22,
-          "price_cop": 298403,
-          "trm_cop": 3316.7,
-          "ships_to_colombia": true,
-          "free_shipping_co": true,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0H5FG8TL2",
-      "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
-      "photo_url": "https://m.media-amazon.com/images/I/71nySu3o1xL._AC_SL1435_.jpg",
-      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)</b>\n\n💵 <b>Precio Hoy:</b> <b>$89.97 USD</b> (<i>~$298.403 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$114.97 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($89.97 USD)",
-              "url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0H5FG8TL2?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5FG8TL2",
-      "deal_snapshot": {
-        "asin": "B0H5FG8TL2",
-        "title": "Sceptre - Monitor de juegos Prime de 27 pulgadas DisplayPort x2 180Hz HDMI x2 180Hz altavoces integrados, negro máquina 2027 (Serie E275B-FW180T)",
-        "price_usd": 89.97,
-        "reference_price_usd": 114.97,
-        "discount_pct": 22,
-        "price_cop": 298403,
-        "trm_cop": 3316.7,
-        "ships_to_colombia": true,
-        "free_shipping_co": true,
         "requires_locker": false,
         "tax_free_colombia": true
       }
