@@ -2,8 +2,8 @@
   {
     "asin": "B0H5WKDT2P",
     "title": "TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada",
-    "timestamp": "2026-11-19T09:00:49.867981+00:00",
-    "timestamp_colombia": "2026-11-19T04:00:49.867981-05:00",
+    "timestamp": "2026-11-19T09:03:59.166355+00:00",
+    "timestamp_colombia": "2026-11-19T04:03:59.166355-05:00",
     "is_colombia_peak_hour": false,
     "deal": {
       "asin": "B0H5WKDT2P",
@@ -34,20 +34,20 @@
       "cheaper_than_before": true,
       "vs_avg_90d_pct": 20.0,
       "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($13.99 USD)",
-      "trm_cop": 3326.96,
+      "trm_cop": 4150.0,
       "tax_free_colombia": true,
       "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 39757,
-      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
       "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
       "total_landed_usd": 23.14,
-      "price_cop": 37229,
-      "price_cop_formatted": "$37.229 COP",
-      "total_landed_cop": 76986,
-      "total_landed_cop_formatted": "$76.986 COP",
+      "price_cop": 46438,
+      "price_cop_formatted": "$46.438 COP",
+      "total_landed_cop": 96031,
+      "total_landed_cop_formatted": "$96.031 COP",
       "savings_usd": 2.8,
-      "savings_cop": 9315,
-      "savings_cop_formatted": "$9.315 COP",
+      "savings_cop": 11620,
+      "savings_cop_formatted": "$11.620 COP",
       "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
       "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
       "deal_tier": "⚡ GRAN OFERTA",
@@ -57,8 +57,8 @@
       "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5WKDT2P",
       "is_new_price_drop": true,
       "previous_price_usd": 11.19,
-      "verified_at": "2026-11-19T08:58:04.673741+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$37.229 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "verified_at": "2026-11-19T09:01:16.939252+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$46.438 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
       "audited_by": "verificador-colombia-auditor"
     },
     "telegram": {
@@ -66,13 +66,12 @@
       "mode": "live",
       "status": "sent",
       "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
       "http_status": 200,
       "api_method": "sendPhoto",
       "payload": {
         "chat_id": "@pillepues",
         "photo": "https://m.media-amazon.com/images/I/81digEDMJWL._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$37.229 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$46.438 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
         "parse_mode": "HTML",
         "reply_markup": {
           "inline_keyboard": [
@@ -94,7 +93,7 @@
       "response": {
         "ok": true,
         "result": {
-          "message_id": 214,
+          "message_id": 216,
           "sender_chat": {
             "id": -1004493953277,
             "title": "Pillepues",
@@ -107,38 +106,45 @@
             "username": "pillepues",
             "type": "channel"
           },
-          "date": 1795078854,
+          "date": 1795079046,
           "photo": [
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1mr-usZUr0SHnHfHQRNfL1SUwjYWAAL2DGsbBQX5RyH7vQk7CMBHAQADAgADcwADPQQ",
-              "file_unique_id": "AQAD9gxrGwUF-Ud4",
-              "file_size": 1666,
-              "width": 90,
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD2Gr-u4bSC97jWjx5Jgvv2K-_6GkFAALBEGsb4Tf8U4WRtB5zt9dpAQADAgADcwADPQQ",
+              "file_unique_id": "AQADwRBrG-E3_FN4",
+              "file_size": 1176,
+              "width": 56,
               "height": 90
             },
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1mr-usZUr0SHnHfHQRNfL1SUwjYWAAL2DGsbBQX5RyH7vQk7CMBHAQADAgADbQADPQQ",
-              "file_unique_id": "AQAD9gxrGwUF-Udy",
-              "file_size": 22193,
-              "width": 320,
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD2Gr-u4bSC97jWjx5Jgvv2K-_6GkFAALBEGsb4Tf8U4WRtB5zt9dpAQADAgADbQADPQQ",
+              "file_unique_id": "AQADwRBrG-E3_FNy",
+              "file_size": 12236,
+              "width": 200,
               "height": 320
             },
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1mr-usZUr0SHnHfHQRNfL1SUwjYWAAL2DGsbBQX5RyH7vQk7CMBHAQADAgADeAADPQQ",
-              "file_unique_id": "AQAD9gxrGwUF-Ud9",
-              "file_size": 87732,
-              "width": 800,
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD2Gr-u4bSC97jWjx5Jgvv2K-_6GkFAALBEGsb4Tf8U4WRtB5zt9dpAQADAgADeAADPQQ",
+              "file_unique_id": "AQADwRBrG-E3_FN9",
+              "file_size": 61815,
+              "width": 501,
               "height": 800
             },
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1mr-usZUr0SHnHfHQRNfL1SUwjYWAAL2DGsbBQX5RyH7vQk7CMBHAQADAgADeQADPQQ",
-              "file_unique_id": "AQAD9gxrGwUF-Ud-",
-              "file_size": 132702,
-              "width": 1080,
-              "height": 1080
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD2Gr-u4bSC97jWjx5Jgvv2K-_6GkFAALBEGsb4Tf8U4WRtB5zt9dpAQADAgADdwADPQQ",
+              "file_unique_id": "AQADwRBrG-E3_FN8",
+              "file_size": 123322,
+              "width": 940,
+              "height": 1500
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD2Gr-u4bSC97jWjx5Jgvv2K-_6GkFAALBEGsb4Tf8U4WRtB5zt9dpAQADAgADeQADPQQ",
+              "file_unique_id": "AQADwRBrG-E3_FN-",
+              "file_size": 148794,
+              "width": 802,
+              "height": 1280
             }
           ],
-          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada\n\n💵 Precio Hoy: $11.19 USD (~$37.229 COP · TRM $3.327)\n📉 Más barato que antes: Antes $13.99 USD → Hoy -20% OFF · Ahorras $2.80 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada\n\n💵 Precio Hoy: $11.19 USD (~$46.438 COP · TRM $4.150)\n📉 Más barato que antes: Antes $13.99 USD → Hoy -20% OFF · Ahorras $2.80 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
           "caption_entities": [
             {
               "offset": 3,
@@ -238,7 +244,7 @@
         "asin": "B0H5WKDT2P",
         "title": "TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada",
         "photo_url": "https://m.media-amazon.com/images/I/81digEDMJWL._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$37.229 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$46.438 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
         "parse_mode": "HTML",
         "reply_markup": {
           "inline_keyboard": [
@@ -264,8 +270,8 @@
           "price_usd": 11.19,
           "reference_price_usd": 13.99,
           "discount_pct": 20,
-          "price_cop": 37229,
-          "trm_cop": 3326.96,
+          "price_cop": 46438,
+          "trm_cop": 4150.0,
           "ships_to_colombia": true,
           "free_shipping_co": false,
           "requires_locker": false,
@@ -277,7 +283,7 @@
       "asin": "B0H5WKDT2P",
       "title": "TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada",
       "photo_url": "https://m.media-amazon.com/images/I/81digEDMJWL._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$37.229 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>TORRAS Funda transparente para iPhone 18 Pro, antiamarilleo mejorada</b>\n\n💵 <b>Precio Hoy:</b> <b>$11.19 USD</b> (<i>~$46.438 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$13.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.80 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $23.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
       "parse_mode": "HTML",
       "reply_markup": {
         "inline_keyboard": [
@@ -303,8 +309,8 @@
         "price_usd": 11.19,
         "reference_price_usd": 13.99,
         "discount_pct": 20,
-        "price_cop": 37229,
-        "trm_cop": 3326.96,
+        "price_cop": 46438,
+        "trm_cop": 4150.0,
         "ships_to_colombia": true,
         "free_shipping_co": false,
         "requires_locker": false,
@@ -315,8 +321,8 @@
   {
     "asin": "B0HHF2JT8G",
     "title": "SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra",
-    "timestamp": "2026-11-19T09:00:48.098787+00:00",
-    "timestamp_colombia": "2026-11-19T04:00:48.098787-05:00",
+    "timestamp": "2026-11-19T09:03:57.451672+00:00",
+    "timestamp_colombia": "2026-11-19T04:03:57.451672-05:00",
     "is_colombia_peak_hour": false,
     "deal": {
       "asin": "B0HHF2JT8G",
@@ -347,20 +353,20 @@
       "cheaper_than_before": true,
       "vs_avg_90d_pct": 20.0,
       "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($19.99 USD)",
-      "trm_cop": 3326.96,
+      "trm_cop": 4150.0,
       "tax_free_colombia": true,
       "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 39757,
-      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
       "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
       "total_landed_usd": 27.94,
-      "price_cop": 53198,
-      "price_cop_formatted": "$53.198 COP",
-      "total_landed_cop": 92955,
-      "total_landed_cop_formatted": "$92.955 COP",
+      "price_cop": 66358,
+      "price_cop_formatted": "$66.358 COP",
+      "total_landed_cop": 115951,
+      "total_landed_cop_formatted": "$115.951 COP",
       "savings_usd": 4.0,
-      "savings_cop": 13308,
-      "savings_cop_formatted": "$13.308 COP",
+      "savings_cop": 16600,
+      "savings_cop_formatted": "$16.600 COP",
       "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
       "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
       "deal_tier": "⚡ GRAN OFERTA",
@@ -370,8 +376,8 @@
       "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHF2JT8G",
       "is_new_price_drop": true,
       "previous_price_usd": 15.99,
-      "verified_at": "2026-11-19T08:58:04.673741+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.198 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "verified_at": "2026-11-19T09:01:16.939252+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$66.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
       "audited_by": "verificador-colombia-auditor"
     },
     "telegram": {
@@ -385,7 +391,7 @@
       "payload": {
         "chat_id": "@pillepues",
         "photo": "https://m.media-amazon.com/images/I/71p5uIYc6cL._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.198 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$66.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
         "parse_mode": "HTML",
         "reply_markup": {
           "inline_keyboard": [
@@ -407,7 +413,7 @@
       "response": {
         "ok": true,
         "result": {
-          "message_id": 213,
+          "message_id": 215,
           "sender_chat": {
             "id": -1004493953277,
             "title": "Pillepues",
@@ -420,38 +426,38 @@
             "username": "pillepues",
             "type": "channel"
           },
-          "date": 1795078849,
+          "date": 1795079038,
           "photo": [
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1Wr-usEvGclOxanuDiYPyaGZYtndAAL1DGsbBQX5R1rqxQ3Vq_R_AQADAgADcwADPQQ",
-              "file_unique_id": "AQAD9QxrGwUF-Ud4",
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD12r-u35DuXKI6_kL6YMEK4hynclYAAL4DGsbBQX5R4Ct06KJfaqcAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD-AxrGwUF-Ud4",
               "file_size": 1924,
               "width": 90,
               "height": 90
             },
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1Wr-usEvGclOxanuDiYPyaGZYtndAAL1DGsbBQX5R1rqxQ3Vq_R_AQADAgADbQADPQQ",
-              "file_unique_id": "AQAD9QxrGwUF-Udy",
-              "file_size": 25487,
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD12r-u35DuXKI6_kL6YMEK4hynclYAAL4DGsbBQX5R4Ct06KJfaqcAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD-AxrGwUF-Udy",
+              "file_size": 25504,
               "width": 320,
               "height": 320
             },
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1Wr-usEvGclOxanuDiYPyaGZYtndAAL1DGsbBQX5R1rqxQ3Vq_R_AQADAgADeAADPQQ",
-              "file_unique_id": "AQAD9QxrGwUF-Ud9",
-              "file_size": 103859,
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD12r-u35DuXKI6_kL6YMEK4hynclYAAL4DGsbBQX5R4Ct06KJfaqcAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD-AxrGwUF-Ud9",
+              "file_size": 103885,
               "width": 800,
               "height": 800
             },
             {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD1Wr-usEvGclOxanuDiYPyaGZYtndAAL1DGsbBQX5R1rqxQ3Vq_R_AQADAgADeQADPQQ",
-              "file_unique_id": "AQAD9QxrGwUF-Ud-",
-              "file_size": 159360,
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD12r-u35DuXKI6_kL6YMEK4hynclYAAL4DGsbBQX5R4Ct06KJfaqcAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD-AxrGwUF-Ud-",
+              "file_size": 159417,
               "width": 1080,
               "height": 1080
             }
           ],
-          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra\n\n💵 Precio Hoy: $15.99 USD (~$53.198 COP · TRM $3.327)\n📉 Más barato que antes: Antes $19.99 USD → Hoy -20% OFF · Ahorras $4.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra\n\n💵 Precio Hoy: $15.99 USD (~$66.358 COP · TRM $4.150)\n📉 Más barato que antes: Antes $19.99 USD → Hoy -20% OFF · Ahorras $4.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
           "caption_entities": [
             {
               "offset": 3,
@@ -551,7 +557,7 @@
         "asin": "B0HHF2JT8G",
         "title": "SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra",
         "photo_url": "https://m.media-amazon.com/images/I/71p5uIYc6cL._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.198 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$66.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
         "parse_mode": "HTML",
         "reply_markup": {
           "inline_keyboard": [
@@ -577,8 +583,8 @@
           "price_usd": 15.99,
           "reference_price_usd": 19.99,
           "discount_pct": 20,
-          "price_cop": 53198,
-          "trm_cop": 3326.96,
+          "price_cop": 66358,
+          "trm_cop": 4150.0,
           "ships_to_colombia": true,
           "free_shipping_co": false,
           "requires_locker": false,
@@ -590,7 +596,7 @@
       "asin": "B0HHF2JT8G",
       "title": "SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra",
       "photo_url": "https://m.media-amazon.com/images/I/71p5uIYc6cL._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$53.198 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>SUPFINE Funda magnética para iPhone Duo negra con potencia de bisagra</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.99 USD</b> (<i>~$66.358 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$19.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
       "parse_mode": "HTML",
       "reply_markup": {
         "inline_keyboard": [
@@ -616,8 +622,8 @@
         "price_usd": 15.99,
         "reference_price_usd": 19.99,
         "discount_pct": 20,
-        "price_cop": 53198,
-        "trm_cop": 3326.96,
+        "price_cop": 66358,
+        "trm_cop": 4150.0,
         "ships_to_colombia": true,
         "free_shipping_co": false,
         "requires_locker": false,

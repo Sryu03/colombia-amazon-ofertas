@@ -8,10 +8,6 @@
     "category": "Tecnología"
   },
   {
-    "asin": "B0HF7VBM7Z",
-    "category": "Hogar"
-  },
-  {
     "asin": "B0HBJTK4CC",
     "category": "Hogar"
   },
@@ -597,6 +593,10 @@
   },
   {
     "asin": "B0H2YYVGTM",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0HF7VBM7Z",
     "category": "Hogar"
   }
 ]
