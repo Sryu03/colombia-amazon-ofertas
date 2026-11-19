@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0HKNLJ1V9",
+    "title": "3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable",
+    "timestamp": "2026-11-19T11:53:13.391582+00:00",
+    "timestamp_colombia": "2026-11-19T06:53:13.391582-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HKNLJ1V9",
+      "title": "3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 20.89,
+      "list_price_usd": 54.99,
+      "avg_90d_usd": 54.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71JemT--23L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 54.99,
+      "discount_pct": 62.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 62.0,
+      "price_vs_90d_badge": "📉 62.0% más barato que su promedio de 90 días ($54.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 32.84,
+      "price_cop": 69500,
+      "price_cop_formatted": "$69.500 COP",
+      "total_landed_cop": 109257,
+      "total_landed_cop_formatted": "$109.257 COP",
+      "savings_usd": 34.1,
+      "savings_cop": 113449,
+      "savings_cop_formatted": "$113.449 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $14.11 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HKNLJ1V9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HKNLJ1V9",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T11:50:24.605351+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-62% OFF)</b>\n📦 <b>3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.89 USD</b> (<i>~$69.500 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$54.99 USD</s> → Hoy <b>-62% OFF</b> · <b>Ahorras $34.10 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.11 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71JemT--23L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-62% OFF)</b>\n📦 <b>3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.89 USD</b> (<i>~$69.500 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$54.99 USD</s> → Hoy <b>-62% OFF</b> · <b>Ahorras $34.10 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.11 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($20.89 USD)",
+                "url": "https://www.amazon.com/dp/B0HKNLJ1V9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HKNLJ1V9"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 232,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795089194,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Gr-4yryTd3ziDRPZvTPzcuv-cXFAAIUDWsbBQX5R4jvO2NJIZFBAQADAgADcwADPQQ",
+              "file_unique_id": "AQADFA1rGwUF-Ud4",
+              "file_size": 1836,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Gr-4yryTd3ziDRPZvTPzcuv-cXFAAIUDWsbBQX5R4jvO2NJIZFBAQADAgADbQADPQQ",
+              "file_unique_id": "AQADFA1rGwUF-Udy",
+              "file_size": 24074,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Gr-4yryTd3ziDRPZvTPzcuv-cXFAAIUDWsbBQX5R4jvO2NJIZFBAQADAgADeAADPQQ",
+              "file_unique_id": "AQADFA1rGwUF-Ud9",
+              "file_size": 94626,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6Gr-4yryTd3ziDRPZvTPzcuv-cXFAAIUDWsbBQX5R4jvO2NJIZFBAQADAgADeQADPQQ",
+              "file_unique_id": "AQADFA1rGwUF-Ud-",
+              "file_size": 138594,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-62% OFF)\n📦 3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable\n\n💵 Precio Hoy: $20.89 USD (~$69.500 COP · TRM $3.327)\n📉 Más barato que antes: Antes $54.99 USD → Hoy -62% OFF · Ahorras $34.10 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $14.11 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 119,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 173,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 201,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 218,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 229,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 452,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 538,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 686,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 701,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 714,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($20.89 USD)",
+                  "url": "https://www.amazon.com/dp/B0HKNLJ1V9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HKNLJ1V9"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HKNLJ1V9",
+        "title": "3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable",
+        "photo_url": "https://m.media-amazon.com/images/I/71JemT--23L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-62% OFF)</b>\n📦 <b>3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.89 USD</b> (<i>~$69.500 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$54.99 USD</s> → Hoy <b>-62% OFF</b> · <b>Ahorras $34.10 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.11 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($20.89 USD)",
+                "url": "https://www.amazon.com/dp/B0HKNLJ1V9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HKNLJ1V9"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HKNLJ1V9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HKNLJ1V9",
+        "deal_snapshot": {
+          "asin": "B0HKNLJ1V9",
+          "title": "3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable",
+          "price_usd": 20.89,
+          "reference_price_usd": 54.99,
+          "discount_pct": 62,
+          "price_cop": 69500,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HKNLJ1V9",
+      "title": "3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable",
+      "photo_url": "https://m.media-amazon.com/images/I/71JemT--23L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-62% OFF)</b>\n📦 <b>3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable</b>\n\n💵 <b>Precio Hoy:</b> <b>$20.89 USD</b> (<i>~$69.500 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$54.99 USD</s> → Hoy <b>-62% OFF</b> · <b>Ahorras $34.10 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $14.11 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($20.89 USD)",
+              "url": "https://www.amazon.com/dp/B0HKNLJ1V9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HKNLJ1V9"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HKNLJ1V9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HKNLJ1V9",
+      "deal_snapshot": {
+        "asin": "B0HKNLJ1V9",
+        "title": "3 en 1 - Batidor eléctrico de espuma de leche, acero inoxidable",
+        "price_usd": 20.89,
+        "reference_price_usd": 54.99,
+        "discount_pct": 62,
+        "price_cop": 69500,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H3WPV2G6",
     "title": "Simple Modern Tumbler with Handle and Straw | 40oz | Tortoise",
     "timestamp": "2026-11-19T11:43:28.504705+00:00",
