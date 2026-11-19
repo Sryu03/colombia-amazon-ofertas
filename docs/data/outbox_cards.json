@@ -1,5 +1,1576 @@
 [
   {
+    "asin": "B0H82GQWXG",
+    "title": "MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck",
+    "timestamp": "2026-11-19T08:44:01.345590+00:00",
+    "timestamp_colombia": "2026-11-19T03:44:01.345590-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H82GQWXG",
+      "title": "MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 21.59,
+      "list_price_usd": 26.99,
+      "avg_90d_usd": 26.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51o4SVQUuuL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 26.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($26.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 33.54,
+      "price_cop": 71829,
+      "price_cop_formatted": "$71.829 COP",
+      "total_landed_cop": 111586,
+      "total_landed_cop_formatted": "$111.586 COP",
+      "savings_usd": 5.4,
+      "savings_cop": 17966,
+      "savings_cop_formatted": "$17.966 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $13.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H82GQWXG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H82GQWXG",
+      "is_new_price_drop": true,
+      "previous_price_usd": 21.59,
+      "verified_at": "2026-11-19T08:40:20.062349+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.59 USD</b> (<i>~$71.829 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $13.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51o4SVQUuuL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.59 USD</b> (<i>~$71.829 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $13.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($21.59 USD)",
+                "url": "https://www.amazon.com/dp/B0H82GQWXG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H82GQWXG"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 205,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077845,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzWr-ttX3DZfeYjeJ7CuT_H5vOt59AALsDGsbBQX5R6DhoVxv0butAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD7AxrGwUF-Ud4",
+              "file_size": 1767,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzWr-ttX3DZfeYjeJ7CuT_H5vOt59AALsDGsbBQX5R6DhoVxv0butAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD7AxrGwUF-Udy",
+              "file_size": 24082,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzWr-ttX3DZfeYjeJ7CuT_H5vOt59AALsDGsbBQX5R6DhoVxv0butAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD7AxrGwUF-Ud9",
+              "file_size": 90668,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzWr-ttX3DZfeYjeJ7CuT_H5vOt59AALsDGsbBQX5R6DhoVxv0butAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD7AxrGwUF-Ud-",
+              "file_size": 133535,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck\n\n💵 Precio Hoy: $21.59 USD (~$71.829 COP · TRM $3.327)\n📉 Más barato que antes: Antes $26.99 USD → Hoy -20% OFF · Ahorras $5.40 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $13.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 149,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 179,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 207,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 224,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 235,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 257,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 457,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 543,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 691,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 706,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 719,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($21.59 USD)",
+                  "url": "https://www.amazon.com/dp/B0H82GQWXG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H82GQWXG"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H82GQWXG",
+        "title": "MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck",
+        "photo_url": "https://m.media-amazon.com/images/I/51o4SVQUuuL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.59 USD</b> (<i>~$71.829 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $13.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($21.59 USD)",
+                "url": "https://www.amazon.com/dp/B0H82GQWXG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H82GQWXG"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H82GQWXG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H82GQWXG",
+        "deal_snapshot": {
+          "asin": "B0H82GQWXG",
+          "title": "MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck",
+          "price_usd": 21.59,
+          "reference_price_usd": 26.99,
+          "discount_pct": 20,
+          "price_cop": 71829,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H82GQWXG",
+      "title": "MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck",
+      "photo_url": "https://m.media-amazon.com/images/I/51o4SVQUuuL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck</b>\n\n💵 <b>Precio Hoy:</b> <b>$21.59 USD</b> (<i>~$71.829 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$26.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $13.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($21.59 USD)",
+              "url": "https://www.amazon.com/dp/B0H82GQWXG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H82GQWXG"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H82GQWXG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H82GQWXG",
+      "deal_snapshot": {
+        "asin": "B0H82GQWXG",
+        "title": "MOBAPAD C2 Lite Wireless Pro Controller for Switch 2/Switch 1/PC/Steam Deck",
+        "price_usd": 21.59,
+        "reference_price_usd": 26.99,
+        "discount_pct": 20,
+        "price_cop": 71829,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H95CL7YV",
+    "title": "Turbo Grill Deluxe - Sartén para microondas, tapa ventilada",
+    "timestamp": "2026-11-19T08:43:56.838431+00:00",
+    "timestamp_colombia": "2026-11-19T03:43:56.838431-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H95CL7YV",
+      "title": "Turbo Grill Deluxe - Sartén para microondas, tapa ventilada",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 39.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.14,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71f20FwxJEL._AC_SL1254_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 39.99,
+      "price_cop": 133045,
+      "price_cop_formatted": "$133.045 COP",
+      "total_landed_cop": 133045,
+      "total_landed_cop_formatted": "$133.045 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 33270,
+      "savings_cop_formatted": "$33.270 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H95CL7YV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H95CL7YV",
+      "is_new_price_drop": true,
+      "previous_price_usd": 39.99,
+      "verified_at": "2026-11-19T08:40:20.062349+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Turbo Grill Deluxe - Sartén para microondas, tapa ventilada</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$133.045 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71f20FwxJEL._AC_SL1254_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Turbo Grill Deluxe - Sartén para microondas, tapa ventilada</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$133.045 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H95CL7YV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H95CL7YV"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 204,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077841,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzGr-ttEdWU-vgqEbmZED5iAZHOzCAALrDGsbBQX5R1q9IAABI1DnkwEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD6wxrGwUF-Ud4",
+              "file_size": 1977,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzGr-ttEdWU-vgqEbmZED5iAZHOzCAALrDGsbBQX5R1q9IAABI1DnkwEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD6wxrGwUF-Udy",
+              "file_size": 28119,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzGr-ttEdWU-vgqEbmZED5iAZHOzCAALrDGsbBQX5R1q9IAABI1DnkwEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD6wxrGwUF-Ud9",
+              "file_size": 117780,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADzGr-ttEdWU-vgqEbmZED5iAZHOzCAALrDGsbBQX5R1q9IAABI1DnkwEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD6wxrGwUF-Ud-",
+              "file_size": 175704,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Turbo Grill Deluxe - Sartén para microondas, tapa ventilada\n\n💵 Precio Hoy: $39.99 USD (~$133.045 COP · TRM $3.327)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -20% OFF · Ahorras $10.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 59,
+              "type": "bold"
+            },
+            {
+              "offset": 109,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 121,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 133,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 164,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 192,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 209,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 220,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 243,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 425,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 511,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 705,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 733,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0H95CL7YV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H95CL7YV"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H95CL7YV",
+        "title": "Turbo Grill Deluxe - Sartén para microondas, tapa ventilada",
+        "photo_url": "https://m.media-amazon.com/images/I/71f20FwxJEL._AC_SL1254_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Turbo Grill Deluxe - Sartén para microondas, tapa ventilada</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$133.045 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H95CL7YV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H95CL7YV"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H95CL7YV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H95CL7YV",
+        "deal_snapshot": {
+          "asin": "B0H95CL7YV",
+          "title": "Turbo Grill Deluxe - Sartén para microondas, tapa ventilada",
+          "price_usd": 39.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 20,
+          "price_cop": 133045,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H95CL7YV",
+      "title": "Turbo Grill Deluxe - Sartén para microondas, tapa ventilada",
+      "photo_url": "https://m.media-amazon.com/images/I/71f20FwxJEL._AC_SL1254_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Turbo Grill Deluxe - Sartén para microondas, tapa ventilada</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$133.045 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+              "url": "https://www.amazon.com/dp/B0H95CL7YV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H95CL7YV"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H95CL7YV?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H95CL7YV",
+      "deal_snapshot": {
+        "asin": "B0H95CL7YV",
+        "title": "Turbo Grill Deluxe - Sartén para microondas, tapa ventilada",
+        "price_usd": 39.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 20,
+        "price_cop": 133045,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H9BDDWS5",
+    "title": "Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright & Delight",
+    "timestamp": "2026-11-19T08:43:52.219110+00:00",
+    "timestamp_colombia": "2026-11-19T03:43:52.219110-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H9BDDWS5",
+      "title": "Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright & Delight",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 26.59,
+      "list_price_usd": 34.99,
+      "avg_90d_usd": 34.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71zchEpV33L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 34.99,
+      "discount_pct": 24.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 24.0,
+      "price_vs_90d_badge": "📉 24.0% más barato que su promedio de 90 días ($34.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 38.54,
+      "price_cop": 88464,
+      "price_cop_formatted": "$88.464 COP",
+      "total_landed_cop": 128221,
+      "total_landed_cop_formatted": "$128.221 COP",
+      "savings_usd": 8.4,
+      "savings_cop": 27946,
+      "savings_cop_formatted": "$27.946 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $8.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H9BDDWS5?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H9BDDWS5",
+      "is_new_price_drop": true,
+      "previous_price_usd": 26.59,
+      "verified_at": "2026-11-19T08:40:20.062349+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright &amp; Delight</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.59 USD</b> (<i>~$88.464 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $8.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71zchEpV33L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright &amp; Delight</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.59 USD</b> (<i>~$88.464 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $8.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($26.59 USD)",
+                "url": "https://www.amazon.com/dp/B0H9BDDWS5?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H9BDDWS5"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 203,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077836,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADy2r-tswxZUUpWggbNyIw-vqdTD1RAALqDGsbBQX5R25Alm8jyP5tAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD6gxrGwUF-Ud4",
+              "file_size": 1699,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADy2r-tswxZUUpWggbNyIw-vqdTD1RAALqDGsbBQX5R25Alm8jyP5tAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD6gxrGwUF-Udy",
+              "file_size": 22869,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADy2r-tswxZUUpWggbNyIw-vqdTD1RAALqDGsbBQX5R25Alm8jyP5tAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD6gxrGwUF-Ud9",
+              "file_size": 91432,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADy2r-tswxZUUpWggbNyIw-vqdTD1RAALqDGsbBQX5R25Alm8jyP5tAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD6gxrGwUF-Ud-",
+              "file_size": 133130,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-24% OFF)\n📦 Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright & Delight\n\n💵 Precio Hoy: $26.59 USD (~$88.464 COP · TRM $3.327)\n📉 Más barato que antes: Antes $34.99 USD → Hoy -24% OFF · Ahorras $8.40 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $8.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 77,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 181,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 226,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 237,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 259,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 459,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 545,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 692,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 707,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 720,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($26.59 USD)",
+                  "url": "https://www.amazon.com/dp/B0H9BDDWS5?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H9BDDWS5"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H9BDDWS5",
+        "title": "Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright & Delight",
+        "photo_url": "https://m.media-amazon.com/images/I/71zchEpV33L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright &amp; Delight</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.59 USD</b> (<i>~$88.464 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $8.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($26.59 USD)",
+                "url": "https://www.amazon.com/dp/B0H9BDDWS5?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H9BDDWS5"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H9BDDWS5?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H9BDDWS5",
+        "deal_snapshot": {
+          "asin": "B0H9BDDWS5",
+          "title": "Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright & Delight",
+          "price_usd": 26.59,
+          "reference_price_usd": 34.99,
+          "discount_pct": 24,
+          "price_cop": 88464,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H9BDDWS5",
+      "title": "Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright & Delight",
+      "photo_url": "https://m.media-amazon.com/images/I/71zchEpV33L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-24% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright &amp; Delight</b>\n\n💵 <b>Precio Hoy:</b> <b>$26.59 USD</b> (<i>~$88.464 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$34.99 USD</s> → Hoy <b>-24% OFF</b> · <b>Ahorras $8.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $8.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($26.59 USD)",
+              "url": "https://www.amazon.com/dp/B0H9BDDWS5?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H9BDDWS5"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H9BDDWS5?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H9BDDWS5",
+      "deal_snapshot": {
+        "asin": "B0H9BDDWS5",
+        "title": "Owala FreeSip - Botella de agua de acero inoxidable de 24 oz Fright & Delight",
+        "price_usd": 26.59,
+        "reference_price_usd": 34.99,
+        "discount_pct": 24,
+        "price_cop": 88464,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H68MTJV6",
+    "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+    "timestamp": "2026-11-19T08:43:47.423307+00:00",
+    "timestamp_colombia": "2026-11-19T03:43:47.423307-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H68MTJV6",
+      "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 9.48,
+      "list_price_usd": 12.98,
+      "avg_90d_usd": 12.98,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71qeTLl94jL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 12.98,
+      "discount_pct": 27.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 27.0,
+      "price_vs_90d_badge": "📉 27.0% más barato que su promedio de 90 días ($12.98 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 21.43,
+      "price_cop": 31540,
+      "price_cop_formatted": "$31.540 COP",
+      "total_landed_cop": 71297,
+      "total_landed_cop_formatted": "$71.297 COP",
+      "savings_usd": 3.5,
+      "savings_cop": 11644,
+      "savings_cop_formatted": "$11.644 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H68MTJV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H68MTJV6",
+      "is_new_price_drop": true,
+      "previous_price_usd": 9.48,
+      "verified_at": "2026-11-19T08:40:20.062349+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Termómetro digital para carne, lectura instantánea de 1-2 segundos</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.98 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71qeTLl94jL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Termómetro digital para carne, lectura instantánea de 1-2 segundos</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.98 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+                "url": "https://www.amazon.com/dp/B0H68MTJV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H68MTJV6"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 202,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077832,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADymr-tseWdhahWYLszVz6D65ckn6qAALpDGsbBQX5R9N6i-o0WiFeAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD6QxrGwUF-Ud4",
+              "file_size": 1908,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADymr-tseWdhahWYLszVz6D65ckn6qAALpDGsbBQX5R9N6i-o0WiFeAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD6QxrGwUF-Udy",
+              "file_size": 26281,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADymr-tseWdhahWYLszVz6D65ckn6qAALpDGsbBQX5R9N6i-o0WiFeAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD6QxrGwUF-Ud9",
+              "file_size": 106959,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADymr-tseWdhahWYLszVz6D65ckn6qAALpDGsbBQX5R9N6i-o0WiFeAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD6QxrGwUF-Ud-",
+              "file_size": 158751,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-27% OFF)\n📦 Termómetro digital para carne, lectura instantánea de 1-2 segundos\n\n💵 Precio Hoy: $9.48 USD (~$31.540 COP · TRM $3.327)\n📉 Más barato que antes: Antes $12.98 USD → Hoy -27% OFF · Ahorras $3.50 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 66,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 169,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 197,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 214,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 225,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 447,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 533,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 681,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 696,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 709,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+                  "url": "https://www.amazon.com/dp/B0H68MTJV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H68MTJV6"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H68MTJV6",
+        "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+        "photo_url": "https://m.media-amazon.com/images/I/71qeTLl94jL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Termómetro digital para carne, lectura instantánea de 1-2 segundos</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.98 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+                "url": "https://www.amazon.com/dp/B0H68MTJV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H68MTJV6"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H68MTJV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H68MTJV6",
+        "deal_snapshot": {
+          "asin": "B0H68MTJV6",
+          "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+          "price_usd": 9.48,
+          "reference_price_usd": 12.98,
+          "discount_pct": 27,
+          "price_cop": 31540,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H68MTJV6",
+      "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+      "photo_url": "https://m.media-amazon.com/images/I/71qeTLl94jL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Termómetro digital para carne, lectura instantánea de 1-2 segundos</b>\n\n💵 <b>Precio Hoy:</b> <b>$9.48 USD</b> (<i>~$31.540 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$12.98 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $3.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $25.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($9.48 USD)",
+              "url": "https://www.amazon.com/dp/B0H68MTJV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H68MTJV6"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H68MTJV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H68MTJV6",
+      "deal_snapshot": {
+        "asin": "B0H68MTJV6",
+        "title": "Termómetro digital para carne, lectura instantánea de 1-2 segundos",
+        "price_usd": 9.48,
+        "reference_price_usd": 12.98,
+        "discount_pct": 27,
+        "price_cop": 31540,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HBJTK4CC",
+    "title": "Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas",
+    "timestamp": "2026-11-19T08:43:30.361212+00:00",
+    "timestamp_colombia": "2026-11-19T03:43:30.361212-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HBJTK4CC",
+      "title": "Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 56.97,
+      "list_price_usd": 79.99,
+      "avg_90d_usd": 79.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81apUsiJtfL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 79.99,
+      "discount_pct": 28.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 28.8,
+      "price_vs_90d_badge": "📉 28.8% más barato que su promedio de 90 días ($79.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 56.97,
+      "price_cop": 189537,
+      "price_cop_formatted": "$189.537 COP",
+      "total_landed_cop": 189537,
+      "total_landed_cop_formatted": "$189.537 COP",
+      "savings_usd": 23.02,
+      "savings_cop": 76587,
+      "savings_cop_formatted": "$76.587 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HBJTK4CC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HBJTK4CC",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T08:40:20.062349+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$189.537 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $23.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81apUsiJtfL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$189.537 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $23.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+                "url": "https://www.amazon.com/dp/B0HBJTK4CC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HBJTK4CC"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 201,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795077827,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADyWr-tsOb8aKxI5MBlmrEcA2hiYkXAAJ6EGsbtgv8U4U6CUeMBtIYAQADAgADcwADPQQ",
+              "file_unique_id": "AQADehBrG7YL_FN4",
+              "file_size": 1821,
+              "width": 90,
+              "height": 79
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADyWr-tsOb8aKxI5MBlmrEcA2hiYkXAAJ6EGsbtgv8U4U6CUeMBtIYAQADAgADbQADPQQ",
+              "file_unique_id": "AQADehBrG7YL_FNy",
+              "file_size": 25836,
+              "width": 320,
+              "height": 281
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADyWr-tsOb8aKxI5MBlmrEcA2hiYkXAAJ6EGsbtgv8U4U6CUeMBtIYAQADAgADeAADPQQ",
+              "file_unique_id": "AQADehBrG7YL_FN9",
+              "file_size": 128629,
+              "width": 800,
+              "height": 702
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADyWr-tsOb8aKxI5MBlmrEcA2hiYkXAAJ6EGsbtgv8U4U6CUeMBtIYAQADAgADdwADPQQ",
+              "file_unique_id": "AQADehBrG7YL_FN8",
+              "file_size": 250542,
+              "width": 1500,
+              "height": 1317
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QADyWr-tsOb8aKxI5MBlmrEcA2hiYkXAAJ6EGsbtgv8U4U6CUeMBtIYAQADAgADeQADPQQ",
+              "file_unique_id": "AQADehBrG7YL_FN-",
+              "file_size": 283822,
+              "width": 1280,
+              "height": 1124
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-29% OFF)\n📦 Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas\n\n💵 Precio Hoy: $56.97 USD (~$189.537 COP · TRM $3.327)\n📉 Más barato que antes: Antes $79.99 USD → Hoy -29% OFF · Ahorras $23.02 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 113,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 168,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 196,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 213,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 224,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 429,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 515,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 709,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 724,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 737,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0HBJTK4CC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HBJTK4CC"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HBJTK4CC",
+        "title": "Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas",
+        "photo_url": "https://m.media-amazon.com/images/I/81apUsiJtfL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$189.537 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $23.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+                "url": "https://www.amazon.com/dp/B0HBJTK4CC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HBJTK4CC"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HBJTK4CC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HBJTK4CC",
+        "deal_snapshot": {
+          "asin": "B0HBJTK4CC",
+          "title": "Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas",
+          "price_usd": 56.97,
+          "reference_price_usd": 79.99,
+          "discount_pct": 29,
+          "price_cop": 189537,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HBJTK4CC",
+      "title": "Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas",
+      "photo_url": "https://m.media-amazon.com/images/I/81apUsiJtfL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$189.537 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$79.99 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $23.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+              "url": "https://www.amazon.com/dp/B0HBJTK4CC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HBJTK4CC"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HBJTK4CC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HBJTK4CC",
+      "deal_snapshot": {
+        "asin": "B0HBJTK4CC",
+        "title": "Tapete eléctrico de calentamiento de alimentos 36 x 15 pulgadas",
+        "price_usd": 56.97,
+        "reference_price_usd": 79.99,
+        "discount_pct": 29,
+        "price_cop": 189537,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HGR4SDYC",
     "title": "AOC Auriculares inalámbricos para juegos de 2.4 GHz para PS5, PS4, PC",
     "timestamp": "2026-11-19T08:33:33.803168+00:00",
