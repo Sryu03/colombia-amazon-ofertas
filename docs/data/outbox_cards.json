@@ -1,5 +1,944 @@
 [
   {
+    "asin": "B0GSQZH26T",
+    "title": "MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip",
+    "timestamp": "2026-11-19T10:03:36.881677+00:00",
+    "timestamp_colombia": "2026-11-19T05:03:36.881677-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GSQZH26T",
+      "title": "MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 7.99,
+      "list_price_usd": 9.99,
+      "avg_90d_usd": 9.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/611qn2OlBdL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 9.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($9.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 19.94,
+      "price_cop": 33158,
+      "price_cop_formatted": "$33.158 COP",
+      "total_landed_cop": 82751,
+      "total_landed_cop_formatted": "$82.751 COP",
+      "savings_usd": 2.0,
+      "savings_cop": 8300,
+      "savings_cop_formatted": "$8.300 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0GSQZH26T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GSQZH26T",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T10:00:28.149631+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$33.158 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/611qn2OlBdL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$33.158 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GSQZH26T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GSQZH26T"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 224,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795082621,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4Gr-yX2ZQUa8JDGGPC8v87RxO0mAAAIBDWsbBQX5R9SW262Wbp4dAQADAgADcwADPQQ",
+              "file_unique_id": "AQADAQ1rGwUF-Ud4",
+              "file_size": 1613,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4Gr-yX2ZQUa8JDGGPC8v87RxO0mAAAIBDWsbBQX5R9SW262Wbp4dAQADAgADbQADPQQ",
+              "file_unique_id": "AQADAQ1rGwUF-Udy",
+              "file_size": 22779,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4Gr-yX2ZQUa8JDGGPC8v87RxO0mAAAIBDWsbBQX5R9SW262Wbp4dAQADAgADeAADPQQ",
+              "file_unique_id": "AQADAQ1rGwUF-Ud9",
+              "file_size": 90199,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD4Gr-yX2ZQUa8JDGGPC8v87RxO0mAAAIBDWsbBQX5R9SW262Wbp4dAQADAgADeQADPQQ",
+              "file_unique_id": "AQADAQ1rGwUF-Ud-",
+              "file_size": 132790,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip\n\n💵 Precio Hoy: $7.99 USD (~$33.158 COP · TRM $4.150)\n📉 Más barato que antes: Antes $9.99 USD → Hoy -20% OFF · Ahorras $2.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 80,
+              "type": "bold"
+            },
+            {
+              "offset": 130,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 142,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 153,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 183,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 211,
+              "length": 9,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 227,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 260,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 460,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 546,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 694,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 709,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 722,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0GSQZH26T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GSQZH26T"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GSQZH26T",
+        "title": "MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip",
+        "photo_url": "https://m.media-amazon.com/images/I/611qn2OlBdL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$33.158 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GSQZH26T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GSQZH26T"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GSQZH26T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GSQZH26T",
+        "deal_snapshot": {
+          "asin": "B0GSQZH26T",
+          "title": "MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip",
+          "price_usd": 7.99,
+          "reference_price_usd": 9.99,
+          "discount_pct": 20,
+          "price_cop": 33158,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GSQZH26T",
+      "title": "MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip",
+      "photo_url": "https://m.media-amazon.com/images/I/611qn2OlBdL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$33.158 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
+              "url": "https://www.amazon.com/dp/B0GSQZH26T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GSQZH26T"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GSQZH26T?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GSQZH26T",
+      "deal_snapshot": {
+        "asin": "B0GSQZH26T",
+        "title": "MOSISO - Funda compatible con MacBook Neo de 13 pulgadas 2026 A3404 A18 Pro Chip",
+        "price_usd": 7.99,
+        "reference_price_usd": 9.99,
+        "discount_pct": 20,
+        "price_cop": 33158,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H6P8B8SC",
+    "title": "Tapete de calentamiento para alimentos, extra grande de 26 x 15",
+    "timestamp": "2026-11-19T10:03:31.704057+00:00",
+    "timestamp_colombia": "2026-11-19T05:03:31.704057-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H6P8B8SC",
+      "title": "Tapete de calentamiento para alimentos, extra grande de 26 x 15",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 24.99,
+      "list_price_usd": 35.98,
+      "avg_90d_usd": 35.98,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81z0-JoLkvL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 35.98,
+      "discount_pct": 30.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.5,
+      "price_vs_90d_badge": "📉 30.5% más barato que su promedio de 90 días ($35.98 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 36.94,
+      "price_cop": 103708,
+      "price_cop_formatted": "$103.708 COP",
+      "total_landed_cop": 153301,
+      "total_landed_cop_formatted": "$153.301 COP",
+      "savings_usd": 10.99,
+      "savings_cop": 45608,
+      "savings_cop_formatted": "$45.608 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H6P8B8SC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6P8B8SC",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T10:00:28.149631+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Tapete de calentamiento para alimentos, extra grande de 26 x 15</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$35.98 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.99 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81z0-JoLkvL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Tapete de calentamiento para alimentos, extra grande de 26 x 15</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$35.98 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.99 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H6P8B8SC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6P8B8SC"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 223,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795082616,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD32r-yXi7Lzgw8VvY65jYXLJYVDa_AAMNaxsFBflHzngCoAeKo_sBAAMCAANzAAM9BA",
+              "file_unique_id": "AQAEDWsbBQX5R3g",
+              "file_size": 1902,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD32r-yXi7Lzgw8VvY65jYXLJYVDa_AAMNaxsFBflHzngCoAeKo_sBAAMCAANtAAM9BA",
+              "file_unique_id": "AQAEDWsbBQX5R3I",
+              "file_size": 26838,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD32r-yXi7Lzgw8VvY65jYXLJYVDa_AAMNaxsFBflHzngCoAeKo_sBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQAEDWsbBQX5R30",
+              "file_size": 112156,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD32r-yXi7Lzgw8VvY65jYXLJYVDa_AAMNaxsFBflHzngCoAeKo_sBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQAEDWsbBQX5R34",
+              "file_size": 168382,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 Tapete de calentamiento para alimentos, extra grande de 26 x 15\n\n💵 Precio Hoy: $24.99 USD (~$103.708 COP · TRM $4.150)\n📉 Más barato que antes: Antes $35.98 USD → Hoy -30% OFF · Ahorras $10.99 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 113,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 168,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 196,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 213,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 224,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 447,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 533,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 681,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 696,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 709,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0H6P8B8SC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6P8B8SC"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H6P8B8SC",
+        "title": "Tapete de calentamiento para alimentos, extra grande de 26 x 15",
+        "photo_url": "https://m.media-amazon.com/images/I/81z0-JoLkvL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Tapete de calentamiento para alimentos, extra grande de 26 x 15</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$35.98 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.99 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H6P8B8SC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6P8B8SC"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H6P8B8SC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6P8B8SC",
+        "deal_snapshot": {
+          "asin": "B0H6P8B8SC",
+          "title": "Tapete de calentamiento para alimentos, extra grande de 26 x 15",
+          "price_usd": 24.99,
+          "reference_price_usd": 35.98,
+          "discount_pct": 30,
+          "price_cop": 103708,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H6P8B8SC",
+      "title": "Tapete de calentamiento para alimentos, extra grande de 26 x 15",
+      "photo_url": "https://m.media-amazon.com/images/I/81z0-JoLkvL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>Tapete de calentamiento para alimentos, extra grande de 26 x 15</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$35.98 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.99 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+              "url": "https://www.amazon.com/dp/B0H6P8B8SC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6P8B8SC"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H6P8B8SC?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6P8B8SC",
+      "deal_snapshot": {
+        "asin": "B0H6P8B8SC",
+        "title": "Tapete de calentamiento para alimentos, extra grande de 26 x 15",
+        "price_usd": 24.99,
+        "reference_price_usd": 35.98,
+        "discount_pct": 30,
+        "price_cop": 103708,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FC2GH8Z4",
+    "title": "wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón",
+    "timestamp": "2026-11-19T10:03:29.659038+00:00",
+    "timestamp_colombia": "2026-11-19T05:03:29.659038-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FC2GH8Z4",
+      "title": "wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 8.54,
+      "list_price_usd": 12.99,
+      "avg_90d_usd": 12.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51LXNpBfTeL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 12.99,
+      "discount_pct": 34.3,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 34.3,
+      "price_vs_90d_badge": "📉 34.3% más barato que su promedio de 90 días ($12.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 20.49,
+      "price_cop": 35441,
+      "price_cop_formatted": "$35.441 COP",
+      "total_landed_cop": 85034,
+      "total_landed_cop_formatted": "$85.034 COP",
+      "savings_usd": 4.45,
+      "savings_cop": 18468,
+      "savings_cop_formatted": "$18.468 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $26.46 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0FC2GH8Z4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FC2GH8Z4",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T10:00:28.149631+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-34% OFF)</b>\n📦 <b>wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.54 USD</b> (<i>~$35.441 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-34% OFF</b> · <b>Ahorras $4.45 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.46 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51LXNpBfTeL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-34% OFF)</b>\n📦 <b>wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.54 USD</b> (<i>~$35.441 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-34% OFF</b> · <b>Ahorras $4.45 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.46 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($8.54 USD)",
+                "url": "https://www.amazon.com/dp/B0FC2GH8Z4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FC2GH8Z4"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 222,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795082611,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3mr-yXMrjkkWwGTvAbCD4akoZyJ8AAL_DGsbBQX5Rzq5b-HLeWwkAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD_wxrGwUF-Ud4",
+              "file_size": 1706,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3mr-yXMrjkkWwGTvAbCD4akoZyJ8AAL_DGsbBQX5Rzq5b-HLeWwkAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD_wxrGwUF-Udy",
+              "file_size": 21285,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3mr-yXMrjkkWwGTvAbCD4akoZyJ8AAL_DGsbBQX5Rzq5b-HLeWwkAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD_wxrGwUF-Ud9",
+              "file_size": 82279,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD3mr-yXMrjkkWwGTvAbCD4akoZyJ8AAL_DGsbBQX5Rzq5b-HLeWwkAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD_wxrGwUF-Ud-",
+              "file_size": 119658,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-34% OFF)\n📦 wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón\n\n💵 Precio Hoy: $8.54 USD (~$35.441 COP · TRM $4.150)\n📉 Más barato que antes: Antes $12.99 USD → Hoy -34% OFF · Ahorras $4.45 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $26.46 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 66,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 169,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 197,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 214,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 225,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 447,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 533,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 681,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 696,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 709,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($8.54 USD)",
+                  "url": "https://www.amazon.com/dp/B0FC2GH8Z4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FC2GH8Z4"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FC2GH8Z4",
+        "title": "wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón",
+        "photo_url": "https://m.media-amazon.com/images/I/51LXNpBfTeL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-34% OFF)</b>\n📦 <b>wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.54 USD</b> (<i>~$35.441 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-34% OFF</b> · <b>Ahorras $4.45 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.46 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($8.54 USD)",
+                "url": "https://www.amazon.com/dp/B0FC2GH8Z4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FC2GH8Z4"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FC2GH8Z4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FC2GH8Z4",
+        "deal_snapshot": {
+          "asin": "B0FC2GH8Z4",
+          "title": "wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón",
+          "price_usd": 8.54,
+          "reference_price_usd": 12.99,
+          "discount_pct": 34,
+          "price_cop": 35441,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FC2GH8Z4",
+      "title": "wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón",
+      "photo_url": "https://m.media-amazon.com/images/I/51LXNpBfTeL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-34% OFF)</b>\n📦 <b>wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.54 USD</b> (<i>~$35.441 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$12.99 USD</s> → Hoy <b>-34% OFF</b> · <b>Ahorras $4.45 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.46 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($8.54 USD)",
+              "url": "https://www.amazon.com/dp/B0FC2GH8Z4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FC2GH8Z4"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FC2GH8Z4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FC2GH8Z4",
+      "deal_snapshot": {
+        "asin": "B0FC2GH8Z4",
+        "title": "wegear Ratón inalámbrico USB para computadora portátil, Mac, ratón",
+        "price_usd": 8.54,
+        "reference_price_usd": 12.99,
+        "discount_pct": 34,
+        "price_cop": 35441,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HJ7MGWSZ",
     "title": "Auriculares inalámbricos, Bluetooth 5.3, estéreo de alta fidelidad, reproducción de 50 horas, pantalla digital LED, auriculares con ruido ENC para gimnasio, correr, trabajo (lujoso oro rosa)",
     "timestamp": "2026-11-19T09:53:23.991678+00:00",
