@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0GLDY9SXR",
+    "title": "Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 engranajes ajustables, refuerzo de un solo toque, batería recargable de 28.08 Wh, plumero",
+    "timestamp": "2026-11-19T04:53:17.363255+00:00",
+    "timestamp_colombia": "2026-11-18T23:53:17.363255-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GLDY9SXR",
+      "title": "Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 engranajes ajustables, refuerzo de un solo toque, batería recargable de 28.08 Wh, plumero",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 59.99,
+      "list_price_usd": 99.99,
+      "avg_90d_usd": 99.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61AOMeDAjZL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 99.99,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($99.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 59.99,
+      "price_cop": 199584,
+      "price_cop_formatted": "$199.584 COP",
+      "total_landed_cop": 199584,
+      "total_landed_cop_formatted": "$199.584 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 133078,
+      "savings_cop_formatted": "$133.078 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GLDY9SXR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GLDY9SXR",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T04:50:19.112309+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 eng...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$199.584 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61AOMeDAjZL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 eng...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$199.584 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GLDY9SXR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GLDY9SXR"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 176,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795063999,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADsGr-gL_WX9xrprM8uZtVKyu1VdElAALCDGsbBQX5Rxbv4i8JdF36AQADAgADcwADPQQ",
+              "file_unique_id": "AQADwgxrGwUF-Ud4",
+              "file_size": 1862,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADsGr-gL_WX9xrprM8uZtVKyu1VdElAALCDGsbBQX5Rxbv4i8JdF36AQADAgADbQADPQQ",
+              "file_unique_id": "AQADwgxrGwUF-Udy",
+              "file_size": 25162,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADsGr-gL_WX9xrprM8uZtVKyu1VdElAALCDGsbBQX5Rxbv4i8JdF36AQADAgADeAADPQQ",
+              "file_unique_id": "AQADwgxrGwUF-Ud9",
+              "file_size": 96651,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADsGr-gL_WX9xrprM8uZtVKyu1VdElAALCDGsbBQX5Rxbv4i8JdF36AQADAgADeQADPQQ",
+              "file_unique_id": "AQADwgxrGwUF-Ud-",
+              "file_size": 142438,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 eng...\n\n💵 Precio Hoy: $59.99 USD (~$199.584 COP · TRM $3.327)\n📉 Más barato que antes: Antes $99.99 USD → Hoy -40% OFF · Ahorras $40.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 224,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 269,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 280,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 303,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 485,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 507,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 701,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 716,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 729,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0GLDY9SXR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GLDY9SXR"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GLDY9SXR",
+        "title": "Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 engranajes ajustables, refuerzo de un solo toque, batería recargable de 28.08 Wh, plumero",
+        "photo_url": "https://m.media-amazon.com/images/I/61AOMeDAjZL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 eng...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$199.584 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GLDY9SXR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GLDY9SXR"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GLDY9SXR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GLDY9SXR",
+        "deal_snapshot": {
+          "asin": "B0GLDY9SXR",
+          "title": "Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 engranajes ajustables, refuerzo de un solo toque, batería recargable de 28.08 Wh, plumero",
+          "price_usd": 59.99,
+          "reference_price_usd": 99.99,
+          "discount_pct": 40,
+          "price_cop": 199584,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GLDY9SXR",
+      "title": "Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 engranajes ajustables, refuerzo de un solo toque, batería recargable de 28.08 Wh, plumero",
+      "photo_url": "https://m.media-amazon.com/images/I/61AOMeDAjZL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 eng...</b>\n\n💵 <b>Precio Hoy:</b> <b>$59.99 USD</b> (<i>~$199.584 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($59.99 USD)",
+              "url": "https://www.amazon.com/dp/B0GLDY9SXR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GLDY9SXR"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GLDY9SXR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GLDY9SXR",
+      "deal_snapshot": {
+        "asin": "B0GLDY9SXR",
+        "title": "Fanttik Plumero eléctrico B11 Pro Max, motor sin escobillas de 150000 RPM, plumero de aire comprimido, 100 engranajes ajustables, refuerzo de un solo toque, batería recargable de 28.08 Wh, plumero",
+        "price_usd": 59.99,
+        "reference_price_usd": 99.99,
+        "discount_pct": 40,
+        "price_cop": 199584,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B092TQG5ZD",
     "title": "Mochila de viaje para laptop de 17 pulgadas para hombres/mujeres, bolsa de computadora universitaria",
     "timestamp": "2026-11-19T01:25:28.103667+00:00",
