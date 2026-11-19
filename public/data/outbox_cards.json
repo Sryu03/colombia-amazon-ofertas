@@ -1,5 +1,1570 @@
 [
   {
+    "asin": "B0HD2TH6Q4",
+    "title": "Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta",
+    "timestamp": "2026-11-19T08:13:24.649086+00:00",
+    "timestamp_colombia": "2026-11-19T03:13:24.649086-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HD2TH6Q4",
+      "title": "Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 123.49,
+      "list_price_usd": 199.95,
+      "avg_90d_usd": 199.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71mEvYp14mL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 199.95,
+      "discount_pct": 38.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 38.2,
+      "price_vs_90d_badge": "📉 38.2% más barato que su promedio de 90 días ($199.95 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 123.49,
+      "price_cop": 410846,
+      "price_cop_formatted": "$410.846 COP",
+      "total_landed_cop": 410846,
+      "total_landed_cop_formatted": "$410.846 COP",
+      "savings_usd": 76.46,
+      "savings_cop": 254379,
+      "savings_cop_formatted": "$254.379 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HD2TH6Q4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD2TH6Q4",
+      "is_new_price_drop": true,
+      "previous_price_usd": 123.49,
+      "verified_at": "2026-11-19T08:10:19.588891+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta</b>\n\n💵 <b>Precio Hoy:</b> <b>$123.49 USD</b> (<i>~$410.846 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.95 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $76.46 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71mEvYp14mL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta</b>\n\n💵 <b>Precio Hoy:</b> <b>$123.49 USD</b> (<i>~$410.846 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.95 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $76.46 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($123.49 USD)",
+                "url": "https://www.amazon.com/dp/B0HD2TH6Q4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD2TH6Q4"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 190,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795076009,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvmr-r6lXOrzXiW1JHfx0W97fWYaMAALdDGsbBQX5R9N76TxE-d9hAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD3QxrGwUF-Ud4",
+              "file_size": 1936,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvmr-r6lXOrzXiW1JHfx0W97fWYaMAALdDGsbBQX5R9N76TxE-d9hAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD3QxrGwUF-Udy",
+              "file_size": 26925,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvmr-r6lXOrzXiW1JHfx0W97fWYaMAALdDGsbBQX5R9N76TxE-d9hAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD3QxrGwUF-Ud9",
+              "file_size": 110623,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvmr-r6lXOrzXiW1JHfx0W97fWYaMAALdDGsbBQX5R9N76TxE-d9hAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD3QxrGwUF-Ud-",
+              "file_size": 168521,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)\n📦 Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta\n\n💵 Precio Hoy: $123.49 USD (~$410.846 COP · TRM $3.327)\n📉 Más barato que antes: Antes $199.95 USD → Hoy -38% OFF · Ahorras $76.46 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 73,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 154,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 185,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 213,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 231,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 242,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 265,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 447,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 533,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 727,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 742,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 755,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($123.49 USD)",
+                  "url": "https://www.amazon.com/dp/B0HD2TH6Q4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD2TH6Q4"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HD2TH6Q4",
+        "title": "Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta",
+        "photo_url": "https://m.media-amazon.com/images/I/71mEvYp14mL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta</b>\n\n💵 <b>Precio Hoy:</b> <b>$123.49 USD</b> (<i>~$410.846 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.95 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $76.46 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($123.49 USD)",
+                "url": "https://www.amazon.com/dp/B0HD2TH6Q4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD2TH6Q4"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HD2TH6Q4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD2TH6Q4",
+        "deal_snapshot": {
+          "asin": "B0HD2TH6Q4",
+          "title": "Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta",
+          "price_usd": 123.49,
+          "reference_price_usd": 199.95,
+          "discount_pct": 38,
+          "price_cop": 410846,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HD2TH6Q4",
+      "title": "Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta",
+      "photo_url": "https://m.media-amazon.com/images/I/71mEvYp14mL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-38% OFF)</b>\n📦 <b>Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta</b>\n\n💵 <b>Precio Hoy:</b> <b>$123.49 USD</b> (<i>~$410.846 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$199.95 USD</s> → Hoy <b>-38% OFF</b> · <b>Ahorras $76.46 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($123.49 USD)",
+              "url": "https://www.amazon.com/dp/B0HD2TH6Q4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD2TH6Q4"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HD2TH6Q4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HD2TH6Q4",
+      "deal_snapshot": {
+        "asin": "B0HD2TH6Q4",
+        "title": "Cuisinart Horno tostador con freidora de aire, diseño artesanal de puerta",
+        "price_usd": 123.49,
+        "reference_price_usd": 199.95,
+        "discount_pct": 38,
+        "price_cop": 410846,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H4TKY7WG",
+    "title": "Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth",
+    "timestamp": "2026-11-19T08:13:19.987214+00:00",
+    "timestamp_colombia": "2026-11-19T03:13:19.987214-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H4TKY7WG",
+      "title": "Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 85.48,
+      "list_price_usd": 139.99,
+      "avg_90d_usd": 139.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71Yc0wkkV9L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 139.99,
+      "discount_pct": 38.9,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 38.9,
+      "price_vs_90d_badge": "📉 38.9% más barato que su promedio de 90 días ($139.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 85.48,
+      "price_cop": 284389,
+      "price_cop_formatted": "$284.389 COP",
+      "total_landed_cop": 284389,
+      "total_landed_cop_formatted": "$284.389 COP",
+      "savings_usd": 54.51,
+      "savings_cop": 181353,
+      "savings_cop_formatted": "$181.353 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H4TKY7WG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4TKY7WG",
+      "is_new_price_drop": true,
+      "previous_price_usd": 85.48,
+      "verified_at": "2026-11-19T08:10:19.588891+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.48 USD</b> (<i>~$284.389 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $54.51 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71Yc0wkkV9L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.48 USD</b> (<i>~$284.389 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $54.51 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($85.48 USD)",
+                "url": "https://www.amazon.com/dp/B0H4TKY7WG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4TKY7WG"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 189,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795076004,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvWr-r6SLqQJyt0Cm1YF4N7HPv5RPAALcDGsbBQX5R9Fsf9vHM2p7AQADAgADcwADPQQ",
+              "file_unique_id": "AQAD3AxrGwUF-Ud4",
+              "file_size": 1779,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvWr-r6SLqQJyt0Cm1YF4N7HPv5RPAALcDGsbBQX5R9Fsf9vHM2p7AQADAgADbQADPQQ",
+              "file_unique_id": "AQAD3AxrGwUF-Udy",
+              "file_size": 25421,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvWr-r6SLqQJyt0Cm1YF4N7HPv5RPAALcDGsbBQX5R9Fsf9vHM2p7AQADAgADeAADPQQ",
+              "file_unique_id": "AQAD3AxrGwUF-Ud9",
+              "file_size": 100837,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvWr-r6SLqQJyt0Cm1YF4N7HPv5RPAALcDGsbBQX5R9Fsf9vHM2p7AQADAgADeQADPQQ",
+              "file_unique_id": "AQAD3AxrGwUF-Ud-",
+              "file_size": 149494,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)\n📦 Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth\n\n💵 Precio Hoy: $85.48 USD (~$284.389 COP · TRM $3.327)\n📉 Más barato que antes: Antes $139.99 USD → Hoy -39% OFF · Ahorras $54.51 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 155,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 186,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 214,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 232,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 243,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 266,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 448,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 534,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 743,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 756,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($85.48 USD)",
+                  "url": "https://www.amazon.com/dp/B0H4TKY7WG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4TKY7WG"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H4TKY7WG",
+        "title": "Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth",
+        "photo_url": "https://m.media-amazon.com/images/I/71Yc0wkkV9L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.48 USD</b> (<i>~$284.389 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $54.51 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($85.48 USD)",
+                "url": "https://www.amazon.com/dp/B0H4TKY7WG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4TKY7WG"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H4TKY7WG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4TKY7WG",
+        "deal_snapshot": {
+          "asin": "B0H4TKY7WG",
+          "title": "Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth",
+          "price_usd": 85.48,
+          "reference_price_usd": 139.99,
+          "discount_pct": 39,
+          "price_cop": 284389,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H4TKY7WG",
+      "title": "Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth",
+      "photo_url": "https://m.media-amazon.com/images/I/71Yc0wkkV9L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-39% OFF)</b>\n📦 <b>Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.48 USD</b> (<i>~$284.389 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$139.99 USD</s> → Hoy <b>-39% OFF</b> · <b>Ahorras $54.51 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($85.48 USD)",
+              "url": "https://www.amazon.com/dp/B0H4TKY7WG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4TKY7WG"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H4TKY7WG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H4TKY7WG",
+      "deal_snapshot": {
+        "asin": "B0H4TKY7WG",
+        "title": "Aurzen Roku TV E1R Mini proyector portátil inteligente con WiFi y Bluetooth",
+        "price_usd": 85.48,
+        "reference_price_usd": 139.99,
+        "discount_pct": 39,
+        "price_cop": 284389,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H6ZSMYS7",
+    "title": "Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica",
+    "timestamp": "2026-11-19T08:13:15.433388+00:00",
+    "timestamp_colombia": "2026-11-19T03:13:15.433388-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H6ZSMYS7",
+      "title": "Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 28.48,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81mMwh2ijuL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 43.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 43.0,
+      "price_vs_90d_badge": "📉 43.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.43,
+      "price_cop": 94752,
+      "price_cop_formatted": "$94.752 COP",
+      "total_landed_cop": 134509,
+      "total_landed_cop_formatted": "$134.509 COP",
+      "savings_usd": 21.51,
+      "savings_cop": 71563,
+      "savings_cop_formatted": "$71.563 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H6ZSMYS7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6ZSMYS7",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T08:10:19.588891+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81mMwh2ijuL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0H6ZSMYS7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6ZSMYS7"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 188,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795075999,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvGr-r588R1fLpxjZjh-3gGi_uF_eAALbDGsbBQX5R9Fik6yJNTroAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD2wxrGwUF-Ud4",
+              "file_size": 1982,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvGr-r588R1fLpxjZjh-3gGi_uF_eAALbDGsbBQX5R9Fik6yJNTroAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD2wxrGwUF-Udy",
+              "file_size": 28553,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvGr-r588R1fLpxjZjh-3gGi_uF_eAALbDGsbBQX5R9Fik6yJNTroAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD2wxrGwUF-Ud9",
+              "file_size": 119230,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADvGr-r588R1fLpxjZjh-3gGi_uF_eAALbDGsbBQX5R9Fik6yJNTroAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD2wxrGwUF-Ud-",
+              "file_size": 183927,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)\n📦 Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica\n\n💵 Precio Hoy: $28.48 USD (~$94.752 COP · TRM $3.327)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -43% OFF · Ahorras $21.51 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 155,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 185,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 213,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 230,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 241,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 264,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 464,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 550,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 697,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 712,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 725,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                  "url": "https://www.amazon.com/dp/B0H6ZSMYS7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6ZSMYS7"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H6ZSMYS7",
+        "title": "Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica",
+        "photo_url": "https://m.media-amazon.com/images/I/81mMwh2ijuL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0H6ZSMYS7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6ZSMYS7"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H6ZSMYS7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6ZSMYS7",
+        "deal_snapshot": {
+          "asin": "B0H6ZSMYS7",
+          "title": "Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica",
+          "price_usd": 28.48,
+          "reference_price_usd": 49.99,
+          "discount_pct": 43,
+          "price_cop": 94752,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H6ZSMYS7",
+      "title": "Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica",
+      "photo_url": "https://m.media-amazon.com/images/I/81mMwh2ijuL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$94.752 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+              "url": "https://www.amazon.com/dp/B0H6ZSMYS7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6ZSMYS7"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H6ZSMYS7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H6ZSMYS7",
+      "deal_snapshot": {
+        "asin": "B0H6ZSMYS7",
+        "title": "Procesador de alimentos con 2 cuencos (8 tazas+8 tazas), picadora eléctrica",
+        "price_usd": 28.48,
+        "reference_price_usd": 49.99,
+        "discount_pct": 43,
+        "price_cop": 94752,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H8QND851",
+    "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+    "timestamp": "2026-11-19T08:13:10.807646+00:00",
+    "timestamp_colombia": "2026-11-19T03:13:10.807646-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H8QND851",
+      "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 29.99,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 57.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 57.2,
+      "price_vs_90d_badge": "📉 57.2% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 39757,
+      "shipping_cost_formatted": "+$11.95 USD (~$39.757 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 41.94,
+      "price_cop": 99776,
+      "price_cop_formatted": "$99.776 COP",
+      "total_landed_cop": 139533,
+      "total_landed_cop_formatted": "$139.533 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 133078,
+      "savings_cop_formatted": "$133.078 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
+      "is_new_price_drop": true,
+      "previous_price_usd": 34.97,
+      "verified_at": "2026-11-19T08:10:19.588891+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 187,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795075995,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADu2r-r5uJLeDdP_UIvd4pr_N5uhebAALaDGsbBQX5R--iU7V7HfldAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD2gxrGwUF-Ud4",
+              "file_size": 1929,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADu2r-r5uJLeDdP_UIvd4pr_N5uhebAALaDGsbBQX5R--iU7V7HfldAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD2gxrGwUF-Udy",
+              "file_size": 26734,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADu2r-r5uJLeDdP_UIvd4pr_N5uhebAALaDGsbBQX5R--iU7V7HfldAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD2gxrGwUF-Ud9",
+              "file_size": 104570,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADu2r-r5uJLeDdP_UIvd4pr_N5uhebAALaDGsbBQX5R--iU7V7HfldAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD2gxrGwUF-Ud-",
+              "file_size": 156887,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)\n📦 EA SPORTS NHL 27 - Physical Disc - PlayStation 5\n\n💵 Precio Hoy: $29.99 USD (~$99.776 COP · TRM $3.327)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -57% OFF · Ahorras $40.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 48,
+              "type": "bold"
+            },
+            {
+              "offset": 104,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 158,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 186,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 203,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 214,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 237,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 437,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 523,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 670,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 685,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 698,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H8QND851",
+        "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+        "photo_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
+        "deal_snapshot": {
+          "asin": "B0H8QND851",
+          "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+          "price_usd": 29.99,
+          "reference_price_usd": 69.99,
+          "discount_pct": 57,
+          "price_cop": 99776,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H8QND851",
+      "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+      "photo_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$99.776 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
+              "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
+      "deal_snapshot": {
+        "asin": "B0H8QND851",
+        "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
+        "price_usd": 29.99,
+        "reference_price_usd": 69.99,
+        "discount_pct": 57,
+        "price_cop": 99776,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HK7W3PV6",
+    "title": "Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes",
+    "timestamp": "2026-11-19T08:13:08.973218+00:00",
+    "timestamp_colombia": "2026-11-19T03:13:08.973218-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HK7W3PV6",
+      "title": "Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 35.14,
+      "list_price_usd": 99.99,
+      "avg_90d_usd": 99.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71oVkt76hDL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 99.99,
+      "discount_pct": 64.9,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 64.9,
+      "price_vs_90d_badge": "📉 64.9% más barato que su promedio de 90 días ($99.99 USD)",
+      "trm_cop": 3326.96,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 35.14,
+      "price_cop": 116909,
+      "price_cop_formatted": "$116.909 COP",
+      "total_landed_cop": 116909,
+      "total_landed_cop_formatted": "$116.909 COP",
+      "savings_usd": 64.85,
+      "savings_cop": 215753,
+      "savings_cop_formatted": "$215.753 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HK7W3PV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HK7W3PV6",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-19T08:10:19.588891+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-65% OFF)</b>\n📦 <b>Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.14 USD</b> (<i>~$116.909 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-65% OFF</b> · <b>Ahorras $64.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71oVkt76hDL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-65% OFF)</b>\n📦 <b>Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.14 USD</b> (<i>~$116.909 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-65% OFF</b> · <b>Ahorras $64.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.14 USD)",
+                "url": "https://www.amazon.com/dp/B0HK7W3PV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HK7W3PV6"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 186,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795075990,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADumr-r5ZP733tqXwLucceEEOX85_KAALZDGsbBQX5R0OzNL5ejSjEAQADAgADcwADPQQ",
+              "file_unique_id": "AQAD2QxrGwUF-Ud4",
+              "file_size": 1971,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADumr-r5ZP733tqXwLucceEEOX85_KAALZDGsbBQX5R0OzNL5ejSjEAQADAgADbQADPQQ",
+              "file_unique_id": "AQAD2QxrGwUF-Udy",
+              "file_size": 28429,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADumr-r5ZP733tqXwLucceEEOX85_KAALZDGsbBQX5R0OzNL5ejSjEAQADAgADeAADPQQ",
+              "file_unique_id": "AQAD2QxrGwUF-Ud9",
+              "file_size": 112416,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QADumr-r5ZP733tqXwLucceEEOX85_KAALZDGsbBQX5R0OzNL5ejSjEAQADAgADeQADPQQ",
+              "file_unique_id": "AQAD2QxrGwUF-Ud-",
+              "file_size": 169284,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-65% OFF)\n📦 Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes\n\n💵 Precio Hoy: $35.14 USD (~$116.909 COP · TRM $3.327)\n📉 Más barato que antes: Antes $99.99 USD → Hoy -65% OFF · Ahorras $64.85 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 115,
+              "type": "bold"
+            },
+            {
+              "offset": 171,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 183,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 195,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 226,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 254,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 271,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 282,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 305,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 487,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 573,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 767,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 782,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 795,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($35.14 USD)",
+                  "url": "https://www.amazon.com/dp/B0HK7W3PV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HK7W3PV6"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HK7W3PV6",
+        "title": "Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes",
+        "photo_url": "https://m.media-amazon.com/images/I/71oVkt76hDL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-65% OFF)</b>\n📦 <b>Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.14 USD</b> (<i>~$116.909 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-65% OFF</b> · <b>Ahorras $64.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.14 USD)",
+                "url": "https://www.amazon.com/dp/B0HK7W3PV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HK7W3PV6"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HK7W3PV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HK7W3PV6",
+        "deal_snapshot": {
+          "asin": "B0HK7W3PV6",
+          "title": "Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes",
+          "price_usd": 35.14,
+          "reference_price_usd": 99.99,
+          "discount_pct": 65,
+          "price_cop": 116909,
+          "trm_cop": 3326.96,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HK7W3PV6",
+      "title": "Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes",
+      "photo_url": "https://m.media-amazon.com/images/I/71oVkt76hDL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-65% OFF)</b>\n📦 <b>Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.14 USD</b> (<i>~$116.909 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-65% OFF</b> · <b>Ahorras $64.85 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($35.14 USD)",
+              "url": "https://www.amazon.com/dp/B0HK7W3PV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HK7W3PV6"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HK7W3PV6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HK7W3PV6",
+      "deal_snapshot": {
+        "asin": "B0HK7W3PV6",
+        "title": "Espumador eléctrico de la leche del batidor, fabricante eléctrico de la espuma del batidor para el café, los lattes",
+        "price_usd": 35.14,
+        "reference_price_usd": 99.99,
+        "discount_pct": 65,
+        "price_cop": 116909,
+        "trm_cop": 3326.96,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0GF74ZGDZ",
     "title": "WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5",
     "timestamp": "2026-11-19T08:03:55.743588+00:00",
@@ -7818,319 +9383,6 @@
         "trm_cop": 3309.55,
         "ships_to_colombia": true,
         "free_shipping_co": true,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B0H8QND851",
-    "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
-    "timestamp": "2026-11-17T22:43:17.571000+00:00",
-    "timestamp_colombia": "2026-11-17T17:43:17.571000-05:00",
-    "is_colombia_peak_hour": false,
-    "deal": {
-      "asin": "B0H8QND851",
-      "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
-      "category": "Gaming",
-      "brand": "",
-      "price_usd": 34.97,
-      "list_price_usd": 69.99,
-      "avg_90d_usd": 69.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": false,
-      "shipping_cost_usd": 11.95,
-      "requires_locker": false,
-      "rating": 4.44,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 69.99,
-      "discount_pct": 50.0,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 50.0,
-      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($69.99 USD)",
-      "trm_cop": 3309.55,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 39549,
-      "shipping_cost_formatted": "+$11.95 USD (~$39.549 COP)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 46.92,
-      "price_cop": 115735,
-      "price_cop_formatted": "$115.735 COP",
-      "total_landed_cop": 155284,
-      "total_landed_cop_formatted": "$155.284 COP",
-      "savings_usd": 35.02,
-      "savings_cop": 115900,
-      "savings_cop_formatted": "$115.900 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
-      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
-      "approved_for_colombia": true,
-      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
-      "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
-      "is_new_price_drop": true,
-      "previous_price_usd": null,
-      "verified_at": "2026-11-17T22:40:20.586537+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
-        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
-                "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 157,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1794955399,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADcwADPQQ",
-              "file_unique_id": "AQADvQ1rG5e_6Ud4",
-              "file_size": 1920,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADbQADPQQ",
-              "file_unique_id": "AQADvQ1rG5e_6Udy",
-              "file_size": 26786,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADeAADPQQ",
-              "file_unique_id": "AQADvQ1rG5e_6Ud9",
-              "file_size": 104685,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADnWr82IdcsJf36_Zay8yiEXvA_WBcAAK9DWsbl7_pR0PN-NE9Q2S6AQADAgADeQADPQQ",
-              "file_unique_id": "AQADvQ1rG5e_6Ud-",
-              "file_size": 156921,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 EA SPORTS NHL 27 - Physical Disc - PlayStation 5\n\n💵 Precio Hoy: $34.97 USD (~$115.735 COP · TRM $3.310)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -50% OFF · Ahorras $35.02 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 44,
-              "type": "bold"
-            },
-            {
-              "offset": 51,
-              "length": 48,
-              "type": "bold"
-            },
-            {
-              "offset": 104,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 116,
-              "length": 10,
-              "type": "bold"
-            },
-            {
-              "offset": 128,
-              "length": 13,
-              "type": "italic"
-            },
-            {
-              "offset": 159,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 187,
-              "length": 10,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 204,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 215,
-              "length": 18,
-              "type": "bold"
-            },
-            {
-              "offset": 238,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 438,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 524,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 671,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 686,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 699,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
-                  "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0H8QND851",
-        "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
-        "photo_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
-        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
-                "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
-        "deal_snapshot": {
-          "asin": "B0H8QND851",
-          "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
-          "price_usd": 34.97,
-          "reference_price_usd": 69.99,
-          "discount_pct": 50,
-          "price_cop": 115735,
-          "trm_cop": 3309.55,
-          "ships_to_colombia": true,
-          "free_shipping_co": false,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0H8QND851",
-      "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
-      "photo_url": "https://m.media-amazon.com/images/I/61EdXiKSHjL._AC_SL1200_.jpg",
-      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA SPORTS NHL 27 - Physical Disc - PlayStation 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.97 USD</b> (<i>~$115.735 COP</i> · TRM $3.310)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.02 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.03 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($34.97 USD)",
-              "url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0H8QND851?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H8QND851",
-      "deal_snapshot": {
-        "asin": "B0H8QND851",
-        "title": "EA SPORTS NHL 27 - Physical Disc - PlayStation 5",
-        "price_usd": 34.97,
-        "reference_price_usd": 69.99,
-        "discount_pct": 50,
-        "price_cop": 115735,
-        "trm_cop": 3309.55,
-        "ships_to_colombia": true,
-        "free_shipping_co": false,
         "requires_locker": false,
         "tax_free_colombia": true
       }
