@@ -836,7 +836,7 @@
     "avg_90d_usd": 79.99,
     "last_published_price_usd": 37.99,
     "first_seen_at": "2026-11-14T06:40:16.506295+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.250762+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.980866+00:00",
     "last_published_at": "2026-11-19T08:03:46.674672+00:00"
   },
   "B0GC529BMZ": {
@@ -1426,7 +1426,7 @@
     "avg_90d_usd": 83.99,
     "last_published_price_usd": 27.53,
     "first_seen_at": "2026-11-14T22:43:14.842977+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.235034+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.957975+00:00",
     "last_published_at": "2026-11-19T08:53:39.160594+00:00"
   },
   "B0GV58C3K3": {
@@ -1736,7 +1736,7 @@
     "avg_90d_usd": 69.99,
     "last_published_price_usd": 29.99,
     "first_seen_at": "2026-11-15T08:03:17.151506+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.249039+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.978455+00:00",
     "last_published_at": "2026-11-19T08:53:44.061551+00:00"
   },
   "B0H2JXTRBY": {
@@ -2156,7 +2156,7 @@
     "avg_90d_usd": 114.97,
     "last_published_price_usd": 84.97,
     "first_seen_at": "2026-11-15T19:23:59.482688+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.233252+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.955510+00:00",
     "last_published_at": "2026-11-19T08:33:24.711773+00:00"
   },
   "B092TQG5ZD": {
@@ -2506,7 +2506,7 @@
     "avg_90d_usd": 69.99,
     "last_published_price_usd": 29.99,
     "first_seen_at": "2026-11-16T20:03:24.702633+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.247281+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.976335+00:00",
     "last_published_at": "2026-11-16T20:03:27.118692+00:00"
   },
   "B0CX1FRR27": {
@@ -3176,7 +3176,7 @@
     "avg_90d_usd": 12.99,
     "last_published_price_usd": 9.48,
     "first_seen_at": "2026-11-19T08:03:38.551578+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.210104+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.932512+00:00",
     "last_published_at": "2026-11-19T08:23:49.990850+00:00"
   },
   "B0H5J2RW2W": {
@@ -3226,7 +3226,7 @@
     "avg_90d_usd": 139.99,
     "last_published_price_usd": 85.48,
     "first_seen_at": "2026-11-19T08:03:38.564008+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.217800+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.934901+00:00",
     "last_published_at": "2026-11-19T08:13:24.603152+00:00"
   },
   "B0HHXGQPML": {
@@ -3236,7 +3236,7 @@
     "avg_90d_usd": 49.99,
     "last_published_price_usd": 28.49,
     "first_seen_at": "2026-11-19T08:03:38.566401+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.219983+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.937154+00:00",
     "last_published_at": "2026-11-19T08:03:55.741428+00:00"
   },
   "B0H93N6JYM": {
@@ -3306,7 +3306,7 @@
     "avg_90d_usd": 49.99,
     "last_published_price_usd": 29.99,
     "first_seen_at": "2026-11-19T08:03:38.584930+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.221821+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.939399+00:00",
     "last_published_at": "2026-11-19T08:04:00.079428+00:00"
   },
   "B0G8L1RNPF": {
@@ -3316,7 +3316,7 @@
     "avg_90d_usd": 35.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T08:03:38.587430+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.225709+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.943055+00:00",
     "last_published_at": null
   },
   "B0FM43GXDJ": {
@@ -3326,7 +3326,7 @@
     "avg_90d_usd": 23.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T08:03:38.589964+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.229789+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.948693+00:00",
     "last_published_at": null
   },
   "B0FV8D5Y4D": {
@@ -3346,7 +3346,7 @@
     "avg_90d_usd": 21.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T08:03:38.596049+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.240427+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.964821+00:00",
     "last_published_at": null
   },
   "B0HCYC683V": {
@@ -3356,7 +3356,7 @@
     "avg_90d_usd": 7.89,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T08:03:38.598803+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.238712+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.962519+00:00",
     "last_published_at": null
   },
   "B0GWD6F3X3": {
@@ -3366,7 +3366,7 @@
     "avg_90d_usd": 69.99,
     "last_published_price_usd": 47.49,
     "first_seen_at": "2026-11-19T08:03:38.604014+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.243887+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.969212+00:00",
     "last_published_at": "2026-11-19T08:23:25.515283+00:00"
   },
   "B0GF2ZJWZL": {
@@ -3426,7 +3426,7 @@
     "avg_90d_usd": 49.99,
     "last_published_price_usd": 37.98,
     "first_seen_at": "2026-11-19T08:03:38.625672+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.242110+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.966937+00:00",
     "last_published_at": "2026-11-19T08:33:38.420089+00:00"
   },
   "B0H82GQWXG": {
@@ -3436,7 +3436,7 @@
     "avg_90d_usd": 26.99,
     "last_published_price_usd": 21.59,
     "first_seen_at": "2026-11-19T08:03:38.630784+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.254470+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.984974+00:00",
     "last_published_at": "2026-11-19T08:44:05.607218+00:00"
   },
   "B0H8QQYQXG": {
@@ -3456,7 +3456,7 @@
     "avg_90d_usd": 39.99,
     "last_published_price_usd": 29.99,
     "first_seen_at": "2026-11-19T08:03:38.636209+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.256197+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.986976+00:00",
     "last_published_at": "2026-11-19T08:33:29.476663+00:00"
   },
   "B0HF7XW5G8": {
@@ -3466,7 +3466,7 @@
     "avg_90d_usd": 99.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T08:03:38.638823+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.262901+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.995439+00:00",
     "last_published_at": null
   },
   "B0HDDDDSRG": {
@@ -3476,7 +3476,7 @@
     "avg_90d_usd": 59.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T08:03:38.641770+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.259575+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.991269+00:00",
     "last_published_at": null
   },
   "B0HGD5KN33": {
@@ -3496,7 +3496,7 @@
     "avg_90d_usd": 49.99,
     "last_published_price_usd": 39.99,
     "first_seen_at": "2026-11-19T08:03:38.646940+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.269646+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.997519+00:00",
     "last_published_at": "2026-11-19T08:44:01.343826+00:00"
   },
   "B0HBF7NS25": {
@@ -3526,7 +3526,7 @@
     "avg_90d_usd": 84.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T08:03:38.654903+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.275208+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.002543+00:00",
     "last_published_at": null
   },
   "B0H3MGRBWT": {
@@ -3546,7 +3546,7 @@
     "avg_90d_usd": 199.94,
     "last_published_price_usd": 123.49,
     "first_seen_at": "2026-11-19T08:03:38.660064+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.277008+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.004636+00:00",
     "last_published_at": "2026-11-19T08:13:29.320596+00:00"
   },
   "B0H68MTJV6": {
@@ -3556,7 +3556,7 @@
     "avg_90d_usd": 12.98,
     "last_published_price_usd": 9.48,
     "first_seen_at": "2026-11-19T08:13:08.955066+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.271496+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.000360+00:00",
     "last_published_at": "2026-11-19T08:43:52.215931+00:00"
   },
   "B0HK7W3PV6": {
@@ -3593,10 +3593,10 @@
     "asin": "B0H6ZSMYS7",
     "last_price_usd": 28.48,
     "min_price_seen_usd": 28.48,
-    "avg_90d_usd": 49.98,
+    "avg_90d_usd": 49.99,
     "last_published_price_usd": 28.48,
     "first_seen_at": "2026-11-19T08:13:08.970231+00:00",
-    "last_seen_at": "2026-11-20T03:53:27.274461+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.022595+00:00",
     "last_published_at": "2026-11-19T08:13:19.980072+00:00"
   },
   "B0HBF5RQ2Z": {
@@ -3606,7 +3606,7 @@
     "avg_90d_usd": 349.98,
     "last_published_price_usd": 279.99,
     "first_seen_at": "2026-11-19T08:13:08.972042+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.278847+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.007531+00:00",
     "last_published_at": "2026-11-19T18:23:26.630665+00:00"
   },
   "B0HCYXTJHR": {
@@ -3646,7 +3646,7 @@
     "avg_90d_usd": 79.99,
     "last_published_price_usd": 56.97,
     "first_seen_at": "2026-11-19T08:43:30.359575+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.281680+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.010024+00:00",
     "last_published_at": "2026-11-19T08:43:47.421479+00:00"
   },
   "B0H7VPCBGJ": {
@@ -3716,7 +3716,7 @@
     "avg_90d_usd": 12.99,
     "last_published_price_usd": 8.54,
     "first_seen_at": "2026-11-19T10:03:29.601316+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.228124+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.945322+00:00",
     "last_published_at": "2026-11-19T10:03:31.702406+00:00"
   },
   "B0GSQZH26T": {
@@ -3726,7 +3726,7 @@
     "avg_90d_usd": 9.99,
     "last_published_price_usd": 7.99,
     "first_seen_at": "2026-11-19T10:03:29.608019+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.237009+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.960305+00:00",
     "last_published_at": "2026-11-19T10:03:41.500170+00:00"
   },
   "B0H6P8B8SC": {
@@ -3746,7 +3746,7 @@
     "avg_90d_usd": 11.99,
     "last_published_price_usd": 8.54,
     "first_seen_at": "2026-11-19T10:43:15.312116+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.231485+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.950921+00:00",
     "last_published_at": "2026-11-19T10:43:17.407128+00:00"
   },
   "B0HMQLM3H2": {
@@ -3776,7 +3776,7 @@
     "avg_90d_usd": 79.99,
     "last_published_price_usd": 63.99,
     "first_seen_at": "2026-11-19T11:13:07.123617+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.252730+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.982899+00:00",
     "last_published_at": "2026-11-19T11:13:14.043692+00:00"
   },
   "B0H7VTHR4V": {
@@ -3786,7 +3786,7 @@
     "avg_90d_usd": 139.99,
     "last_published_price_usd": 94.98,
     "first_seen_at": "2026-11-19T11:13:07.157465+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.283518+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.015646+00:00",
     "last_published_at": "2026-11-19T11:13:09.172881+00:00"
   },
   "B0FJM537XW": {
@@ -3836,7 +3836,7 @@
     "avg_90d_usd": 29.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T15:13:41.007945+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.257926+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.989081+00:00",
     "last_published_at": null
   },
   "B0D3HNTF9F": {
@@ -3966,7 +3966,7 @@
     "avg_90d_usd": 119.97,
     "last_published_price_usd": 87.97,
     "first_seen_at": "2026-11-19T22:43:26.214923+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.245591+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.971344+00:00",
     "last_published_at": "2026-11-19T22:43:32.908301+00:00"
   },
   "B0HDYN54X8": {
@@ -3976,7 +3976,7 @@
     "avg_90d_usd": 89.99,
     "last_published_price_usd": 71.99,
     "first_seen_at": "2026-11-19T22:43:26.237421+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.261248+00:00",
+    "last_seen_at": "2026-11-20T04:13:13.993348+00:00",
     "last_published_at": "2026-11-19T22:43:37.378151+00:00"
   },
   "B0HQSSTW3S": {
@@ -3986,7 +3986,7 @@
     "avg_90d_usd": 79.99,
     "last_published_price_usd": 37.99,
     "first_seen_at": "2026-11-19T22:43:26.251371+00:00",
-    "last_seen_at": "2026-11-20T04:03:06.285241+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.018013+00:00",
     "last_published_at": "2026-11-19T22:43:28.129052+00:00"
   },
   "B0HKH8JKD9": {
@@ -3996,7 +3996,7 @@
     "avg_90d_usd": 56.99,
     "last_published_price_usd": null,
     "first_seen_at": "2026-11-19T22:43:26.253135+00:00",
-    "last_seen_at": "2026-11-20T03:53:27.273462+00:00",
+    "last_seen_at": "2026-11-20T04:13:14.020228+00:00",
     "last_published_at": null
   },
   "B0GWLKRWH7": {
