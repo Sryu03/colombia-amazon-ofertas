@@ -1,5 +1,1600 @@
 [
   {
+    "asin": "B0FGYCJ7NJ",
+    "title": "Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 GB Memoria - 128 GB de almacenamiento - Brazo integrado Mali-G57 MC2 - Tab Pen y funda",
+    "timestamp": "2026-11-20T22:44:20.662272+00:00",
+    "timestamp_colombia": "2026-11-20T17:44:20.662272-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FGYCJ7NJ",
+      "title": "Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 GB Memoria - 128 GB de almacenamiento - Brazo integrado Mali-G57 MC2 - Tab Pen y funda",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 159.99,
+      "list_price_usd": 199.99,
+      "avg_90d_usd": 199.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61-7FkUAw-L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 199.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($199.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 159.99,
+      "price_cop": 553873,
+      "price_cop_formatted": "$553.873 COP",
+      "total_landed_cop": 553873,
+      "total_landed_cop_formatted": "$553.873 COP",
+      "savings_usd": 40.0,
+      "savings_cop": 138477,
+      "savings_cop_formatted": "$138.477 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FGYCJ7NJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FGYCJ7NJ",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T22:40:21.482405+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$553.873 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61-7FkUAw-L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$553.873 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FGYCJ7NJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FGYCJ7NJ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 266,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795214679,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQprAAHNV_Wm5hchRQoeysKvTaQokGcAAtYNaxt1ftxRNMqWBOnUxjMBAAMCAANzAAM9BA",
+              "file_unique_id": "AQAD1g1rG3V-3FF4",
+              "file_size": 1580,
+              "width": 90,
+              "height": 68
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQprAAHNV_Wm5hchRQoeysKvTaQokGcAAtYNaxt1ftxRNMqWBOnUxjMBAAMCAANtAAM9BA",
+              "file_unique_id": "AQAD1g1rG3V-3FFy",
+              "file_size": 15013,
+              "width": 320,
+              "height": 242
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQprAAHNV_Wm5hchRQoeysKvTaQokGcAAtYNaxt1ftxRNMqWBOnUxjMBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQAD1g1rG3V-3FF9",
+              "file_size": 52521,
+              "width": 800,
+              "height": 605
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQprAAHNV_Wm5hchRQoeysKvTaQokGcAAtYNaxt1ftxRNMqWBOnUxjMBAAMCAAN3AAM9BA",
+              "file_unique_id": "AQAD1g1rG3V-3FF8",
+              "file_size": 82110,
+              "width": 1500,
+              "height": 1134
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQprAAHNV_Wm5hchRQoeysKvTaQokGcAAtYNaxt1ftxRNMqWBOnUxjMBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQAD1g1rG3V-3FF-",
+              "file_size": 102529,
+              "width": 1280,
+              "height": 968
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 ...\n\n💵 Precio Hoy: $159.99 USD (~$553.873 COP · TRM $3.462)\n📉 Más barato que antes: Antes $199.99 USD → Hoy -20% OFF · Ahorras $40.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 188,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 219,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 265,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 276,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 299,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 481,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 503,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 697,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 712,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 725,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FGYCJ7NJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FGYCJ7NJ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FGYCJ7NJ",
+        "title": "Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 GB Memoria - 128 GB de almacenamiento - Brazo integrado Mali-G57 MC2 - Tab Pen y funda",
+        "photo_url": "https://m.media-amazon.com/images/I/61-7FkUAw-L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$553.873 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FGYCJ7NJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FGYCJ7NJ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FGYCJ7NJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FGYCJ7NJ",
+        "deal_snapshot": {
+          "asin": "B0FGYCJ7NJ",
+          "title": "Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 GB Memoria - 128 GB de almacenamiento - Brazo integrado Mali-G57 MC2 - Tab Pen y funda",
+          "price_usd": 159.99,
+          "reference_price_usd": 199.99,
+          "discount_pct": 20,
+          "price_cop": 553873,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FGYCJ7NJ",
+      "title": "Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 GB Memoria - 128 GB de almacenamiento - Brazo integrado Mali-G57 MC2 - Tab Pen y funda",
+      "photo_url": "https://m.media-amazon.com/images/I/61-7FkUAw-L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 ...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$553.873 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$199.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $40.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FGYCJ7NJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FGYCJ7NJ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FGYCJ7NJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FGYCJ7NJ",
+      "deal_snapshot": {
+        "asin": "B0FGYCJ7NJ",
+        "title": "Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 GB Memoria - 128 GB de almacenamiento - Brazo integrado Mali-G57 MC2 - Tab Pen y funda",
+        "price_usd": 159.99,
+        "reference_price_usd": 199.99,
+        "discount_pct": 20,
+        "price_cop": 553873,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0GTFH1DNL",
+    "title": "acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N355, gráficos Intel, DDR5 de 8 GB, UFS de 128 GB, Wi-Fi 6, Windows 11 Home en modo S, AG15",
+    "timestamp": "2026-11-20T22:44:01.248467+00:00",
+    "timestamp_colombia": "2026-11-20T17:44:01.248467-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GTFH1DNL",
+      "title": "acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N355, gráficos Intel, DDR5 de 8 GB, UFS de 128 GB, Wi-Fi 6, Windows 11 Home en modo S, AG15",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 299.99,
+      "list_price_usd": 390.7,
+      "avg_90d_usd": 390.7,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.24,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71H8XhwlwpL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 390.7,
+      "discount_pct": 23.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 23.2,
+      "price_vs_90d_badge": "📉 23.2% más barato que su promedio de 90 días ($390.70 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 57.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 356.99,
+      "price_cop": 1038541,
+      "price_cop_formatted": "$1.038.541 COP",
+      "total_landed_cop": 1235871,
+      "total_landed_cop_formatted": "$1.235.871 COP",
+      "savings_usd": 90.71,
+      "savings_cop": 314031,
+      "savings_cop_formatted": "$314.031 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B0GTFH1DNL?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTFH1DNL",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T22:40:21.482405+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N...</b>\n\n💵 <b>Precio Hoy:</b> <b>$299.99 USD</b> (<i>~$1.038.541 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$390.70 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $90.71 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71H8XhwlwpL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N...</b>\n\n💵 <b>Precio Hoy:</b> <b>$299.99 USD</b> (<i>~$1.038.541 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$390.70 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $90.71 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($299.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GTFH1DNL?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTFH1DNL"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 265,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795214660,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQlrAAHNRK7r20d7Gdv_sYX9kG13n4cAAlINaxsz61VRG1TFmwVjm_gBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADUg1rGzPrVVF4",
+              "file_size": 1627,
+              "width": 90,
+              "height": 65
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQlrAAHNRK7r20d7Gdv_sYX9kG13n4cAAlINaxsz61VRG1TFmwVjm_gBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADUg1rGzPrVVFy",
+              "file_size": 18438,
+              "width": 320,
+              "height": 231
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQlrAAHNRK7r20d7Gdv_sYX9kG13n4cAAlINaxsz61VRG1TFmwVjm_gBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADUg1rGzPrVVF9",
+              "file_size": 75002,
+              "width": 800,
+              "height": 577
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQlrAAHNRK7r20d7Gdv_sYX9kG13n4cAAlINaxsz61VRG1TFmwVjm_gBAAMCAAN3AAM9BA",
+              "file_unique_id": "AQADUg1rGzPrVVF8",
+              "file_size": 123654,
+              "width": 1500,
+              "height": 1083
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQlrAAHNRK7r20d7Gdv_sYX9kG13n4cAAlINaxsz61VRG1TFmwVjm_gBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADUg1rGzPrVVF-",
+              "file_size": 150618,
+              "width": 1280,
+              "height": 924
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-23% OFF)\n📦 acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N...\n\n💵 Precio Hoy: $299.99 USD (~$1.038.541 COP · TRM $3.462)\n📉 Más barato que antes: Antes $390.70 USD → Hoy -23% OFF · Ahorras $90.71 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 188,
+              "length": 15,
+              "type": "italic"
+            },
+            {
+              "offset": 221,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 249,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 267,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 278,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 301,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 485,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 507,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 672,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 687,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 700,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($299.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0GTFH1DNL?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTFH1DNL"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GTFH1DNL",
+        "title": "acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N355, gráficos Intel, DDR5 de 8 GB, UFS de 128 GB, Wi-Fi 6, Windows 11 Home en modo S, AG15",
+        "photo_url": "https://m.media-amazon.com/images/I/71H8XhwlwpL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N...</b>\n\n💵 <b>Precio Hoy:</b> <b>$299.99 USD</b> (<i>~$1.038.541 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$390.70 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $90.71 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($299.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GTFH1DNL?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTFH1DNL"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GTFH1DNL?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTFH1DNL",
+        "deal_snapshot": {
+          "asin": "B0GTFH1DNL",
+          "title": "acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N355, gráficos Intel, DDR5 de 8 GB, UFS de 128 GB, Wi-Fi 6, Windows 11 Home en modo S, AG15",
+          "price_usd": 299.99,
+          "reference_price_usd": 390.7,
+          "discount_pct": 23,
+          "price_cop": 1038541,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GTFH1DNL",
+      "title": "acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N355, gráficos Intel, DDR5 de 8 GB, UFS de 128 GB, Wi-Fi 6, Windows 11 Home en modo S, AG15",
+      "photo_url": "https://m.media-amazon.com/images/I/71H8XhwlwpL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N...</b>\n\n💵 <b>Precio Hoy:</b> <b>$299.99 USD</b> (<i>~$1.038.541 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$390.70 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $90.71 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($299.99 USD)",
+              "url": "https://www.amazon.com/dp/B0GTFH1DNL?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTFH1DNL"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GTFH1DNL?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GTFH1DNL",
+      "deal_snapshot": {
+        "asin": "B0GTFH1DNL",
+        "title": "acer Aspire Go 15 AI Ready Laptop | Pantalla IPS FHD de 15.6 pulgadas (1920 x 1080), procesador Intel Core 3 N355, gráficos Intel, DDR5 de 8 GB, UFS de 128 GB, Wi-Fi 6, Windows 11 Home en modo S, AG15",
+        "price_usd": 299.99,
+        "reference_price_usd": 390.7,
+        "discount_pct": 23,
+        "price_cop": 1038541,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
+    "asin": "B0HB6W86LR",
+    "title": "FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026",
+    "timestamp": "2026-11-20T22:43:41.756638+00:00",
+    "timestamp_colombia": "2026-11-20T17:43:41.756638-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HB6W86LR",
+      "title": "FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 79.0,
+      "list_price_usd": 105.95,
+      "avg_90d_usd": 105.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.24,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81jVIWXuVgL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 105.95,
+      "discount_pct": 25.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 25.4,
+      "price_vs_90d_badge": "📉 25.4% más barato que su promedio de 90 días ($105.95 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 79.0,
+      "price_cop": 273492,
+      "price_cop_formatted": "$273.492 COP",
+      "total_landed_cop": 273492,
+      "total_landed_cop_formatted": "$273.492 COP",
+      "savings_usd": 26.95,
+      "savings_cop": 93299,
+      "savings_cop_formatted": "$93.299 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HB6W86LR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HB6W86LR",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T22:40:21.482405+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.00 USD</b> (<i>~$273.492 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$105.95 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $26.95 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81jVIWXuVgL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.00 USD</b> (<i>~$273.492 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$105.95 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $26.95 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.00 USD)",
+                "url": "https://www.amazon.com/dp/B0HB6W86LR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HB6W86LR"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 264,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795214641,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQhrAAHNMdMDEwFD43Ikp-w4xELDnrkAArAPaxu_M11TMgStPHUOm5cBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADsA9rG78zXVN4",
+              "file_size": 1734,
+              "width": 90,
+              "height": 57
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQhrAAHNMdMDEwFD43Ikp-w4xELDnrkAArAPaxu_M11TMgStPHUOm5cBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADsA9rG78zXVNy",
+              "file_size": 22813,
+              "width": 320,
+              "height": 202
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQhrAAHNMdMDEwFD43Ikp-w4xELDnrkAArAPaxu_M11TMgStPHUOm5cBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADsA9rG78zXVN9",
+              "file_size": 100881,
+              "width": 800,
+              "height": 506
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQhrAAHNMdMDEwFD43Ikp-w4xELDnrkAArAPaxu_M11TMgStPHUOm5cBAAMCAAN3AAM9BA",
+              "file_unique_id": "AQADsA9rG78zXVN8",
+              "file_size": 191798,
+              "width": 1500,
+              "height": 949
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQhrAAHNMdMDEwFD43Ikp-w4xELDnrkAArAPaxu_M11TMgStPHUOm5cBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADsA9rG78zXVN-",
+              "file_size": 217505,
+              "width": 1280,
+              "height": 810
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-25% OFF)\n📦 FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026\n\n💵 Precio Hoy: $79.00 USD (~$273.492 COP · TRM $3.462)\n📉 Más barato que antes: Antes $105.95 USD → Hoy -25% OFF · Ahorras $26.95 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 134,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 146,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 177,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 223,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 234,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 257,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 439,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 525,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 719,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 734,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 747,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($79.00 USD)",
+                  "url": "https://www.amazon.com/dp/B0HB6W86LR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HB6W86LR"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HB6W86LR",
+        "title": "FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026",
+        "photo_url": "https://m.media-amazon.com/images/I/81jVIWXuVgL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.00 USD</b> (<i>~$273.492 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$105.95 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $26.95 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($79.00 USD)",
+                "url": "https://www.amazon.com/dp/B0HB6W86LR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HB6W86LR"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HB6W86LR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HB6W86LR",
+        "deal_snapshot": {
+          "asin": "B0HB6W86LR",
+          "title": "FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026",
+          "price_usd": 79.0,
+          "reference_price_usd": 105.95,
+          "discount_pct": 25,
+          "price_cop": 273492,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HB6W86LR",
+      "title": "FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026",
+      "photo_url": "https://m.media-amazon.com/images/I/81jVIWXuVgL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-25% OFF)</b>\n📦 <b>FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026</b>\n\n💵 <b>Precio Hoy:</b> <b>$79.00 USD</b> (<i>~$273.492 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$105.95 USD</s> → Hoy <b>-25% OFF</b> · <b>Ahorras $26.95 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($79.00 USD)",
+              "url": "https://www.amazon.com/dp/B0HB6W86LR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HB6W86LR"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HB6W86LR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HB6W86LR",
+      "deal_snapshot": {
+        "asin": "B0HB6W86LR",
+        "title": "FUJIFILM Instax Mini 12 Paquete de vacaciones de cámara instantánea 2026",
+        "price_usd": 79.0,
+        "reference_price_usd": 105.95,
+        "discount_pct": 25,
+        "price_cop": 273492,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H3CRP1SR",
+    "title": "YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider",
+    "timestamp": "2026-11-20T22:43:22.141741+00:00",
+    "timestamp_colombia": "2026-11-20T17:43:22.141741-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H3CRP1SR",
+      "title": "YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 24.5,
+      "list_price_usd": 35.0,
+      "avg_90d_usd": 35.0,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61qNuk6EmyL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 35.0,
+      "discount_pct": 30.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.0,
+      "price_vs_90d_badge": "📉 30.0% más barato que su promedio de 90 días ($35.00 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 36.45,
+      "price_cop": 84817,
+      "price_cop_formatted": "$84.817 COP",
+      "total_landed_cop": 126187,
+      "total_landed_cop_formatted": "$126.187 COP",
+      "savings_usd": 10.5,
+      "savings_cop": 36350,
+      "savings_cop_formatted": "$36.350 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $10.50 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H3CRP1SR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3CRP1SR",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T22:40:21.482405+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.50 USD</b> (<i>~$84.817 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$35.00 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.50 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61qNuk6EmyL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.50 USD</b> (<i>~$84.817 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$35.00 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.50 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.50 USD)",
+                "url": "https://www.amazon.com/dp/B0H3CRP1SR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3CRP1SR"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 263,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795214621,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQdrAAHNHUAo2FLS-2jWN_weOEdwmxkAAqkQaxv1IQ1Q5-3tZUJF5a8BAAMCAANzAAM9BA",
+              "file_unique_id": "AQADqRBrG_UhDVB4",
+              "file_size": 1023,
+              "width": 54,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQdrAAHNHUAo2FLS-2jWN_weOEdwmxkAAqkQaxv1IQ1Q5-3tZUJF5a8BAAMCAANtAAM9BA",
+              "file_unique_id": "AQADqRBrG_UhDVBy",
+              "file_size": 7814,
+              "width": 191,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQdrAAHNHUAo2FLS-2jWN_weOEdwmxkAAqkQaxv1IQ1Q5-3tZUJF5a8BAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADqRBrG_UhDVB9",
+              "file_size": 37839,
+              "width": 477,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQdrAAHNHUAo2FLS-2jWN_weOEdwmxkAAqkQaxv1IQ1Q5-3tZUJF5a8BAAMCAAN3AAM9BA",
+              "file_unique_id": "AQADqRBrG_UhDVB8",
+              "file_size": 70302,
+              "width": 895,
+              "height": 1500
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQdrAAHNHUAo2FLS-2jWN_weOEdwmxkAAqkQaxv1IQ1Q5-3tZUJF5a8BAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADqRBrG_UhDVB-",
+              "file_size": 90180,
+              "width": 764,
+              "height": 1280
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider\n\n💵 Precio Hoy: $24.50 USD (~$84.817 COP · TRM $3.462)\n📉 Más barato que antes: Antes $35.00 USD → Hoy -30% OFF · Ahorras $10.50 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $10.50 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 95,
+              "type": "bold"
+            },
+            {
+              "offset": 145,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 157,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 199,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 227,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 244,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 255,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 278,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 478,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 564,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 712,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 727,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 740,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($24.50 USD)",
+                  "url": "https://www.amazon.com/dp/B0H3CRP1SR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3CRP1SR"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H3CRP1SR",
+        "title": "YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider",
+        "photo_url": "https://m.media-amazon.com/images/I/61qNuk6EmyL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.50 USD</b> (<i>~$84.817 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$35.00 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.50 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.50 USD)",
+                "url": "https://www.amazon.com/dp/B0H3CRP1SR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3CRP1SR"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H3CRP1SR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3CRP1SR",
+        "deal_snapshot": {
+          "asin": "B0H3CRP1SR",
+          "title": "YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider",
+          "price_usd": 24.5,
+          "reference_price_usd": 35.0,
+          "discount_pct": 30,
+          "price_cop": 84817,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H3CRP1SR",
+      "title": "YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider",
+      "photo_url": "https://m.media-amazon.com/images/I/61qNuk6EmyL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.50 USD</b> (<i>~$84.817 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$35.00 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $10.50 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.50 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($24.50 USD)",
+              "url": "https://www.amazon.com/dp/B0H3CRP1SR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3CRP1SR"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H3CRP1SR?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H3CRP1SR",
+      "deal_snapshot": {
+        "asin": "B0H3CRP1SR",
+        "title": "YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider",
+        "price_usd": 24.5,
+        "reference_price_usd": 35.0,
+        "discount_pct": 30,
+        "price_cop": 84817,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HGPNSC3G",
+    "title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe",
+    "timestamp": "2026-11-20T22:43:05.736326+00:00",
+    "timestamp_colombia": "2026-11-20T17:43:05.736326-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HGPNSC3G",
+      "title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 37.99,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61SR1ld5WGL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 45.7,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 45.7,
+      "price_vs_90d_badge": "📉 45.7% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 37.99,
+      "price_cop": 131518,
+      "price_cop_formatted": "$131.518 COP",
+      "total_landed_cop": 131518,
+      "total_landed_cop_formatted": "$131.518 COP",
+      "savings_usd": 32.0,
+      "savings_cop": 110781,
+      "savings_cop_formatted": "$110.781 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HGPNSC3G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGPNSC3G",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T22:40:21.482405+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.99 USD</b> (<i>~$131.518 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61SR1ld5WGL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.99 USD</b> (<i>~$131.518 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($37.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HGPNSC3G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGPNSC3G"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 262,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795214601,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQZrAAHNCU3C-CqLtCzHIFeSZ7iDpPEAAqUPaxuq8ZxSRZgEhYL4PhcBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADpQ9rG6rxnFJ4",
+              "file_size": 1158,
+              "width": 59,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQZrAAHNCU3C-CqLtCzHIFeSZ7iDpPEAAqUPaxuq8ZxSRZgEhYL4PhcBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADpQ9rG6rxnFJy",
+              "file_size": 10746,
+              "width": 209,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQZrAAHNCU3C-CqLtCzHIFeSZ7iDpPEAAqUPaxuq8ZxSRZgEhYL4PhcBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADpQ9rG6rxnFJ9",
+              "file_size": 38772,
+              "width": 522,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQZrAAHNCU3C-CqLtCzHIFeSZ7iDpPEAAqUPaxuq8ZxSRZgEhYL4PhcBAAMCAAN3AAM9BA",
+              "file_unique_id": "AQADpQ9rG6rxnFJ8",
+              "file_size": 61476,
+              "width": 979,
+              "height": 1500
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QACAQZrAAHNCU3C-CqLtCzHIFeSZ7iDpPEAAqUPaxuq8ZxSRZgEhYL4PhcBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADpQ9rG6rxnFJ-",
+              "file_size": 77619,
+              "width": 835,
+              "height": 1280
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)\n📦 Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe\n\n💵 Precio Hoy: $37.99 USD (~$131.518 COP · TRM $3.462)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -46% OFF · Ahorras $32.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 152,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 183,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 211,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 228,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 239,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 262,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 444,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 530,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 724,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 739,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 752,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($37.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HGPNSC3G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGPNSC3G"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HGPNSC3G",
+        "title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe",
+        "photo_url": "https://m.media-amazon.com/images/I/61SR1ld5WGL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.99 USD</b> (<i>~$131.518 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($37.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HGPNSC3G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGPNSC3G"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HGPNSC3G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGPNSC3G",
+        "deal_snapshot": {
+          "asin": "B0HGPNSC3G",
+          "title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe",
+          "price_usd": 37.99,
+          "reference_price_usd": 69.99,
+          "discount_pct": 46,
+          "price_cop": 131518,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HGPNSC3G",
+      "title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe",
+      "photo_url": "https://m.media-amazon.com/images/I/61SR1ld5WGL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-46% OFF)</b>\n📦 <b>Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe</b>\n\n💵 <b>Precio Hoy:</b> <b>$37.99 USD</b> (<i>~$131.518 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-46% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($37.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HGPNSC3G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGPNSC3G"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HGPNSC3G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGPNSC3G",
+      "deal_snapshot": {
+        "asin": "B0HGPNSC3G",
+        "title": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Taupe",
+        "price_usd": 37.99,
+        "reference_price_usd": 69.99,
+        "discount_pct": 46,
+        "price_cop": 131518,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0G64G4M2G",
     "title": "Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro",
     "timestamp": "2026-11-20T22:03:07.329313+00:00",
