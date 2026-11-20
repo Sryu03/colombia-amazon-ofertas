@@ -1,5 +1,324 @@
 [
   {
+    "asin": "B0H31SYSWZ",
+    "title": "De'Longhi Magnifica Duo - Máquina automática de café expreso",
+    "timestamp": "2026-11-20T05:02:57.056577+00:00",
+    "timestamp_colombia": "2026-11-20T00:02:57.056577-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H31SYSWZ",
+      "title": "De'Longhi Magnifica Duo - Máquina automática de café expreso",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 699.95,
+      "list_price_usd": 999.95,
+      "avg_90d_usd": 999.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71EFokHjOnL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 999.95,
+      "discount_pct": 30.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.0,
+      "price_vs_90d_badge": "📉 30.0% más barato que su promedio de 90 días ($999.95 USD)",
+      "trm_cop": 3415.1,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 132.99,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 832.94,
+      "price_cop": 2390399,
+      "price_cop_formatted": "$2.390.399 COP",
+      "total_landed_cop": 2844573,
+      "total_landed_cop_formatted": "$2.844.573 COP",
+      "savings_usd": 300.0,
+      "savings_cop": 1024530,
+      "savings_cop_formatted": "$1.024.530 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H31SYSWZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H31SYSWZ",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T05:00:23.051105+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>De&#x27;Longhi Magnifica Duo - Máquina automática de café expreso</b>\n\n💵 <b>Precio Hoy:</b> <b>$699.95 USD</b> (<i>~$2.390.399 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$999.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $300.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71EFokHjOnL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>De&#x27;Longhi Magnifica Duo - Máquina automática de café expreso</b>\n\n💵 <b>Precio Hoy:</b> <b>$699.95 USD</b> (<i>~$2.390.399 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$999.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $300.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($699.95 USD)",
+                "url": "https://www.amazon.com/dp/B0H31SYSWZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H31SYSWZ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 249,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795150993,
+          "photo": [
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD-Wr_1JHhX9WEkPVfoRFndQi6flXAAAJKD2sbP_olUk6D5zA7scVMAQADAgADcwADPQQ",
+              "file_unique_id": "AQADSg9rGz_6JVJ4",
+              "file_size": 1432,
+              "width": 90,
+              "height": 74
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD-Wr_1JHhX9WEkPVfoRFndQi6flXAAAJKD2sbP_olUk6D5zA7scVMAQADAgADbQADPQQ",
+              "file_unique_id": "AQADSg9rGz_6JVJy",
+              "file_size": 15346,
+              "width": 320,
+              "height": 264
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD-Wr_1JHhX9WEkPVfoRFndQi6flXAAAJKD2sbP_olUk6D5zA7scVMAQADAgADeAADPQQ",
+              "file_unique_id": "AQADSg9rGz_6JVJ9",
+              "file_size": 65292,
+              "width": 800,
+              "height": 660
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD-Wr_1JHhX9WEkPVfoRFndQi6flXAAAJKD2sbP_olUk6D5zA7scVMAQADAgADdwADPQQ",
+              "file_unique_id": "AQADSg9rGz_6JVJ8",
+              "file_size": 116903,
+              "width": 1500,
+              "height": 1237
+            },
+            {
+              "file_id": "AgACAgQAAyEGAAMBC9xI_QAD-Wr_1JHhX9WEkPVfoRFndQi6flXAAAJKD2sbP_olUk6D5zA7scVMAQADAgADeQADPQQ",
+              "file_unique_id": "AQADSg9rGz_6JVJ-",
+              "file_size": 139615,
+              "width": 1280,
+              "height": 1056
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 De'Longhi Magnifica Duo - Máquina automática de café expreso\n\n💵 Precio Hoy: $699.95 USD (~$2.390.399 COP · TRM $3.415)\n📉 Más barato que antes: Antes $999.95 USD → Hoy -30% OFF · Ahorras $300.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 60,
+              "type": "bold"
+            },
+            {
+              "offset": 110,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 135,
+              "length": 15,
+              "type": "italic"
+            },
+            {
+              "offset": 168,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 196,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 214,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 225,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 249,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 433,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 684,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 699,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 712,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($699.95 USD)",
+                  "url": "https://www.amazon.com/dp/B0H31SYSWZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H31SYSWZ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H31SYSWZ",
+        "title": "De'Longhi Magnifica Duo - Máquina automática de café expreso",
+        "photo_url": "https://m.media-amazon.com/images/I/71EFokHjOnL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>De&#x27;Longhi Magnifica Duo - Máquina automática de café expreso</b>\n\n💵 <b>Precio Hoy:</b> <b>$699.95 USD</b> (<i>~$2.390.399 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$999.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $300.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($699.95 USD)",
+                "url": "https://www.amazon.com/dp/B0H31SYSWZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H31SYSWZ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H31SYSWZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H31SYSWZ",
+        "deal_snapshot": {
+          "asin": "B0H31SYSWZ",
+          "title": "De'Longhi Magnifica Duo - Máquina automática de café expreso",
+          "price_usd": 699.95,
+          "reference_price_usd": 999.95,
+          "discount_pct": 30,
+          "price_cop": 2390399,
+          "trm_cop": 3415.1,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H31SYSWZ",
+      "title": "De'Longhi Magnifica Duo - Máquina automática de café expreso",
+      "photo_url": "https://m.media-amazon.com/images/I/71EFokHjOnL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>De&#x27;Longhi Magnifica Duo - Máquina automática de café expreso</b>\n\n💵 <b>Precio Hoy:</b> <b>$699.95 USD</b> (<i>~$2.390.399 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$999.95 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $300.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($699.95 USD)",
+              "url": "https://www.amazon.com/dp/B0H31SYSWZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H31SYSWZ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H31SYSWZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H31SYSWZ",
+      "deal_snapshot": {
+        "asin": "B0H31SYSWZ",
+        "title": "De'Longhi Magnifica Duo - Máquina automática de café expreso",
+        "price_usd": 699.95,
+        "reference_price_usd": 999.95,
+        "discount_pct": 30,
+        "price_cop": 2390399,
+        "trm_cop": 3415.1,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
     "asin": "B0HN1G1DN3",
     "title": "TRAUSI Webcam HD para Transmitir Beiyong Zuoyongb",
     "timestamp": "2026-11-20T01:33:31.908707+00:00",
