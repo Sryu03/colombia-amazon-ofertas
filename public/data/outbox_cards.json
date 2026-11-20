@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0GF74ZGDZ",
+    "title": "WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades",
+    "timestamp": "2026-11-20T10:13:27.034703+00:00",
+    "timestamp_colombia": "2026-11-20T05:13:27.034703-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GF74ZGDZ",
+      "title": "WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 28.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 42.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 42.0,
+      "price_vs_90d_badge": "📉 42.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3415.1,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 40810,
+      "shipping_cost_formatted": "+$11.95 USD (~$40.810 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.94,
+      "price_cop": 99004,
+      "price_cop_formatted": "$99.004 COP",
+      "total_landed_cop": 139814,
+      "total_landed_cop_formatted": "$139.814 COP",
+      "savings_usd": 21.0,
+      "savings_cop": 71717,
+      "savings_cop_formatted": "$71.717 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ",
+      "is_new_price_drop": true,
+      "previous_price_usd": 29.99,
+      "verified_at": "2026-11-20T10:10:19.927640+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-42% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.99 USD</b> (<i>~$99.004 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-42% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-42% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.99 USD</b> (<i>~$99.004 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-42% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 252,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795169608,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_GsAAR1IaBZlvOUH7s217646kWZ5tQACjwxrG6skCURG9DrJ5aMx9AEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADjwxrG6skCUR4",
+              "file_size": 1924,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_GsAAR1IaBZlvOUH7s217646kWZ5tQACjwxrG6skCURG9DrJ5aMx9AEAAwIAA20AAz0E",
+              "file_unique_id": "AQADjwxrG6skCURy",
+              "file_size": 24822,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_GsAAR1IaBZlvOUH7s217646kWZ5tQACjwxrG6skCURG9DrJ5aMx9AEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADjwxrG6skCUR9",
+              "file_size": 96394,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_GsAAR1IaBZlvOUH7s217646kWZ5tQACjwxrG6skCURG9DrJ5aMx9AEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADjwxrG6skCUR-",
+              "file_size": 142741,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-42% OFF)\n📦 WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades\n\n💵 Precio Hoy: $28.99 USD (~$99.004 COP · TRM $3.415)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -42% OFF · Ahorras $21.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 67,
+              "type": "bold"
+            },
+            {
+              "offset": 123,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 135,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 147,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 177,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 222,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 233,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 456,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 542,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 689,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 704,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 717,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($28.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GF74ZGDZ",
+        "title": "WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades",
+        "photo_url": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-42% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.99 USD</b> (<i>~$99.004 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-42% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ",
+        "deal_snapshot": {
+          "asin": "B0GF74ZGDZ",
+          "title": "WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades",
+          "price_usd": 28.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 42,
+          "price_cop": 99004,
+          "trm_cop": 3415.1,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GF74ZGDZ",
+      "title": "WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades",
+      "photo_url": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-42% OFF)</b>\n📦 <b>WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.99 USD</b> (<i>~$99.004 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-42% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($28.99 USD)",
+              "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ",
+      "deal_snapshot": {
+        "asin": "B0GF74ZGDZ",
+        "title": "WOLFBOX Plumero de aire comprimido MF60, ajustable de 3 velocidades",
+        "price_usd": 28.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 42,
+        "price_cop": 99004,
+        "trm_cop": 3415.1,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H7BG3HCT",
     "title": "Bolsa de pan de cera de abejas para almacenamiento de pan artesanal",
     "timestamp": "2026-11-20T08:53:16.987855+00:00",
@@ -18485,319 +18798,6 @@
         "trm_cop": 3326.96,
         "ships_to_colombia": true,
         "free_shipping_co": true,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B0GF74ZGDZ",
-    "title": "WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5",
-    "timestamp": "2026-11-19T08:03:55.743588+00:00",
-    "timestamp_colombia": "2026-11-19T03:03:55.743588-05:00",
-    "is_colombia_peak_hour": false,
-    "deal": {
-      "asin": "B0GF74ZGDZ",
-      "title": "WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5",
-      "category": "Computadores",
-      "brand": "",
-      "price_usd": 29.99,
-      "list_price_usd": 49.99,
-      "avg_90d_usd": 49.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": false,
-      "shipping_cost_usd": 11.95,
-      "requires_locker": false,
-      "rating": 4.54,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 49.99,
-      "discount_pct": 40.0,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 40.0,
-      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($49.99 USD)",
-      "trm_cop": 4150.0,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 49592,
-      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 41.94,
-      "price_cop": 124458,
-      "price_cop_formatted": "$124.458 COP",
-      "total_landed_cop": 174051,
-      "total_landed_cop_formatted": "$174.051 COP",
-      "savings_usd": 20.0,
-      "savings_cop": 83000,
-      "savings_cop_formatted": "$83.000 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
-      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
-      "approved_for_colombia": true,
-      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
-      "affiliate_url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ",
-      "is_new_price_drop": true,
-      "previous_price_usd": null,
-      "verified_at": "2026-11-19T08:00:25.223974+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
-                "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 185,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1795075439,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADuWr-rW8UC7XYG143y4u0XQxTximsAALYDGsbBQX5R9Br1b03gs4nAQADAgADcwADPQQ",
-              "file_unique_id": "AQAD2AxrGwUF-Ud4",
-              "file_size": 1999,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADuWr-rW8UC7XYG143y4u0XQxTximsAALYDGsbBQX5R9Br1b03gs4nAQADAgADbQADPQQ",
-              "file_unique_id": "AQAD2AxrGwUF-Udy",
-              "file_size": 26333,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADuWr-rW8UC7XYG143y4u0XQxTximsAALYDGsbBQX5R9Br1b03gs4nAQADAgADeAADPQQ",
-              "file_unique_id": "AQAD2AxrGwUF-Ud9",
-              "file_size": 101330,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADuWr-rW8UC7XYG143y4u0XQxTximsAALYDGsbBQX5R9Br1b03gs4nAQADAgADeQADPQQ",
-              "file_unique_id": "AQAD2AxrGwUF-Ud-",
-              "file_size": 149913,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5\n\n💵 Precio Hoy: $29.99 USD (~$124.458 COP · TRM $4.150)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -40% OFF · Ahorras $20.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 44,
-              "type": "bold"
-            },
-            {
-              "offset": 51,
-              "length": 193,
-              "type": "bold"
-            },
-            {
-              "offset": 249,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 261,
-              "length": 10,
-              "type": "bold"
-            },
-            {
-              "offset": 273,
-              "length": 13,
-              "type": "italic"
-            },
-            {
-              "offset": 304,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 332,
-              "length": 10,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 349,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 360,
-              "length": 18,
-              "type": "bold"
-            },
-            {
-              "offset": 383,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 583,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 669,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 816,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 831,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 844,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
-                  "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0GF74ZGDZ",
-        "title": "WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5",
-        "photo_url": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
-                "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ",
-        "deal_snapshot": {
-          "asin": "B0GF74ZGDZ",
-          "title": "WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5",
-          "price_usd": 29.99,
-          "reference_price_usd": 49.99,
-          "discount_pct": 40,
-          "price_cop": 124458,
-          "trm_cop": 4150.0,
-          "ships_to_colombia": true,
-          "free_shipping_co": false,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0GF74ZGDZ",
-      "title": "WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5",
-      "photo_url": "https://m.media-amazon.com/images/I/71zeGEFy1aL._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.99 USD</b> (<i>~$124.458 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $20.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($29.99 USD)",
-              "url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0GF74ZGDZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GF74ZGDZ",
-      "deal_snapshot": {
-        "asin": "B0GF74ZGDZ",
-        "title": "WOLFBOX MF60 - Plumero de aire comprimido de 110000 rpm, soplador de aire eléctrico de 3 velocidades, ajustable, recargable, con carga rápida para limpieza de teclado de PC, automóvil, hogar, 5",
-        "price_usd": 29.99,
-        "reference_price_usd": 49.99,
-        "discount_pct": 40,
-        "price_cop": 124458,
-        "trm_cop": 4150.0,
-        "ships_to_colombia": true,
-        "free_shipping_co": false,
         "requires_locker": false,
         "tax_free_colombia": true
       }
