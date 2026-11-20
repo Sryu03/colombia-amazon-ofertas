@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0GYDG5RN9",
+    "title": "Calendario digital de 15.6 pulgadas, calendario de pared inteligente con",
+    "timestamp": "2026-11-20T19:43:21.874460+00:00",
+    "timestamp_colombia": "2026-11-20T14:43:21.874460-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GYDG5RN9",
+      "title": "Calendario digital de 15.6 pulgadas, calendario de pared inteligente con",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 152.99,
+      "list_price_usd": 209.99,
+      "avg_90d_usd": 209.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71vgDTtRjRL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 209.99,
+      "discount_pct": 27.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 27.1,
+      "price_vs_90d_badge": "📉 27.1% más barato que su promedio de 90 días ($209.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 152.99,
+      "price_cop": 634908,
+      "price_cop_formatted": "$634.908 COP",
+      "total_landed_cop": 634908,
+      "total_landed_cop_formatted": "$634.908 COP",
+      "savings_usd": 57.0,
+      "savings_cop": 236550,
+      "savings_cop_formatted": "$236.550 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GYDG5RN9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GYDG5RN9",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T19:40:32.603658+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Calendario digital de 15.6 pulgadas, calendario de pared inteligente con</b>\n\n💵 <b>Precio Hoy:</b> <b>$152.99 USD</b> (<i>~$634.908 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$209.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $57.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71vgDTtRjRL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Calendario digital de 15.6 pulgadas, calendario de pared inteligente con</b>\n\n💵 <b>Precio Hoy:</b> <b>$152.99 USD</b> (<i>~$634.908 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$209.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $57.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($152.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GYDG5RN9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GYDG5RN9"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 259,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795203806,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQNrAAGi3vby1aGiVIIULNOcFK7veNEAAvMMaxurJAlERo9XnuA5ieYBAAMCAANzAAM9BA",
+              "file_unique_id": "AQAD8wxrG6skCUR4",
+              "file_size": 1851,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQNrAAGi3vby1aGiVIIULNOcFK7veNEAAvMMaxurJAlERo9XnuA5ieYBAAMCAANtAAM9BA",
+              "file_unique_id": "AQAD8wxrG6skCURy",
+              "file_size": 27375,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQNrAAGi3vby1aGiVIIULNOcFK7veNEAAvMMaxurJAlERo9XnuA5ieYBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQAD8wxrG6skCUR9",
+              "file_size": 111753,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQNrAAGi3vby1aGiVIIULNOcFK7veNEAAvMMaxurJAlERo9XnuA5ieYBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQAD8wxrG6skCUR-",
+              "file_size": 167053,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-27% OFF)\n📦 Calendario digital de 15.6 pulgadas, calendario de pared inteligente con\n\n💵 Precio Hoy: $152.99 USD (~$634.908 COP · TRM $4.150)\n📉 Más barato que antes: Antes $209.99 USD → Hoy -27% OFF · Ahorras $57.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 134,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 147,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 178,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 206,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 224,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 235,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 258,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 440,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 526,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 735,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 748,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($152.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0GYDG5RN9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GYDG5RN9"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GYDG5RN9",
+        "title": "Calendario digital de 15.6 pulgadas, calendario de pared inteligente con",
+        "photo_url": "https://m.media-amazon.com/images/I/71vgDTtRjRL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Calendario digital de 15.6 pulgadas, calendario de pared inteligente con</b>\n\n💵 <b>Precio Hoy:</b> <b>$152.99 USD</b> (<i>~$634.908 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$209.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $57.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($152.99 USD)",
+                "url": "https://www.amazon.com/dp/B0GYDG5RN9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GYDG5RN9"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GYDG5RN9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GYDG5RN9",
+        "deal_snapshot": {
+          "asin": "B0GYDG5RN9",
+          "title": "Calendario digital de 15.6 pulgadas, calendario de pared inteligente con",
+          "price_usd": 152.99,
+          "reference_price_usd": 209.99,
+          "discount_pct": 27,
+          "price_cop": 634908,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GYDG5RN9",
+      "title": "Calendario digital de 15.6 pulgadas, calendario de pared inteligente con",
+      "photo_url": "https://m.media-amazon.com/images/I/71vgDTtRjRL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Calendario digital de 15.6 pulgadas, calendario de pared inteligente con</b>\n\n💵 <b>Precio Hoy:</b> <b>$152.99 USD</b> (<i>~$634.908 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$209.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $57.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($152.99 USD)",
+              "url": "https://www.amazon.com/dp/B0GYDG5RN9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GYDG5RN9"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GYDG5RN9?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GYDG5RN9",
+      "deal_snapshot": {
+        "asin": "B0GYDG5RN9",
+        "title": "Calendario digital de 15.6 pulgadas, calendario de pared inteligente con",
+        "price_usd": 152.99,
+        "reference_price_usd": 209.99,
+        "discount_pct": 27,
+        "price_cop": 634908,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H7X14PN3",
+    "title": "Calendario digital 10.1\" Smart Family Planner Pantalla táctil",
+    "timestamp": "2026-11-20T19:43:20.039431+00:00",
+    "timestamp_colombia": "2026-11-20T14:43:20.039431-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H7X14PN3",
+      "title": "Calendario digital 10.1\" Smart Family Planner Pantalla táctil",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 71.24,
+      "list_price_usd": 128.99,
+      "avg_90d_usd": 128.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81xPX+RjxhL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 128.99,
+      "discount_pct": 44.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 44.8,
+      "price_vs_90d_badge": "📉 44.8% más barato que su promedio de 90 días ($128.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 71.24,
+      "price_cop": 295646,
+      "price_cop_formatted": "$295.646 COP",
+      "total_landed_cop": 295646,
+      "total_landed_cop_formatted": "$295.646 COP",
+      "savings_usd": 57.75,
+      "savings_cop": 239662,
+      "savings_cop_formatted": "$239.662 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0H7X14PN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7X14PN3",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T19:40:32.603658+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Calendario digital 10.1&quot; Smart Family Planner Pantalla táctil</b>\n\n💵 <b>Precio Hoy:</b> <b>$71.24 USD</b> (<i>~$295.646 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$128.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $57.75 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81xPX+RjxhL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Calendario digital 10.1&quot; Smart Family Planner Pantalla táctil</b>\n\n💵 <b>Precio Hoy:</b> <b>$71.24 USD</b> (<i>~$295.646 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$128.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $57.75 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($71.24 USD)",
+                "url": "https://www.amazon.com/dp/B0H7X14PN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7X14PN3"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 258,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795203801,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQJrAAGi2cRQIBaWtJhjI5VfTUCeyVEAAvIMaxurJAlE3SR_cGbpB4UBAAMCAANzAAM9BA",
+              "file_unique_id": "AQAD8gxrG6skCUR4",
+              "file_size": 1920,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQJrAAGi2cRQIBaWtJhjI5VfTUCeyVEAAvIMaxurJAlE3SR_cGbpB4UBAAMCAANtAAM9BA",
+              "file_unique_id": "AQAD8gxrG6skCURy",
+              "file_size": 27843,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQJrAAGi2cRQIBaWtJhjI5VfTUCeyVEAAvIMaxurJAlE3SR_cGbpB4UBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQAD8gxrG6skCUR9",
+              "file_size": 114769,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQJrAAGi2cRQIBaWtJhjI5VfTUCeyVEAAvIMaxurJAlE3SR_cGbpB4UBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQAD8gxrG6skCUR-",
+              "file_size": 175142,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)\n📦 Calendario digital 10.1\" Smart Family Planner Pantalla táctil\n\n💵 Precio Hoy: $71.24 USD (~$295.646 COP · TRM $4.150)\n📉 Más barato que antes: Antes $128.99 USD → Hoy -45% OFF · Ahorras $57.75 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 61,
+              "type": "bold"
+            },
+            {
+              "offset": 117,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 172,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 200,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 218,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 229,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 434,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 520,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 714,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 729,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 742,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($71.24 USD)",
+                  "url": "https://www.amazon.com/dp/B0H7X14PN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7X14PN3"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H7X14PN3",
+        "title": "Calendario digital 10.1\" Smart Family Planner Pantalla táctil",
+        "photo_url": "https://m.media-amazon.com/images/I/81xPX+RjxhL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Calendario digital 10.1&quot; Smart Family Planner Pantalla táctil</b>\n\n💵 <b>Precio Hoy:</b> <b>$71.24 USD</b> (<i>~$295.646 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$128.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $57.75 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($71.24 USD)",
+                "url": "https://www.amazon.com/dp/B0H7X14PN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7X14PN3"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H7X14PN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7X14PN3",
+        "deal_snapshot": {
+          "asin": "B0H7X14PN3",
+          "title": "Calendario digital 10.1\" Smart Family Planner Pantalla táctil",
+          "price_usd": 71.24,
+          "reference_price_usd": 128.99,
+          "discount_pct": 45,
+          "price_cop": 295646,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H7X14PN3",
+      "title": "Calendario digital 10.1\" Smart Family Planner Pantalla táctil",
+      "photo_url": "https://m.media-amazon.com/images/I/81xPX+RjxhL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Calendario digital 10.1&quot; Smart Family Planner Pantalla táctil</b>\n\n💵 <b>Precio Hoy:</b> <b>$71.24 USD</b> (<i>~$295.646 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$128.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $57.75 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($71.24 USD)",
+              "url": "https://www.amazon.com/dp/B0H7X14PN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7X14PN3"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H7X14PN3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7X14PN3",
+      "deal_snapshot": {
+        "asin": "B0H7X14PN3",
+        "title": "Calendario digital 10.1\" Smart Family Planner Pantalla táctil",
+        "price_usd": 71.24,
+        "reference_price_usd": 128.99,
+        "discount_pct": 45,
+        "price_cop": 295646,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0BY27XSJ3",
     "title": "Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para",
     "timestamp": "2026-11-20T15:33:20.712336+00:00",
