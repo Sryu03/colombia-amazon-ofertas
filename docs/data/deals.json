@@ -23,11 +23,11 @@
       ]
     },
     "zero_token_mode": true,
-    "monitored_products_count": 7,
-    "active_deals_count": 1,
+    "monitored_products_count": 10,
+    "active_deals_count": 20,
     "new_price_drops_count": 0,
     "telegram_delivery_status": {
-      "checked_at": "2026-11-20T07:51:02.032535+00:00",
+      "checked_at": "2026-11-20T07:52:32.386508+00:00",
       "token_configured": true,
       "chat_id": "@pillepues",
       "source": "none",
@@ -42,36 +42,52 @@
       "require_live_detail": true,
       "require_colombia_confirmation": true,
       "allow_locker_deals": false,
-      "audited_count": 7,
-      "approved_count": 1,
-      "rejected_count": 6,
+      "audited_count": 10,
+      "approved_count": 0,
+      "rejected_count": 10,
       "rejected_reasons": {
-        "incoherent_price_or_discount": 3,
-        "colombia_shipping_unconfirmed:US_OR_UNKNOWN": 3
+        "incoherent_price_or_discount": 5,
+        "colombia_shipping_unconfirmed:US_OR_UNKNOWN": 5
       },
       "rejected_samples": [
-        {
-          "asin": "B0HJ9ZXCSD",
-          "reason": "incoherent_price_or_discount"
-        },
         {
           "asin": "B0H7VPCBGJ",
           "reason": "incoherent_price_or_discount"
         },
         {
-          "asin": "B0H4TKY7WG",
-          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
-        },
-        {
-          "asin": "B0H6LB5DVH",
-          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
-        },
-        {
-          "asin": "B0FVXMHHRP",
+          "asin": "B0HLDLDWSP",
           "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
         },
         {
           "asin": "B0G8L1RNPF",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0GFN6W8CG",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0GWD6F3X3",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0H9SYK5Q7",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0HGZ6277X",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        },
+        {
+          "asin": "B0HLG41C1S",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0HDDDDSRG",
+          "reason": "incoherent_price_or_discount"
+        },
+        {
+          "asin": "B0HF7XW5G8",
           "reason": "incoherent_price_or_discount"
         }
       ]
@@ -81,17 +97,18 @@
       "target_asins_count": 186,
       "max_live_asins": 60,
       "pre_verified_count": 0,
-      "attempted_count": 27,
-      "parsed_ok_count": 7,
-      "live_verified_count": 7,
-      "fetch_failures_count": 20,
+      "attempted_count": 59,
+      "parsed_ok_count": 11,
+      "live_verified_count": 10,
+      "fetch_failures_count": 48,
       "outcome_counts": {
-        "curl_safari17_0:captcha": 20
+        "curl_safari17_0:captcha": 47,
+        "curl_safari17_0:http_503": 1
       },
       "colombia_co_count": 1,
-      "blocked_co_count": 0,
-      "us_or_unknown_count": 6,
-      "missing_buybox_count": 0,
+      "blocked_co_count": 1,
+      "us_or_unknown_count": 9,
+      "missing_buybox_count": 1,
       "aborted_early_reason": "consecutive_failures_10",
       "attempted_asins": [
         "B0HJ9ZXCSD",
@@ -120,7 +137,39 @@
         "B0GS97CJBH",
         "B0GSQZH26T",
         "B0GFN6W8CG",
-        "B0FT99KCV8"
+        "B0FT99KCV8",
+        "B0HCYC683V",
+        "B0HCVX8XHV",
+        "B0H5X2GC1Y",
+        "B0H1NH99GX",
+        "B0HGR4SDYC",
+        "B0G1XSY4BJ",
+        "B0HGQ3VMVB",
+        "B0GWD6F3X3",
+        "B0H5FJXKRG",
+        "B0H9Z71PJK",
+        "B0H9SYK5Q7",
+        "B0HGZ6277X",
+        "B0HPL7XTW4",
+        "B0HNRSRX9V",
+        "B0HDT94SVJ",
+        "B0H82GQWXG",
+        "B0HJH57M9R",
+        "B0HJ9ZT2FF",
+        "B0HLG41C1S",
+        "B0HGXHJD53",
+        "B0HDDDDSRG",
+        "B0HF7XW5G8",
+        "B0HDYN54X8",
+        "B0H95CL7YV",
+        "B0H68MTJV6",
+        "B0HD9K8KGN",
+        "B0HD2TH6Q4",
+        "B0HBF5RQ2Z",
+        "B0H3MGRBWT",
+        "B0H2YYVGTM",
+        "B0HBJTK4CC",
+        "B0HQSSTW3S"
       ],
       "sample_outcomes": [
         {
@@ -139,7 +188,7 @@
           "price_usd": 12.74,
           "list_price_usd": 14.99,
           "dest": "US_OR_UNKNOWN",
-          "ingress": "Actualizar ubicación Entrega en Des Moines 50307 - Actualiza",
+          "ingress": "",
           "has_buybox": true,
           "live_verified": true
         },
@@ -175,9 +224,13 @@
         },
         {
           "asin": "B0HLDLDWSP",
-          "client": "curl_safari17_0",
-          "status": 200,
-          "outcome": "captcha"
+          "outcome": "parsed_ok",
+          "price_usd": 9.48,
+          "list_price_usd": 12.99,
+          "dest": "US_OR_UNKNOWN",
+          "ingress": "",
+          "has_buybox": true,
+          "live_verified": true
         },
         {
           "asin": "B0HHF2JT8G",
@@ -187,13 +240,9 @@
         },
         {
           "asin": "B0HDST6F85",
-          "outcome": "parsed_ok",
-          "price_usd": 12.23,
-          "list_price_usd": 24.99,
-          "dest": "CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": true,
-          "live_verified": true
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         }
       ],
       "glow_bootstrap": {
@@ -202,7 +251,8 @@
       },
       "discovery_new_asins": 13,
       "discovery_parsed_leads": 67
-    }
+    },
+    "last_live_check_at": "2026-11-20T07:51:18.417883+00:00"
   },
   "deals": [
     {
