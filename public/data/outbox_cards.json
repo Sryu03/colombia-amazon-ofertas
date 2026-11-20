@@ -1,5 +1,174 @@
 [
   {
+    "asin": "B0G64G4M2G",
+    "title": "Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro",
+    "timestamp": "2026-11-20T22:03:07.329313+00:00",
+    "timestamp_colombia": "2026-11-20T17:03:07.329313-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0G64G4M2G",
+      "title": "Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 15.19,
+      "list_price_usd": 21.97,
+      "avg_90d_usd": 21.97,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71yS+m1YKnL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 21.97,
+      "discount_pct": 30.9,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.9,
+      "price_vs_90d_badge": "📉 30.9% más barato que su promedio de 90 días ($21.97 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 27.14,
+      "price_cop": 52587,
+      "price_cop_formatted": "$52.587 COP",
+      "total_landed_cop": 93957,
+      "total_landed_cop_formatted": "$93.957 COP",
+      "savings_usd": 6.78,
+      "savings_cop": 23472,
+      "savings_cop_formatted": "$23.472 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $19.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0G64G4M2G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G64G4M2G",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T22:00:22.131589+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.19 USD</b> (<i>~$52.587 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$21.97 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $6.78 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "simulated_outbox",
+      "status": "simulated_ready",
+      "token_configured": true,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71yS+m1YKnL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.19 USD</b> (<i>~$52.587 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$21.97 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $6.78 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($15.19 USD)",
+                "url": "https://www.amazon.com/dp/B0G64G4M2G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G64G4M2G"
+              }
+            ]
+          ]
+        }
+      },
+      "card": {
+        "asin": "B0G64G4M2G",
+        "title": "Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro",
+        "photo_url": "https://m.media-amazon.com/images/I/71yS+m1YKnL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.19 USD</b> (<i>~$52.587 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$21.97 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $6.78 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($15.19 USD)",
+                "url": "https://www.amazon.com/dp/B0G64G4M2G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G64G4M2G"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0G64G4M2G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G64G4M2G",
+        "deal_snapshot": {
+          "asin": "B0G64G4M2G",
+          "title": "Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro",
+          "price_usd": 15.19,
+          "reference_price_usd": 21.97,
+          "discount_pct": 31,
+          "price_cop": 52587,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      },
+      "fallback_reason": "The read operation timed out"
+    },
+    "telegram_card": {
+      "asin": "B0G64G4M2G",
+      "title": "Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro",
+      "photo_url": "https://m.media-amazon.com/images/I/71yS+m1YKnL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$15.19 USD</b> (<i>~$52.587 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$21.97 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $6.78 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $19.81 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($15.19 USD)",
+              "url": "https://www.amazon.com/dp/B0G64G4M2G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G64G4M2G"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0G64G4M2G?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G64G4M2G",
+      "deal_snapshot": {
+        "asin": "B0G64G4M2G",
+        "title": "Cable de extensión de 6 pies, protector de sobretensiones con 12 salidas de CA y 4 puertos USB para el hogar, oficina, artículos esenciales para el dormitorio, 2700 julios, certificación ETL, color negro",
+        "price_usd": 15.19,
+        "reference_price_usd": 21.97,
+        "discount_pct": 31,
+        "price_cop": 52587,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0BDT2N5XD",
     "title": "ThePhotoStick® Copia de seguridad fotográfica Omni de 64 GB para iPhone",
     "timestamp": "2026-11-20T20:33:16.141929+00:00",
