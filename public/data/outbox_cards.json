@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0BY27XSJ3",
+    "title": "Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para",
+    "timestamp": "2026-11-20T15:33:20.712336+00:00",
+    "timestamp_colombia": "2026-11-20T10:33:20.712336-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0BY27XSJ3",
+      "title": "Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 30.99,
+      "list_price_usd": 44.99,
+      "avg_90d_usd": 44.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.24,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61GaqCsQwIL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 44.99,
+      "discount_pct": 31.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 31.1,
+      "price_vs_90d_badge": "📉 31.1% más barato que su promedio de 90 días ($44.99 USD)",
+      "trm_cop": 3415.1,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 40810,
+      "shipping_cost_formatted": "+$11.95 USD (~$40.810 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 42.94,
+      "price_cop": 105834,
+      "price_cop_formatted": "$105.834 COP",
+      "total_landed_cop": 146644,
+      "total_landed_cop_formatted": "$146.644 COP",
+      "savings_usd": 14.0,
+      "savings_cop": 47811,
+      "savings_cop_formatted": "$47.811 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $4.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0BY27XSJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BY27XSJ3",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T15:30:21.697384+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para</b>\n\n💵 <b>Precio Hoy:</b> <b>$30.99 USD</b> (<i>~$105.834 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $4.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61GaqCsQwIL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para</b>\n\n💵 <b>Precio Hoy:</b> <b>$30.99 USD</b> (<i>~$105.834 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $4.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($30.99 USD)",
+                "url": "https://www.amazon.com/dp/B0BY27XSJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BY27XSJ3"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 257,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795188805,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQFrAAFoRLDDrZFD9rDYmAoFqSh2DzgAAsAMaxurJAlEeK92Rf7V03kBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADwAxrG6skCUR4",
+              "file_size": 1918,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQFrAAFoRLDDrZFD9rDYmAoFqSh2DzgAAsAMaxurJAlEeK92Rf7V03kBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADwAxrG6skCURy",
+              "file_size": 24841,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQFrAAFoRLDDrZFD9rDYmAoFqSh2DzgAAsAMaxurJAlEeK92Rf7V03kBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADwAxrG6skCUR9",
+              "file_size": 93595,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQFrAAFoRLDDrZFD9rDYmAoFqSh2DzgAAsAMaxurJAlEeK92Rf7V03kBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADwAxrG6skCUR-",
+              "file_size": 133635,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-31% OFF)\n📦 Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para\n\n💵 Precio Hoy: $30.99 USD (~$105.834 COP · TRM $3.415)\n📉 Más barato que antes: Antes $44.99 USD → Hoy -31% OFF · Ahorras $14.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $4.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 74,
+              "type": "bold"
+            },
+            {
+              "offset": 124,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 136,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 148,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 179,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 207,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 224,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 235,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 258,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 458,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 544,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 691,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 706,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 719,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($30.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0BY27XSJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BY27XSJ3"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0BY27XSJ3",
+        "title": "Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para",
+        "photo_url": "https://m.media-amazon.com/images/I/61GaqCsQwIL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para</b>\n\n💵 <b>Precio Hoy:</b> <b>$30.99 USD</b> (<i>~$105.834 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $4.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($30.99 USD)",
+                "url": "https://www.amazon.com/dp/B0BY27XSJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BY27XSJ3"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0BY27XSJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BY27XSJ3",
+        "deal_snapshot": {
+          "asin": "B0BY27XSJ3",
+          "title": "Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para",
+          "price_usd": 30.99,
+          "reference_price_usd": 44.99,
+          "discount_pct": 31,
+          "price_cop": 105834,
+          "trm_cop": 3415.1,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0BY27XSJ3",
+      "title": "Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para",
+      "photo_url": "https://m.media-amazon.com/images/I/61GaqCsQwIL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-31% OFF)</b>\n📦 <b>Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para</b>\n\n💵 <b>Precio Hoy:</b> <b>$30.99 USD</b> (<i>~$105.834 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-31% OFF</b> · <b>Ahorras $14.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $4.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($30.99 USD)",
+              "url": "https://www.amazon.com/dp/B0BY27XSJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BY27XSJ3"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0BY27XSJ3?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0BY27XSJ3",
+      "deal_snapshot": {
+        "asin": "B0BY27XSJ3",
+        "title": "Belkin Adaptador de concentrador USB-C multipuerto de 100 W y 10 Gbps para",
+        "price_usd": 30.99,
+        "reference_price_usd": 44.99,
+        "discount_pct": 31,
+        "price_cop": 105834,
+        "trm_cop": 3415.1,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B08SGM6F79",
+    "title": "Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas magnéticas para reparación de iPhone, MacBook, ordenador, portátil, PC, tableta, PS4, Xbox, Nintendo y consola de videojuegos.",
+    "timestamp": "2026-11-20T15:33:18.491404+00:00",
+    "timestamp_colombia": "2026-11-20T10:33:18.491404-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B08SGM6F79",
+      "title": "Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas magnéticas para reparación de iPhone, MacBook, ordenador, portátil, PC, tableta, PS4, Xbox, Nintendo y consola de videojuegos.",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 23.79,
+      "list_price_usd": 37.99,
+      "avg_90d_usd": 37.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.84,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/818a1lIFaDL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 37.99,
+      "discount_pct": 37.4,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 37.4,
+      "price_vs_90d_badge": "📉 37.4% más barato que su promedio de 90 días ($37.99 USD)",
+      "trm_cop": 3415.1,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 40810,
+      "shipping_cost_formatted": "+$11.95 USD (~$40.810 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 35.74,
+      "price_cop": 81245,
+      "price_cop_formatted": "$81.245 COP",
+      "total_landed_cop": 122056,
+      "total_landed_cop_formatted": "$122.056 COP",
+      "savings_usd": 14.2,
+      "savings_cop": 48494,
+      "savings_cop_formatted": "$48.494 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $11.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B08SGM6F79?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08SGM6F79",
+      "is_new_price_drop": true,
+      "previous_price_usd": 23.79,
+      "verified_at": "2026-11-20T15:30:21.697384+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas...</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.79 USD</b> (<i>~$81.245 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$37.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $14.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/818a1lIFaDL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas...</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.79 USD</b> (<i>~$81.245 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$37.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $14.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($23.79 USD)",
+                "url": "https://www.amazon.com/dp/B08SGM6F79?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08SGM6F79"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 256,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795188800,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQABawABaEC5PqcNzCKWdzIGD4rUv1L0AAK_DGsbqyQJRDtCPQL-vrC4AQADAgADcwADPQQ",
+              "file_unique_id": "AQADvwxrG6skCUR4",
+              "file_size": 2042,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQABawABaEC5PqcNzCKWdzIGD4rUv1L0AAK_DGsbqyQJRDtCPQL-vrC4AQADAgADbQADPQQ",
+              "file_unique_id": "AQADvwxrG6skCURy",
+              "file_size": 29512,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQABawABaEC5PqcNzCKWdzIGD4rUv1L0AAK_DGsbqyQJRDtCPQL-vrC4AQADAgADeAADPQQ",
+              "file_unique_id": "AQADvwxrG6skCUR9",
+              "file_size": 118803,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAQABawABaEC5PqcNzCKWdzIGD4rUv1L0AAK_DGsbqyQJRDtCPQL-vrC4AQADAgADeQADPQQ",
+              "file_unique_id": "AQADvwxrG6skCUR-",
+              "file_size": 183793,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)\n📦 Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas...\n\n💵 Precio Hoy: $23.79 USD (~$81.245 COP · TRM $3.415)\n📉 Más barato que antes: Antes $37.99 USD → Hoy -37% OFF · Ahorras $14.20 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $11.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 169,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 223,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 268,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 279,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 302,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 502,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 524,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 672,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 687,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 700,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($23.79 USD)",
+                  "url": "https://www.amazon.com/dp/B08SGM6F79?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08SGM6F79"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B08SGM6F79",
+        "title": "Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas magnéticas para reparación de iPhone, MacBook, ordenador, portátil, PC, tableta, PS4, Xbox, Nintendo y consola de videojuegos.",
+        "photo_url": "https://m.media-amazon.com/images/I/818a1lIFaDL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas...</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.79 USD</b> (<i>~$81.245 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$37.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $14.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($23.79 USD)",
+                "url": "https://www.amazon.com/dp/B08SGM6F79?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08SGM6F79"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B08SGM6F79?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08SGM6F79",
+        "deal_snapshot": {
+          "asin": "B08SGM6F79",
+          "title": "Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas magnéticas para reparación de iPhone, MacBook, ordenador, portátil, PC, tableta, PS4, Xbox, Nintendo y consola de videojuegos.",
+          "price_usd": 23.79,
+          "reference_price_usd": 37.99,
+          "discount_pct": 37,
+          "price_cop": 81245,
+          "trm_cop": 3415.1,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B08SGM6F79",
+      "title": "Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas magnéticas para reparación de iPhone, MacBook, ordenador, portátil, PC, tableta, PS4, Xbox, Nintendo y consola de videojuegos.",
+      "photo_url": "https://m.media-amazon.com/images/I/818a1lIFaDL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas...</b>\n\n💵 <b>Precio Hoy:</b> <b>$23.79 USD</b> (<i>~$81.245 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$37.99 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $14.20 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $11.21 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($23.79 USD)",
+              "url": "https://www.amazon.com/dp/B08SGM6F79?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08SGM6F79"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B08SGM6F79?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B08SGM6F79",
+      "deal_snapshot": {
+        "asin": "B08SGM6F79",
+        "title": "Juego de destornilladores de precisión STREBITO Electronics de 142 piezas con 120 puntas | Kit de herramientas magnéticas para reparación de iPhone, MacBook, ordenador, portátil, PC, tableta, PS4, Xbox, Nintendo y consola de videojuegos.",
+        "price_usd": 23.79,
+        "reference_price_usd": 37.99,
+        "discount_pct": 37,
+        "price_cop": 81245,
+        "trm_cop": 3415.1,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0HLDLDWSP",
     "title": "i Phone 14 13 12 11 cargador, cargador USB C de 20 W con cable Lightning de",
     "timestamp": "2026-11-20T12:32:59.054989+00:00",
