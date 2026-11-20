@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0F1WB2PVS",
+    "title": "Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico",
+    "timestamp": "2026-11-20T01:23:11.991624+00:00",
+    "timestamp_colombia": "2026-11-19T20:23:11.991624-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0F1WB2PVS",
+      "title": "Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 12.1,
+      "list_price_usd": 27.99,
+      "avg_90d_usd": 27.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71NIePygSGL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 27.99,
+      "discount_pct": 56.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 56.8,
+      "price_vs_90d_badge": "📉 56.8% más barato que su promedio de 90 días ($27.99 USD)",
+      "trm_cop": 3415.1,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 40810,
+      "shipping_cost_formatted": "+$11.95 USD (~$40.810 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 24.05,
+      "price_cop": 41323,
+      "price_cop_formatted": "$41.323 COP",
+      "total_landed_cop": 82133,
+      "total_landed_cop_formatted": "$82.133 COP",
+      "savings_usd": 15.89,
+      "savings_cop": 54266,
+      "savings_cop_formatted": "$54.266 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $22.90 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0F1WB2PVS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1WB2PVS",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T01:20:17.372911+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.10 USD</b> (<i>~$41.323 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $15.89 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.90 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71NIePygSGL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.10 USD</b> (<i>~$41.323 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $15.89 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.90 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($12.10 USD)",
+                "url": "https://www.amazon.com/dp/B0F1WB2PVS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1WB2PVS"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 247,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795137793,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD92r_oQFJvIOBd9kPA6eYv74oNV90AAJ1DmsbqyQBRGBunEBs-LfxAQADAgADcwADPQQ",
+              "file_unique_id": "AQADdQ5rG6skAUR4",
+              "file_size": 1865,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD92r_oQFJvIOBd9kPA6eYv74oNV90AAJ1DmsbqyQBRGBunEBs-LfxAQADAgADbQADPQQ",
+              "file_unique_id": "AQADdQ5rG6skAURy",
+              "file_size": 25162,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD92r_oQFJvIOBd9kPA6eYv74oNV90AAJ1DmsbqyQBRGBunEBs-LfxAQADAgADeAADPQQ",
+              "file_unique_id": "AQADdQ5rG6skAUR9",
+              "file_size": 99531,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD92r_oQFJvIOBd9kPA6eYv74oNV90AAJ1DmsbqyQBRGBunEBs-LfxAQADAgADeQADPQQ",
+              "file_unique_id": "AQADdQ5rG6skAUR-",
+              "file_size": 146638,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)\n📦 Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico\n\n💵 Precio Hoy: $12.10 USD (~$41.323 COP · TRM $3.415)\n📉 Más barato que antes: Antes $27.99 USD → Hoy -57% OFF · Ahorras $15.89 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $22.90 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 152,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 182,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 210,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 227,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 461,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 547,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 695,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 710,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 723,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($12.10 USD)",
+                  "url": "https://www.amazon.com/dp/B0F1WB2PVS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1WB2PVS"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F1WB2PVS",
+        "title": "Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico",
+        "photo_url": "https://m.media-amazon.com/images/I/71NIePygSGL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.10 USD</b> (<i>~$41.323 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $15.89 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.90 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($12.10 USD)",
+                "url": "https://www.amazon.com/dp/B0F1WB2PVS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1WB2PVS"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F1WB2PVS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1WB2PVS",
+        "deal_snapshot": {
+          "asin": "B0F1WB2PVS",
+          "title": "Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico",
+          "price_usd": 12.1,
+          "reference_price_usd": 27.99,
+          "discount_pct": 57,
+          "price_cop": 41323,
+          "trm_cop": 3415.1,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F1WB2PVS",
+      "title": "Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico",
+      "photo_url": "https://m.media-amazon.com/images/I/71NIePygSGL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico</b>\n\n💵 <b>Precio Hoy:</b> <b>$12.10 USD</b> (<i>~$41.323 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$27.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $15.89 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $22.90 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($12.10 USD)",
+              "url": "https://www.amazon.com/dp/B0F1WB2PVS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1WB2PVS"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F1WB2PVS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1WB2PVS",
+      "deal_snapshot": {
+        "asin": "B0F1WB2PVS",
+        "title": "Zulay Kitchen - Espumador de leche recargable de mano, batidor eléctrico",
+        "price_usd": 12.1,
+        "reference_price_usd": 27.99,
+        "discount_pct": 57,
+        "price_cop": 41323,
+        "trm_cop": 3415.1,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0002AHQWS",
     "title": "Elenco Snap Circuit Extreme",
     "timestamp": "2026-11-20T00:13:21.361441+00:00",
