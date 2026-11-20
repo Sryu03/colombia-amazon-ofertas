@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0F7M3LVN8",
+    "title": "CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable",
+    "timestamp": "2026-11-20T11:33:03.903854+00:00",
+    "timestamp_colombia": "2026-11-20T06:33:03.903854-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0F7M3LVN8",
+      "title": "CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 56.97,
+      "list_price_usd": 99.99,
+      "avg_90d_usd": 99.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81QDn2BzpXL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 99.99,
+      "discount_pct": 43.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 43.0,
+      "price_vs_90d_badge": "📉 43.0% más barato que su promedio de 90 días ($99.99 USD)",
+      "trm_cop": 3415.1,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 56.97,
+      "price_cop": 194558,
+      "price_cop_formatted": "$194.558 COP",
+      "total_landed_cop": 194558,
+      "total_landed_cop_formatted": "$194.558 COP",
+      "savings_usd": 43.02,
+      "savings_cop": 146918,
+      "savings_cop_formatted": "$146.918 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0F7M3LVN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7M3LVN8",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-20T11:30:18.971837+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$194.558 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $43.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81QDn2BzpXL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$194.558 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $43.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+                "url": "https://www.amazon.com/dp/B0F7M3LVN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7M3LVN8"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 254,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795174385,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_msAAS_x_mBvASkkcOLJcU3CbmekTwACmQxrG6skCUQMtnNVLIKydQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADmQxrG6skCUR4",
+              "file_size": 1949,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_msAAS_x_mBvASkkcOLJcU3CbmekTwACmQxrG6skCUQMtnNVLIKydQEAAwIAA20AAz0E",
+              "file_unique_id": "AQADmQxrG6skCURy",
+              "file_size": 26493,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_msAAS_x_mBvASkkcOLJcU3CbmekTwACmQxrG6skCUQMtnNVLIKydQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADmQxrG6skCUR9",
+              "file_size": 105256,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD_msAAS_x_mBvASkkcOLJcU3CbmekTwACmQxrG6skCUQMtnNVLIKydQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADmQxrG6skCUR-",
+              "file_size": 158182,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)\n📦 CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable\n\n💵 Precio Hoy: $56.97 USD (~$194.558 COP · TRM $3.415)\n📉 Más barato que antes: Antes $99.99 USD → Hoy -43% OFF · Ahorras $43.02 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 69,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 149,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 180,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 208,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 225,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 236,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 259,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 441,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 527,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 721,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 736,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 749,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+                  "url": "https://www.amazon.com/dp/B0F7M3LVN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7M3LVN8"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F7M3LVN8",
+        "title": "CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable",
+        "photo_url": "https://m.media-amazon.com/images/I/81QDn2BzpXL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$194.558 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $43.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+                "url": "https://www.amazon.com/dp/B0F7M3LVN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7M3LVN8"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F7M3LVN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7M3LVN8",
+        "deal_snapshot": {
+          "asin": "B0F7M3LVN8",
+          "title": "CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable",
+          "price_usd": 56.97,
+          "reference_price_usd": 99.99,
+          "discount_pct": 43,
+          "price_cop": 194558,
+          "trm_cop": 3415.1,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F7M3LVN8",
+      "title": "CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable",
+      "photo_url": "https://m.media-amazon.com/images/I/81QDn2BzpXL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.97 USD</b> (<i>~$194.558 COP</i> · TRM $3.415)\n📉 <b>Más barato que antes:</b> Antes <s>$99.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $43.02 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($56.97 USD)",
+              "url": "https://www.amazon.com/dp/B0F7M3LVN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7M3LVN8"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F7M3LVN8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F7M3LVN8",
+      "deal_snapshot": {
+        "asin": "B0F7M3LVN8",
+        "title": "CAROTE Juego de 21 ollas y sartenes antiadherentes, mango desmontable",
+        "price_usd": 56.97,
+        "reference_price_usd": 99.99,
+        "discount_pct": 43,
+        "price_cop": 194558,
+        "trm_cop": 3415.1,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H9P8BJWP",
     "title": "Roboseal - Kit de sellado al vacío eléctrico para tarros Mason con 50 tapas",
     "timestamp": "2026-11-20T10:53:22.005583+00:00",
