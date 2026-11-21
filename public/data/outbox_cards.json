@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0GZZ46M5N",
+    "title": "Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico con sincronización de calendario, gráfico de tareas, planificador de comidas, listas de",
+    "timestamp": "2026-11-21T00:53:48.847789+00:00",
+    "timestamp_colombia": "2026-11-20T19:53:48.847789-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0GZZ46M5N",
+      "title": "Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico con sincronización de calendario, gráfico de tareas, planificador de comidas, listas de",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 64.59,
+      "list_price_usd": 98.79,
+      "avg_90d_usd": 98.79,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/7188mrY-AFL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 98.79,
+      "discount_pct": 34.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 34.6,
+      "price_vs_90d_badge": "📉 34.6% más barato que su promedio de 90 días ($98.79 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 64.59,
+      "price_cop": 223605,
+      "price_cop_formatted": "$223.605 COP",
+      "total_landed_cop": 223605,
+      "total_landed_cop_formatted": "$223.605 COP",
+      "savings_usd": 34.2,
+      "savings_cop": 118398,
+      "savings_cop_formatted": "$118.398 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0GZZ46M5N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GZZ46M5N",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-21T00:50:23.647305+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico...</b>\n\n💵 <b>Precio Hoy:</b> <b>$64.59 USD</b> (<i>~$223.605 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$98.79 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $34.20 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/7188mrY-AFL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico...</b>\n\n💵 <b>Precio Hoy:</b> <b>$64.59 USD</b> (<i>~$223.605 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$98.79 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $34.20 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($64.59 USD)",
+                "url": "https://www.amazon.com/dp/B0GZZ46M5N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GZZ46M5N"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 274,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795222431,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARJrAAHrn8T702HxZ0S8o87JV456YpwAAi0NaxurJAlEViNyBF9gmoUBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADLQ1rG6skCUR4",
+              "file_size": 1889,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARJrAAHrn8T702HxZ0S8o87JV456YpwAAi0NaxurJAlEViNyBF9gmoUBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADLQ1rG6skCURy",
+              "file_size": 28558,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARJrAAHrn8T702HxZ0S8o87JV456YpwAAi0NaxurJAlEViNyBF9gmoUBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADLQ1rG6skCUR9",
+              "file_size": 115839,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARJrAAHrn8T702HxZ0S8o87JV456YpwAAi0NaxurJAlEViNyBF9gmoUBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADLQ1rG6skCUR-",
+              "file_size": 172790,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-35% OFF)\n📦 Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico...\n\n💵 Precio Hoy: $64.59 USD (~$223.605 COP · TRM $3.462)\n📉 Más barato que antes: Antes $98.79 USD → Hoy -35% OFF · Ahorras $34.20 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 187,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 218,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 246,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 263,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 274,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 297,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 479,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 501,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 695,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 710,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 723,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($64.59 USD)",
+                  "url": "https://www.amazon.com/dp/B0GZZ46M5N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GZZ46M5N"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GZZ46M5N",
+        "title": "Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico con sincronización de calendario, gráfico de tareas, planificador de comidas, listas de",
+        "photo_url": "https://m.media-amazon.com/images/I/7188mrY-AFL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico...</b>\n\n💵 <b>Precio Hoy:</b> <b>$64.59 USD</b> (<i>~$223.605 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$98.79 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $34.20 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($64.59 USD)",
+                "url": "https://www.amazon.com/dp/B0GZZ46M5N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GZZ46M5N"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GZZ46M5N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GZZ46M5N",
+        "deal_snapshot": {
+          "asin": "B0GZZ46M5N",
+          "title": "Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico con sincronización de calendario, gráfico de tareas, planificador de comidas, listas de",
+          "price_usd": 64.59,
+          "reference_price_usd": 98.79,
+          "discount_pct": 35,
+          "price_cop": 223605,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GZZ46M5N",
+      "title": "Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico con sincronización de calendario, gráfico de tareas, planificador de comidas, listas de",
+      "photo_url": "https://m.media-amazon.com/images/I/7188mrY-AFL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-35% OFF)</b>\n📦 <b>Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico...</b>\n\n💵 <b>Precio Hoy:</b> <b>$64.59 USD</b> (<i>~$223.605 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$98.79 USD</s> → Hoy <b>-35% OFF</b> · <b>Ahorras $34.20 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($64.59 USD)",
+              "url": "https://www.amazon.com/dp/B0GZZ46M5N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GZZ46M5N"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GZZ46M5N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GZZ46M5N",
+      "deal_snapshot": {
+        "asin": "B0GZZ46M5N",
+        "title": "Calendario digital, 10.1 pulgadas, pantalla táctil inteligente, organizador de calendario familiar electrónico con sincronización de calendario, gráfico de tareas, planificador de comidas, listas de",
+        "price_usd": 64.59,
+        "reference_price_usd": 98.79,
+        "discount_pct": 35,
+        "price_cop": 223605,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0FGYCJ7NJ",
     "title": "Lenovo Idea Tab - Tableta universitaria - Pantalla táctil IPS de 11 ″ 2.5K - 90Hz - MediaTek Dimensity 6300-4 GB Memoria - 128 GB de almacenamiento - Brazo integrado Mali-G57 MC2 - Tab Pen y funda",
     "timestamp": "2026-11-20T22:44:20.662272+00:00",
