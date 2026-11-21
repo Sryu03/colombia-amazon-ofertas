@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0GWZKRRYD",
+    "title": "Plumero de aire comprimido, soplador de mano de 280000 RPM con 4",
+    "timestamp": "2026-11-21T11:33:30.331092+00:00",
+    "timestamp_colombia": "2026-11-21T06:33:30.331092-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GWZKRRYD",
+      "title": "Plumero de aire comprimido, soplador de mano de 280000 RPM con 4",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 28.48,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.34,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51XyhYcUnLL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 43.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 43.0,
+      "price_vs_90d_badge": "📉 43.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.43,
+      "price_cop": 98595,
+      "price_cop_formatted": "$98.595 COP",
+      "total_landed_cop": 139965,
+      "total_landed_cop_formatted": "$139.965 COP",
+      "savings_usd": 21.51,
+      "savings_cop": 74466,
+      "savings_cop_formatted": "$74.466 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0GWZKRRYD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWZKRRYD",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-21T11:30:31.108658+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Plumero de aire comprimido, soplador de mano de 280000 RPM con 4</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$98.595 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51XyhYcUnLL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Plumero de aire comprimido, soplador de mano de 280000 RPM con 4</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$98.595 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0GWZKRRYD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWZKRRYD"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 278,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795260812,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARZrAYGM-wABE64z6u4hiReTWRwshuIAAmYMaxurJBFEXSs9jlNyeN8BAAMCAANzAAM9BA",
+              "file_unique_id": "AQADZgxrG6skEUR4",
+              "file_size": 1777,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARZrAYGM-wABE64z6u4hiReTWRwshuIAAmYMaxurJBFEXSs9jlNyeN8BAAMCAANtAAM9BA",
+              "file_unique_id": "AQADZgxrG6skEURy",
+              "file_size": 23154,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARZrAYGM-wABE64z6u4hiReTWRwshuIAAmYMaxurJBFEXSs9jlNyeN8BAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADZgxrG6skEUR9",
+              "file_size": 90972,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARZrAYGM-wABE64z6u4hiReTWRwshuIAAmYMaxurJBFEXSs9jlNyeN8BAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADZgxrG6skEUR-",
+              "file_size": 134326,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)\n📦 Plumero de aire comprimido, soplador de mano de 280000 RPM con 4\n\n💵 Precio Hoy: $28.48 USD (~$98.595 COP · TRM $3.462)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -43% OFF · Ahorras $21.51 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 64,
+              "type": "bold"
+            },
+            {
+              "offset": 120,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 132,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 144,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 174,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 219,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 253,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 453,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 539,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 686,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 701,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 714,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                  "url": "https://www.amazon.com/dp/B0GWZKRRYD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWZKRRYD"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GWZKRRYD",
+        "title": "Plumero de aire comprimido, soplador de mano de 280000 RPM con 4",
+        "photo_url": "https://m.media-amazon.com/images/I/51XyhYcUnLL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Plumero de aire comprimido, soplador de mano de 280000 RPM con 4</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$98.595 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+                "url": "https://www.amazon.com/dp/B0GWZKRRYD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWZKRRYD"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GWZKRRYD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWZKRRYD",
+        "deal_snapshot": {
+          "asin": "B0GWZKRRYD",
+          "title": "Plumero de aire comprimido, soplador de mano de 280000 RPM con 4",
+          "price_usd": 28.48,
+          "reference_price_usd": 49.99,
+          "discount_pct": 43,
+          "price_cop": 98595,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GWZKRRYD",
+      "title": "Plumero de aire comprimido, soplador de mano de 280000 RPM con 4",
+      "photo_url": "https://m.media-amazon.com/images/I/51XyhYcUnLL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-43% OFF)</b>\n📦 <b>Plumero de aire comprimido, soplador de mano de 280000 RPM con 4</b>\n\n💵 <b>Precio Hoy:</b> <b>$28.48 USD</b> (<i>~$98.595 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-43% OFF</b> · <b>Ahorras $21.51 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.52 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($28.48 USD)",
+              "url": "https://www.amazon.com/dp/B0GWZKRRYD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWZKRRYD"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GWZKRRYD?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GWZKRRYD",
+      "deal_snapshot": {
+        "asin": "B0GWZKRRYD",
+        "title": "Plumero de aire comprimido, soplador de mano de 280000 RPM con 4",
+        "price_usd": 28.48,
+        "reference_price_usd": 49.99,
+        "discount_pct": 43,
+        "price_cop": 98595,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0GX8KQ5JX",
     "title": "Plumero de aire comprimido, 280000 RPM, súper potente, kit de limpieza de PC ajustable de 4 engranajes con pantalla LCD y luz LED, soplador de aire de carga rápida para PC, teclado, automóvil",
     "timestamp": "2026-11-21T08:23:24.088016+00:00",
