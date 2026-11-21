@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B07XFPSZ58",
+    "title": "Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2",
+    "timestamp": "2026-11-21T18:53:36.989035+00:00",
+    "timestamp_colombia": "2026-11-21T13:53:36.989035-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B07XFPSZ58",
+      "title": "Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 218.49,
+      "list_price_usd": 299.99,
+      "avg_90d_usd": 299.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61r4Cgox-6L._AC_SL1350_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 299.99,
+      "discount_pct": 27.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 27.2,
+      "price_vs_90d_badge": "📉 27.2% más barato que su promedio de 90 días ($299.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 41.51,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 260.0,
+      "price_cop": 756395,
+      "price_cop_formatted": "$756.395 COP",
+      "total_landed_cop": 900099,
+      "total_landed_cop_formatted": "$900.099 COP",
+      "savings_usd": 81.5,
+      "savings_cop": 282146,
+      "savings_cop_formatted": "$282.146 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B07XFPSZ58?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07XFPSZ58",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-21T18:50:18.632314+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$218.49 USD</b> (<i>~$756.395 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $81.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61r4Cgox-6L._AC_SL1350_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$218.49 USD</b> (<i>~$756.395 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $81.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($218.49 USD)",
+                "url": "https://www.amazon.com/dp/B07XFPSZ58?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07XFPSZ58"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 280,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795287218,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARhrAeiyzCm1ozZcuH_xr4bDJDP9gAAC6Q1rGz3xEUS_pIYzHHgV2AEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD6Q1rGz3xEUR4",
+              "file_size": 1715,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARhrAeiyzCm1ozZcuH_xr4bDJDP9gAAC6Q1rGz3xEUS_pIYzHHgV2AEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD6Q1rGz3xEURy",
+              "file_size": 23271,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARhrAeiyzCm1ozZcuH_xr4bDJDP9gAAC6Q1rGz3xEUS_pIYzHHgV2AEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD6Q1rGz3xEUR9",
+              "file_size": 93147,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARhrAeiyzCm1ozZcuH_xr4bDJDP9gAAC6Q1rGz3xEUS_pIYzHHgV2AEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD6Q1rGz3xEUR-",
+              "file_size": 138001,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-27% OFF)\n📦 Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2\n\n💵 Precio Hoy: $218.49 USD (~$756.395 COP · TRM $3.462)\n📉 Más barato que antes: Antes $299.99 USD → Hoy -27% OFF · Ahorras $81.50 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 150,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 181,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 227,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 445,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 531,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 696,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 711,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 724,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($218.49 USD)",
+                  "url": "https://www.amazon.com/dp/B07XFPSZ58?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07XFPSZ58"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B07XFPSZ58",
+        "title": "Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2",
+        "photo_url": "https://m.media-amazon.com/images/I/61r4Cgox-6L._AC_SL1350_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$218.49 USD</b> (<i>~$756.395 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $81.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($218.49 USD)",
+                "url": "https://www.amazon.com/dp/B07XFPSZ58?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07XFPSZ58"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B07XFPSZ58?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07XFPSZ58",
+        "deal_snapshot": {
+          "asin": "B07XFPSZ58",
+          "title": "Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2",
+          "price_usd": 218.49,
+          "reference_price_usd": 299.99,
+          "discount_pct": 27,
+          "price_cop": 756395,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B07XFPSZ58",
+      "title": "Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2",
+      "photo_url": "https://m.media-amazon.com/images/I/61r4Cgox-6L._AC_SL1350_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$218.49 USD</b> (<i>~$756.395 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $81.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($218.49 USD)",
+              "url": "https://www.amazon.com/dp/B07XFPSZ58?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07XFPSZ58"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B07XFPSZ58?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07XFPSZ58",
+      "deal_snapshot": {
+        "asin": "B07XFPSZ58",
+        "title": "Pop-A-Shot Dual Shot Sport | Baloncesto electrónico de arcada interior de 2",
+        "price_usd": 218.49,
+        "reference_price_usd": 299.99,
+        "discount_pct": 27,
+        "price_cop": 756395,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
     "asin": "B0BQJMPYDX",
     "title": "HUION Keydial Mini teclado programable Bluetooth con dial 18 teclas de",
     "timestamp": "2026-11-21T18:12:57.389169+00:00",
