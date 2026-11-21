@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B07CXNB571",
+    "title": "USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x",
+    "timestamp": "2026-11-21T22:53:10.516043+00:00",
+    "timestamp_colombia": "2026-11-21T17:53:10.516043-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B07CXNB571",
+      "title": "USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 16.14,
+      "list_price_usd": 20.99,
+      "avg_90d_usd": 20.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71VJ42yDVVL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 20.99,
+      "discount_pct": 23.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 23.1,
+      "price_vs_90d_badge": "📉 23.1% más barato que su promedio de 90 días ($20.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 28.09,
+      "price_cop": 55875,
+      "price_cop_formatted": "$55.875 COP",
+      "total_landed_cop": 97245,
+      "total_landed_cop_formatted": "$97.245 COP",
+      "savings_usd": 4.85,
+      "savings_cop": 16790,
+      "savings_cop_formatted": "$16.790 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $18.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B07CXNB571?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07CXNB571",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-21T22:50:23.983178+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$55.875 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$20.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $4.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $18.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71VJ42yDVVL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$55.875 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$20.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $4.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $18.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+                "url": "https://www.amazon.com/dp/B07CXNB571?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07CXNB571"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 285,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795301594,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR1rAiDaZ0RhK1OiAr-XTDqPhFi1DQAC_g1rGz3xEUSZPU-mEMXqEwEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD_g1rGz3xEUR4",
+              "file_size": 1900,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR1rAiDaZ0RhK1OiAr-XTDqPhFi1DQAC_g1rGz3xEUSZPU-mEMXqEwEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD_g1rGz3xEURy",
+              "file_size": 25458,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR1rAiDaZ0RhK1OiAr-XTDqPhFi1DQAC_g1rGz3xEUSZPU-mEMXqEwEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD_g1rGz3xEUR9",
+              "file_size": 97267,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR1rAiDaZ0RhK1OiAr-XTDqPhFi1DQAC_g1rGz3xEUSZPU-mEMXqEwEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD_g1rGz3xEUR-",
+              "file_size": 141500,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-23% OFF)\n📦 USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x\n\n💵 Precio Hoy: $16.14 USD (~$55.875 COP · TRM $3.462)\n📉 Más barato que antes: Antes $20.99 USD → Hoy -23% OFF · Ahorras $4.85 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $18.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 199,
+              "type": "bold"
+            },
+            {
+              "offset": 249,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 273,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 303,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 331,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 348,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 359,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 381,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 581,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 667,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 815,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 830,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 843,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+                  "url": "https://www.amazon.com/dp/B07CXNB571?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07CXNB571"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B07CXNB571",
+        "title": "USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x",
+        "photo_url": "https://m.media-amazon.com/images/I/71VJ42yDVVL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$55.875 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$20.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $4.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $18.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+                "url": "https://www.amazon.com/dp/B07CXNB571?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07CXNB571"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B07CXNB571?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07CXNB571",
+        "deal_snapshot": {
+          "asin": "B07CXNB571",
+          "title": "USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x",
+          "price_usd": 16.14,
+          "reference_price_usd": 20.99,
+          "discount_pct": 23,
+          "price_cop": 55875,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B07CXNB571",
+      "title": "USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x",
+      "photo_url": "https://m.media-amazon.com/images/I/71VJ42yDVVL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-23% OFF)</b>\n📦 <b>USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x</b>\n\n💵 <b>Precio Hoy:</b> <b>$16.14 USD</b> (<i>~$55.875 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$20.99 USD</s> → Hoy <b>-23% OFF</b> · <b>Ahorras $4.85 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $18.86 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($16.14 USD)",
+              "url": "https://www.amazon.com/dp/B07CXNB571?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07CXNB571"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B07CXNB571?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07CXNB571",
+      "deal_snapshot": {
+        "asin": "B07CXNB571",
+        "title": "USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x",
+        "price_usd": 16.14,
+        "reference_price_usd": 20.99,
+        "discount_pct": 23,
+        "price_cop": 55875,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H7YX328P",
+    "title": "Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono",
+    "timestamp": "2026-11-21T22:53:08.848176+00:00",
+    "timestamp_colombia": "2026-11-21T17:53:08.848176-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H7YX328P",
+      "title": "Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 29.0,
+      "list_price_usd": 39.0,
+      "avg_90d_usd": 39.0,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81g1uadjiFL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 39.0,
+      "discount_pct": 25.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 25.6,
+      "price_vs_90d_badge": "📉 25.6% más barato que su promedio de 90 días ($39.00 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 40.95,
+      "price_cop": 100396,
+      "price_cop_formatted": "$100.396 COP",
+      "total_landed_cop": 141766,
+      "total_landed_cop_formatted": "$141.766 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 34619,
+      "savings_cop_formatted": "$34.619 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $6.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H7YX328P?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7YX328P",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-21T22:50:23.983178+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.00 USD</b> (<i>~$100.396 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$39.00 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81g1uadjiFL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.00 USD</b> (<i>~$100.396 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$39.00 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.00 USD)",
+                "url": "https://www.amazon.com/dp/B0H7YX328P?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7YX328P"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 284,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795301590,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARxrAiDWg3Zp4LGH2MjeqAYh-X2lCAAC_Q1rGz3xEURcamJabvIG6gEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD_Q1rGz3xEUR4",
+              "file_size": 1855,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARxrAiDWg3Zp4LGH2MjeqAYh-X2lCAAC_Q1rGz3xEURcamJabvIG6gEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD_Q1rGz3xEURy",
+              "file_size": 24129,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARxrAiDWg3Zp4LGH2MjeqAYh-X2lCAAC_Q1rGz3xEURcamJabvIG6gEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD_Q1rGz3xEUR9",
+              "file_size": 104849,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACARxrAiDWg3Zp4LGH2MjeqAYh-X2lCAAC_Q1rGz3xEURcamJabvIG6gEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD_Q1rGz3xEUR-",
+              "file_size": 170422,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-26% OFF)\n📦 Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono\n\n💵 Precio Hoy: $29.00 USD (~$100.396 COP · TRM $3.462)\n📉 Más barato que antes: Antes $39.00 USD → Hoy -26% OFF · Ahorras $10.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $6.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 195,
+              "type": "bold"
+            },
+            {
+              "offset": 245,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 257,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 269,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 300,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 328,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 345,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 356,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 379,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 579,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 665,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 812,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 827,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 840,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.00 USD)",
+                  "url": "https://www.amazon.com/dp/B0H7YX328P?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7YX328P"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H7YX328P",
+        "title": "Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono",
+        "photo_url": "https://m.media-amazon.com/images/I/81g1uadjiFL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.00 USD</b> (<i>~$100.396 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$39.00 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.00 USD)",
+                "url": "https://www.amazon.com/dp/B0H7YX328P?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7YX328P"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H7YX328P?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7YX328P",
+        "deal_snapshot": {
+          "asin": "B0H7YX328P",
+          "title": "Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono",
+          "price_usd": 29.0,
+          "reference_price_usd": 39.0,
+          "discount_pct": 26,
+          "price_cop": 100396,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H7YX328P",
+      "title": "Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono",
+      "photo_url": "https://m.media-amazon.com/images/I/81g1uadjiFL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.00 USD</b> (<i>~$100.396 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$39.00 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $6.00 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.00 USD)",
+              "url": "https://www.amazon.com/dp/B0H7YX328P?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7YX328P"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H7YX328P?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H7YX328P",
+      "deal_snapshot": {
+        "asin": "B0H7YX328P",
+        "title": "Ridge Tracker - Tarjeta compatible con Apple Find My, compatible con Android Slim Tracking Card – Buscador de billeteras, localizador de artículos para etiquetas de equipaje, pasaportes, teléfono",
+        "price_usd": 29.0,
+        "reference_price_usd": 39.0,
+        "discount_pct": 26,
+        "price_cop": 100396,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H1YLJDBH",
     "title": "STANLEY IceFlow Flip Straw 2.0 Bottle, 24 oz, Honeydew Garden",
     "timestamp": "2026-11-21T22:33:09.585734+00:00",
