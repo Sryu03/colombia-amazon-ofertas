@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0FMBGXC2C",
+    "title": "Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color",
+    "timestamp": "2026-11-22T08:03:37.231427+00:00",
+    "timestamp_colombia": "2026-11-22T03:03:37.231427-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FMBGXC2C",
+      "title": "Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 56.05,
+      "list_price_usd": 107.99,
+      "avg_90d_usd": 107.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 3.93,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61K3tO6BI9L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 107.99,
+      "discount_pct": 48.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 48.1,
+      "price_vs_90d_badge": "📉 48.1% más barato que su promedio de 90 días ($107.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 56.05,
+      "price_cop": 232608,
+      "price_cop_formatted": "$232.608 COP",
+      "total_landed_cop": 232608,
+      "total_landed_cop_formatted": "$232.608 COP",
+      "savings_usd": 51.94,
+      "savings_cop": 215551,
+      "savings_cop_formatted": "$215.551 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FMBGXC2C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBGXC2C",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-22T08:00:25.345277+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-48% OFF)</b>\n📦 <b>Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.05 USD</b> (<i>~$232.608 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$107.99 USD</s> → Hoy <b>-48% OFF</b> · <b>Ahorras $51.94 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61K3tO6BI9L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-48% OFF)</b>\n📦 <b>Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.05 USD</b> (<i>~$232.608 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$107.99 USD</s> → Hoy <b>-48% OFF</b> · <b>Ahorras $51.94 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($56.05 USD)",
+                "url": "https://www.amazon.com/dp/B0FMBGXC2C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBGXC2C"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 291,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795334621,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASNrAqHdRNUMUJaKzsjszmtFesHinwACZA5rGz3xEUSxXZZMKEli1QEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADZA5rGz3xEUR4",
+              "file_size": 1795,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASNrAqHdRNUMUJaKzsjszmtFesHinwACZA5rGz3xEUSxXZZMKEli1QEAAwIAA20AAz0E",
+              "file_unique_id": "AQADZA5rGz3xEURy",
+              "file_size": 24122,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASNrAqHdRNUMUJaKzsjszmtFesHinwACZA5rGz3xEUSxXZZMKEli1QEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADZA5rGz3xEUR9",
+              "file_size": 95559,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASNrAqHdRNUMUJaKzsjszmtFesHinwACZA5rGz3xEUSxXZZMKEli1QEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADZA5rGz3xEUR-",
+              "file_size": 142648,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-48% OFF)\n📦 Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color\n\n💵 Precio Hoy: $56.05 USD (~$232.608 COP · TRM $4.150)\n📉 Más barato que antes: Antes $107.99 USD → Hoy -48% OFF · Ahorras $51.94 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 152,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 183,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 211,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 229,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 240,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 263,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 445,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 531,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 725,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 740,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 753,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($56.05 USD)",
+                  "url": "https://www.amazon.com/dp/B0FMBGXC2C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBGXC2C"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FMBGXC2C",
+        "title": "Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color",
+        "photo_url": "https://m.media-amazon.com/images/I/61K3tO6BI9L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-48% OFF)</b>\n📦 <b>Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.05 USD</b> (<i>~$232.608 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$107.99 USD</s> → Hoy <b>-48% OFF</b> · <b>Ahorras $51.94 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($56.05 USD)",
+                "url": "https://www.amazon.com/dp/B0FMBGXC2C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBGXC2C"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FMBGXC2C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBGXC2C",
+        "deal_snapshot": {
+          "asin": "B0FMBGXC2C",
+          "title": "Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color",
+          "price_usd": 56.05,
+          "reference_price_usd": 107.99,
+          "discount_pct": 48,
+          "price_cop": 232608,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FMBGXC2C",
+      "title": "Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color",
+      "photo_url": "https://m.media-amazon.com/images/I/61K3tO6BI9L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-48% OFF)</b>\n📦 <b>Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$56.05 USD</b> (<i>~$232.608 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$107.99 USD</s> → Hoy <b>-48% OFF</b> · <b>Ahorras $51.94 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($56.05 USD)",
+              "url": "https://www.amazon.com/dp/B0FMBGXC2C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBGXC2C"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FMBGXC2C?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBGXC2C",
+      "deal_snapshot": {
+        "asin": "B0FMBGXC2C",
+        "title": "Canon PIXMA TS4320 - Impresora inalámbrica de inyección de tinta a color",
+        "price_usd": 56.05,
+        "reference_price_usd": 107.99,
+        "discount_pct": 48,
+        "price_cop": 232608,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0FMBTJLX6",
+    "title": "Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color",
+    "timestamp": "2026-11-22T08:03:34.907444+00:00",
+    "timestamp_colombia": "2026-11-22T03:03:34.907444-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FMBTJLX6",
+      "title": "Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 68.99,
+      "list_price_usd": 140.99,
+      "avg_90d_usd": 140.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.24,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51C2sIAqn2L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 140.99,
+      "discount_pct": 51.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 51.1,
+      "price_vs_90d_badge": "📉 51.1% más barato que su promedio de 90 días ($140.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 68.99,
+      "price_cop": 286308,
+      "price_cop_formatted": "$286.308 COP",
+      "total_landed_cop": 286308,
+      "total_landed_cop_formatted": "$286.308 COP",
+      "savings_usd": 72.0,
+      "savings_cop": 298800,
+      "savings_cop_formatted": "$298.800 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0FMBTJLX6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBTJLX6",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-22T08:00:25.345277+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-51% OFF)</b>\n📦 <b>Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$68.99 USD</b> (<i>~$286.308 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$140.99 USD</s> → Hoy <b>-51% OFF</b> · <b>Ahorras $72.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51C2sIAqn2L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-51% OFF)</b>\n📦 <b>Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$68.99 USD</b> (<i>~$286.308 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$140.99 USD</s> → Hoy <b>-51% OFF</b> · <b>Ahorras $72.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($68.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FMBTJLX6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBTJLX6"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 290,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795334616,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASJrAqHYX7yg97JJwjCmVHO7k3UQ4QACYw5rGz3xEURPrkXG0FIFXQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADYw5rGz3xEUR4",
+              "file_size": 1798,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASJrAqHYX7yg97JJwjCmVHO7k3UQ4QACYw5rGz3xEURPrkXG0FIFXQEAAwIAA20AAz0E",
+              "file_unique_id": "AQADYw5rGz3xEURy",
+              "file_size": 24148,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASJrAqHYX7yg97JJwjCmVHO7k3UQ4QACYw5rGz3xEURPrkXG0FIFXQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADYw5rGz3xEUR9",
+              "file_size": 96142,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASJrAqHYX7yg97JJwjCmVHO7k3UQ4QACYw5rGz3xEURPrkXG0FIFXQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADYw5rGz3xEUR-",
+              "file_size": 143628,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-51% OFF)\n📦 Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color\n\n💵 Precio Hoy: $68.99 USD (~$286.308 COP · TRM $4.150)\n📉 Más barato que antes: Antes $140.99 USD → Hoy -51% OFF · Ahorras $72.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 70,
+              "type": "bold"
+            },
+            {
+              "offset": 126,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 138,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 150,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 181,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 227,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 261,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 443,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 529,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 723,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 738,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 751,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($68.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FMBTJLX6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBTJLX6"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FMBTJLX6",
+        "title": "Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color",
+        "photo_url": "https://m.media-amazon.com/images/I/51C2sIAqn2L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-51% OFF)</b>\n📦 <b>Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$68.99 USD</b> (<i>~$286.308 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$140.99 USD</s> → Hoy <b>-51% OFF</b> · <b>Ahorras $72.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($68.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FMBTJLX6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBTJLX6"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FMBTJLX6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBTJLX6",
+        "deal_snapshot": {
+          "asin": "B0FMBTJLX6",
+          "title": "Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color",
+          "price_usd": 68.99,
+          "reference_price_usd": 140.99,
+          "discount_pct": 51,
+          "price_cop": 286308,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FMBTJLX6",
+      "title": "Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color",
+      "photo_url": "https://m.media-amazon.com/images/I/51C2sIAqn2L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-51% OFF)</b>\n📦 <b>Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color</b>\n\n💵 <b>Precio Hoy:</b> <b>$68.99 USD</b> (<i>~$286.308 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$140.99 USD</s> → Hoy <b>-51% OFF</b> · <b>Ahorras $72.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($68.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FMBTJLX6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBTJLX6"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FMBTJLX6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FMBTJLX6",
+      "deal_snapshot": {
+        "asin": "B0FMBTJLX6",
+        "title": "Canon PIXMA TS6520 Impresora inalámbrica de inyección de tinta a color",
+        "price_usd": 68.99,
+        "reference_price_usd": 140.99,
+        "discount_pct": 51,
+        "price_cop": 286308,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0DQTBM6NK",
     "title": "Donner Juego de batería eléctrica, DED-70 Kit de batería electrónica para principiantes con 150 sonidos, 4 almohadillas de malla silenciosa, platillos de 9 pulgadas, USB MIDI, carga tipo C, 2 pedales, trono, auriculares, palos, lecciones de melódica",
     "timestamp": "2026-11-22T07:33:14.886599+00:00",
