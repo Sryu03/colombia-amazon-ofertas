@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0F2MR53D6",
+    "title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G",
+    "timestamp": "2026-11-22T02:43:17.344778+00:00",
+    "timestamp_colombia": "2026-11-21T21:43:17.344778-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0F2MR53D6",
+      "title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 127.99,
+      "list_price_usd": 159.99,
+      "avg_90d_usd": 159.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/51ECXid1nLL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 159.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($159.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 127.99,
+      "price_cop": 443091,
+      "price_cop_formatted": "$443.091 COP",
+      "total_landed_cop": 443091,
+      "total_landed_cop_formatted": "$443.091 COP",
+      "savings_usd": 32.0,
+      "savings_cop": 110781,
+      "savings_cop_formatted": "$110.781 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0F2MR53D6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F2MR53D6",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-22T02:40:22.393437+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G</b>\n\n💵 <b>Precio Hoy:</b> <b>$127.99 USD</b> (<i>~$443.091 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$159.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/51ECXid1nLL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G</b>\n\n💵 <b>Precio Hoy:</b> <b>$127.99 USD</b> (<i>~$443.091 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$159.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($127.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F2MR53D6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F2MR53D6"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 286,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795315399,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR5rAlbH2mFc7bRI-SVpP3Fo5f0q5gACEQ5rGz3xEUSvEX3Hl9l4fAEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADEQ5rGz3xEUR4",
+              "file_size": 1855,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR5rAlbH2mFc7bRI-SVpP3Fo5f0q5gACEQ5rGz3xEUSvEX3Hl9l4fAEAAwIAA20AAz0E",
+              "file_unique_id": "AQADEQ5rGz3xEURy",
+              "file_size": 24064,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR5rAlbH2mFc7bRI-SVpP3Fo5f0q5gACEQ5rGz3xEUSvEX3Hl9l4fAEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADEQ5rGz3xEUR9",
+              "file_size": 91822,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR5rAlbH2mFc7bRI-SVpP3Fo5f0q5gACEQ5rGz3xEUSvEX3Hl9l4fAEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADEQ5rGz3xEUR-",
+              "file_size": 134746,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G\n\n💵 Precio Hoy: $127.99 USD (~$443.091 COP · TRM $3.462)\n📉 Más barato que antes: Antes $159.99 USD → Hoy -20% OFF · Ahorras $32.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 70,
+              "type": "bold"
+            },
+            {
+              "offset": 120,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 132,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 145,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 176,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 204,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 222,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 233,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 256,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 438,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 524,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 718,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 733,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 746,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($127.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0F2MR53D6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F2MR53D6"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F2MR53D6",
+        "title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G",
+        "photo_url": "https://m.media-amazon.com/images/I/51ECXid1nLL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G</b>\n\n💵 <b>Precio Hoy:</b> <b>$127.99 USD</b> (<i>~$443.091 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$159.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($127.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F2MR53D6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F2MR53D6"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F2MR53D6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F2MR53D6",
+        "deal_snapshot": {
+          "asin": "B0F2MR53D6",
+          "title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G",
+          "price_usd": 127.99,
+          "reference_price_usd": 159.99,
+          "discount_pct": 20,
+          "price_cop": 443091,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F2MR53D6",
+      "title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G",
+      "photo_url": "https://m.media-amazon.com/images/I/51ECXid1nLL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G</b>\n\n💵 <b>Precio Hoy:</b> <b>$127.99 USD</b> (<i>~$443.091 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$159.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $32.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($127.99 USD)",
+              "url": "https://www.amazon.com/dp/B0F2MR53D6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F2MR53D6"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F2MR53D6?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F2MR53D6",
+      "deal_snapshot": {
+        "asin": "B0F2MR53D6",
+        "title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G",
+        "price_usd": 127.99,
+        "reference_price_usd": 159.99,
+        "discount_pct": 20,
+        "price_cop": 443091,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B07CXNB571",
     "title": "USX Mount Soporte de pared inclinable para TV con certificación UL, perfil bajo para la mayoría de LED de pantalla plana de 26 a 60 pulgadas, LCD, televisores curvos, soporte inclinable VESA 15.748 x",
     "timestamp": "2026-11-21T22:53:10.516043+00:00",
