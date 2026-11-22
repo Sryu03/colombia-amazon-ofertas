@@ -26,11 +26,11 @@
       ]
     },
     "zero_token_mode": true,
-    "monitored_products_count": 0,
+    "monitored_products_count": 1,
     "active_deals_count": 32,
     "new_price_drops_count": 0,
     "telegram_delivery_status": {
-      "checked_at": "2026-11-22T23:10:40.015308+00:00",
+      "checked_at": "2026-11-22T23:20:44.420039+00:00",
       "token_configured": true,
       "chat_id": "@pillepues",
       "source": "none",
@@ -45,27 +45,34 @@
       "require_live_detail": true,
       "require_colombia_confirmation": true,
       "allow_locker_deals": false,
-      "audited_count": 0,
+      "audited_count": 1,
       "approved_count": 0,
-      "rejected_count": 0,
-      "rejected_reasons": {},
-      "rejected_samples": []
+      "rejected_count": 1,
+      "rejected_reasons": {
+        "colombia_shipping_unconfirmed:US_OR_UNKNOWN": 1
+      },
+      "rejected_samples": [
+        {
+          "asin": "B0HJ9ZNRKT",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
+        }
+      ]
     },
     "scraper_telemetry": {
       "mode": "live",
-      "target_asins_count": 192,
+      "target_asins_count": 185,
       "max_live_asins": 60,
       "pre_verified_count": 0,
-      "attempted_count": 10,
-      "parsed_ok_count": 0,
-      "live_verified_count": 0,
+      "attempted_count": 11,
+      "parsed_ok_count": 1,
+      "live_verified_count": 1,
       "fetch_failures_count": 10,
       "outcome_counts": {
         "curl_safari17_0:captcha": 10
       },
       "colombia_co_count": 0,
       "blocked_co_count": 0,
-      "us_or_unknown_count": 0,
+      "us_or_unknown_count": 1,
       "missing_buybox_count": 0,
       "aborted_early_reason": "consecutive_failures_10",
       "attempted_asins": [
@@ -78,14 +85,19 @@
         "B0H8DDDSS4",
         "B0HGPNSC3G",
         "B0HCYX8QBJ",
-        "B0H7YX328P"
+        "B0H7YX328P",
+        "B0HGQK86HR"
       ],
       "sample_outcomes": [
         {
           "asin": "B0HJ9ZNRKT",
-          "client": "curl_safari17_0",
-          "status": 200,
-          "outcome": "captcha"
+          "outcome": "parsed_ok",
+          "price_usd": 179.0,
+          "list_price_usd": 249.0,
+          "dest": "US_OR_UNKNOWN",
+          "ingress": "",
+          "has_buybox": true,
+          "live_verified": true
         },
         {
           "asin": "B0HJ9ZXCSD",
@@ -146,10 +158,10 @@
         "boot_status": 200,
         "boot_captcha": true
       },
-      "discovery_new_asins": 22,
-      "discovery_parsed_leads": 71
+      "discovery_new_asins": 21,
+      "discovery_parsed_leads": 70
     },
-    "last_live_check_at": "2026-11-22T23:10:21.950349+00:00"
+    "last_live_check_at": "2026-11-22T23:20:22.902055+00:00"
   },
   "deals": [
     {
