@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0F1J12R6N",
+    "title": "XBOX Wireless Gaming Controller | Shock Blue",
+    "timestamp": "2026-11-22T06:52:54.648802+00:00",
+    "timestamp_colombia": "2026-11-22T01:52:54.648802-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0F1J12R6N",
+      "title": "XBOX Wireless Gaming Controller | Shock Blue",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 48.99,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61RiSsDfveL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 30.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.0,
+      "price_vs_90d_badge": "📉 30.0% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 48.99,
+      "price_cop": 169599,
+      "price_cop_formatted": "$169.599 COP",
+      "total_landed_cop": 169599,
+      "total_landed_cop_formatted": "$169.599 COP",
+      "savings_usd": 21.0,
+      "savings_cop": 72700,
+      "savings_cop_formatted": "$72.700 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0F1J12R6N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1J12R6N",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-22T06:50:16.478828+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>XBOX Wireless Gaming Controller | Shock Blue</b>\n\n💵 <b>Precio Hoy:</b> <b>$48.99 USD</b> (<i>~$169.599 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61RiSsDfveL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>XBOX Wireless Gaming Controller | Shock Blue</b>\n\n💵 <b>Precio Hoy:</b> <b>$48.99 USD</b> (<i>~$169.599 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($48.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F1J12R6N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1J12R6N"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 287,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795330376,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR9rApFI9bfgjfgXdIxsUHQUXF3mPQACYA5rGz3xEUSYIeq-BWiM-QEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADYA5rGz3xEUR4",
+              "file_size": 1931,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR9rApFI9bfgjfgXdIxsUHQUXF3mPQACYA5rGz3xEUSYIeq-BWiM-QEAAwIAA20AAz0E",
+              "file_unique_id": "AQADYA5rGz3xEURy",
+              "file_size": 24288,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR9rApFI9bfgjfgXdIxsUHQUXF3mPQACYA5rGz3xEUSYIeq-BWiM-QEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADYA5rGz3xEUR9",
+              "file_size": 93360,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAR9rApFI9bfgjfgXdIxsUHQUXF3mPQACYA5rGz3xEUSYIeq-BWiM-QEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADYA5rGz3xEUR-",
+              "file_size": 140839,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 XBOX Wireless Gaming Controller | Shock Blue\n\n💵 Precio Hoy: $48.99 USD (~$169.599 COP · TRM $3.462)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -30% OFF · Ahorras $21.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 94,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 106,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 118,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 149,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 177,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 194,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 205,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 228,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 410,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 496,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 690,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 705,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 718,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($48.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0F1J12R6N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1J12R6N"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0F1J12R6N",
+        "title": "XBOX Wireless Gaming Controller | Shock Blue",
+        "photo_url": "https://m.media-amazon.com/images/I/61RiSsDfveL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>XBOX Wireless Gaming Controller | Shock Blue</b>\n\n💵 <b>Precio Hoy:</b> <b>$48.99 USD</b> (<i>~$169.599 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($48.99 USD)",
+                "url": "https://www.amazon.com/dp/B0F1J12R6N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1J12R6N"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0F1J12R6N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1J12R6N",
+        "deal_snapshot": {
+          "asin": "B0F1J12R6N",
+          "title": "XBOX Wireless Gaming Controller | Shock Blue",
+          "price_usd": 48.99,
+          "reference_price_usd": 69.99,
+          "discount_pct": 30,
+          "price_cop": 169599,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0F1J12R6N",
+      "title": "XBOX Wireless Gaming Controller | Shock Blue",
+      "photo_url": "https://m.media-amazon.com/images/I/61RiSsDfveL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>XBOX Wireless Gaming Controller | Shock Blue</b>\n\n💵 <b>Precio Hoy:</b> <b>$48.99 USD</b> (<i>~$169.599 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $21.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($48.99 USD)",
+              "url": "https://www.amazon.com/dp/B0F1J12R6N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1J12R6N"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0F1J12R6N?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0F1J12R6N",
+      "deal_snapshot": {
+        "asin": "B0F1J12R6N",
+        "title": "XBOX Wireless Gaming Controller | Shock Blue",
+        "price_usd": 48.99,
+        "reference_price_usd": 69.99,
+        "discount_pct": 30,
+        "price_cop": 169599,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0F2MR53D6",
     "title": "GL.iNet GL-BE3600 Slate 7 Wi-Fi 7 Router de viaje Pantalla táctil 2.5G",
     "timestamp": "2026-11-22T02:43:17.344778+00:00",
