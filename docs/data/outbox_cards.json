@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B01HHRDXWK",
+    "title": "Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)",
+    "timestamp": "2026-11-22T16:03:38.817185+00:00",
+    "timestamp_colombia": "2026-11-22T11:03:38.817185-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B01HHRDXWK",
+      "title": "Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 18.99,
+      "list_price_usd": 25.99,
+      "avg_90d_usd": 25.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71oE25m-vuL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 25.99,
+      "discount_pct": 26.9,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 26.9,
+      "price_vs_90d_badge": "📉 26.9% más barato que su promedio de 90 días ($25.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 30.94,
+      "price_cop": 65742,
+      "price_cop_formatted": "$65.742 COP",
+      "total_landed_cop": 107112,
+      "total_landed_cop_formatted": "$107.112 COP",
+      "savings_usd": 7.0,
+      "savings_cop": 24233,
+      "savings_cop_formatted": "$24.233 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B01HHRDXWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01HHRDXWK",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-22T16:00:22.324866+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$65.742 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$25.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $7.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71oE25m-vuL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$65.742 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$25.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $7.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+                "url": "https://www.amazon.com/dp/B01HHRDXWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01HHRDXWK"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 294,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795363420,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASZrAxJc9GcAAUP4k3Sv9r7NxHHkarEAAgMOaxs98RlEDbQGOJodMGoBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADAw5rGz3xGUR4",
+              "file_size": 2001,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASZrAxJc9GcAAUP4k3Sv9r7NxHHkarEAAgMOaxs98RlEDbQGOJodMGoBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADAw5rGz3xGURy",
+              "file_size": 29028,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASZrAxJc9GcAAUP4k3Sv9r7NxHHkarEAAgMOaxs98RlEDbQGOJodMGoBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADAw5rGz3xGUR9",
+              "file_size": 117890,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASZrAxJc9GcAAUP4k3Sv9r7NxHHkarEAAgMOaxs98RlEDbQGOJodMGoBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADAw5rGz3xGUR-",
+              "file_size": 177284,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-27% OFF)\n📦 Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)\n\n💵 Precio Hoy: $18.99 USD (~$65.742 COP · TRM $3.462)\n📉 Más barato que antes: Antes $25.99 USD → Hoy -27% OFF · Ahorras $7.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 128,
+              "type": "bold"
+            },
+            {
+              "offset": 178,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 190,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 232,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 260,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 277,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 288,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 310,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 510,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 596,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 744,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 759,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 772,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+                  "url": "https://www.amazon.com/dp/B01HHRDXWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01HHRDXWK"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B01HHRDXWK",
+        "title": "Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)",
+        "photo_url": "https://m.media-amazon.com/images/I/71oE25m-vuL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$65.742 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$25.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $7.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+                "url": "https://www.amazon.com/dp/B01HHRDXWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01HHRDXWK"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B01HHRDXWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01HHRDXWK",
+        "deal_snapshot": {
+          "asin": "B01HHRDXWK",
+          "title": "Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)",
+          "price_usd": 18.99,
+          "reference_price_usd": 25.99,
+          "discount_pct": 27,
+          "price_cop": 65742,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B01HHRDXWK",
+      "title": "Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)",
+      "photo_url": "https://m.media-amazon.com/images/I/71oE25m-vuL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-27% OFF)</b>\n📦 <b>Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)</b>\n\n💵 <b>Precio Hoy:</b> <b>$18.99 USD</b> (<i>~$65.742 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$25.99 USD</s> → Hoy <b>-27% OFF</b> · <b>Ahorras $7.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $16.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($18.99 USD)",
+              "url": "https://www.amazon.com/dp/B01HHRDXWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01HHRDXWK"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B01HHRDXWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01HHRDXWK",
+      "deal_snapshot": {
+        "asin": "B01HHRDXWK",
+        "title": "Linterna de VIBELITE portátil con 3 luces LED. Telescópica, flexible, extensible. Cabezal magnético. 4 baterías LR44 (incluidas)",
+        "price_usd": 18.99,
+        "reference_price_usd": 25.99,
+        "discount_pct": 27,
+        "price_cop": 65742,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0F6NZWPTC",
     "title": "HyperX Auriculares inalámbricos para juegos Cloud III S | Compatibilidad",
     "timestamp": "2026-11-22T12:42:57.901440+00:00",
