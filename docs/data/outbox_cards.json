@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0FSZVJFNZ",
+    "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
+    "timestamp": "2026-11-23T09:13:18.047977+00:00",
+    "timestamp_colombia": "2026-11-23T04:13:18.047977-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FSZVJFNZ",
+      "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 6.99,
+      "list_price_usd": 9.99,
+      "avg_90d_usd": 9.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 9.99,
+      "discount_pct": 30.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.0,
+      "price_vs_90d_badge": "📉 30.0% más barato que su promedio de 90 días ($9.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 18.94,
+      "price_cop": 24199,
+      "price_cop_formatted": "$24.199 COP",
+      "total_landed_cop": 65569,
+      "total_landed_cop_formatted": "$65.569 COP",
+      "savings_usd": 3.0,
+      "savings_cop": 10386,
+      "savings_cop_formatted": "$10.386 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ",
+      "is_new_price_drop": true,
+      "previous_price_usd": 7.49,
+      "verified_at": "2026-11-23T09:10:17.832263+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$24.199 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$24.199 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 299,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795425199,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAStrBAOvi1S7nNI0NffG_SbGoX0ruQACPhFrG4SGIUT-uG5J3E1UfQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADPhFrG4SGIUR4",
+              "file_size": 1868,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAStrBAOvi1S7nNI0NffG_SbGoX0ruQACPhFrG4SGIUT-uG5J3E1UfQEAAwIAA20AAz0E",
+              "file_unique_id": "AQADPhFrG4SGIURy",
+              "file_size": 24377,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAStrBAOvi1S7nNI0NffG_SbGoX0ruQACPhFrG4SGIUT-uG5J3E1UfQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADPhFrG4SGIUR9",
+              "file_size": 94752,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAStrBAOvi1S7nNI0NffG_SbGoX0ruQACPhFrG4SGIUT-uG5J3E1UfQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADPhFrG4SGIUR-",
+              "file_size": 138310,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de\n\n💵 Precio Hoy: $6.99 USD (~$24.199 COP · TRM $3.462)\n📉 Más barato que antes: Antes $9.99 USD → Hoy -30% OFF · Ahorras $3.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 64,
+              "type": "bold"
+            },
+            {
+              "offset": 114,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 126,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 137,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 167,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 195,
+              "length": 9,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 211,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 222,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 244,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 444,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 530,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 678,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 693,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 706,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FSZVJFNZ",
+        "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
+        "photo_url": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$24.199 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+                "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ",
+        "deal_snapshot": {
+          "asin": "B0FSZVJFNZ",
+          "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
+          "price_usd": 6.99,
+          "reference_price_usd": 9.99,
+          "discount_pct": 30,
+          "price_cop": 24199,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FSZVJFNZ",
+      "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
+      "photo_url": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$6.99 USD</b> (<i>~$24.199 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $3.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $28.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($6.99 USD)",
+              "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ",
+      "deal_snapshot": {
+        "asin": "B0FSZVJFNZ",
+        "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
+        "price_usd": 6.99,
+        "reference_price_usd": 9.99,
+        "discount_pct": 30,
+        "price_cop": 24199,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B08L1119NH",
     "title": "BONTEC Elevador de soporte para monitor doble, longitud ajustable y ángulo",
     "timestamp": "2026-11-23T02:43:32.106068+00:00",
@@ -43093,319 +43406,6 @@
         "discount_pct": 50,
         "price_cop": 93375,
         "trm_cop": 4150.0,
-        "ships_to_colombia": true,
-        "free_shipping_co": false,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B0FSZVJFNZ",
-    "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
-    "timestamp": "2026-11-16T14:13:15.633810+00:00",
-    "timestamp_colombia": "2026-11-16T09:13:15.633810-05:00",
-    "is_colombia_peak_hour": false,
-    "deal": {
-      "asin": "B0FSZVJFNZ",
-      "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
-      "category": "Computadores",
-      "brand": "",
-      "price_usd": 7.99,
-      "list_price_usd": 9.99,
-      "avg_90d_usd": 9.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": false,
-      "shipping_cost_usd": 11.95,
-      "requires_locker": false,
-      "rating": 4.64,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 9.99,
-      "discount_pct": 20.0,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 20.0,
-      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($9.99 USD)",
-      "trm_cop": 3316.7,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 39635,
-      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 19.94,
-      "price_cop": 26500,
-      "price_cop_formatted": "$26.500 COP",
-      "total_landed_cop": 66135,
-      "total_landed_cop_formatted": "$66.135 COP",
-      "savings_usd": 2.0,
-      "savings_cop": 6633,
-      "savings_cop_formatted": "$6.633 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
-      "deal_tier": "⚡ GRAN OFERTA",
-      "approved_for_colombia": true,
-      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
-      "affiliate_url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ",
-      "is_new_price_drop": true,
-      "previous_price_usd": 8.49,
-      "verified_at": "2026-11-16T14:10:29.288184+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$26.500 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$26.500 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
-                "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 138,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1794838397,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADimr7D33PQwRiI_OJFzJVDcmqPH55AAJVDWsbURLhRxyBsnkrlo1fAQADAgADcwADPQQ",
-              "file_unique_id": "AQADVQ1rG1ES4Ud4",
-              "file_size": 1870,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADimr7D33PQwRiI_OJFzJVDcmqPH55AAJVDWsbURLhRxyBsnkrlo1fAQADAgADbQADPQQ",
-              "file_unique_id": "AQADVQ1rG1ES4Udy",
-              "file_size": 24364,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADimr7D33PQwRiI_OJFzJVDcmqPH55AAJVDWsbURLhRxyBsnkrlo1fAQADAgADeAADPQQ",
-              "file_unique_id": "AQADVQ1rG1ES4Ud9",
-              "file_size": 94607,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADimr7D33PQwRiI_OJFzJVDcmqPH55AAJVDWsbURLhRxyBsnkrlo1fAQADAgADeQADPQQ",
-              "file_unique_id": "AQADVQ1rG1ES4Ud-",
-              "file_size": 138302,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de\n\n💵 Precio Hoy: $7.99 USD (~$26.500 COP · TRM $3.317)\n📉 Más barato que antes: Antes $9.99 USD → Hoy -20% OFF · Ahorras $2.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 38,
-              "type": "bold"
-            },
-            {
-              "offset": 45,
-              "length": 64,
-              "type": "bold"
-            },
-            {
-              "offset": 114,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 126,
-              "length": 9,
-              "type": "bold"
-            },
-            {
-              "offset": 137,
-              "length": 12,
-              "type": "italic"
-            },
-            {
-              "offset": 167,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 195,
-              "length": 9,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 211,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 222,
-              "length": 17,
-              "type": "bold"
-            },
-            {
-              "offset": 244,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 444,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 530,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 678,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 693,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 706,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
-                  "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0FSZVJFNZ",
-        "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
-        "photo_url": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$26.500 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
-                "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ",
-        "deal_snapshot": {
-          "asin": "B0FSZVJFNZ",
-          "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
-          "price_usd": 7.99,
-          "reference_price_usd": 9.99,
-          "discount_pct": 20,
-          "price_cop": 26500,
-          "trm_cop": 3316.7,
-          "ships_to_colombia": true,
-          "free_shipping_co": false,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0FSZVJFNZ",
-      "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
-      "photo_url": "https://m.media-amazon.com/images/I/71lDCzSfVjL._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.99 USD</b> (<i>~$26.500 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $2.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($7.99 USD)",
-              "url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0FSZVJFNZ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FSZVJFNZ",
-      "deal_snapshot": {
-        "asin": "B0FSZVJFNZ",
-        "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
-        "price_usd": 7.99,
-        "reference_price_usd": 9.99,
-        "discount_pct": 20,
-        "price_cop": 26500,
-        "trm_cop": 3316.7,
         "ships_to_colombia": true,
         "free_shipping_co": false,
         "requires_locker": false,
