@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B01D8KOZF4",
+    "title": "Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino",
+    "timestamp": "2026-11-23T12:13:13.516256+00:00",
+    "timestamp_colombia": "2026-11-23T07:13:13.516256-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B01D8KOZF4",
+      "title": "Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 35.98,
+      "list_price_usd": 45.99,
+      "avg_90d_usd": 45.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/8128imcIcpL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 45.99,
+      "discount_pct": 21.8,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 21.8,
+      "price_vs_90d_badge": "📉 21.8% más barato que su promedio de 90 días ($45.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 35.98,
+      "price_cop": 124560,
+      "price_cop_formatted": "$124.560 COP",
+      "total_landed_cop": 124560,
+      "total_landed_cop_formatted": "$124.560 COP",
+      "savings_usd": 10.01,
+      "savings_cop": 34654,
+      "savings_cop_formatted": "$34.654 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B01D8KOZF4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01D8KOZF4",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-23T12:10:19.786741+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.98 USD</b> (<i>~$124.560 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/8128imcIcpL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.98 USD</b> (<i>~$124.560 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.98 USD)",
+                "url": "https://www.amazon.com/dp/B01D8KOZF4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01D8KOZF4"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 302,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795436000,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS5rBC3gXwpiRfOYShXtdT-Lxgb3GwACUhFrG4SGIUTFBTrThEWA6wEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADUhFrG4SGIUR4",
+              "file_size": 2019,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS5rBC3gXwpiRfOYShXtdT-Lxgb3GwACUhFrG4SGIUTFBTrThEWA6wEAAwIAA20AAz0E",
+              "file_unique_id": "AQADUhFrG4SGIURy",
+              "file_size": 31618,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS5rBC3gXwpiRfOYShXtdT-Lxgb3GwACUhFrG4SGIUTFBTrThEWA6wEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADUhFrG4SGIUR9",
+              "file_size": 136225,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS5rBC3gXwpiRfOYShXtdT-Lxgb3GwACUhFrG4SGIUTFBTrThEWA6wEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADUhFrG4SGIUR-",
+              "file_size": 207329,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-22% OFF)\n📦 Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino\n\n💵 Precio Hoy: $35.98 USD (~$124.560 COP · TRM $3.462)\n📉 Más barato que antes: Antes $45.99 USD → Hoy -22% OFF · Ahorras $10.01 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 69,
+              "type": "bold"
+            },
+            {
+              "offset": 119,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 174,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 219,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 253,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 435,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 521,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 715,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 730,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 743,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($35.98 USD)",
+                  "url": "https://www.amazon.com/dp/B01D8KOZF4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01D8KOZF4"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B01D8KOZF4",
+        "title": "Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino",
+        "photo_url": "https://m.media-amazon.com/images/I/8128imcIcpL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.98 USD</b> (<i>~$124.560 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($35.98 USD)",
+                "url": "https://www.amazon.com/dp/B01D8KOZF4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01D8KOZF4"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B01D8KOZF4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01D8KOZF4",
+        "deal_snapshot": {
+          "asin": "B01D8KOZF4",
+          "title": "Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino",
+          "price_usd": 35.98,
+          "reference_price_usd": 45.99,
+          "discount_pct": 22,
+          "price_cop": 124560,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B01D8KOZF4",
+      "title": "Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino",
+      "photo_url": "https://m.media-amazon.com/images/I/8128imcIcpL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-22% OFF)</b>\n📦 <b>Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino</b>\n\n💵 <b>Precio Hoy:</b> <b>$35.98 USD</b> (<i>~$124.560 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$45.99 USD</s> → Hoy <b>-22% OFF</b> · <b>Ahorras $10.01 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($35.98 USD)",
+              "url": "https://www.amazon.com/dp/B01D8KOZF4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01D8KOZF4"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B01D8KOZF4?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B01D8KOZF4",
+      "deal_snapshot": {
+        "asin": "B01D8KOZF4",
+        "title": "Súper kit de iniciación Proyecto Uno Elegoo con tutorial para Arduino",
+        "price_usd": 35.98,
+        "reference_price_usd": 45.99,
+        "discount_pct": 22,
+        "price_cop": 124560,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0G4QCXYRG",
+    "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
+    "timestamp": "2026-11-23T12:13:11.416684+00:00",
+    "timestamp_colombia": "2026-11-23T07:13:11.416684-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0G4QCXYRG",
+      "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 251.99,
+      "list_price_usd": 359.99,
+      "avg_90d_usd": 355.49,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 3.53,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 355.49,
+      "discount_pct": 29.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 29.1,
+      "price_vs_90d_badge": "📉 29.1% más barato que su promedio de 90 días ($355.49 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 47.88,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 299.87,
+      "price_cop": 872369,
+      "price_cop_formatted": "$872.369 COP",
+      "total_landed_cop": 1038126,
+      "total_landed_cop_formatted": "$1.038.126 COP",
+      "savings_usd": 103.5,
+      "savings_cop": 358309,
+      "savings_cop_formatted": "$358.309 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG",
+      "is_new_price_drop": true,
+      "previous_price_usd": 259.19,
+      "verified_at": "2026-11-23T12:10:19.786741+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$251.99 USD</b> (<i>~$872.369 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$355.49 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $103.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$251.99 USD</b> (<i>~$872.369 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$355.49 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $103.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($251.99 USD)",
+                "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 301,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795435993,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS1rBC3ZDjblBzGrzKIwfsubK743bwACURFrG4SGIUQz-MXB12HHqQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADURFrG4SGIUR4",
+              "file_size": 1938,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS1rBC3ZDjblBzGrzKIwfsubK743bwACURFrG4SGIUQz-MXB12HHqQEAAwIAA20AAz0E",
+              "file_unique_id": "AQADURFrG4SGIURy",
+              "file_size": 28338,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS1rBC3ZDjblBzGrzKIwfsubK743bwACURFrG4SGIUQz-MXB12HHqQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADURFrG4SGIUR9",
+              "file_size": 114026,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAS1rBC3ZDjblBzGrzKIwfsubK743bwACURFrG4SGIUQz-MXB12HHqQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADURFrG4SGIUR-",
+              "file_size": 169450,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-29% OFF)\n📦 Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado\n\n💵 Precio Hoy: $251.99 USD (~$872.369 COP · TRM $3.462)\n📉 Más barato que antes: Antes $355.49 USD → Hoy -29% OFF · Ahorras $103.50 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 171,
+              "type": "bold"
+            },
+            {
+              "offset": 221,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 233,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 246,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 277,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 305,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 323,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 334,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 358,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 542,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 628,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 793,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 808,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 821,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($251.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0G4QCXYRG",
+        "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
+        "photo_url": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$251.99 USD</b> (<i>~$872.369 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$355.49 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $103.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($251.99 USD)",
+                "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG",
+        "deal_snapshot": {
+          "asin": "B0G4QCXYRG",
+          "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
+          "price_usd": 251.99,
+          "reference_price_usd": 355.49,
+          "discount_pct": 29,
+          "price_cop": 872369,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0G4QCXYRG",
+      "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
+      "photo_url": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-29% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$251.99 USD</b> (<i>~$872.369 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$355.49 USD</s> → Hoy <b>-29% OFF</b> · <b>Ahorras $103.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($251.99 USD)",
+              "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG",
+      "deal_snapshot": {
+        "asin": "B0G4QCXYRG",
+        "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
+        "price_usd": 251.99,
+        "reference_price_usd": 355.49,
+        "discount_pct": 29,
+        "price_cop": 872369,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
     "asin": "B0H699XBZT",
     "title": "Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas",
     "timestamp": "2026-11-23T10:43:21.836117+00:00",
@@ -34017,319 +34643,6 @@
         "reference_price_usd": 359.99,
         "discount_pct": 25,
         "price_cop": 898246,
-        "trm_cop": 3326.96,
-        "ships_to_colombia": true,
-        "free_shipping_co": true,
-        "requires_locker": false,
-        "tax_free_colombia": false
-      }
-    }
-  },
-  {
-    "asin": "B0G4QCXYRG",
-    "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
-    "timestamp": "2026-11-19T00:33:18.125582+00:00",
-    "timestamp_colombia": "2026-11-18T19:33:18.125582-05:00",
-    "is_colombia_peak_hour": true,
-    "deal": {
-      "asin": "B0G4QCXYRG",
-      "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
-      "category": "Computadores",
-      "brand": "",
-      "price_usd": 259.19,
-      "list_price_usd": 359.99,
-      "avg_90d_usd": 359.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": true,
-      "shipping_cost_usd": 0.0,
-      "requires_locker": false,
-      "rating": 3.53,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 359.99,
-      "discount_pct": 28.0,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 28.0,
-      "price_vs_90d_badge": "📉 28.0% más barato que su promedio de 90 días ($359.99 USD)",
-      "trm_cop": 3326.96,
-      "tax_free_colombia": false,
-      "estimated_import_tax_usd": 49.25,
-      "shipping_cost_cop": 0,
-      "shipping_cost_formatted": "GRATIS ($0 USD)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 308.44,
-      "price_cop": 862315,
-      "price_cop_formatted": "$862.315 COP",
-      "total_landed_cop": 1026168,
-      "total_landed_cop_formatted": "$1.026.168 COP",
-      "savings_usd": 100.8,
-      "savings_cop": 335358,
-      "savings_cop_formatted": "$335.358 COP",
-      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
-      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
-      "deal_tier": "⚡ GRAN OFERTA",
-      "approved_for_colombia": true,
-      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
-      "affiliate_url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG",
-      "is_new_price_drop": true,
-      "previous_price_usd": null,
-      "verified_at": "2026-11-19T00:30:36.188077+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$259.19 USD</b> (<i>~$862.315 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$359.99 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $100.80 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$259.19 USD</b> (<i>~$862.315 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$359.99 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $100.80 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($259.19 USD)",
-                "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 172,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1795048399,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrGr-Q8_3UpmwdR2m6cGzo-QiXNIFAAJ_DWsbBQXxRy30cKOhh45kAQADAgADcwADPQQ",
-              "file_unique_id": "AQADfw1rGwUF8Ud4",
-              "file_size": 1940,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrGr-Q8_3UpmwdR2m6cGzo-QiXNIFAAJ_DWsbBQXxRy30cKOhh45kAQADAgADbQADPQQ",
-              "file_unique_id": "AQADfw1rGwUF8Udy",
-              "file_size": 28307,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrGr-Q8_3UpmwdR2m6cGzo-QiXNIFAAJ_DWsbBQXxRy30cKOhh45kAQADAgADeAADPQQ",
-              "file_unique_id": "AQADfw1rGwUF8Ud9",
-              "file_size": 114204,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADrGr-Q8_3UpmwdR2m6cGzo-QiXNIFAAJ_DWsbBQXxRy30cKOhh45kAQADAgADeQADPQQ",
-              "file_unique_id": "AQADfw1rGwUF8Ud-",
-              "file_size": 169414,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-28% OFF)\n📦 Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado\n\n💵 Precio Hoy: $259.19 USD (~$862.315 COP · TRM $3.327)\n📉 Más barato que antes: Antes $359.99 USD → Hoy -28% OFF · Ahorras $100.80 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 38,
-              "type": "bold"
-            },
-            {
-              "offset": 45,
-              "length": 171,
-              "type": "bold"
-            },
-            {
-              "offset": 221,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 233,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 246,
-              "length": 13,
-              "type": "italic"
-            },
-            {
-              "offset": 277,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 305,
-              "length": 11,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 323,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 334,
-              "length": 19,
-              "type": "bold"
-            },
-            {
-              "offset": 358,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 542,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 628,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 793,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 808,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 821,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($259.19 USD)",
-                  "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0G4QCXYRG",
-        "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
-        "photo_url": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$259.19 USD</b> (<i>~$862.315 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$359.99 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $100.80 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($259.19 USD)",
-                "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG",
-        "deal_snapshot": {
-          "asin": "B0G4QCXYRG",
-          "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
-          "price_usd": 259.19,
-          "reference_price_usd": 359.99,
-          "discount_pct": 28,
-          "price_cop": 862315,
-          "trm_cop": 3326.96,
-          "ships_to_colombia": true,
-          "free_shipping_co": true,
-          "requires_locker": false,
-          "tax_free_colombia": false
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0G4QCXYRG",
-      "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
-      "photo_url": "https://m.media-amazon.com/images/I/71l2lzC3rYL._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado</b>\n\n💵 <b>Precio Hoy:</b> <b>$259.19 USD</b> (<i>~$862.315 COP</i> · TRM $3.327)\n📉 <b>Más barato que antes:</b> Antes <s>$359.99 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $100.80 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($259.19 USD)",
-              "url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0G4QCXYRG?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G4QCXYRG",
-      "deal_snapshot": {
-        "asin": "B0G4QCXYRG",
-        "title": "Cuaderno 2026 para computadora portátil, pantalla IPS FHD de 15.6 pulgadas, 8 GB de RAM 256 GB SSD, procesador Celeron N5100, WiFi5, BT5.0, USB 3.0, teclado retroiluminado",
-        "price_usd": 259.19,
-        "reference_price_usd": 359.99,
-        "discount_pct": 28,
-        "price_cop": 862315,
         "trm_cop": 3326.96,
         "ships_to_colombia": true,
         "free_shipping_co": true,
