@@ -1,9 +1,5 @@
 [
   {
-    "asin": "B0FLLXHPM9",
-    "category": "Computadores"
-  },
-  {
     "asin": "B0HGHYL46H",
     "category": "Hogar"
   },
@@ -448,10 +444,6 @@
     "category": "Computadores"
   },
   {
-    "asin": "B0F1J12R6N",
-    "category": "Computadores"
-  },
-  {
     "asin": "B0G1XSY4BJ",
     "category": "Computadores"
   },
@@ -521,6 +513,10 @@
   },
   {
     "asin": "B0GF74ZGDZ",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0FLLXHPM9",
     "category": "Computadores"
   },
   {
@@ -598,5 +594,9 @@
   {
     "asin": "B0H829K5TD",
     "category": "Audio"
+  },
+  {
+    "asin": "B0FMBTJLX6",
+    "category": "Computadores"
   }
 ]
