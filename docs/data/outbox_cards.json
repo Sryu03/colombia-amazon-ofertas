@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0H699XBZT",
+    "title": "Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas",
+    "timestamp": "2026-11-23T10:43:21.836117+00:00",
+    "timestamp_colombia": "2026-11-23T05:43:21.836117-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H699XBZT",
+      "title": "Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 19.99,
+      "list_price_usd": 24.99,
+      "avg_90d_usd": 24.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61jOj5tI-nL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 24.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($24.99 USD)",
+      "trm_cop": 3461.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41370,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.370 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 31.94,
+      "price_cop": 69204,
+      "price_cop_formatted": "$69.204 COP",
+      "total_landed_cop": 110574,
+      "total_landed_cop_formatted": "$110.574 COP",
+      "savings_usd": 5.0,
+      "savings_cop": 17310,
+      "savings_cop_formatted": "$17.310 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H699XBZT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H699XBZT",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-23T10:40:27.202709+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$69.204 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61jOj5tI-nL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$69.204 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H699XBZT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H699XBZT"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 300,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795430603,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASxrBBjLZLXLa6HQaqIwrLMXF7dPrgACSxFrG4SGIUTLLN_guIsYFgEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADSxFrG4SGIUR4",
+              "file_size": 1610,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASxrBBjLZLXLa6HQaqIwrLMXF7dPrgACSxFrG4SGIUTLLN_guIsYFgEAAwIAA20AAz0E",
+              "file_unique_id": "AQADSxFrG4SGIURy",
+              "file_size": 20830,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASxrBBjLZLXLa6HQaqIwrLMXF7dPrgACSxFrG4SGIUTLLN_guIsYFgEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADSxFrG4SGIUR9",
+              "file_size": 80886,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACASxrBBjLZLXLa6HQaqIwrLMXF7dPrgACSxFrG4SGIUTLLN_guIsYFgEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADSxFrG4SGIUR-",
+              "file_size": 119178,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas\n\n💵 Precio Hoy: $19.99 USD (~$69.204 COP · TRM $3.462)\n📉 Más barato que antes: Antes $24.99 USD → Hoy -20% OFF · Ahorras $5.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 72,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 134,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 146,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 176,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 204,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 221,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 232,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 254,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 454,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 540,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 688,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 703,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 716,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0H699XBZT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H699XBZT"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H699XBZT",
+        "title": "Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas",
+        "photo_url": "https://m.media-amazon.com/images/I/61jOj5tI-nL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$69.204 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H699XBZT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H699XBZT"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H699XBZT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H699XBZT",
+        "deal_snapshot": {
+          "asin": "B0H699XBZT",
+          "title": "Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas",
+          "price_usd": 19.99,
+          "reference_price_usd": 24.99,
+          "discount_pct": 20,
+          "price_cop": 69204,
+          "trm_cop": 3461.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H699XBZT",
+      "title": "Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas",
+      "photo_url": "https://m.media-amazon.com/images/I/61jOj5tI-nL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas</b>\n\n💵 <b>Precio Hoy:</b> <b>$19.99 USD</b> (<i>~$69.204 COP</i> · TRM $3.462)\n📉 <b>Más barato que antes:</b> Antes <s>$24.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $5.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $15.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($19.99 USD)",
+              "url": "https://www.amazon.com/dp/B0H699XBZT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H699XBZT"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H699XBZT?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H699XBZT",
+      "deal_snapshot": {
+        "asin": "B0H699XBZT",
+        "title": "Owala FreeSip - Botella de agua de acero inoxidable para niños, 16 onzas",
+        "price_usd": 19.99,
+        "reference_price_usd": 24.99,
+        "discount_pct": 20,
+        "price_cop": 69204,
+        "trm_cop": 3461.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0FSZVJFNZ",
     "title": "lector de tarjetas SD USB C, doble ranura USB 3.0 a adaptador de",
     "timestamp": "2026-11-23T09:13:18.047977+00:00",
