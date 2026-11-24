@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0HHFSRFYX",
+    "title": "LEGO Harry Potter Collection - Nintendo Switch 2",
+    "timestamp": "2026-11-24T22:33:45.379001+00:00",
+    "timestamp_colombia": "2026-11-24T17:33:45.379001-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HHFSRFYX",
+      "title": "LEGO Harry Potter Collection - Nintendo Switch 2",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 34.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/818kGIu38KL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 30.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 30.0,
+      "price_vs_90d_badge": "📉 30.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 46.94,
+      "price_cop": 145208,
+      "price_cop_formatted": "$145.208 COP",
+      "total_landed_cop": 194801,
+      "total_landed_cop_formatted": "$194.801 COP",
+      "savings_usd": 15.0,
+      "savings_cop": 62250,
+      "savings_cop_formatted": "$62.250 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0HHFSRFYX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHFSRFYX",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-24T22:30:22.931860+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>LEGO Harry Potter Collection - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$145.208 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $15.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/818kGIu38KL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>LEGO Harry Potter Collection - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$145.208 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $15.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HHFSRFYX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHFSRFYX"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 316,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795559627,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACATxrBhDL0hv2PAc0_Y7KIvfWAcxUrgAC6wxrG6YRMUR_u4IdyW5KcAEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD6wxrG6YRMUR4",
+              "file_size": 1827,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACATxrBhDL0hv2PAc0_Y7KIvfWAcxUrgAC6wxrG6YRMUR_u4IdyW5KcAEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD6wxrG6YRMURy",
+              "file_size": 25027,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACATxrBhDL0hv2PAc0_Y7KIvfWAcxUrgAC6wxrG6YRMUR_u4IdyW5KcAEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD6wxrG6YRMUR9",
+              "file_size": 105736,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACATxrBhDL0hv2PAc0_Y7KIvfWAcxUrgAC6wxrG6YRMUR_u4IdyW5KcAEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD6wxrG6YRMUR-",
+              "file_size": 157483,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-30% OFF)\n📦 LEGO Harry Potter Collection - Nintendo Switch 2\n\n💵 Precio Hoy: $34.99 USD (~$145.208 COP · TRM $4.150)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -30% OFF · Ahorras $15.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 48,
+              "type": "bold"
+            },
+            {
+              "offset": 98,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 110,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 122,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 153,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 181,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 198,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 209,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 232,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 432,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 518,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 665,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 680,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 693,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HHFSRFYX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHFSRFYX"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HHFSRFYX",
+        "title": "LEGO Harry Potter Collection - Nintendo Switch 2",
+        "photo_url": "https://m.media-amazon.com/images/I/818kGIu38KL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>LEGO Harry Potter Collection - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$145.208 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $15.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HHFSRFYX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHFSRFYX"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HHFSRFYX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHFSRFYX",
+        "deal_snapshot": {
+          "asin": "B0HHFSRFYX",
+          "title": "LEGO Harry Potter Collection - Nintendo Switch 2",
+          "price_usd": 34.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 30,
+          "price_cop": 145208,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HHFSRFYX",
+      "title": "LEGO Harry Potter Collection - Nintendo Switch 2",
+      "photo_url": "https://m.media-amazon.com/images/I/818kGIu38KL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-30% OFF)</b>\n📦 <b>LEGO Harry Potter Collection - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$145.208 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-30% OFF</b> · <b>Ahorras $15.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HHFSRFYX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHFSRFYX"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HHFSRFYX?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HHFSRFYX",
+      "deal_snapshot": {
+        "asin": "B0HHFSRFYX",
+        "title": "LEGO Harry Potter Collection - Nintendo Switch 2",
+        "price_usd": 34.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 30,
+        "price_cop": 145208,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0CFQC4DB3",
     "title": "FRESMOL - Plumero de aire comprimido de 100,000 RPM, soplador eléctrico",
     "timestamp": "2026-11-24T18:03:30.485137+00:00",
