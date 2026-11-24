@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0GH9R927H",
+    "title": "GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color",
+    "timestamp": "2026-11-24T08:23:22.983732+00:00",
+    "timestamp_colombia": "2026-11-24T03:23:22.983732-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0GH9R927H",
+      "title": "GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 8.07,
+      "list_price_usd": 15.99,
+      "avg_90d_usd": 15.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/610E3EEvKWL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 15.99,
+      "discount_pct": 49.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 49.5,
+      "price_vs_90d_badge": "📉 49.5% más barato que su promedio de 90 días ($15.99 USD)",
+      "trm_cop": 3505.92,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 41896,
+      "shipping_cost_formatted": "+$11.95 USD (~$41.896 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 20.02,
+      "price_cop": 28293,
+      "price_cop_formatted": "$28.293 COP",
+      "total_landed_cop": 70189,
+      "total_landed_cop_formatted": "$70.189 COP",
+      "savings_usd": 7.92,
+      "savings_cop": 27767,
+      "savings_cop_formatted": "$27.767 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $26.93 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0GH9R927H?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GH9R927H",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-24T08:20:20.823290+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.07 USD</b> (<i>~$28.293 COP</i> · TRM $3.506)\n📉 <b>Más barato que antes:</b> Antes <s>$15.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $7.92 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.93 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/610E3EEvKWL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.07 USD</b> (<i>~$28.293 COP</i> · TRM $3.506)\n📉 <b>Más barato que antes:</b> Antes <s>$15.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $7.92 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.93 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($8.07 USD)",
+                "url": "https://www.amazon.com/dp/B0GH9R927H?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GH9R927H"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 312,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795508604,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAThrBUl8Rb2oa4H29S3gbQS41613MgAC9w1rG4SGKURIHUH_MqsfkQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD9w1rG4SGKUR4",
+              "file_size": 1930,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAThrBUl8Rb2oa4H29S3gbQS41613MgAC9w1rG4SGKURIHUH_MqsfkQEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD9w1rG4SGKURy",
+              "file_size": 25641,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAThrBUl8Rb2oa4H29S3gbQS41613MgAC9w1rG4SGKURIHUH_MqsfkQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD9w1rG4SGKUR9",
+              "file_size": 99052,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAThrBUl8Rb2oa4H29S3gbQS41613MgAC9w1rG4SGKURIHUH_MqsfkQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD9w1rG4SGKUR-",
+              "file_size": 144553,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color\n\n💵 Precio Hoy: $8.07 USD (~$28.293 COP · TRM $3.506)\n📉 Más barato que antes: Antes $15.99 USD → Hoy -50% OFF · Ahorras $7.92 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $26.93 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 73,
+              "type": "bold"
+            },
+            {
+              "offset": 129,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 141,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 152,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 182,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 210,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 227,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 238,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 260,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 460,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 546,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 694,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 709,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 722,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($8.07 USD)",
+                  "url": "https://www.amazon.com/dp/B0GH9R927H?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GH9R927H"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0GH9R927H",
+        "title": "GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color",
+        "photo_url": "https://m.media-amazon.com/images/I/610E3EEvKWL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.07 USD</b> (<i>~$28.293 COP</i> · TRM $3.506)\n📉 <b>Más barato que antes:</b> Antes <s>$15.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $7.92 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.93 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($8.07 USD)",
+                "url": "https://www.amazon.com/dp/B0GH9R927H?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GH9R927H"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0GH9R927H?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GH9R927H",
+        "deal_snapshot": {
+          "asin": "B0GH9R927H",
+          "title": "GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color",
+          "price_usd": 8.07,
+          "reference_price_usd": 15.99,
+          "discount_pct": 50,
+          "price_cop": 28293,
+          "trm_cop": 3505.92,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0GH9R927H",
+      "title": "GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color",
+      "photo_url": "https://m.media-amazon.com/images/I/610E3EEvKWL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color</b>\n\n💵 <b>Precio Hoy:</b> <b>$8.07 USD</b> (<i>~$28.293 COP</i> · TRM $3.506)\n📉 <b>Más barato que antes:</b> Antes <s>$15.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $7.92 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $26.93 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($8.07 USD)",
+              "url": "https://www.amazon.com/dp/B0GH9R927H?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GH9R927H"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0GH9R927H?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0GH9R927H",
+      "deal_snapshot": {
+        "asin": "B0GH9R927H",
+        "title": "GORILLA GRIP Abrelatas manual de acero inoxidable, modelo mejorado, color",
+        "price_usd": 8.07,
+        "reference_price_usd": 15.99,
+        "discount_pct": 50,
+        "price_cop": 28293,
+        "trm_cop": 3505.92,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0H7W2TJSG",
     "title": "FYY Bandeja de calentamiento eléctrica - 3 paneles modulares de vidrio con",
     "timestamp": "2026-11-24T05:23:11.300437+00:00",
