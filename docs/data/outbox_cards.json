@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B07LCCT6VS",
+    "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+    "timestamp": "2026-11-25T05:23:26.345851+00:00",
+    "timestamp_colombia": "2026-11-25T00:23:26.345851-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B07LCCT6VS",
+      "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 129.49,
+      "list_price_usd": 179.99,
+      "avg_90d_usd": 179.98,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 179.98,
+      "discount_pct": 28.1,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 28.1,
+      "price_vs_90d_badge": "📉 28.1% más barato que su promedio de 90 días ($179.98 USD)",
+      "trm_cop": 3592.03,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 129.49,
+      "price_cop": 465132,
+      "price_cop_formatted": "$465.132 COP",
+      "total_landed_cop": 465132,
+      "total_landed_cop_formatted": "$465.132 COP",
+      "savings_usd": 50.49,
+      "savings_cop": 181362,
+      "savings_cop_formatted": "$181.362 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
+      "is_new_price_drop": true,
+      "previous_price_usd": 142.49,
+      "verified_at": "2026-11-25T05:20:18.726877+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$129.49 USD</b> (<i>~$465.132 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$179.98 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $50.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$129.49 USD</b> (<i>~$465.132 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$179.98 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $50.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($129.49 USD)",
+                "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 319,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795584208,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAT9rBnDQOb5-YScx8eCjfZBQNad6jgACLg1rG6YRMURWneHdwmPSygEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADLg1rG6YRMUR4",
+              "file_size": 2104,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAT9rBnDQOb5-YScx8eCjfZBQNad6jgACLg1rG6YRMURWneHdwmPSygEAAwIAA20AAz0E",
+              "file_unique_id": "AQADLg1rG6YRMURy",
+              "file_size": 29025,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAT9rBnDQOb5-YScx8eCjfZBQNad6jgACLg1rG6YRMURWneHdwmPSygEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADLg1rG6YRMUR9",
+              "file_size": 114414,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAT9rBnDQOb5-YScx8eCjfZBQNad6jgACLg1rG6YRMURWneHdwmPSygEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADLg1rG6YRMUR-",
+              "file_size": 169903,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-28% OFF)\n📦 FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie\n\n💵 Precio Hoy: $129.49 USD (~$465.132 COP · TRM $3.592)\n📉 Más barato que antes: Antes $179.98 USD → Hoy -28% OFF · Ahorras $50.49 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 102,
+              "type": "bold"
+            },
+            {
+              "offset": 152,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 164,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 177,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 208,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 236,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 254,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 265,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 288,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 470,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 556,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 750,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 765,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 778,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($129.49 USD)",
+                  "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B07LCCT6VS",
+        "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+        "photo_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$129.49 USD</b> (<i>~$465.132 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$179.98 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $50.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($129.49 USD)",
+                "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
+        "deal_snapshot": {
+          "asin": "B07LCCT6VS",
+          "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+          "price_usd": 129.49,
+          "reference_price_usd": 179.98,
+          "discount_pct": 28,
+          "price_cop": 465132,
+          "trm_cop": 3592.03,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B07LCCT6VS",
+      "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+      "photo_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-28% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$129.49 USD</b> (<i>~$465.132 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$179.98 USD</s> → Hoy <b>-28% OFF</b> · <b>Ahorras $50.49 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($129.49 USD)",
+              "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
+      "deal_snapshot": {
+        "asin": "B07LCCT6VS",
+        "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
+        "price_usd": 129.49,
+        "reference_price_usd": 179.98,
+        "discount_pct": 28,
+        "price_cop": 465132,
+        "trm_cop": 3592.03,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0DJXRGJ66",
     "title": "Proyector Bluetooth HAPPRUN Native 1080P con licencia oficial de Google TV",
     "timestamp": "2026-11-24T23:03:48.460701+00:00",
@@ -22421,319 +22734,6 @@
         "trm_cop": 3326.96,
         "ships_to_colombia": true,
         "free_shipping_co": false,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B07LCCT6VS",
-    "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
-    "timestamp": "2026-11-19T15:33:44.147151+00:00",
-    "timestamp_colombia": "2026-11-19T10:33:44.147151-05:00",
-    "is_colombia_peak_hour": false,
-    "deal": {
-      "asin": "B07LCCT6VS",
-      "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
-      "category": "Computadores",
-      "brand": "",
-      "price_usd": 142.49,
-      "list_price_usd": 179.99,
-      "avg_90d_usd": 179.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": true,
-      "shipping_cost_usd": 0.0,
-      "requires_locker": false,
-      "rating": 4.64,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 179.99,
-      "discount_pct": 20.8,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 20.8,
-      "price_vs_90d_badge": "📉 20.8% más barato que su promedio de 90 días ($179.99 USD)",
-      "trm_cop": 4150.0,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 0,
-      "shipping_cost_formatted": "GRATIS ($0 USD)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 142.49,
-      "price_cop": 591334,
-      "price_cop_formatted": "$591.334 COP",
-      "total_landed_cop": 591334,
-      "total_landed_cop_formatted": "$591.334 COP",
-      "savings_usd": 37.5,
-      "savings_cop": 155625,
-      "savings_cop_formatted": "$155.625 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
-      "deal_tier": "⚡ GRAN OFERTA",
-      "approved_for_colombia": true,
-      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
-      "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
-      "is_new_price_drop": true,
-      "previous_price_usd": null,
-      "verified_at": "2026-11-19T15:30:24.991743+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
-        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
-                "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 234,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1795102428,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADcwADPQQ",
-              "file_unique_id": "AQADIw1rGwUF-Ud4",
-              "file_size": 2104,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADbQADPQQ",
-              "file_unique_id": "AQADIw1rGwUF-Udy",
-              "file_size": 28996,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADeAADPQQ",
-              "file_unique_id": "AQADIw1rGwUF-Ud9",
-              "file_size": 114222,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QAD6mr_FtypATtP7kMU_Gp1WIyjK-UCAAIjDWsbBQX5R8kyT_Q-mkfXAQADAgADeQADPQQ",
-              "file_unique_id": "AQADIw1rGwUF-Ud-",
-              "file_size": 169650,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-21% OFF)\n📦 FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie\n\n💵 Precio Hoy: $142.49 USD (~$591.334 COP · TRM $4.150)\n📉 Más barato que antes: Antes $179.99 USD → Hoy -21% OFF · Ahorras $37.50 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 38,
-              "type": "bold"
-            },
-            {
-              "offset": 45,
-              "length": 102,
-              "type": "bold"
-            },
-            {
-              "offset": 152,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 164,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 177,
-              "length": 13,
-              "type": "italic"
-            },
-            {
-              "offset": 208,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 236,
-              "length": 11,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 254,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 265,
-              "length": 18,
-              "type": "bold"
-            },
-            {
-              "offset": 288,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 470,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 556,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 750,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 765,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 778,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
-                  "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B07LCCT6VS",
-        "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
-        "photo_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
-        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
-                "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
-        "deal_snapshot": {
-          "asin": "B07LCCT6VS",
-          "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
-          "price_usd": 142.49,
-          "reference_price_usd": 179.99,
-          "discount_pct": 21,
-          "price_cop": 591334,
-          "trm_cop": 4150.0,
-          "ships_to_colombia": true,
-          "free_shipping_co": true,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B07LCCT6VS",
-      "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
-      "photo_url": "https://m.media-amazon.com/images/I/71lQbai4t6L._AC_SL1500_.jpg",
-      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-21% OFF)</b>\n📦 <b>FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie</b>\n\n💵 <b>Precio Hoy:</b> <b>$142.49 USD</b> (<i>~$591.334 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-21% OFF</b> · <b>Ahorras $37.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($142.49 USD)",
-              "url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B07LCCT6VS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B07LCCT6VS",
-      "deal_snapshot": {
-        "asin": "B07LCCT6VS",
-        "title": "FITUEYES - Escritorio de pie ajustable en altura de 36 pulgadas de ancho, convertidor de sentado a pie",
-        "price_usd": 142.49,
-        "reference_price_usd": 179.99,
-        "discount_pct": 21,
-        "price_cop": 591334,
-        "trm_cop": 4150.0,
-        "ships_to_colombia": true,
-        "free_shipping_co": true,
         "requires_locker": false,
         "tax_free_colombia": true
       }
