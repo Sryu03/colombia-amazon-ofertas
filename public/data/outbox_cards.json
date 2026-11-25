@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0D9VS4PV7",
+    "title": "SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro",
+    "timestamp": "2026-11-25T21:23:33.999144+00:00",
+    "timestamp_colombia": "2026-11-25T16:23:33.999144-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0D9VS4PV7",
+      "title": "SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 7.39,
+      "list_price_usd": 9.99,
+      "avg_90d_usd": 9.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71JXJrTJD+L._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 9.99,
+      "discount_pct": 26.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 26.0,
+      "price_vs_90d_badge": "📉 26.0% más barato que su promedio de 90 días ($9.99 USD)",
+      "trm_cop": 3592.03,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 42925,
+      "shipping_cost_formatted": "+$11.95 USD (~$42.925 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 19.34,
+      "price_cop": 26545,
+      "price_cop_formatted": "$26.545 COP",
+      "total_landed_cop": 69470,
+      "total_landed_cop_formatted": "$69.470 COP",
+      "savings_usd": 2.6,
+      "savings_cop": 9339,
+      "savings_cop_formatted": "$9.339 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $27.61 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0D9VS4PV7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D9VS4PV7",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-25T21:20:27.554219+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.39 USD</b> (<i>~$26.545 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $2.60 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.61 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71JXJrTJD+L._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.39 USD</b> (<i>~$26.545 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $2.60 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.61 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($7.39 USD)",
+                "url": "https://www.amazon.com/dp/B0D9VS4PV7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D9VS4PV7"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 325,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795641815,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUVrB1HXc_rKIEC4PX29DdII2qxmpwACSg1rG6YROUQa870XmqmL1wEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADSg1rG6YROUR4",
+              "file_size": 1761,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUVrB1HXc_rKIEC4PX29DdII2qxmpwACSg1rG6YROUQa870XmqmL1wEAAwIAA20AAz0E",
+              "file_unique_id": "AQADSg1rG6YROURy",
+              "file_size": 23608,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUVrB1HXc_rKIEC4PX29DdII2qxmpwACSg1rG6YROUQa870XmqmL1wEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADSg1rG6YROUR9",
+              "file_size": 95746,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUVrB1HXc_rKIEC4PX29DdII2qxmpwACSg1rG6YROUQa870XmqmL1wEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADSg1rG6YROUR-",
+              "file_size": 143823,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-26% OFF)\n📦 SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro\n\n💵 Precio Hoy: $7.39 USD (~$26.545 COP · TRM $3.592)\n📉 Más barato que antes: Antes $9.99 USD → Hoy -26% OFF · Ahorras $2.60 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $27.61 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 63,
+              "type": "bold"
+            },
+            {
+              "offset": 113,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 125,
+              "length": 9,
+              "type": "bold"
+            },
+            {
+              "offset": 136,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 166,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 194,
+              "length": 9,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 210,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 221,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 243,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 443,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 529,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 677,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 692,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 705,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($7.39 USD)",
+                  "url": "https://www.amazon.com/dp/B0D9VS4PV7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D9VS4PV7"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0D9VS4PV7",
+        "title": "SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro",
+        "photo_url": "https://m.media-amazon.com/images/I/71JXJrTJD+L._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.39 USD</b> (<i>~$26.545 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $2.60 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.61 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($7.39 USD)",
+                "url": "https://www.amazon.com/dp/B0D9VS4PV7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D9VS4PV7"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0D9VS4PV7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D9VS4PV7",
+        "deal_snapshot": {
+          "asin": "B0D9VS4PV7",
+          "title": "SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro",
+          "price_usd": 7.39,
+          "reference_price_usd": 9.99,
+          "discount_pct": 26,
+          "price_cop": 26545,
+          "trm_cop": 3592.03,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0D9VS4PV7",
+      "title": "SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro",
+      "photo_url": "https://m.media-amazon.com/images/I/71JXJrTJD+L._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro</b>\n\n💵 <b>Precio Hoy:</b> <b>$7.39 USD</b> (<i>~$26.545 COP</i> · TRM $3.592)\n📉 <b>Más barato que antes:</b> Antes <s>$9.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $2.60 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $27.61 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($7.39 USD)",
+              "url": "https://www.amazon.com/dp/B0D9VS4PV7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D9VS4PV7"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0D9VS4PV7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D9VS4PV7",
+      "deal_snapshot": {
+        "asin": "B0D9VS4PV7",
+        "title": "SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro",
+        "price_usd": 7.39,
+        "reference_price_usd": 9.99,
+        "discount_pct": 26,
+        "price_cop": 26545,
+        "trm_cop": 3592.03,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0CRHCKDVW",
     "title": "Fenge Soporte para Monitor, Elevador de Monitor Dual, Soporte Elevador para Monitor de Computadora de Escritorio Grande de 42.5 pulgadas con Cajón, Organizador de Escritorio de Madera y Acrílico de 2",
     "timestamp": "2026-11-25T15:23:03.914690+00:00",
