@@ -452,6 +452,70 @@
     "category": "Tecnología"
   },
   {
+    "asin": "B0HJ9ZNRKT",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0G8LGGX9B",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0G1XSY4BJ",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0H8QND851",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HGZ6277X",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HGR4SDYC",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HDT94SVJ",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HPL7XTW4",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HNRSRX9V",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HDYN54X8",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0HGWRJM1C",
+    "category": "Gaming"
+  },
+  {
+    "asin": "B0H2YYVGTM",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0H98DNGL8",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0H699XBZT",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0HGHYL46H",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0HF78YVGS",
+    "category": "Hogar"
+  },
+  {
     "asin": "B0H7BYWCNG",
     "category": "Tecnología"
   },
@@ -533,70 +597,6 @@
   },
   {
     "asin": "B0H5FJXKRG",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0GSQZH26T",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0GMKRR64P",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0HGHB3V16",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0H9Z71PJK",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0H9T4JBF7",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0HGD5KN33",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0HJH57M9R",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0HJ9ZT2FF",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0HMSMBM1Z",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0H95CL7YV",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0HBJTK4CC",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0H6P8B8SC",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0FMBTJLX6",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FC2GH8Z4",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0GL96NJL5",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FV8D5Y4D",
     "category": "Computadores"
   }
 ]
