@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0HDNYYVFY",
+    "title": "Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)",
+    "timestamp": "2026-11-25T22:42:58.691686+00:00",
+    "timestamp_colombia": "2026-11-25T17:42:58.691686-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HDNYYVFY",
+      "title": "Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 39.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.7,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/7130cB24rRL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 3630.89,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 39.99,
+      "price_cop": 145199,
+      "price_cop_formatted": "$145.199 COP",
+      "total_landed_cop": 145199,
+      "total_landed_cop_formatted": "$145.199 COP",
+      "savings_usd": 10.0,
+      "savings_cop": 36309,
+      "savings_cop_formatted": "$36.309 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HDNYYVFY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDNYYVFY",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-25T22:40:16.432692+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$145.199 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/7130cB24rRL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$145.199 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HDNYYVFY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDNYYVFY"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 326,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795646580,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUZrB2R0iZ_bUojnJCuj4yYEQpz2owACWg1rG6YROURHzlXvLnxP4QEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADWg1rG6YROUR4",
+              "file_size": 1996,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUZrB2R0iZ_bUojnJCuj4yYEQpz2owACWg1rG6YROURHzlXvLnxP4QEAAwIAA20AAz0E",
+              "file_unique_id": "AQADWg1rG6YROURy",
+              "file_size": 29228,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUZrB2R0iZ_bUojnJCuj4yYEQpz2owACWg1rG6YROURHzlXvLnxP4QEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADWg1rG6YROUR9",
+              "file_size": 118050,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUZrB2R0iZ_bUojnJCuj4yYEQpz2owACWg1rG6YROURHzlXvLnxP4QEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADWg1rG6YROUR-",
+              "file_size": 176048,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)\n\n💵 Precio Hoy: $39.99 USD (~$145.199 COP · TRM $3.631)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -20% OFF · Ahorras $10.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 73,
+              "type": "bold"
+            },
+            {
+              "offset": 123,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 135,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 147,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 178,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 206,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 223,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 234,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 257,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 439,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 525,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 719,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 734,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 747,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HDNYYVFY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDNYYVFY"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HDNYYVFY",
+        "title": "Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)",
+        "photo_url": "https://m.media-amazon.com/images/I/7130cB24rRL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$145.199 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HDNYYVFY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDNYYVFY"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HDNYYVFY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDNYYVFY",
+        "deal_snapshot": {
+          "asin": "B0HDNYYVFY",
+          "title": "Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)",
+          "price_usd": 39.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 20,
+          "price_cop": 145199,
+          "trm_cop": 3630.89,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HDNYYVFY",
+      "title": "Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)",
+      "photo_url": "https://m.media-amazon.com/images/I/7130cB24rRL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)</b>\n\n💵 <b>Precio Hoy:</b> <b>$39.99 USD</b> (<i>~$145.199 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $10.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($39.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HDNYYVFY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDNYYVFY"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HDNYYVFY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HDNYYVFY",
+      "deal_snapshot": {
+        "asin": "B0HDNYYVFY",
+        "title": "Retro Gaming Console Stick Built-in 23 Emulators and 20,000+ Games (64GB)",
+        "price_usd": 39.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 20,
+        "price_cop": 145199,
+        "trm_cop": 3630.89,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0D9VS4PV7",
     "title": "SUPFINE - Funda magnética para iPhone 13/iPhone 14, color negro",
     "timestamp": "2026-11-25T21:23:33.999144+00:00",
