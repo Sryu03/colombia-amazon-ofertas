@@ -1,5 +1,1570 @@
 [
   {
+    "asin": "B0HGJD4KF7",
+    "title": "Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini",
+    "timestamp": "2026-11-26T22:14:08.836486+00:00",
+    "timestamp_colombia": "2026-11-26T17:14:08.836486-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HGJD4KF7",
+      "title": "Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 83.99,
+      "list_price_usd": 139.95,
+      "avg_90d_usd": 139.95,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.24,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/819HT5atKlL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 139.95,
+      "discount_pct": 40.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 40.0,
+      "price_vs_90d_badge": "📉 40.0% más barato que su promedio de 90 días ($139.95 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 83.99,
+      "price_cop": 348558,
+      "price_cop_formatted": "$348.558 COP",
+      "total_landed_cop": 348558,
+      "total_landed_cop_formatted": "$348.558 COP",
+      "savings_usd": 55.96,
+      "savings_cop": 232234,
+      "savings_cop_formatted": "$232.234 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HGJD4KF7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGJD4KF7",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-26T22:10:28.637296+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini</b>\n\n💵 <b>Precio Hoy:</b> <b>$83.99 USD</b> (<i>~$348.558 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$139.95 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $55.96 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/819HT5atKlL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini</b>\n\n💵 <b>Precio Hoy:</b> <b>$83.99 USD</b> (<i>~$348.558 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$139.95 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $55.96 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($83.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HGJD4KF7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGJD4KF7"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 337,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795731253,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVFrCK810D-XAuNTRLTuqJssljw2twAC7wxrG5DgSESybP3AMs4BIAEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD7wxrG5DgSER4",
+              "file_size": 1811,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVFrCK810D-XAuNTRLTuqJssljw2twAC7wxrG5DgSESybP3AMs4BIAEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD7wxrG5DgSERy",
+              "file_size": 24961,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVFrCK810D-XAuNTRLTuqJssljw2twAC7wxrG5DgSESybP3AMs4BIAEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD7wxrG5DgSER9",
+              "file_size": 100998,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVFrCK810D-XAuNTRLTuqJssljw2twAC7wxrG5DgSESybP3AMs4BIAEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD7wxrG5DgSER-",
+              "file_size": 151530,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)\n📦 Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini\n\n💵 Precio Hoy: $83.99 USD (~$348.558 COP · TRM $4.150)\n📉 Más barato que antes: Antes $139.95 USD → Hoy -40% OFF · Ahorras $55.96 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 60,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 171,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 199,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 217,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 228,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 433,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 713,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 741,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($83.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0HGJD4KF7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGJD4KF7"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HGJD4KF7",
+        "title": "Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini",
+        "photo_url": "https://m.media-amazon.com/images/I/819HT5atKlL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini</b>\n\n💵 <b>Precio Hoy:</b> <b>$83.99 USD</b> (<i>~$348.558 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$139.95 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $55.96 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($83.99 USD)",
+                "url": "https://www.amazon.com/dp/B0HGJD4KF7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGJD4KF7"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HGJD4KF7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGJD4KF7",
+        "deal_snapshot": {
+          "asin": "B0HGJD4KF7",
+          "title": "Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini",
+          "price_usd": 83.99,
+          "reference_price_usd": 139.95,
+          "discount_pct": 40,
+          "price_cop": 348558,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HGJD4KF7",
+      "title": "Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini",
+      "photo_url": "https://m.media-amazon.com/images/I/819HT5atKlL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-40% OFF)</b>\n📦 <b>Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini</b>\n\n💵 <b>Precio Hoy:</b> <b>$83.99 USD</b> (<i>~$348.558 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$139.95 USD</s> → Hoy <b>-40% OFF</b> · <b>Ahorras $55.96 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($83.99 USD)",
+              "url": "https://www.amazon.com/dp/B0HGJD4KF7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGJD4KF7"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HGJD4KF7?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HGJD4KF7",
+      "deal_snapshot": {
+        "asin": "B0HGJD4KF7",
+        "title": "Cuisinart Freidora de aire ClearView 4.5qt. Capacidad Tahini",
+        "price_usd": 83.99,
+        "reference_price_usd": 139.95,
+        "discount_pct": 40,
+        "price_cop": 348558,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H5YV9J6Y",
+    "title": "Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2",
+    "timestamp": "2026-11-26T22:14:03.281322+00:00",
+    "timestamp_colombia": "2026-11-26T17:14:03.281322-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H5YV9J6Y",
+      "title": "Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 24.88,
+      "list_price_usd": 44.99,
+      "avg_90d_usd": 44.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.44,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/81Rjbs17ItL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 44.99,
+      "discount_pct": 44.7,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 44.7,
+      "price_vs_90d_badge": "📉 44.7% más barato que su promedio de 90 días ($44.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 36.83,
+      "price_cop": 103252,
+      "price_cop_formatted": "$103.252 COP",
+      "total_landed_cop": 152844,
+      "total_landed_cop_formatted": "$152.844 COP",
+      "savings_usd": 20.11,
+      "savings_cop": 83456,
+      "savings_cop_formatted": "$83.456 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $10.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H5YV9J6Y?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5YV9J6Y",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-26T22:10:28.637296+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.88 USD</b> (<i>~$103.252 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $20.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/81Rjbs17ItL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.88 USD</b> (<i>~$103.252 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $20.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.88 USD)",
+                "url": "https://www.amazon.com/dp/B0H5YV9J6Y?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5YV9J6Y"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 336,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795731248,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVBrCK8wY7EPaw0z9xudYlMsNjvpmwAC7gxrG5DgSETTEBjwc2uCXwEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD7gxrG5DgSER4",
+              "file_size": 2250,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVBrCK8wY7EPaw0z9xudYlMsNjvpmwAC7gxrG5DgSETTEBjwc2uCXwEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD7gxrG5DgSERy",
+              "file_size": 34348,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVBrCK8wY7EPaw0z9xudYlMsNjvpmwAC7gxrG5DgSETTEBjwc2uCXwEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD7gxrG5DgSER9",
+              "file_size": 146474,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVBrCK8wY7EPaw0z9xudYlMsNjvpmwAC7gxrG5DgSETTEBjwc2uCXwEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD7gxrG5DgSER-",
+              "file_size": 221815,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)\n📦 Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2\n\n💵 Precio Hoy: $24.88 USD (~$103.252 COP · TRM $4.150)\n📉 Más barato que antes: Antes $44.99 USD → Hoy -45% OFF · Ahorras $20.11 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $10.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 60,
+              "type": "bold"
+            },
+            {
+              "offset": 116,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 128,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 171,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 199,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 216,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 227,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 250,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 450,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 536,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 684,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 699,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 712,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($24.88 USD)",
+                  "url": "https://www.amazon.com/dp/B0H5YV9J6Y?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5YV9J6Y"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H5YV9J6Y",
+        "title": "Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2",
+        "photo_url": "https://m.media-amazon.com/images/I/81Rjbs17ItL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.88 USD</b> (<i>~$103.252 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $20.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.88 USD)",
+                "url": "https://www.amazon.com/dp/B0H5YV9J6Y?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5YV9J6Y"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H5YV9J6Y?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5YV9J6Y",
+        "deal_snapshot": {
+          "asin": "B0H5YV9J6Y",
+          "title": "Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2",
+          "price_usd": 24.88,
+          "reference_price_usd": 44.99,
+          "discount_pct": 45,
+          "price_cop": 103252,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H5YV9J6Y",
+      "title": "Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2",
+      "photo_url": "https://m.media-amazon.com/images/I/81Rjbs17ItL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-45% OFF)</b>\n📦 <b>Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.88 USD</b> (<i>~$103.252 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$44.99 USD</s> → Hoy <b>-45% OFF</b> · <b>Ahorras $20.11 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.12 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($24.88 USD)",
+              "url": "https://www.amazon.com/dp/B0H5YV9J6Y?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5YV9J6Y"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H5YV9J6Y?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H5YV9J6Y",
+      "deal_snapshot": {
+        "asin": "B0H5YV9J6Y",
+        "title": "Shinobi: Art of Vengeance Deluxe Edition - Nintendo Switch 2",
+        "price_usd": 24.88,
+        "reference_price_usd": 44.99,
+        "discount_pct": 45,
+        "price_cop": 103252,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H2K3HQFS",
+    "title": "Sonic Frontiers: Definitive Edition - Nintendo Switch 2",
+    "timestamp": "2026-11-26T22:13:57.833302+00:00",
+    "timestamp_colombia": "2026-11-26T17:13:57.833302-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H2K3HQFS",
+      "title": "Sonic Frontiers: Definitive Edition - Nintendo Switch 2",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 24.99,
+      "list_price_usd": 49.99,
+      "avg_90d_usd": 49.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.24,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/7119ZVeZmfL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 49.99,
+      "discount_pct": 50.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 50.0,
+      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($49.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 36.94,
+      "price_cop": 103708,
+      "price_cop_formatted": "$103.708 COP",
+      "total_landed_cop": 153301,
+      "total_landed_cop_formatted": "$153.301 COP",
+      "savings_usd": 25.0,
+      "savings_cop": 103750,
+      "savings_cop_formatted": "$103.750 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H2K3HQFS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2K3HQFS",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-26T22:10:28.637296+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Sonic Frontiers: Definitive Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/7119ZVeZmfL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Sonic Frontiers: Definitive Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H2K3HQFS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2K3HQFS"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 335,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795731242,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU9rCK8qc0b3dR98ileAzdIUC8rjAQAC7QxrG5DgSETs4N5KNpdJ1AEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD7QxrG5DgSER4",
+              "file_size": 1836,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU9rCK8qc0b3dR98ileAzdIUC8rjAQAC7QxrG5DgSETs4N5KNpdJ1AEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD7QxrG5DgSERy",
+              "file_size": 26092,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU9rCK8qc0b3dR98ileAzdIUC8rjAQAC7QxrG5DgSETs4N5KNpdJ1AEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD7QxrG5DgSER9",
+              "file_size": 106092,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU9rCK8qc0b3dR98ileAzdIUC8rjAQAC7QxrG5DgSETs4N5KNpdJ1AEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD7QxrG5DgSER-",
+              "file_size": 154073,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 Sonic Frontiers: Definitive Edition - Nintendo Switch 2\n\n💵 Precio Hoy: $24.99 USD (~$103.708 COP · TRM $4.150)\n📉 Más barato que antes: Antes $49.99 USD → Hoy -50% OFF · Ahorras $25.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 55,
+              "type": "bold"
+            },
+            {
+              "offset": 111,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 123,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 135,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 166,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 194,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 211,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 222,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 245,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 445,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 531,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 679,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 694,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 707,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0H2K3HQFS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2K3HQFS"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H2K3HQFS",
+        "title": "Sonic Frontiers: Definitive Edition - Nintendo Switch 2",
+        "photo_url": "https://m.media-amazon.com/images/I/7119ZVeZmfL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Sonic Frontiers: Definitive Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+                "url": "https://www.amazon.com/dp/B0H2K3HQFS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2K3HQFS"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H2K3HQFS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2K3HQFS",
+        "deal_snapshot": {
+          "asin": "B0H2K3HQFS",
+          "title": "Sonic Frontiers: Definitive Edition - Nintendo Switch 2",
+          "price_usd": 24.99,
+          "reference_price_usd": 49.99,
+          "discount_pct": 50,
+          "price_cop": 103708,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H2K3HQFS",
+      "title": "Sonic Frontiers: Definitive Edition - Nintendo Switch 2",
+      "photo_url": "https://m.media-amazon.com/images/I/7119ZVeZmfL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>Sonic Frontiers: Definitive Edition - Nintendo Switch 2</b>\n\n💵 <b>Precio Hoy:</b> <b>$24.99 USD</b> (<i>~$103.708 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$49.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $25.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $10.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($24.99 USD)",
+              "url": "https://www.amazon.com/dp/B0H2K3HQFS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2K3HQFS"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H2K3HQFS?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2K3HQFS",
+      "deal_snapshot": {
+        "asin": "B0H2K3HQFS",
+        "title": "Sonic Frontiers: Definitive Edition - Nintendo Switch 2",
+        "price_usd": 24.99,
+        "reference_price_usd": 49.99,
+        "discount_pct": 50,
+        "price_cop": 103708,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0H2JXTRBY",
+    "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
+    "timestamp": "2026-11-26T22:13:52.621321+00:00",
+    "timestamp_colombia": "2026-11-26T17:13:52.621321-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0H2JXTRBY",
+      "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
+      "category": "Gaming",
+      "brand": "",
+      "price_usd": 29.95,
+      "list_price_usd": 69.99,
+      "avg_90d_usd": 69.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 69.99,
+      "discount_pct": 57.2,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 57.2,
+      "price_vs_90d_badge": "📉 57.2% más barato que su promedio de 90 días ($69.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 49592,
+      "shipping_cost_formatted": "+$11.95 USD (~$49.592 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 41.9,
+      "price_cop": 124292,
+      "price_cop_formatted": "$124.292 COP",
+      "total_landed_cop": 173885,
+      "total_landed_cop_formatted": "$173.885 COP",
+      "savings_usd": 40.04,
+      "savings_cop": 166166,
+      "savings_cop_formatted": "$166.166 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $5.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY",
+      "is_new_price_drop": true,
+      "previous_price_usd": 34.97,
+      "verified_at": "2026-11-26T22:10:28.637296+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.95 USD</b> (<i>~$124.292 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.95 USD</b> (<i>~$124.292 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.95 USD)",
+                "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 334,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795731237,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU5rCK8lk1ucIh_UWiEE6VbQcv47SQAC7AxrG5DgSESy5YgJb3uGKQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD7AxrG5DgSER4",
+              "file_size": 1857,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU5rCK8lk1ucIh_UWiEE6VbQcv47SQAC7AxrG5DgSESy5YgJb3uGKQEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD7AxrG5DgSERy",
+              "file_size": 25221,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU5rCK8lk1ucIh_UWiEE6VbQcv47SQAC7AxrG5DgSESy5YgJb3uGKQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD7AxrG5DgSER9",
+              "file_size": 98924,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU5rCK8lk1ucIh_UWiEE6VbQcv47SQAC7AxrG5DgSESy5YgJb3uGKQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD7AxrG5DgSER-",
+              "file_size": 145604,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)\n📦 EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame\n\n💵 Precio Hoy: $29.95 USD (~$124.292 COP · TRM $4.150)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -57% OFF · Ahorras $40.04 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $5.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 83,
+              "type": "bold"
+            },
+            {
+              "offset": 139,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 151,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 194,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 222,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 239,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 250,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 273,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 473,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 559,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 706,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 721,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 734,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($29.95 USD)",
+                  "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0H2JXTRBY",
+        "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
+        "photo_url": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.95 USD</b> (<i>~$124.292 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($29.95 USD)",
+                "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY",
+        "deal_snapshot": {
+          "asin": "B0H2JXTRBY",
+          "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
+          "price_usd": 29.95,
+          "reference_price_usd": 69.99,
+          "discount_pct": 57,
+          "price_cop": 124292,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0H2JXTRBY",
+      "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
+      "photo_url": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-57% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$29.95 USD</b> (<i>~$124.292 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-57% OFF</b> · <b>Ahorras $40.04 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $5.05 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($29.95 USD)",
+              "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY",
+      "deal_snapshot": {
+        "asin": "B0H2JXTRBY",
+        "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
+        "price_usd": 29.95,
+        "reference_price_usd": 69.99,
+        "discount_pct": 57,
+        "price_cop": 124292,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0HCCHVHX8",
+    "title": "Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador",
+    "timestamp": "2026-11-26T22:13:49.443531+00:00",
+    "timestamp_colombia": "2026-11-26T17:13:49.443531-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0HCCHVHX8",
+      "title": "Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador",
+      "category": "Hogar",
+      "brand": "",
+      "price_usd": 85.49,
+      "list_price_usd": 299.99,
+      "avg_90d_usd": 299.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71Fhzc4BTeL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 299.99,
+      "discount_pct": 71.5,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 71.5,
+      "price_vs_90d_badge": "📉 71.5% más barato que su promedio de 90 días ($299.99 USD)",
+      "trm_cop": 4150.0,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 85.49,
+      "price_cop": 354784,
+      "price_cop_formatted": "$354.784 COP",
+      "total_landed_cop": 354784,
+      "total_landed_cop_formatted": "$354.784 COP",
+      "savings_usd": 214.5,
+      "savings_cop": 890175,
+      "savings_cop_formatted": "$890.175 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0HCCHVHX8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCCHVHX8",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-26T22:10:28.637296+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-72% OFF)</b>\n📦 <b>Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.49 USD</b> (<i>~$354.784 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-72% OFF</b> · <b>Ahorras $214.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71Fhzc4BTeL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-72% OFF)</b>\n📦 <b>Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.49 USD</b> (<i>~$354.784 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-72% OFF</b> · <b>Ahorras $214.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($85.49 USD)",
+                "url": "https://www.amazon.com/dp/B0HCCHVHX8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCCHVHX8"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 333,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795731232,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU1rCK8gEsj-jtekdnOJhIJuoL7RJgAC6wxrG5DgSERPLaBkuZc4iAEAAwIAA3MAAz0E",
+              "file_unique_id": "AQAD6wxrG5DgSER4",
+              "file_size": 1837,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU1rCK8gEsj-jtekdnOJhIJuoL7RJgAC6wxrG5DgSERPLaBkuZc4iAEAAwIAA20AAz0E",
+              "file_unique_id": "AQAD6wxrG5DgSERy",
+              "file_size": 26673,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU1rCK8gEsj-jtekdnOJhIJuoL7RJgAC6wxrG5DgSERPLaBkuZc4iAEAAwIAA3gAAz0E",
+              "file_unique_id": "AQAD6wxrG5DgSER9",
+              "file_size": 109018,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAU1rCK8gEsj-jtekdnOJhIJuoL7RJgAC6wxrG5DgSERPLaBkuZc4iAEAAwIAA3kAAz0E",
+              "file_unique_id": "AQAD6wxrG5DgSER-",
+              "file_size": 166445,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-72% OFF)\n📦 Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador\n\n💵 Precio Hoy: $85.49 USD (~$354.784 COP · TRM $4.150)\n📉 Más barato que antes: Antes $299.99 USD → Hoy -72% OFF · Ahorras $214.50 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 155,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 186,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 214,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 232,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 243,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 267,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 449,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 535,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 729,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 744,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 757,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($85.49 USD)",
+                  "url": "https://www.amazon.com/dp/B0HCCHVHX8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCCHVHX8"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0HCCHVHX8",
+        "title": "Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador",
+        "photo_url": "https://m.media-amazon.com/images/I/71Fhzc4BTeL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-72% OFF)</b>\n📦 <b>Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.49 USD</b> (<i>~$354.784 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-72% OFF</b> · <b>Ahorras $214.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($85.49 USD)",
+                "url": "https://www.amazon.com/dp/B0HCCHVHX8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCCHVHX8"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0HCCHVHX8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCCHVHX8",
+        "deal_snapshot": {
+          "asin": "B0HCCHVHX8",
+          "title": "Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador",
+          "price_usd": 85.49,
+          "reference_price_usd": 299.99,
+          "discount_pct": 72,
+          "price_cop": 354784,
+          "trm_cop": 4150.0,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0HCCHVHX8",
+      "title": "Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador",
+      "photo_url": "https://m.media-amazon.com/images/I/71Fhzc4BTeL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-72% OFF)</b>\n📦 <b>Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador</b>\n\n💵 <b>Precio Hoy:</b> <b>$85.49 USD</b> (<i>~$354.784 COP</i> · TRM $4.150)\n📉 <b>Más barato que antes:</b> Antes <s>$299.99 USD</s> → Hoy <b>-72% OFF</b> · <b>Ahorras $214.50 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($85.49 USD)",
+              "url": "https://www.amazon.com/dp/B0HCCHVHX8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCCHVHX8"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0HCCHVHX8?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0HCCHVHX8",
+      "deal_snapshot": {
+        "asin": "B0HCCHVHX8",
+        "title": "Sellador al vacío 95kpa Sellador de alimentos con almacenamiento y cortador",
+        "price_usd": 85.49,
+        "reference_price_usd": 299.99,
+        "discount_pct": 72,
+        "price_cop": 354784,
+        "trm_cop": 4150.0,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0FDWNZ1L8",
     "title": "TempPro Termómetro de caramelo con clip de olla, termómetro de aceite para",
     "timestamp": "2026-11-26T14:43:03.048194+00:00",
@@ -61559,319 +63124,6 @@
         "reference_price_usd": 29.99,
         "discount_pct": 33,
         "price_cop": 66301,
-        "trm_cop": 3316.7,
-        "ships_to_colombia": true,
-        "free_shipping_co": false,
-        "requires_locker": false,
-        "tax_free_colombia": true
-      }
-    }
-  },
-  {
-    "asin": "B0H2JXTRBY",
-    "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
-    "timestamp": "2026-11-15T08:23:10.985120+00:00",
-    "timestamp_colombia": "2026-11-15T03:23:10.985120-05:00",
-    "is_colombia_peak_hour": false,
-    "deal": {
-      "asin": "B0H2JXTRBY",
-      "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
-      "category": "Gaming",
-      "brand": "",
-      "price_usd": 34.99,
-      "list_price_usd": 69.99,
-      "avg_90d_usd": 69.99,
-      "ships_to_colombia": true,
-      "free_shipping_co": false,
-      "shipping_cost_usd": 11.95,
-      "requires_locker": false,
-      "rating": 4.54,
-      "reviews_count": 100,
-      "image_url": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
-      "live_verified": true,
-      "detail_verified": true,
-      "has_buybox": true,
-      "delivery_country_confirmed": "CO",
-      "highlights": [
-        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
-        "Elegible para envío internacional AmazonGlobal hacia Colombia",
-        "Garantía de compra directa en Amazon.com"
-      ],
-      "reference_price_usd": 69.99,
-      "discount_pct": 50.0,
-      "cheaper_than_before": true,
-      "vs_avg_90d_pct": 50.0,
-      "price_vs_90d_badge": "📉 50.0% más barato que su promedio de 90 días ($69.99 USD)",
-      "trm_cop": 3316.7,
-      "tax_free_colombia": true,
-      "estimated_import_tax_usd": 0.0,
-      "shipping_cost_cop": 39635,
-      "shipping_cost_formatted": "+$11.95 USD (~$39.635 COP)",
-      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
-      "total_landed_usd": 46.94,
-      "price_cop": 116051,
-      "price_cop_formatted": "$116.051 COP",
-      "total_landed_cop": 155686,
-      "total_landed_cop_formatted": "$155.686 COP",
-      "savings_usd": 35.0,
-      "savings_cop": 116084,
-      "savings_cop_formatted": "$116.084 COP",
-      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
-      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
-      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
-      "approved_for_colombia": true,
-      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
-      "affiliate_url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY",
-      "is_new_price_drop": true,
-      "previous_price_usd": 64.71,
-      "verified_at": "2026-11-15T08:20:22.575160+00:00",
-      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "audited_by": "verificador-colombia-auditor"
-    },
-    "telegram": {
-      "channel": "telegram",
-      "mode": "live",
-      "status": "sent",
-      "token_configured": true,
-      "upload_mode": "rendered_pillepues_card",
-      "http_status": 200,
-      "api_method": "sendPhoto",
-      "payload": {
-        "chat_id": "@pillepues",
-        "photo": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
-        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
-                "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
-              }
-            ]
-          ]
-        }
-      },
-      "response": {
-        "ok": true,
-        "result": {
-          "message_id": 102,
-          "sender_chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "chat": {
-            "id": -1004493953277,
-            "title": "Pillepues",
-            "username": "pillepues",
-            "type": "channel"
-          },
-          "date": 1794730995,
-          "photo": [
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZmr5a_ORfyUxP6tXrRCJxeueAAG-xQAC-QxrG14T0EfbKYfQTChn8wEAAwIAA3MAAz0E",
-              "file_unique_id": "AQAD-QxrG14T0Ed4",
-              "file_size": 1856,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZmr5a_ORfyUxP6tXrRCJxeueAAG-xQAC-QxrG14T0EfbKYfQTChn8wEAAwIAA20AAz0E",
-              "file_unique_id": "AQAD-QxrG14T0Edy",
-              "file_size": 25223,
-              "width": 320,
-              "height": 320
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZmr5a_ORfyUxP6tXrRCJxeueAAG-xQAC-QxrG14T0EfbKYfQTChn8wEAAwIAA3gAAz0E",
-              "file_unique_id": "AQAD-QxrG14T0Ed9",
-              "file_size": 98856,
-              "width": 800,
-              "height": 800
-            },
-            {
-              "file_id": "AgACAgEAAyEGAAMBC9xI_QADZmr5a_ORfyUxP6tXrRCJxeueAAG-xQAC-QxrG14T0EfbKYfQTChn8wEAAwIAA3kAAz0E",
-              "file_unique_id": "AQAD-QxrG14T0Ed-",
-              "file_size": 145631,
-              "width": 1080,
-              "height": 1080
-            }
-          ],
-          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)\n📦 EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame\n\n💵 Precio Hoy: $34.99 USD (~$116.051 COP · TRM $3.317)\n📉 Más barato que antes: Antes $69.99 USD → Hoy -50% OFF · Ahorras $35.00 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
-          "caption_entities": [
-            {
-              "offset": 3,
-              "length": 44,
-              "type": "bold"
-            },
-            {
-              "offset": 51,
-              "length": 83,
-              "type": "bold"
-            },
-            {
-              "offset": 139,
-              "length": 11,
-              "type": "bold"
-            },
-            {
-              "offset": 151,
-              "length": 10,
-              "type": "bold"
-            },
-            {
-              "offset": 163,
-              "length": 13,
-              "type": "italic"
-            },
-            {
-              "offset": 194,
-              "length": 21,
-              "type": "bold"
-            },
-            {
-              "offset": 222,
-              "length": 10,
-              "type": "strikethrough"
-            },
-            {
-              "offset": 239,
-              "length": 8,
-              "type": "bold"
-            },
-            {
-              "offset": 250,
-              "length": 18,
-              "type": "bold"
-            },
-            {
-              "offset": 273,
-              "length": 6,
-              "type": "bold"
-            },
-            {
-              "offset": 473,
-              "length": 10,
-              "type": "url"
-            },
-            {
-              "offset": 559,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 706,
-              "length": 14,
-              "type": "bold"
-            },
-            {
-              "offset": 721,
-              "length": 10,
-              "type": "mention"
-            },
-            {
-              "offset": 734,
-              "length": 94,
-              "type": "italic"
-            }
-          ],
-          "reply_markup": {
-            "inline_keyboard": [
-              [
-                {
-                  "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
-                  "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-                }
-              ],
-              [
-                {
-                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
-                }
-              ]
-            ]
-          }
-        }
-      },
-      "card": {
-        "asin": "B0H2JXTRBY",
-        "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
-        "photo_url": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
-        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-        "parse_mode": "HTML",
-        "reply_markup": {
-          "inline_keyboard": [
-            [
-              {
-                "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
-                "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-              }
-            ],
-            [
-              {
-                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
-              }
-            ]
-          ]
-        },
-        "affiliate_url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY",
-        "deal_snapshot": {
-          "asin": "B0H2JXTRBY",
-          "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
-          "price_usd": 34.99,
-          "reference_price_usd": 69.99,
-          "discount_pct": 50,
-          "price_cop": 116051,
-          "trm_cop": 3316.7,
-          "ships_to_colombia": true,
-          "free_shipping_co": false,
-          "requires_locker": false,
-          "tax_free_colombia": true
-        }
-      }
-    },
-    "telegram_card": {
-      "asin": "B0H2JXTRBY",
-      "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
-      "photo_url": "https://m.media-amazon.com/images/I/61hZQ-xbbtL._AC_SL1200_.jpg",
-      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-50% OFF)</b>\n📦 <b>EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame</b>\n\n💵 <b>Precio Hoy:</b> <b>$34.99 USD</b> (<i>~$116.051 COP</i> · TRM $3.317)\n📉 <b>Más barato que antes:</b> Antes <s>$69.99 USD</s> → Hoy <b>-50% OFF</b> · <b>Ahorras $35.00 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $0.01 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
-      "parse_mode": "HTML",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "🛒 Comprar en Amazon.com ($34.99 USD)",
-              "url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
-            }
-          ],
-          [
-            {
-              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
-              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY"
-            }
-          ]
-        ]
-      },
-      "affiliate_url": "https://www.amazon.com/dp/B0H2JXTRBY?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
-      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0H2JXTRBY",
-      "deal_snapshot": {
-        "asin": "B0H2JXTRBY",
-        "title": "EA Sports Madden NFL 27 - Standard Edition Nintendo Switch 2 |Cartridge I VideoGame",
-        "price_usd": 34.99,
-        "reference_price_usd": 69.99,
-        "discount_pct": 50,
-        "price_cop": 116051,
         "trm_cop": 3316.7,
         "ships_to_colombia": true,
         "free_shipping_co": false,
