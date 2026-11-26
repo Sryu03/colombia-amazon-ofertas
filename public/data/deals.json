@@ -26,11 +26,11 @@
       ]
     },
     "zero_token_mode": true,
-    "monitored_products_count": 25,
+    "monitored_products_count": 1,
     "active_deals_count": 21,
     "new_price_drops_count": 0,
     "telegram_delivery_status": {
-      "checked_at": "2026-11-26T07:43:24.890150+00:00",
+      "checked_at": "2026-11-26T07:50:43.187273+00:00",
       "token_configured": true,
       "chat_id": "@pillepues",
       "source": "none",
@@ -45,28 +45,16 @@
       "require_live_detail": true,
       "require_colombia_confirmation": true,
       "allow_locker_deals": false,
-      "audited_count": 25,
-      "approved_count": 21,
-      "rejected_count": 4,
+      "audited_count": 1,
+      "approved_count": 0,
+      "rejected_count": 1,
       "rejected_reasons": {
-        "incoherent_price_or_discount": 4
+        "colombia_shipping_unconfirmed:US_OR_UNKNOWN": 1
       },
       "rejected_samples": [
         {
-          "asin": "B0G8L1RNPF",
-          "reason": "incoherent_price_or_discount"
-        },
-        {
-          "asin": "B0G8LGGX9B",
-          "reason": "incoherent_price_or_discount"
-        },
-        {
-          "asin": "B0FV8D5Y4D",
-          "reason": "incoherent_price_or_discount"
-        },
-        {
-          "asin": "B0HD9K8KGN",
-          "reason": "incoherent_price_or_discount"
+          "asin": "B0H7Z164PJ",
+          "reason": "colombia_shipping_unconfirmed:US_OR_UNKNOWN"
         }
       ]
     },
@@ -75,16 +63,18 @@
       "target_asins_count": 185,
       "max_live_asins": 60,
       "pre_verified_count": 0,
-      "attempted_count": 60,
-      "parsed_ok_count": 60,
-      "live_verified_count": 25,
-      "fetch_failures_count": 0,
-      "outcome_counts": {},
-      "colombia_co_count": 25,
-      "blocked_co_count": 35,
-      "us_or_unknown_count": 0,
-      "missing_buybox_count": 35,
-      "aborted_early_reason": null,
+      "attempted_count": 16,
+      "parsed_ok_count": 1,
+      "live_verified_count": 1,
+      "fetch_failures_count": 15,
+      "outcome_counts": {
+        "curl_safari17_0:captcha": 15
+      },
+      "colombia_co_count": 0,
+      "blocked_co_count": 0,
+      "us_or_unknown_count": 1,
+      "missing_buybox_count": 0,
+      "aborted_early_reason": "consecutive_failures_10",
       "attempted_asins": [
         "B0HGHB3V16",
         "B0HJ9ZNRKT",
@@ -101,166 +91,82 @@
         "B0HJ7MGWSZ",
         "B0GF74ZGDZ",
         "B0G8L1RNPF",
-        "B0FT21HKZ6",
-        "B0FT99KCV8",
-        "B0FC2GH8Z4",
-        "B0FM43GXDJ",
-        "B0G8LGGX9B",
-        "B0GMWYYRQL",
-        "B0FV8D5Y4D",
-        "B0G1XSY4BJ",
-        "B0H5FJXKRG",
-        "B0FLLXHPM9",
-        "B0FMBGXC2C",
-        "B0GMKRR64P",
-        "B0G49SZ24N",
-        "B0GSQZH26T",
-        "B0GD1LMWH3",
-        "B0FB21526X",
-        "B0GMLJCBBM",
-        "B0GLQXKKVY",
-        "B0H1NH99GX",
-        "B0H87DRN2H",
-        "B0H9Z71PJK",
-        "B0H9SYK5Q7",
-        "B0HGZ6277X",
-        "B0HGR4SDYC",
-        "B0HDT94SVJ",
-        "B0HPL7XTW4",
-        "B0HNRSRX9V",
-        "B0H8QQYQXG",
-        "B0HGD5KN33",
-        "B0HJ9ZT2FF",
-        "B0HJH57M9R",
-        "B0HDYN54X8",
-        "B0HJH9X2Z9",
-        "B0HKW4N1RJ",
-        "B0H95CL7YV",
-        "B0H2YYVGTM",
-        "B0H98DNGL8",
-        "B0HGHYL46H",
-        "B0H699XBZT",
-        "B0HBJTK4CC",
-        "B0HF78YVGS",
-        "B0HHH9WDV4",
-        "B0HD9K8KGN",
-        "B0HD2TH6Q4",
-        "B0HQSSTW3S"
+        "B0FT21HKZ6"
       ],
       "sample_outcomes": [
         {
           "asin": "B0HGHB3V16",
-          "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 0.0,
-          "dest": "BLOCKED_CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": false,
-          "live_verified": false
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0HJ9ZNRKT",
-          "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 0.0,
-          "dest": "BLOCKED_CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": false,
-          "live_verified": false
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0H7BYWCNG",
-          "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 0.0,
-          "dest": "BLOCKED_CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": false,
-          "live_verified": false
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0HFKYJ941",
-          "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 0.0,
-          "dest": "BLOCKED_CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": false,
-          "live_verified": false
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0HJSW1G3J",
-          "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 0.0,
-          "dest": "BLOCKED_CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": false,
-          "live_verified": false
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0H7Z164PJ",
           "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 0.0,
-          "dest": "BLOCKED_CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": false,
-          "live_verified": false
+          "price_usd": 139.95,
+          "list_price_usd": 299.99,
+          "dest": "US_OR_UNKNOWN",
+          "ingress": "",
+          "has_buybox": true,
+          "live_verified": true
         },
         {
           "asin": "B0HCYX8QBJ",
-          "outcome": "parsed_ok",
-          "price_usd": 19.99,
-          "list_price_usd": 24.99,
-          "dest": "CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": true,
-          "live_verified": true
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0HGPNSC3G",
-          "outcome": "parsed_ok",
-          "price_usd": 0.0,
-          "list_price_usd": 0.0,
-          "dest": "BLOCKED_CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": false,
-          "live_verified": false
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0H4TKY7WG",
-          "outcome": "parsed_ok",
-          "price_usd": 85.48,
-          "list_price_usd": 139.99,
-          "dest": "CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": true,
-          "live_verified": true
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         },
         {
           "asin": "B0HGQK86HR",
-          "outcome": "parsed_ok",
-          "price_usd": 14.24,
-          "list_price_usd": 19.98,
-          "dest": "CO",
-          "ingress": "Colombia Enviar a Colombia",
-          "has_buybox": true,
-          "live_verified": true
+          "client": "curl_safari17_0",
+          "status": 200,
+          "outcome": "captcha"
         }
       ],
       "glow_bootstrap": {
         "boot_status": 200,
-        "modal_action_found": true,
-        "modal_ajax_csrf_found": true,
-        "modal_status": 200,
-        "post_csrf_found": true,
-        "post_status": 200,
-        "post_body": "{\"isValidAddress\":1,\"isAddressUpdated\":1,\"sembuUpdated\":1,\"isTransitOutOfAis\":0,\"successful\":1,\"address\":{\"countryCode\":\"CO\",\"zipCode\":null,"
+        "boot_captcha": true
       },
-      "discovery_new_asins": 14,
+      "discovery_new_asins": 13,
       "discovery_parsed_leads": 68
-    }
+    },
+    "last_live_check_at": "2026-11-26T07:50:18.413612+00:00"
   },
   "deals": [
     {
