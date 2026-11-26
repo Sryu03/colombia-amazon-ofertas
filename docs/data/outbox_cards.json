@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0FWHPY1GJ",
+    "title": "ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas",
+    "timestamp": "2026-11-26T04:53:04.867848+00:00",
+    "timestamp_colombia": "2026-11-25T23:53:04.867848-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0FWHPY1GJ",
+      "title": "ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 379.0,
+      "list_price_usd": 599.0,
+      "avg_90d_usd": 599.0,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/91xwhr62TUL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 599.0,
+      "discount_pct": 36.7,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 36.7,
+      "price_vs_90d_badge": "📉 36.7% más barato que su promedio de 90 días ($599.00 USD)",
+      "trm_cop": 3630.89,
+      "tax_free_colombia": false,
+      "estimated_import_tax_usd": 72.01,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 451.01,
+      "price_cop": 1376107,
+      "price_cop_formatted": "$1.376.107 COP",
+      "total_landed_cop": 1637568,
+      "total_landed_cop_formatted": "$1.637.568 COP",
+      "savings_usd": 220.0,
+      "savings_cop": 798796,
+      "savings_cop_formatted": "$798.796 COP",
+      "tax_badge_co": "⚠️ Paga IVA Importación (> $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "🔥 MÍNIMO HISTÓRICO",
+      "approved_for_colombia": true,
+      "colombia_tip": "Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.",
+      "affiliate_url": "https://www.amazon.com/dp/B0FWHPY1GJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FWHPY1GJ",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-26T04:50:19.490929+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$379.00 USD</b> (<i>~$1.376.107 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$599.00 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $220.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/91xwhr62TUL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$379.00 USD</b> (<i>~$1.376.107 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$599.00 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $220.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($379.00 USD)",
+                "url": "https://www.amazon.com/dp/B0FWHPY1GJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FWHPY1GJ"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 328,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795668787,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUhrB7szpt_xWX5hGjofIlNBtBR7YAACog1rG5DgQESq0bU5L_6eUwEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADog1rG5DgQER4",
+              "file_size": 2050,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUhrB7szpt_xWX5hGjofIlNBtBR7YAACog1rG5DgQESq0bU5L_6eUwEAAwIAA20AAz0E",
+              "file_unique_id": "AQADog1rG5DgQERy",
+              "file_size": 30524,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUhrB7szpt_xWX5hGjofIlNBtBR7YAACog1rG5DgQESq0bU5L_6eUwEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADog1rG5DgQER9",
+              "file_size": 135991,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUhrB7szpt_xWX5hGjofIlNBtBR7YAACog1rG5DgQESq0bU5L_6eUwEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADog1rG5DgQER-",
+              "file_size": 212907,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)\n📦 ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas\n\n💵 Precio Hoy: $379.00 USD (~$1.376.107 COP · TRM $3.631)\n📉 Más barato que antes: Antes $599.00 USD → Hoy -37% OFF · Ahorras $220.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (> $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 44,
+              "type": "bold"
+            },
+            {
+              "offset": 51,
+              "length": 75,
+              "type": "bold"
+            },
+            {
+              "offset": 131,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 143,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 156,
+              "length": 15,
+              "type": "italic"
+            },
+            {
+              "offset": 189,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 217,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 235,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 246,
+              "length": 19,
+              "type": "bold"
+            },
+            {
+              "offset": 270,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 454,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 540,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 705,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 720,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 733,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($379.00 USD)",
+                  "url": "https://www.amazon.com/dp/B0FWHPY1GJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FWHPY1GJ"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0FWHPY1GJ",
+        "title": "ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas",
+        "photo_url": "https://m.media-amazon.com/images/I/91xwhr62TUL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$379.00 USD</b> (<i>~$1.376.107 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$599.00 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $220.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($379.00 USD)",
+                "url": "https://www.amazon.com/dp/B0FWHPY1GJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FWHPY1GJ"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0FWHPY1GJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FWHPY1GJ",
+        "deal_snapshot": {
+          "asin": "B0FWHPY1GJ",
+          "title": "ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas",
+          "price_usd": 379.0,
+          "reference_price_usd": 599.0,
+          "discount_pct": 37,
+          "price_cop": 1376107,
+          "trm_cop": 3630.89,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": false
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0FWHPY1GJ",
+      "title": "ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas",
+      "photo_url": "https://m.media-amazon.com/images/I/91xwhr62TUL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [🔥 MÍNIMO HISTÓRICO] (-37% OFF)</b>\n📦 <b>ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas</b>\n\n💵 <b>Precio Hoy:</b> <b>$379.00 USD</b> (<i>~$1.376.107 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$599.00 USD</s> → Hoy <b>-37% OFF</b> · <b>Ahorras $220.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 ⚠️ Paga IVA Importación (&gt; $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Supera el tope de $200 USD de la DIAN (aplica ~19% de IVA de importación). Paga en USD en el checkout de Amazon para ahorrar en la tasa de cambio.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($379.00 USD)",
+              "url": "https://www.amazon.com/dp/B0FWHPY1GJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FWHPY1GJ"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0FWHPY1GJ?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0FWHPY1GJ",
+      "deal_snapshot": {
+        "asin": "B0FWHPY1GJ",
+        "title": "ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas",
+        "price_usd": 379.0,
+        "reference_price_usd": 599.0,
+        "discount_pct": 37,
+        "price_cop": 1376107,
+        "trm_cop": 3630.89,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": false
+      }
+    }
+  },
+  {
     "asin": "B0FCXN672F",
     "title": "Lector de tarjetas SD USB-C, adaptador SD/MicroSD de doble ranura para",
     "timestamp": "2026-11-25T23:52:51.602653+00:00",
