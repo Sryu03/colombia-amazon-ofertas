@@ -1,5 +1,631 @@
 [
   {
+    "asin": "B0CYSQ9QB1",
+    "title": "Soporte para computadora portátil para escritorio, soporte elevador de",
+    "timestamp": "2026-11-26T08:13:21.179709+00:00",
+    "timestamp_colombia": "2026-11-26T03:13:21.179709-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0CYSQ9QB1",
+      "title": "Soporte para computadora portátil para escritorio, soporte elevador de",
+      "category": "Computadores",
+      "brand": "",
+      "price_usd": 17.59,
+      "list_price_usd": 21.99,
+      "avg_90d_usd": 21.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": false,
+      "shipping_cost_usd": 11.95,
+      "requires_locker": false,
+      "rating": 4.74,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/71FmSrR75aL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 21.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($21.99 USD)",
+      "trm_cop": 3630.89,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 43389,
+      "shipping_cost_formatted": "+$11.95 USD (~$43.389 COP)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 29.54,
+      "price_cop": 63867,
+      "price_cop_formatted": "$63.867 COP",
+      "total_landed_cop": 107256,
+      "total_landed_cop_formatted": "$107.256 COP",
+      "savings_usd": 4.4,
+      "savings_cop": 15976,
+      "savings_cop_formatted": "$15.976 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Envío directo sin casillero (+$11.95 USD). Agrega $17.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.",
+      "affiliate_url": "https://www.amazon.com/dp/B0CYSQ9QB1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CYSQ9QB1",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-26T08:10:19.729388+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Soporte para computadora portátil para escritorio, soporte elevador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.59 USD</b> (<i>~$63.867 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$21.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/71FmSrR75aL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Soporte para computadora portátil para escritorio, soporte elevador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.59 USD</b> (<i>~$63.867 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$21.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($17.59 USD)",
+                "url": "https://www.amazon.com/dp/B0CYSQ9QB1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CYSQ9QB1"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 330,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795680806,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUprB-oltRUggtxIRya_-7kOGaudwgACuw1rG5DgQETIM4JNdKND8wEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADuw1rG5DgQER4",
+              "file_size": 1839,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUprB-oltRUggtxIRya_-7kOGaudwgACuw1rG5DgQETIM4JNdKND8wEAAwIAA20AAz0E",
+              "file_unique_id": "AQADuw1rG5DgQERy",
+              "file_size": 24818,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUprB-oltRUggtxIRya_-7kOGaudwgACuw1rG5DgQETIM4JNdKND8wEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADuw1rG5DgQER9",
+              "file_size": 100826,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUprB-oltRUggtxIRya_-7kOGaudwgACuw1rG5DgQETIM4JNdKND8wEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADuw1rG5DgQER-",
+              "file_size": 151796,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 Soporte para computadora portátil para escritorio, soporte elevador de\n\n💵 Precio Hoy: $17.59 USD (~$63.867 COP · TRM $3.631)\n📉 Más barato que antes: Antes $21.99 USD → Hoy -20% OFF · Ahorras $4.40 USD\n\n🚚 Envío: ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Envío directo sin casillero (+$11.95 USD). Agrega $17.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 70,
+              "type": "bold"
+            },
+            {
+              "offset": 120,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 132,
+              "length": 10,
+              "type": "bold"
+            },
+            {
+              "offset": 144,
+              "length": 12,
+              "type": "italic"
+            },
+            {
+              "offset": 174,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 202,
+              "length": 10,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 219,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 230,
+              "length": 17,
+              "type": "bold"
+            },
+            {
+              "offset": 252,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 452,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 538,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 686,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 701,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 714,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($17.59 USD)",
+                  "url": "https://www.amazon.com/dp/B0CYSQ9QB1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CYSQ9QB1"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0CYSQ9QB1",
+        "title": "Soporte para computadora portátil para escritorio, soporte elevador de",
+        "photo_url": "https://m.media-amazon.com/images/I/71FmSrR75aL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Soporte para computadora portátil para escritorio, soporte elevador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.59 USD</b> (<i>~$63.867 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$21.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($17.59 USD)",
+                "url": "https://www.amazon.com/dp/B0CYSQ9QB1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CYSQ9QB1"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0CYSQ9QB1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CYSQ9QB1",
+        "deal_snapshot": {
+          "asin": "B0CYSQ9QB1",
+          "title": "Soporte para computadora portátil para escritorio, soporte elevador de",
+          "price_usd": 17.59,
+          "reference_price_usd": 21.99,
+          "discount_pct": 20,
+          "price_cop": 63867,
+          "trm_cop": 3630.89,
+          "ships_to_colombia": true,
+          "free_shipping_co": false,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0CYSQ9QB1",
+      "title": "Soporte para computadora portátil para escritorio, soporte elevador de",
+      "photo_url": "https://m.media-amazon.com/images/I/71FmSrR75aL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>Soporte para computadora portátil para escritorio, soporte elevador de</b>\n\n💵 <b>Precio Hoy:</b> <b>$17.59 USD</b> (<i>~$63.867 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$21.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $4.40 USD</b>\n\n🚚 <b>Envío:</b> ✈️ Envío directo a Colombia: +$11.95 USD (Gratis desde $35)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Envío directo sin casillero (+$11.95 USD). Agrega $17.41 USD más en productos elegibles para desbloquear Envío GRATIS a Colombia.\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($17.59 USD)",
+              "url": "https://www.amazon.com/dp/B0CYSQ9QB1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CYSQ9QB1"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0CYSQ9QB1?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0CYSQ9QB1",
+      "deal_snapshot": {
+        "asin": "B0CYSQ9QB1",
+        "title": "Soporte para computadora portátil para escritorio, soporte elevador de",
+        "price_usd": 17.59,
+        "reference_price_usd": 21.99,
+        "discount_pct": 20,
+        "price_cop": 63867,
+        "trm_cop": 3630.89,
+        "ships_to_colombia": true,
+        "free_shipping_co": false,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
+    "asin": "B0G1BS7WWK",
+    "title": "GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K",
+    "timestamp": "2026-11-26T08:13:19.209427+00:00",
+    "timestamp_colombia": "2026-11-26T03:13:19.209427-05:00",
+    "is_colombia_peak_hour": false,
+    "deal": {
+      "asin": "B0G1BS7WWK",
+      "title": "GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 143.99,
+      "list_price_usd": 179.99,
+      "avg_90d_usd": 179.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.54,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/518D3unQYUL._AC_SL1200_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 179.99,
+      "discount_pct": 20.0,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 20.0,
+      "price_vs_90d_badge": "📉 20.0% más barato que su promedio de 90 días ($179.99 USD)",
+      "trm_cop": 3630.89,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 143.99,
+      "price_cop": 522812,
+      "price_cop_formatted": "$522.812 COP",
+      "total_landed_cop": 522812,
+      "total_landed_cop_formatted": "$522.812 COP",
+      "savings_usd": 36.0,
+      "savings_cop": 130712,
+      "savings_cop_formatted": "$130.712 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0G1BS7WWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G1BS7WWK",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-26T08:10:19.729388+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K</b>\n\n💵 <b>Precio Hoy:</b> <b>$143.99 USD</b> (<i>~$522.812 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $36.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/518D3unQYUL._AC_SL1200_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K</b>\n\n💵 <b>Precio Hoy:</b> <b>$143.99 USD</b> (<i>~$522.812 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $36.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($143.99 USD)",
+                "url": "https://www.amazon.com/dp/B0G1BS7WWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G1BS7WWK"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 329,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795680800,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUlrB-ogex0isfB7VXbvGdAlw2vQZQACug1rG5DgQESop35T6xCjgQEAAwIAA3MAAz0E",
+              "file_unique_id": "AQADug1rG5DgQER4",
+              "file_size": 1856,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUlrB-ogex0isfB7VXbvGdAlw2vQZQACug1rG5DgQESop35T6xCjgQEAAwIAA20AAz0E",
+              "file_unique_id": "AQADug1rG5DgQERy",
+              "file_size": 24328,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUlrB-ogex0isfB7VXbvGdAlw2vQZQACug1rG5DgQESop35T6xCjgQEAAwIAA3gAAz0E",
+              "file_unique_id": "AQADug1rG5DgQER9",
+              "file_size": 91563,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAUlrB-ogex0isfB7VXbvGdAlw2vQZQACug1rG5DgQESop35T6xCjgQEAAwIAA3kAAz0E",
+              "file_unique_id": "AQADug1rG5DgQER-",
+              "file_size": 132604,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-20% OFF)\n📦 GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K\n\n💵 Precio Hoy: $143.99 USD (~$522.812 COP · TRM $3.631)\n📉 Más barato que antes: Antes $179.99 USD → Hoy -20% OFF · Ahorras $36.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 65,
+              "type": "bold"
+            },
+            {
+              "offset": 115,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 127,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 140,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 171,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 199,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 217,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 228,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 251,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 433,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 519,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 713,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 728,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 741,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($143.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0G1BS7WWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G1BS7WWK"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0G1BS7WWK",
+        "title": "GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K",
+        "photo_url": "https://m.media-amazon.com/images/I/518D3unQYUL._AC_SL1200_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K</b>\n\n💵 <b>Precio Hoy:</b> <b>$143.99 USD</b> (<i>~$522.812 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $36.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($143.99 USD)",
+                "url": "https://www.amazon.com/dp/B0G1BS7WWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G1BS7WWK"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0G1BS7WWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G1BS7WWK",
+        "deal_snapshot": {
+          "asin": "B0G1BS7WWK",
+          "title": "GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K",
+          "price_usd": 143.99,
+          "reference_price_usd": 179.99,
+          "discount_pct": 20,
+          "price_cop": 522812,
+          "trm_cop": 3630.89,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0G1BS7WWK",
+      "title": "GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K",
+      "photo_url": "https://m.media-amazon.com/images/I/518D3unQYUL._AC_SL1200_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-20% OFF)</b>\n📦 <b>GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K</b>\n\n💵 <b>Precio Hoy:</b> <b>$143.99 USD</b> (<i>~$522.812 COP</i> · TRM $3.631)\n📉 <b>Más barato que antes:</b> Antes <s>$179.99 USD</s> → Hoy <b>-20% OFF</b> · <b>Ahorras $36.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n• Elegible para envío internacional AmazonGlobal hacia Colombia\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($143.99 USD)",
+              "url": "https://www.amazon.com/dp/B0G1BS7WWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G1BS7WWK"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0G1BS7WWK?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0G1BS7WWK",
+      "deal_snapshot": {
+        "asin": "B0G1BS7WWK",
+        "title": "GL.iNet GL-RM10 Comet Pro Remote KVM sobre Wi-Fi 6 Doble Banda 4K",
+        "price_usd": 143.99,
+        "reference_price_usd": 179.99,
+        "discount_pct": 20,
+        "price_cop": 522812,
+        "trm_cop": 3630.89,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0FWHPY1GJ",
     "title": "ASUS ROG XG27AQDMGR - Monitor para juegos OLED HDR brillante de 27 pulgadas",
     "timestamp": "2026-11-26T04:53:04.867848+00:00",
