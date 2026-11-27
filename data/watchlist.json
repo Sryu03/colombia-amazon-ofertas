@@ -1,5 +1,61 @@
 [
   {
+    "asin": "B0011YW8L8",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B08HSRTZ59",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0GRK9KZ2P",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0D2JGYX3F",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0FY6Y5YDQ",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0H88DCWJL",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HFCKB889",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HG9PQQK6",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0H1YLJDBH",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0DZHR44J9",
+    "category": "Audio"
+  },
+  {
+    "asin": "B0D2HKCMBP",
+    "category": "Audio"
+  },
+  {
+    "asin": "B0CXG87GYK",
+    "category": "Audio"
+  },
+  {
+    "asin": "B0FNWCYLZN",
+    "category": "Audio"
+  },
+  {
+    "asin": "B0DT2344N3",
+    "category": "Audio"
+  },
+  {
     "asin": "B0HDVZRVTQ",
     "category": "Tecnología"
   },
@@ -252,10 +308,6 @@
     "category": "Tecnología"
   },
   {
-    "asin": "B0GL96NJL5",
-    "category": "Computadores"
-  },
-  {
     "asin": "B00MS7V15G",
     "category": "Tecnología"
   },
@@ -408,6 +460,38 @@
     "category": "Audio"
   },
   {
+    "asin": "B0HGHB3V16",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0H7Z164PJ",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HJSW1G3J",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HCYX8QBJ",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HGPNSC3G",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0HGQK86HR",
+    "category": "Tecnología"
+  },
+  {
+    "asin": "B0H3CRP1SR",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0GL96NJL5",
+    "category": "Computadores"
+  },
+  {
     "asin": "B0HJ9ZNRKT",
     "category": "Tecnología"
   },
@@ -513,90 +597,6 @@
   },
   {
     "asin": "B0HBJTK4CC",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0HQSSTW3S",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0HGQ3VMVB",
-    "category": "Tecnología"
-  },
-  {
-    "asin": "B0GF74ZGDZ",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0G8L1RNPF",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FT21HKZ6",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FT99KCV8",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FM43GXDJ",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0GMWYYRQL",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0GMKRR64P",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FV8D5Y4D",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0H5FJXKRG",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FLLXHPM9",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FMBGXC2C",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0G49SZ24N",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FB21526X",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0GLQXKKVY",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0FLB3D1M9",
-    "category": "Computadores"
-  },
-  {
-    "asin": "B0H9Z71PJK",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0H9SYK5Q7",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0H8QND851",
-    "category": "Gaming"
-  },
-  {
-    "asin": "B0HHH9WDV4",
     "category": "Hogar"
   }
 ]
