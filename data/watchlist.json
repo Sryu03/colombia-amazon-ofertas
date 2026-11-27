@@ -1,5 +1,13 @@
 [
   {
+    "asin": "B0H7VTHR4V",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0HD2TH6Q4",
+    "category": "Hogar"
+  },
+  {
     "asin": "B01M7M6KL3",
     "category": "Tecnología"
   },
@@ -508,10 +516,6 @@
     "category": "Tecnología"
   },
   {
-    "asin": "B0HMQLM3H2",
-    "category": "Tecnología"
-  },
-  {
     "asin": "B0HJH9X2Z9",
     "category": "Gaming"
   },
@@ -556,14 +560,6 @@
     "category": "Hogar"
   },
   {
-    "asin": "B0H7VTHR4V",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0HD2TH6Q4",
-    "category": "Hogar"
-  },
-  {
     "asin": "B0H5FJXKRG",
     "category": "Computadores"
   },
@@ -597,6 +593,10 @@
   },
   {
     "asin": "B0FM43GXDJ",
+    "category": "Computadores"
+  },
+  {
+    "asin": "B0G8LGGX9B",
     "category": "Computadores"
   }
 ]
