@@ -1,5 +1,318 @@
 [
   {
+    "asin": "B0D12PSW9F",
+    "title": "MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 pulgadas, 12 kits y 68 sonidos auténticos, USB MIDI, trono, palos, auriculares, 2 pedales de interruptor para principiantes y niños",
+    "timestamp": "2026-11-28T00:33:27.951455+00:00",
+    "timestamp_colombia": "2026-11-27T19:33:27.951455-05:00",
+    "is_colombia_peak_hour": true,
+    "deal": {
+      "asin": "B0D12PSW9F",
+      "title": "MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 pulgadas, 12 kits y 68 sonidos auténticos, USB MIDI, trono, palos, auriculares, 2 pedales de interruptor para principiantes y niños",
+      "category": "Tecnología",
+      "brand": "",
+      "price_usd": 159.99,
+      "list_price_usd": 214.99,
+      "avg_90d_usd": 214.99,
+      "ships_to_colombia": true,
+      "free_shipping_co": true,
+      "shipping_cost_usd": 0.0,
+      "requires_locker": false,
+      "rating": 4.64,
+      "reviews_count": 100,
+      "image_url": "https://m.media-amazon.com/images/I/61HzWZ9-xgL._AC_SL1500_.jpg",
+      "live_verified": true,
+      "detail_verified": true,
+      "has_buybox": true,
+      "delivery_country_confirmed": "CO",
+      "highlights": [
+        "Precio verificado en el Buy Box de Amazon.com (/dp/)",
+        "Elegible para envío internacional AmazonGlobal hacia Colombia",
+        "Garantía de compra directa en Amazon.com"
+      ],
+      "reference_price_usd": 214.99,
+      "discount_pct": 25.6,
+      "cheaper_than_before": true,
+      "vs_avg_90d_pct": 25.6,
+      "price_vs_90d_badge": "📉 25.6% más barato que su promedio de 90 días ($214.99 USD)",
+      "trm_cop": 3498.46,
+      "tax_free_colombia": true,
+      "estimated_import_tax_usd": 0.0,
+      "shipping_cost_cop": 0,
+      "shipping_cost_formatted": "GRATIS ($0 USD)",
+      "locker_badge_co": "✅ Necesita casillero: No (Envío directo a Colombia)",
+      "total_landed_usd": 159.99,
+      "price_cop": 559719,
+      "price_cop_formatted": "$559.719 COP",
+      "total_landed_cop": 559719,
+      "total_landed_cop_formatted": "$559.719 COP",
+      "savings_usd": 55.0,
+      "savings_cop": 192415,
+      "savings_cop_formatted": "$192.415 COP",
+      "tax_badge_co": "🟢 Sin Impuestos DIAN (≤ $200 USD)",
+      "shipping_badge_co": "🇨🇴 Envío GRATIS directo a Colombia ($0)",
+      "deal_tier": "⚡ GRAN OFERTA",
+      "approved_for_colombia": true,
+      "colombia_tip": "Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).",
+      "affiliate_url": "https://www.amazon.com/dp/B0D12PSW9F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D12PSW9F",
+      "is_new_price_drop": true,
+      "previous_price_usd": null,
+      "verified_at": "2026-11-28T00:30:22.296924+00:00",
+      "telegram_copy": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 p...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$559.719 COP</i> · TRM $3.498)\n📉 <b>Más barato que antes:</b> Antes <s>$214.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $55.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "audited_by": "verificador-colombia-auditor"
+    },
+    "telegram": {
+      "channel": "telegram",
+      "mode": "live",
+      "status": "sent",
+      "token_configured": true,
+      "upload_mode": "rendered_pillepues_card",
+      "http_status": 200,
+      "api_method": "sendPhoto",
+      "payload": {
+        "chat_id": "@pillepues",
+        "photo": "https://m.media-amazon.com/images/I/61HzWZ9-xgL._AC_SL1500_.jpg",
+        "caption": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 p...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$559.719 COP</i> · TRM $3.498)\n📉 <b>Más barato que antes:</b> Antes <s>$214.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $55.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                "url": "https://www.amazon.com/dp/B0D12PSW9F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D12PSW9F"
+              }
+            ]
+          ]
+        }
+      },
+      "response": {
+        "ok": true,
+        "result": {
+          "message_id": 344,
+          "sender_chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "chat": {
+            "id": -1004493953277,
+            "title": "Pillepues",
+            "username": "pillepues",
+            "type": "channel"
+          },
+          "date": 1795826009,
+          "photo": [
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVhrCiFZqjQ897dSHzevzY_qyPKV9AACuw5rG5DuUETmYksWAAF1jnwBAAMCAANzAAM9BA",
+              "file_unique_id": "AQADuw5rG5DuUER4",
+              "file_size": 2045,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVhrCiFZqjQ897dSHzevzY_qyPKV9AACuw5rG5DuUETmYksWAAF1jnwBAAMCAANtAAM9BA",
+              "file_unique_id": "AQADuw5rG5DuUERy",
+              "file_size": 27646,
+              "width": 320,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVhrCiFZqjQ897dSHzevzY_qyPKV9AACuw5rG5DuUETmYksWAAF1jnwBAAMCAAN4AAM9BA",
+              "file_unique_id": "AQADuw5rG5DuUER9",
+              "file_size": 105426,
+              "width": 800,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgEAAyEGAAMBC9xI_QACAVhrCiFZqjQ897dSHzevzY_qyPKV9AACuw5rG5DuUETmYksWAAF1jnwBAAMCAAN5AAM9BA",
+              "file_unique_id": "AQADuw5rG5DuUER-",
+              "file_size": 154284,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "caption": "🔥 PillePues · [⚡ GRAN OFERTA] (-26% OFF)\n📦 MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 p...\n\n💵 Precio Hoy: $159.99 USD (~$559.719 COP · TRM $3.498)\n📉 Más barato que antes: Antes $214.99 USD → Hoy -26% OFF · Ahorras $55.00 USD\n\n🚚 Envío: 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 Tip PillePues: Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 Canal oficial: @pillepues · ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.",
+          "caption_entities": [
+            {
+              "offset": 3,
+              "length": 38,
+              "type": "bold"
+            },
+            {
+              "offset": 45,
+              "length": 113,
+              "type": "bold"
+            },
+            {
+              "offset": 163,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 175,
+              "length": 11,
+              "type": "bold"
+            },
+            {
+              "offset": 188,
+              "length": 13,
+              "type": "italic"
+            },
+            {
+              "offset": 219,
+              "length": 21,
+              "type": "bold"
+            },
+            {
+              "offset": 247,
+              "length": 11,
+              "type": "strikethrough"
+            },
+            {
+              "offset": 265,
+              "length": 8,
+              "type": "bold"
+            },
+            {
+              "offset": 276,
+              "length": 18,
+              "type": "bold"
+            },
+            {
+              "offset": 299,
+              "length": 6,
+              "type": "bold"
+            },
+            {
+              "offset": 481,
+              "length": 10,
+              "type": "url"
+            },
+            {
+              "offset": 503,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 697,
+              "length": 14,
+              "type": "bold"
+            },
+            {
+              "offset": 712,
+              "length": 10,
+              "type": "mention"
+            },
+            {
+              "offset": 725,
+              "length": 94,
+              "type": "italic"
+            }
+          ],
+          "reply_markup": {
+            "inline_keyboard": [
+              [
+                {
+                  "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                  "url": "https://www.amazon.com/dp/B0D12PSW9F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+                }
+              ],
+              [
+                {
+                  "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                  "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D12PSW9F"
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "card": {
+        "asin": "B0D12PSW9F",
+        "title": "MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 pulgadas, 12 kits y 68 sonidos auténticos, USB MIDI, trono, palos, auriculares, 2 pedales de interruptor para principiantes y niños",
+        "photo_url": "https://m.media-amazon.com/images/I/61HzWZ9-xgL._AC_SL1500_.jpg",
+        "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 p...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$559.719 COP</i> · TRM $3.498)\n📉 <b>Más barato que antes:</b> Antes <s>$214.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $55.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+        "parse_mode": "HTML",
+        "reply_markup": {
+          "inline_keyboard": [
+            [
+              {
+                "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+                "url": "https://www.amazon.com/dp/B0D12PSW9F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+              }
+            ],
+            [
+              {
+                "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+                "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D12PSW9F"
+              }
+            ]
+          ]
+        },
+        "affiliate_url": "https://www.amazon.com/dp/B0D12PSW9F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+        "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D12PSW9F",
+        "deal_snapshot": {
+          "asin": "B0D12PSW9F",
+          "title": "MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 pulgadas, 12 kits y 68 sonidos auténticos, USB MIDI, trono, palos, auriculares, 2 pedales de interruptor para principiantes y niños",
+          "price_usd": 159.99,
+          "reference_price_usd": 214.99,
+          "discount_pct": 26,
+          "price_cop": 559719,
+          "trm_cop": 3498.46,
+          "ships_to_colombia": true,
+          "free_shipping_co": true,
+          "requires_locker": false,
+          "tax_free_colombia": true
+        }
+      }
+    },
+    "telegram_card": {
+      "asin": "B0D12PSW9F",
+      "title": "MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 pulgadas, 12 kits y 68 sonidos auténticos, USB MIDI, trono, palos, auriculares, 2 pedales de interruptor para principiantes y niños",
+      "photo_url": "https://m.media-amazon.com/images/I/61HzWZ9-xgL._AC_SL1500_.jpg",
+      "caption_html": "🔥 <b>PillePues · [⚡ GRAN OFERTA] (-26% OFF)</b>\n📦 <b>MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 p...</b>\n\n💵 <b>Precio Hoy:</b> <b>$159.99 USD</b> (<i>~$559.719 COP</i> · TRM $3.498)\n📉 <b>Más barato que antes:</b> Antes <s>$214.99 USD</s> → Hoy <b>-26% OFF</b> · <b>Ahorras $55.00 USD</b>\n\n🚚 <b>Envío:</b> 🇨🇴 Envío GRATIS directo a Colombia ($0)\n📬 ✅ Necesita casillero: No (Envío directo a Colombia)\n🇨🇴 🟢 Sin Impuestos DIAN (≤ $200 USD)\n\n• Precio verificado en el Buy Box de Amazon.com (/dp/)\n\n💡 <b>Tip PillePues:</b> Paga en USD con tu tarjeta en Amazon para evitar el recargo del conversor de moneda y aprovecha envío GRATIS directo a Colombia sin casillero y $0 de arancel/IVA (≤ $200 USD).\n📣 <b>Canal oficial:</b> @pillepues · <i>ℹ️ Enlace de afiliado de Amazon. El precio y disponibilidad pueden variar tras su publicación.</i>",
+      "parse_mode": "HTML",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "🛒 Comprar en Amazon.com ($159.99 USD)",
+              "url": "https://www.amazon.com/dp/B0D12PSW9F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl"
+            }
+          ],
+          [
+            {
+              "text": "🇨🇴 Ver Análisis y TRM en PillePues",
+              "url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D12PSW9F"
+            }
+          ]
+        ]
+      },
+      "affiliate_url": "https://www.amazon.com/dp/B0D12PSW9F?linkCode=ll1&tag=pillepues-20&language=es_US&ref_=as_li_ss_tl",
+      "web_url": "https://colombia-amazon-ofertas.vercel.app/?asin=B0D12PSW9F",
+      "deal_snapshot": {
+        "asin": "B0D12PSW9F",
+        "title": "MK-0 - Juego de batería eléctrica con almohadillas de malla silenciosa de 7 pulgadas, platillos de goma de 8 pulgadas, 12 kits y 68 sonidos auténticos, USB MIDI, trono, palos, auriculares, 2 pedales de interruptor para principiantes y niños",
+        "price_usd": 159.99,
+        "reference_price_usd": 214.99,
+        "discount_pct": 26,
+        "price_cop": 559719,
+        "trm_cop": 3498.46,
+        "ships_to_colombia": true,
+        "free_shipping_co": true,
+        "requires_locker": false,
+        "tax_free_colombia": true
+      }
+    }
+  },
+  {
     "asin": "B0G67239QQ",
     "title": "YETI Rambler - Vaso de acero inoxidable con aislamiento al vacío de 20 onzas con tapa MagSlider",
     "timestamp": "2026-11-28T00:03:30.750258+00:00",
