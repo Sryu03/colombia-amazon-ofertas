@@ -464,6 +464,22 @@
     "category": "Gaming"
   },
   {
+    "asin": "B0HF78YVGS",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0H699XBZT",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0H98DNGL8",
+    "category": "Hogar"
+  },
+  {
+    "asin": "B0HHH9WDV4",
+    "category": "Hogar"
+  },
+  {
     "asin": "B0H7C7BH83",
     "category": "Tecnología"
   },
@@ -581,22 +597,6 @@
   },
   {
     "asin": "B0HGHYL46H",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0HF78YVGS",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0H699XBZT",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0H98DNGL8",
-    "category": "Hogar"
-  },
-  {
-    "asin": "B0HHH9WDV4",
     "category": "Hogar"
   }
 ]
